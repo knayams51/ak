@@ -1,0 +1,174 @@
+{
+  "topics": [
+    {
+      "id": "politics-elections-governance",
+      "slug": "politics-elections-governance",
+      "title": "Politics, Elections & Governance",
+      "short_title": "Politics & Elections",
+      "description": "Comprehensive coverage of Bihar's coalition dynamics, assembly elections, party politics (JD(U), RJD, BJP, Congress, Mahagathbandhan), cabinet decisions, and key political profiles.",
+      "color": "amber",
+      "subtopics": [
+        {
+          "id": "assembly-elections-bypolls",
+          "slug": "assembly-elections-bypolls",
+          "title": "Assembly Elections & Bypolls",
+          "keywords": ["assembly election", "bypoll", "vidhan sabha", "seat sharing", "candidate", "voting", "constituency", "vote share"]
+        },
+        {
+          "id": "coalition-dynamics",
+          "slug": "coalition-dynamics",
+          "title": "Coalition Politics & Party Dynamics",
+          "keywords": ["coalition", "mahagathbandhan", "nda", "jdu", "rjd", "bjp", "nitish kumar", "tejashwi", "lalu prasad", "alliance"]
+        },
+        {
+          "id": "assembly-cabinet-decisions",
+          "slug": "assembly-cabinet-decisions",
+          "title": "Assembly Proceedings & Cabinet Decisions",
+          "keywords": ["cabinet", "vidhan sabha", "session", "assembly", "budget", "bill", "ordinance", "speaker"]
+        },
+        {
+          "id": "political-leadership-profiles",
+          "slug": "political-leadership-profiles",
+          "title": "Leadership Profiles & Analysis",
+          "keywords": ["profile", "interview", "analysis", "leadership", "speech", "rally", "statement"]
+        }
+      ]
+    },
+    {
+      "id": "higher-education-reforms",
+      "slug": "higher-education-reforms",
+      "title": "Higher Education & Academic Reforms",
+      "short_title": "Higher Education",
+      "description": "Deep investigative reporting on Bihar's state university system, Chancellor directives, assistant professor recruitments (BPSC/BSUSC), academic calendars, and student movements.",
+      "color": "blue",
+      "subtopics": [
+        {
+          "id": "university-reforms-acts",
+          "slug": "university-reforms-acts",
+          "title": "University Reforms & Governance",
+          "keywords": ["university", "vice-chancellor", "governor", "chancellor", "raj bhavan", "ugc", "syllabus", "academic session"]
+        },
+        {
+          "id": "faculty-recruitment-controversies",
+          "slug": "faculty-recruitment-controversies",
+          "title": "Faculty Recruitment & BPSC Exams",
+          "keywords": ["assistant professor", "bsusc", "bpsc", "recruitment", "teacher", "tre", "vacancy", "counselling", "selection"]
+        },
+        {
+          "id": "patna-university-development",
+          "slug": "patna-university-development",
+          "title": "Patna University & Heritage Campuses",
+          "keywords": ["patna university", "pu", "patna college", "science college", "centenary", "central university status", "campus"]
+        },
+        {
+          "id": "student-affairs-protests",
+          "slug": "student-affairs-protests",
+          "title": "Student Affairs, Exams & Protests",
+          "keywords": ["students", "protest", "results", "delay", "paper leak", "scholarship", "examination", "admit card"]
+        }
+      ]
+    },
+    {
+      "id": "judiciary-law-patna-high-court",
+      "slug": "judiciary-law-patna-high-court",
+      "title": "Judiciary, Law & Patna High Court",
+      "short_title": "Patna High Court",
+      "description": "Authoritative coverage of landmark directives, suo motu PILs, constitutional rulings, bail judgments, and legal reforms delivered by the Patna High Court.",
+      "color": "emerald",
+      "subtopics": [
+        {
+          "id": "landmark-rulings-pils",
+          "slug": "landmark-rulings-pils",
+          "title": "Landmark Rulings & Suo Motu PILs",
+          "keywords": ["patna high court", "chief justice", "bench", "verdict", "ruling", "suo motu", "pil", "directive", "quashed"]
+        },
+        {
+          "id": "administrative-accountability-orders",
+          "slug": "administrative-accountability-orders",
+          "title": "Administrative Accountability Orders",
+          "keywords": ["contempt", "affidavit", "dm", "sp", "chief secretary", "accountability", "fine", "reprimand", "compliance"]
+        },
+        {
+          "id": "legal-bar-affairs",
+          "slug": "legal-bar-affairs",
+          "title": "Legal Profession & Bar Affairs",
+          "keywords": ["bar association", "advocate general", "lawyers", "strike", "court proceedings", "tribunal", "subordinate court"]
+        },
+        {
+          "id": "prohibition-seizure-jurisprudence",
+          "slug": "prohibition-seizure-jurisprudence",
+          "title": "Prohibition & Law Enforcement Rulings",
+          "keywords": ["liquor ban", "prohibition", "vehicle confiscation", "bail", "excise act", "police seizure"]
+        }
+      ]
+    },
+    {
+      "id": "state-administration-vigilance",
+      "slug": "state-administration-vigilance",
+      "title": "State Administration & Vigilance",
+      "short_title": "State Administration",
+      "description": "Investigations into bureaucratic reshuffles, anti-corruption raids by the Special Vigilance Unit (SVU), infrastructure projects, and public delivery systems.",
+      "color": "purple",
+      "subtopics": [
+        {
+          "id": "vigilance-anti-corruption",
+          "slug": "vigilance-anti-corruption",
+          "title": "Vigilance & Anti-Corruption Inquiries",
+          "keywords": ["vigilance", "svu", "eou", "corruption", "raid", "disproportionate assets", "bribe", "da case", "cbi"]
+        },
+        {
+          "id": "bureaucratic-appointments-policy",
+          "slug": "bureaucratic-appointments-policy",
+          "title": "Bureaucratic Transfers & Policy",
+          "keywords": ["ias", "ips", "transfer", "posting", "chief secretary", "dgp", "bureaucracy", "administrative reform"]
+        },
+        {
+          "id": "public-works-infrastructure",
+          "slug": "public-works-infrastructure",
+          "title": "Public Works & Infrastructure",
+          "keywords": ["bridge", "highway", "gandhi setu", "ganga pathway", "potholes", "pwd", "smart city", "metro"]
+        },
+        {
+          "id": "welfare-schemes-monitoring",
+          "slug": "welfare-schemes-monitoring",
+          "title": "Welfare Schemes & School Monitoring",
+          "keywords": ["mid-day meal", "ration", "samagra shiksha", "kanya utthan", "scholarship", "anganwadi", "pds"]
+        }
+      ]
+    },
+    {
+      "id": "social-issues-health-culture",
+      "slug": "social-issues-health-culture",
+      "title": "Social Issues, Health & Heritage",
+      "short_title": "Social & Health",
+      "description": "Reporting on public health facilities (PMCH, NMCH, AIIMS Patna), disaster management (floods, heatwaves), rural livelihood, and the cultural life of Patna.",
+      "color": "rose",
+      "subtopics": [
+        {
+          "id": "public-health-hospitals",
+          "slug": "public-health-hospitals",
+          "title": "Public Health & Hospital Infrastructure",
+          "keywords": ["pmch", "nmch", "aiims patna", "igims", "hospital", "doctors", "dengue", "encephalitis", "health budget"]
+        },
+        {
+          "id": "floods-disaster-management",
+          "slug": "floods-disaster-management",
+          "title": "Floods & Disaster Management",
+          "keywords": ["flood", "ganga", "kosi", "embankment", "waterlogging", "relief", "sdrf", "ndrf", "drought", "heatwave"]
+        },
+        {
+          "id": "rural-development-panchayat",
+          "slug": "rural-development-panchayat",
+          "title": "Rural Development & Panchayati Raj",
+          "keywords": ["panchayat", "mukhiya", "gram panchayat", "rural employment", "mgnrega", "village", "water supply"]
+        },
+        {
+          "id": "heritage-history-patna",
+          "slug": "heritage-history-patna",
+          "title": "Heritage, History & Patna Life",
+          "keywords": ["heritage", "patna museum", "bihar museum", "golghar", "historical", "archaeology", "cultural", "patliputra"]
+        }
+      ]
+    }
+  ]
+}
