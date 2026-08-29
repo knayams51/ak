@@ -1,19 +1,19 @@
 # Crawler Execution & Disambiguation Summary
 
-**Run Timestamp**: 2026-08-29T09:56:01.609Z
-**Duration**: 36 seconds
+**Run Timestamp**: 2026-08-29T10:01:32.884Z
+**Duration**: 63 seconds
 
 ## Execution Statistics
-- **Total Processed**: 15
-- **Accepted (Arun Kumar Patna)**: 14
-- **Filtered Out (Namesakes/Non-matches)**: 1
+- **Total Processed**: 35
+- **Accepted (Arun Kumar Patna)**: 17
+- **Filtered Out (Namesakes/Non-matches)**: 18
 - **Failed Requests**: 0
 
 ## Queue Ledger
 - **Total In Queue**: 154
-- **Pending**: 139
-- **Completed**: 14
-- **Total Articles in Registry**: 14
+- **Pending**: 104
+- **Completed**: 31
+- **Total Articles in Registry**: 31
 
 ## Output Location
 - Raw JSONL Stream: `C:\Users\Mayank Shekhar\Downloads\Arun_Kumar\crawler\data\crawled_articles.jsonl`

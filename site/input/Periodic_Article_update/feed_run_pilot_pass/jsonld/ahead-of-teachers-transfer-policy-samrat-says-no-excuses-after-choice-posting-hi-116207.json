@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Ahead of teachers' transfer policy, Samrat says no excuses after choice posting | Hindustan Times",
+  "description": "Bihar Chief Minister Samrat Choudhary on Tuesday said that the government was trying to resolve the vexed issue of teachers' transfer with a policy that would favour all, but the teachers would also be required to deliver what is expected of them - quality education in schools.",
+  "datePublished": "2026-06-16T21:30:13.000Z",
+  "dateModified": "2026-06-16T21:30:13.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/ahead-of-teachers-transfer-policy-samrat-says-no-excuses-after-choice-posting-hi-116207"
+  },
+  "articleSection": "State Administration & Vigilance",
+  "keywords": [
+    "BPSC"
+  ],
+  "wordCount": 547
+}

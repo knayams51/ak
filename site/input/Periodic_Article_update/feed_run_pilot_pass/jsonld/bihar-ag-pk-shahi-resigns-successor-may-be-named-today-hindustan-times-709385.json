@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar AG PK Shahi resigns, successor may be named today | Hindustan Times",
+  "description": "Bihar's Advocate General PK Shahi resigned, effective Monday, following convention. His successor, experienced in both Supreme Court and Patna High Court, will be notified soon.",
+  "datePublished": "2026-06-14T12:21:48.000Z",
+  "dateModified": "2026-06-14T12:21:49.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-ag-pk-shahi-resigns-successor-may-be-named-today-hindustan-times-709385"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Nitish Kumar",
+    "Patna High Court"
+  ],
+  "wordCount": 297
+}

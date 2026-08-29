@@ -1,7 +1,7 @@
 {
   "package_name": "feed_run_pilot_pass",
-  "generated_at": "2026-08-29T09:56:16.412Z",
-  "article_count": 15,
+  "generated_at": "2026-08-29T10:01:37.136Z",
+  "article_count": 32,
   "status": "ready_for_ingestion",
   "checksum_algorithm": "SHA-256",
   "articles": [
@@ -94,6 +94,108 @@
       "slug": "jdu-wont-disintegrate-like-tmc-ubt-sanjay-jha-hindustan-times-373572",
       "title": "JD(U) won't disintegrate like TMC, UBT: Sanjay Jha | Hindustan Times",
       "sha256": "000a63953afe473f31cc9c4a1168353e8167a6e7074788da1ca20ed24e68021b"
+    },
+    {
+      "id": "101782120964304",
+      "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
+      "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha | Hindustan Times",
+      "sha256": "ebd8cfe19d512f7f604717cffc583ee039a36cdf16ddfad7d9a4e6a196bf551d"
+    },
+    {
+      "id": "101782064071894",
+      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
+      "title": "JD(U) pledges to follow Nitish, promote Nishant | Hindustan Times",
+      "sha256": "ac734b3bfc9c4be823bb0ea748140f3044f7f758c5b77fa1b9b0febfbdeb24f8"
+    },
+    {
+      "id": "101781807246360",
+      "slug": "bihar-governor-issues-strict-guidelines-to-vcs-to-check-arbitrary-transfers-hind-246360",
+      "title": "Bihar governor issues strict guidelines to VCs to check arbitrary transfers | Hindustan Times",
+      "sha256": "39799d74c0ae87b092e7f97c66053fa6f2ed6a4ee338ff7b789696874d533cb3"
+    },
+    {
+      "id": "101781784616260",
+      "slug": "sd-sanjay-appointed-new-advocate-general-of-bihar-hindustan-times-616260",
+      "title": "SD Sanjay appointed new Advocate General of Bihar | Hindustan Times",
+      "sha256": "bc9f7b949a2324be2a820304f3515e119d4799402e384e794cb4cace2b78c0eb"
+    },
+    {
+      "id": "101781631116207",
+      "slug": "ahead-of-teachers-transfer-policy-samrat-says-no-excuses-after-choice-posting-hi-116207",
+      "title": "Ahead of teachers' transfer policy, Samrat says no excuses after choice posting | Hindustan Times",
+      "sha256": "a10bf08b81816541b06cbde9c195e9efd62e27eebbd7edc1cb6f0c04ac50acee"
+    },
+    {
+      "id": "101781439709385",
+      "slug": "bihar-ag-pk-shahi-resigns-successor-may-be-named-today-hindustan-times-709385",
+      "title": "Bihar AG PK Shahi resigns, successor may be named today | Hindustan Times",
+      "sha256": "13a3c23c797e643d45b423a1f943ff39d0e3f69107d2b24d55570d6953211fdb"
+    },
+    {
+      "id": "101781285820821",
+      "slug": "bihar-govt-releases-998-cr-for-march-to-may-salary-pension-to-varsities-and-coll-820821",
+      "title": "Bihar govt releases ₹998-cr for March to May salary, pension to varsities and colleges | Hindustan Times",
+      "sha256": "92a423d22b3f9fdd3e3ab6c1bf840122918ad533f82d772566f0970f8b8fa633"
+    },
+    {
+      "id": "101781271896545",
+      "slug": "after-docs-pvt-practice-ban-bihar-bars-teachers-from-tuition-coaching-hindustan--896545",
+      "title": "After docs' pvt practice ban, Bihar bars teachers from tuition, coaching | Hindustan Times",
+      "sha256": "51b0a635600eaf73877936b14af540a88244f3bb43fba5d2e4b3b8fc2377cb72"
+    },
+    {
+      "id": "101781195844215",
+      "slug": "niti-aayog-meet-bihar-cm-seeks-funds-string-of-institutes-from-centre-hindustan--844215",
+      "title": "NITI Aayog meet: Bihar CM seeks funds, string of institutes from Centre | Hindustan Times",
+      "sha256": "372f12db23e879667d4bf0227649e19768871e59972bb778fa2313fb82665337"
+    },
+    {
+      "id": "101781195726280",
+      "slug": "bihars-coaching-chaos-stems-from-feeble-implementation-of-2010-act-hindustan-tim-726280",
+      "title": "Bihar's coaching chaos stems from 'feeble' implementation of 2010 Act | Hindustan Times",
+      "sha256": "5dd17d00b00e9c17f6d4adddb75cccd2d668e47729c8dd888b0b4077435d00aa"
+    },
+    {
+      "id": "101780682093456",
+      "slug": "bihar-governor-calls-for-strict-compliance-with-fire-safety-norms-urges-greater--093456",
+      "title": "Bihar Governor calls for strict compliance with fire safety norms, urges greater awareness | Hindustan Times",
+      "sha256": "448a019d472b22215ff1e5c75e9ee0df41389ea26641f0c3c29c345948a3229d"
+    },
+    {
+      "id": "101780335443972",
+      "slug": "after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bih-443972",
+      "title": "After a long gap, Governor initiates process for appointment of 14 Pro-VCs in Bihar | Hindustan Times",
+      "sha256": "2a31c294f05a21860ae2837740eb26127c6d80c7be35d992457192474a31704b"
+    },
+    {
+      "id": "101780062652437",
+      "slug": "samrat-bats-for-centre-and-state-coordination-for-bihar-growth-in-delhi-hindusta-652437",
+      "title": "Samrat bats for Centre and state coordination for Bihar growth in Delhi | Hindustan Times",
+      "sha256": "09ed546d3dfd4055b79ac264d900183c71d7189f1aea454fbdda18433561d0b5"
+    },
+    {
+      "id": "101780061991322",
+      "slug": "amid-raging-debate-over-3-language-policy-cusb-to-award-multilingualism-hindusta-991322",
+      "title": "Amid raging debate over 3-language policy, CUSB to award multilingualism | Hindustan Times",
+      "sha256": "0f51d10c7f2f327a4d1e7996818a94f97cb0113e96a661c7948873ce75ab5a99"
+    },
+    {
+      "id": "101779976881315",
+      "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
+      "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process | Hindustan Times",
+      "sha256": "0a2355f77b986d981dee8bb187166a247ed628148066e9ad36e9819c5034a419"
+    },
+    {
+      "id": "101779767828492",
+      "slug": "samrat-discusses-higher-education-issues-with-governor-ahead-of-new-deptt-review-828492",
+      "title": "Samrat discusses higher education issues with Governor ahead of new deptt review | Hindustan Times",
+      "sha256": "0ec1e00bb90ffc48702b703f9a4d8e3dbff836524402da9ca76d06d14ec0ec44"
+    },
+    {
+      "id": "101779370552835",
+      "slug": "patna-hc-takes-serious-view-of-saharsa-mid-day-meal-poisoning-asks-sp-to-head-si-552835",
+      "title": "Patna HC takes serious view of Saharsa mid-day meal poisoning, asks SP to head SIT | Hindustan Times",
+      "sha256": "fc21ce0d77c2fa4b27bc53d08aad5752670b353eedb2853801fdf89e46214df6"
     }
   ]
 }

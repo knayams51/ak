@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar govt releases ₹998-cr for March to May salary, pension to varsities and colleges | Hindustan Times",
+  "description": "The funds have been released on the basis of interim approval of the universities' budget and the concerned authorities have to submit utilisation certificates within a month, says the government letter.",
+  "datePublished": "2026-06-12T21:34:12.000Z",
+  "dateModified": "2026-06-12T21:34:12.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-govt-releases-998-cr-for-march-to-may-salary-pension-to-varsities-and-coll-820821"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 259
+}

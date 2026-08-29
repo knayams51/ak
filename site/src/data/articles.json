@@ -47,7 +47,7 @@
       },
       "verification": {
         "content_sha256": "f20b2d56aaa21af6fbefae8b88350fd4759131e76dc0decbaa71d7309c455e3e",
-        "last_verified_at": "2026-08-29T09:56:16.379Z",
+        "last_verified_at": "2026-08-29T10:01:37.081Z",
         "integrity_status": "tamper_proof"
       }
     },
@@ -101,7 +101,7 @@
       },
       "verification": {
         "content_sha256": "989ef7aebc126c31ec31a9bd0635a8888cedd57499ba8923ac0c516370d5dc5c",
-        "last_verified_at": "2026-08-29T09:56:16.382Z",
+        "last_verified_at": "2026-08-29T10:01:37.084Z",
         "integrity_status": "tamper_proof"
       }
     },
@@ -156,7 +156,7 @@
       },
       "verification": {
         "content_sha256": "864667e9f5b3cac868fd1efafbebb7ebaa818c6c506e4df09f70e2dbe67670d5",
-        "last_verified_at": "2026-08-29T09:56:16.385Z",
+        "last_verified_at": "2026-08-29T10:01:37.085Z",
         "integrity_status": "tamper_proof"
       }
     },
@@ -210,7 +210,7 @@
       },
       "verification": {
         "content_sha256": "70972b05d6cefff340a0a737d3c096061a7d11c455554b45635345ff73a54fd0",
-        "last_verified_at": "2026-08-29T09:56:16.387Z",
+        "last_verified_at": "2026-08-29T10:01:37.087Z",
         "integrity_status": "tamper_proof"
       }
     },
@@ -264,7 +264,7 @@
       },
       "verification": {
         "content_sha256": "4a67d9d8817308a68cfa912fe2f831b84e5b1d91e4dd84631b7ffa8986661492",
-        "last_verified_at": "2026-08-29T09:56:16.390Z",
+        "last_verified_at": "2026-08-29T10:01:37.089Z",
         "integrity_status": "tamper_proof"
       }
     },
@@ -317,7 +317,7 @@
       },
       "verification": {
         "content_sha256": "7f1d4cf5847b9856ee065b6b52acb4efeb301e78a3188ef5b24356fd40ea7639",
-        "last_verified_at": "2026-08-29T09:56:16.392Z",
+        "last_verified_at": "2026-08-29T10:01:37.090Z",
         "integrity_status": "tamper_proof"
       }
     },
@@ -371,7 +371,7 @@
       },
       "verification": {
         "content_sha256": "d3412342de6a4ca20787d457a3f81018a381bed8b895cd02169db5edf781655f",
-        "last_verified_at": "2026-08-29T09:56:16.394Z",
+        "last_verified_at": "2026-08-29T10:01:37.092Z",
         "integrity_status": "tamper_proof"
       }
     },
@@ -425,7 +425,7 @@
       },
       "verification": {
         "content_sha256": "43c8a21f839f62185d514536ed12896a5bef14dc500a3fa24af6365289ee3994",
-        "last_verified_at": "2026-08-29T09:56:16.396Z",
+        "last_verified_at": "2026-08-29T10:01:37.093Z",
         "integrity_status": "tamper_proof"
       }
     },
@@ -481,7 +481,7 @@
       },
       "verification": {
         "content_sha256": "4d551790a26e3c4e71c75c17c9fb4fe0d459c5429c3c79785959fe83e0b6cc83",
-        "last_verified_at": "2026-08-29T09:56:16.398Z",
+        "last_verified_at": "2026-08-29T10:01:37.094Z",
         "integrity_status": "tamper_proof"
       }
     },
@@ -535,7 +535,7 @@
       },
       "verification": {
         "content_sha256": "13841204a0d058be7baf8f9149a93aa5e7d90b189350bd9e799377f7752a1d45",
-        "last_verified_at": "2026-08-29T09:56:16.401Z",
+        "last_verified_at": "2026-08-29T10:01:37.096Z",
         "integrity_status": "tamper_proof"
       }
     },
@@ -589,7 +589,7 @@
       },
       "verification": {
         "content_sha256": "6397776ea4d012d2784ba7aa6a31c714f6ba89377d8ccc9e0b89dc5715cde288",
-        "last_verified_at": "2026-08-29T09:56:16.403Z",
+        "last_verified_at": "2026-08-29T10:01:37.098Z",
         "integrity_status": "tamper_proof"
       }
     },
@@ -641,7 +641,7 @@
       },
       "verification": {
         "content_sha256": "4d24a7df2dbeb28ad55baeec96b656e4bc17e98a5619afacf42a41b2a22c00dc",
-        "last_verified_at": "2026-08-29T09:56:16.406Z",
+        "last_verified_at": "2026-08-29T10:01:37.099Z",
         "integrity_status": "tamper_proof"
       }
     },
@@ -695,7 +695,7 @@
       },
       "verification": {
         "content_sha256": "1562b674db97c3db161c3611f54270b593fc42b2371876f65526cc2ac858a431",
-        "last_verified_at": "2026-08-29T09:56:16.408Z",
+        "last_verified_at": "2026-08-29T10:01:37.101Z",
         "integrity_status": "tamper_proof"
       }
     },
@@ -750,10 +750,912 @@
       },
       "verification": {
         "content_sha256": "000a63953afe473f31cc9c4a1168353e8167a6e7074788da1ca20ed24e68021b",
-        "last_verified_at": "2026-08-29T09:56:16.410Z",
+        "last_verified_at": "2026-08-29T10:01:37.102Z",
         "integrity_status": "tamper_proof"
       }
     },
     "body_markdown": "# JD(U) won't disintegrate like TMC, UBT: Sanjay Jha | Hindustan Times\n\n**Patna** — Janata Dal-United (JD-U) working president and Rajya Sabha member Sanjay Kumar Jha on Monday dismissed speculation that the disintegration of parties such as the Trinamool Congress (TMC) in West Bengal, Shiv Sena (UBT) in Maharashtra, or the Biju Janata Dal (BJD) in Odisha could have a similar impact on JD(U), an ally of the BJP in the NDA.\n\n\"What is happening in West Bengal was in the offing due to the weak foundation and eroding trust of public in the TMC. In Bihar, the scenario is different, as Nitish Kumar's legacy is so strong that people still identify with his leadership and inclusive development work,\" he said.\n\nJha said that at the National Council meeting on Sunday, Nitish Kumar himself indicated that he would devote more time to the organisation to ensure even better performance in the future and facilitate a smooth generational transition. This, Jha argued, clearly suggests that Kumar has his sights set on the 2029 Lok Sabha elections and the 2030 Assembly elections. He wants the NDA government to deliver on its promises, including the creation of one crore jobs, before seeking another mandate.\n\n\"We don't have any challenge. In Bihar, NDA has been a winning combination since 2005 and there is no reason why there should be any attempt to play with the trust of the people in it. Even the transition of power in Bihar was so smooth that the doubting Thomases had to eat their words. With just one election defeat, TMC has disintegrated like a pack of cards, while despite being reduced to 43 seats in 2020, JD(U) bounced back with 85 seats in 2025. That is the difference between Nitish Kumar and others,\" he added.\n\nThe JD(U) working president said that it is to the credit of Nitish Kumar's image as a development man that even after 20 years in power, it was his face that made the difference in Bihar in 2025 elections to get an unprecedented mandate, and yet he facilitated shift in Bihar's power dynamics with grace to hand over the reins to the BJP, as he wanted to go to Rajya Sabha.\n\nJha said that Nitish Kumar also wanted expansion of the party and there are talks underway to decide on contesting elections in neighbouring UP. \"Out party has had a base in UP and we also separately met party leaders from the UP, who came for the national council. The party wants to contest election in UP,\" he added.\n\nHe said the fragility of the INDIA alliance and the selfish interest of its constituents was the reason Nitish Kumar walked out of it after seeing the inner contradictions and oneupmanship. \"So, it is no surprise that TMC and Shiv Sena (UBT) are withering under their own weight,\" he added\n\nYet, with age catching up, Nitish Kumar is often equated with Naveen Patnayak, as both try to keep their parties in contention. Both struggled with second-rung leadership, but Nitish Kumar made a belated effort in the nick of time to let his once reluctant son, now health minister Nishant Kumar, join politics and now the entire party seems to be rallying around him.\n\n\"Nishant Kumar is the future of the party. He is in the government. He will get the reins of the party whenever Nitish Kumar finds the time right. He has the rich legacy of his father to draw strength from. So, for JD(U) there are no worries, as its new generation leadership is also getting ready,\" said Jha.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101782120964304",
+    "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
+    "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha | Hindustan Times",
+    "summary": "JD-U working president Sanjay Kumar Jha said that Kumar himself said that he will devote more time to the organisation with an eye on the 2029 Lok Sabha election and 2030 Assembly elections",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-06-22T09:36:03.000Z",
+    "modified_at": "2026-06-22T09:36:03.000Z",
+    "word_count": 341,
+    "reading_time_minutes": 2,
+    "topic": {
+      "id": "politics-elections-governance",
+      "slug": "politics-elections-governance",
+      "title": "Politics, Elections & Governance"
+    },
+    "subtopic": {
+      "id": "coalition-dynamics",
+      "slug": "coalition-dynamics",
+      "title": "Coalition Politics & Party Dynamics"
+    },
+    "tags": [
+      "Nitish Kumar",
+      "Congress"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-101782120964304.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-101782120964304.html",
+        "original_article_id": "101782120964304",
+        "published_at": "2026-06-22T09:36:03.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-101782120964304.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "ebd8cfe19d512f7f604717cffc583ee039a36cdf16ddfad7d9a4e6a196bf551d",
+        "last_verified_at": "2026-08-29T10:01:37.103Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha | Hindustan Times\n\n**Patna** — Janata Dal-United (JD-U) working president and Rajya Sabha member Sanjay Kumar Jha on Monday refuted speculations equating the fallout of disintegration of the Trinamool Congress (TMC) in West Bengal and Shiv Sena (UBT) in Maharashtra with Bihar adding that the same will not happen in the state as Nitish Kumar's legacy remains intact.\n\n\"What is happening in West Bengal was in the offing due to the weak foundation and eroding trust of the public in the TMC. In Bihar, the scenario is different, as Nitish Kumar's legacy is so strong that people still identify with his leadership and inclusive development work,\" he said.\n\nAt the national council meeting on Sunday, Jha said that Kumar himself said that he will devote more time to the organisation with an eye on the 2029 Lok Sabha election and 2030 Assembly elections.\n\n\"We don't have any challenges. In Bihar, NDA has been a winning combination since 2005 and there is no reason why there should be any attempt to play with the trust of the people in it. Even the transition of power in Bihar was smooth. With just one election defeat, TMC has disintegrated like a pack of cards, while despite being reduced to 43 seats in 2020, JD-U bounced back with 85 seats in 2025. That is the difference between Nitish Kumar and others,\" he added.\n\nJha said that Kumar also wanted expansion of the party and there are talks underway to decide on contesting elections in neighbouring UP.\n\n\"Our party has had a base in UP and we also separately met party leaders from UP, who came for the national council. The party wants to contest elections in UP,\" he added.\n\nHe said the fragility of the Indian National Developmental Inclusive Alliance (INDIA) was the reason Kumar walked out of it.\n\n\"So, it is no surprise that TMC and Shiv Sena (UBT) are withering under their own weight,\" he added.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101782064071894",
+    "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
+    "title": "JD(U) pledges to follow Nitish, promote Nishant | Hindustan Times",
+    "summary": "The party also appreciated centre's continued help in development of Bihar and congratulated the Samrat government for being committed to taking forward Nitish's legacy",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-06-21T21:58:08.000Z",
+    "modified_at": "2026-06-21T21:58:08.000Z",
+    "word_count": 691,
+    "reading_time_minutes": 4,
+    "topic": {
+      "id": "politics-elections-governance",
+      "slug": "politics-elections-governance",
+      "title": "Politics, Elections & Governance"
+    },
+    "subtopic": {
+      "id": "coalition-dynamics",
+      "slug": "coalition-dynamics",
+      "title": "Coalition Politics & Party Dynamics"
+    },
+    "tags": [
+      "Nitish Kumar",
+      "JD(U)",
+      "BJP"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/others/jdu-pledges-to-follow-nitish-promote-nishant-101782064071894.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/others/jdu-pledges-to-follow-nitish-promote-nishant-101782064071894.html",
+        "original_article_id": "101782064071894",
+        "published_at": "2026-06-21T21:58:08.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/others/jdu-pledges-to-follow-nitish-promote-nishant-101782064071894.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "ac734b3bfc9c4be823bb0ea748140f3044f7f758c5b77fa1b9b0febfbdeb24f8",
+        "last_verified_at": "2026-08-29T10:01:37.105Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# JD(U) pledges to follow Nitish, promote Nishant | Hindustan Times\n\n**Patna** — PATNA\n\nThe Janata Dal-United, JD(U), held its national and state council meetings on Sunday at the party's state office in Patna, emphasising faith in the leadership of its national president Nitish Kumar and batting for expansion of the party footprints in his leadership. Party leaders also sought \"bigger\" role for Nitish's son and Bihar's health minister Nishant Kumar, with some calling him the future of JD(U).\n\nThe party also appreciated centre's continued help in development of Bihar and congratulated the Samrat government for being committed to taking forward Nitish's legacy of good governance blending social justice with inclusive development.\n\nIn his address, Nitish said that the state government was taking forward the third phase of \"7-Resolves\" programme and working on different fronts for the next stage development of Bihar in cooperation wit the Centre.\n\n\"I will now give more time to organisational work. We will work together to make a prosperous and developed Bihar,\" he said.\n\nThe party meetings were significant, as it happened for the first time since the election of Nitish Kumar as the party president for the fourth time on March 24 last ahead of his resignation as the CM after a record 10th term and is seen as part of a broader plan to add new lease of life in the party at a time when it is gearing up for generational shift.\n\nThe national executive hailed the \"smooth and unparalleled\" power transition in Bihar due to Nitish Kumar's political probity and commitment to the principles of coalition politics.\n\nAddressing the party leaders, JD(U) working president Sanjay Kumar Jha highlighted the recent achievements of the party organisation, its long strides in both 2024 Lok Sabha and 2025 Assembly elections, and the issues related to strengthening it in the future under the guidance of \"indefatigable and ever popular Nitish Kumar\".\n\nEarlier this month, the JD(U) claimed to have achieved its first target of making more than 10 million primary members under the 'JD(U) membership campaign 2025-28', launched by the party's national president Nitish Kumar on December 6, 2025.\n\nThe target was achieved in less than six months and the party has been on an overdrive to project it as the sign of Nitish Kumar's continued acceptability among the people despite not being the CM, which experts see as an attempt to keep BJP under tight leash.\n\n\"All the colleagues were unanimous in their view that Nitish Kumar's commitment to social justice and inclusive development was the driving force for Bihar's transformation and its next stage flight, and could lead to smooth generational shift in the party. Everyone felt that health minister Nishant Kumar has the ability to take the party as well as Nitish Kumar's rich legacy forward with a more active and important role,\" said Jha.\n\nWhile the ratification of Nitish Kumar's election at the national council meeting and that of Umesh Kushwaha as state president at the state council meeting was a routine requirement, the other important agenda included outlining party's future political roadmap and organisational expansion in the changed scenario when Nitish Kumar is no more heading the government and the baton has passed to the BJP.\n\nThe party leaders are also assiduously creating the build up for an important role for Nishant Kumar in the party, just as it was done before his induction in the Samrat cabinet.\n\nEarlier, senior party leader and Bihar minister Sunil Kumar had told reporters that the state council had passed a resolution that sought a \"bigger role in the party for Nishant\", who holds the Health portfolio in the Samrat Choudhary government.\n\nNishant told reporters after the party meeting, \"The party's faith in me has put a huge responsibility on my shoulders. But I must carry forward the legacy of my father\".\n\nThe national executive also praised the Narendra Modi government for its foresight, patience, diplomacy and effective management in the face of globally challenging times due to war in West Asia to protect national interest and limit the impact of emerge crisis on the people.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101781807246360",
+    "slug": "bihar-governor-issues-strict-guidelines-to-vcs-to-check-arbitrary-transfers-hind-246360",
+    "title": "Bihar governor issues strict guidelines to VCs to check arbitrary transfers | Hindustan Times",
+    "summary": "The guidelines have been issued in order to ensure transparency, uniformity, and academic continuity.",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-06-18T22:36:04.000Z",
+    "modified_at": "2026-06-18T22:36:04.000Z",
+    "word_count": 403,
+    "reading_time_minutes": 3,
+    "topic": {
+      "id": "state-administration-vigilance",
+      "slug": "state-administration-vigilance",
+      "title": "State Administration & Vigilance"
+    },
+    "subtopic": {
+      "id": "bureaucratic-appointments-policy",
+      "slug": "bureaucratic-appointments-policy",
+      "title": "Bureaucratic Transfers & Policy"
+    },
+    "tags": [
+      "Bihar",
+      "Patna News",
+      "Hindustan Times"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/bihar-governor-issues-strict-guidelines-to-vcs-to-check-arbitrary-transfers-101781807246360.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/bihar-governor-issues-strict-guidelines-to-vcs-to-check-arbitrary-transfers-101781807246360.html",
+        "original_article_id": "101781807246360",
+        "published_at": "2026-06-18T22:36:04.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/bihar-governor-issues-strict-guidelines-to-vcs-to-check-arbitrary-transfers-101781807246360.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "39799d74c0ae87b092e7f97c66053fa6f2ed6a4ee338ff7b789696874d533cb3",
+        "last_verified_at": "2026-08-29T10:01:37.106Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# Bihar governor issues strict guidelines to VCs to check arbitrary transfers | Hindustan Times\n\n**Patna** — Bihar Lok Bhawan has issued strict guidelines with clear timeline regarding transfer of teaching staff to all the vice chancellors of the state universities and asked them to ensure strict adherence.\n\nAdditional Chief Secretary to the Governor, Dipak Kumar Singh, has clearly stated that arbitrary transfer of teaching staff at any point of time during the academic session \"often results in disruption of teaching-learning activities, administrative inconvenience and avoidable litigation\".\n\nThe guidelines have been issued in order to ensure transparency, uniformity, and academic continuity.\n\n\"Universities shall ensure that transfers are not undertaken arbitrarily or for extraneous considerations and that the process remains fair, transparent, and free from any perception of personal bias or vendetta,\" he wrote.\n\nAs per the guidelines, the transfer of teaching staff shall ordinarily be undertaken once in a year, in June coinciding with the summer vacation, and shall not be treated as routine, continuous exercise throughout the academic session.\n\n\"No transfer of teaching personnel shall be undertaken during any other period, except in exceptional circumstances and with the approval of the competent authority. The transfer orders should be issued strictly in accordance with the provisions of the Bihar State Universities Act, 1976, the relevant statutes and such instructions as may be issued by the competent authority,\" says the letter.\n\nSingh has also underlined that transfers shall be guided by objective criteria, including institutional requirements, availability of sanctioned strength, subject-wise faculty distribution, reservation and roster requirements, student strength, and academienecessity.\n\nAny transfer proposed outside the annual transfer cycle and beyond the month of June, owing to exceptional, unavoidable, emergent, or compassionate circumstances, shall be undertaken only after obtaining the prior approval of the Chancellor's Secretariat, along with a detailed justification and recommendation for the need of such transfer.\n\n\"Cases involving transfer outside the ordinarily permissible norms or brackets shall be considered only on extreme compassionate grounds and shall require the approval of the Chancellor. Any compassionate transfer cases already pending consideration before the universities or the Chancellor's Secretariat may, however, continue to be processed in accordance with the applicable rules and procedures,\"'the guidelines states.\n\nThe universities have been asked to ensure that any transfer of teaching personnel does not adversely affect the teaching arrangements, student-teacher ratio, accreditation requirements, or academic interests of either the relieving or receiving institution.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101781784616260",
+    "slug": "sd-sanjay-appointed-new-advocate-general-of-bihar-hindustan-times-616260",
+    "title": "SD Sanjay appointed new Advocate General of Bihar | Hindustan Times",
+    "summary": "A cabinet notification to this effect was issued by Bihar's law department on Thursday. He took charge on Thursday itself.",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-06-18T12:10:15.000Z",
+    "modified_at": "2026-06-18T12:10:15.000Z",
+    "word_count": 750,
+    "reading_time_minutes": 4,
+    "topic": {
+      "id": "judiciary-law-patna-high-court",
+      "slug": "judiciary-law-patna-high-court",
+      "title": "Judiciary, Law & Patna High Court"
+    },
+    "subtopic": {
+      "id": "legal-bar-affairs",
+      "slug": "legal-bar-affairs",
+      "title": "Legal Profession & Bar Affairs"
+    },
+    "tags": [
+      "Patna High Court",
+      "Patna University",
+      "BJP"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/sd-sanjay-appointed-new-advocate-general-of-bihar-101781784616260.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/sd-sanjay-appointed-new-advocate-general-of-bihar-101781784616260.html",
+        "original_article_id": "101781784616260",
+        "published_at": "2026-06-18T12:10:15.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/sd-sanjay-appointed-new-advocate-general-of-bihar-101781784616260.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "bc9f7b949a2324be2a820304f3515e119d4799402e384e794cb4cace2b78c0eb",
+        "last_verified_at": "2026-08-29T10:01:37.108Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# SD Sanjay appointed new Advocate General of Bihar | Hindustan Times\n\n**Patna** — Additional Solicitor General of India for the Supreme Court, Satya Darshi Sanjay, has been appointed the new Advocate General of Bihar. A cabinet notification to this effect was issued by Bihar's law department on Thursday. He took charge on Thursday itself.\n\n\"The Governor appoints senior advocate, Patna HC, SD Sanjay as the Advocate General from the date he assumed charge,\" says the notification issued by secretary to the government Balram Dube.\n\n\"I will now work for Bihar. It is the huge trust that chief minister Samrat Choudhary has shown in me that has brought me back to my soil from Delhi. It is an honour and a big responsibility,\" Sanjay said.\n\nThe post had fallen vacant after the resignation of PK Shahi on Sunday with effect from Monday and his resignation was accepted from that date on Tuesday by the government. A letter to this effect was issued by the law department to clear the decks for his successor.\n\nIn September 2024, Sanjay was appointed Additional Solicitor General of India for the Supreme Court, New Delhi - a recognition of his standing at the Bar and the breadth of his experience in the field of law. In the SC, he represented the Government of India before the Chief Justice of India in an important matter concerning the establishment of special courts across the country for the expeditious trial of heinous offences.\n\nHe also serves as convenor of a committee constituted by the SC to frame a Standard Operating Procedure (SOP) on missing children and human trafficking for implementation across the country, interfacing with all the States, and is also the convenor of the Stock Witness Committee appointed by the SC.\n\nBorn into a modest family and the son of a teacher, Sanjay completed his schooling from Sir Ganesh Dutt Patliputra High School and completed his B.Com (Honours) from Vanijya Mahavidyalaya, Patna University. He did his LL.B. (Hons.) from the Campus Law Centre, University of Delhi and began his practice there.\n\nHowever, he returned to Patna within a year and commenced practice before the Patna high court. He set up his independent chambers in 1989, specialising in Constitutional Law, Civil, Criminal and Taxation law and within a few years had a thriving practice, representing multiple corporate houses before the Patna high court, the Jharkhand high court, the Calcutta high court, the Delhi high court, and the Supreme Court of India.\n\nIn 2010, Sanjay was appointed Additional Advocate General for the State of Bihar, a position he held until 2014. In 2013, he was designated a Senior Advocate. He resigned as Additional Advocate General in January 2014 and returned to private practice.\n\nIn April 2015, the President of India appointed him Additional Solicitor General of India to represent the Government of India in the Patna high court - a post created by the Government in December 2014. In that capacity he served as overall in-charge of the Union of India's litigation in Bihar and Jharkhand. He held the office until July 2020.\n\nThough himself a first generation lawyer, Sanjay's wife, Sushila Agrawal is also a lawyer. His son Akshat and daughter-in-law Disha are also practising lawyers in the Supreme Court.\n\nAfter relinquishing his charge as Additional Solicitor General of India, Patna high court, he was appointed state head of the Bharatiya Janata Party's (BJP) election management committee for legal, judicial, and election commission matters in the 2020 Bihar State Assembly election and was also appointed a member of the party's manifesto committee. Ahead of the 2024 general election (Lok Sabha), he was again appointed the head of the election management committee by the BJP.\n\nSanjay has long been associated with various social organisations. He is closely associated with the Dadhichi Dehdan Samiti - an organisation dedicated to promoting awareness of eye, organ, and body donation and encourages people to pledge their support to the cause. He is also associated with the Bharat Vikas Viklang Nyas, which runs a hospital in Patna for the physically challenged.\n\nThe announcement has been met with widespread acclaim from the legal community. Prominent figures, including Manan Kumar Mishra, chairman of the Bar Council of India; Government Advocate Prashant Partap and Advocates' Association president Yogesh Chandra Verma extended their heartfelt congratulations to the newly- appointed AG. Several other leading lawyers also hailed the decision, expressing confidence that his leadership will greatly benefit the state's legal framework.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101781631116207",
+    "slug": "ahead-of-teachers-transfer-policy-samrat-says-no-excuses-after-choice-posting-hi-116207",
+    "title": "Ahead of teachers' transfer policy, Samrat says no excuses after choice posting | Hindustan Times",
+    "summary": "Bihar Chief Minister Samrat Choudhary on Tuesday said that the government was trying to resolve the vexed issue of teachers' transfer with a policy that would favour all, but the teachers would also be required to deliver what is expected of them - quality education in schools.",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-06-16T21:30:13.000Z",
+    "modified_at": "2026-06-16T21:30:13.000Z",
+    "word_count": 547,
+    "reading_time_minutes": 3,
+    "topic": {
+      "id": "state-administration-vigilance",
+      "slug": "state-administration-vigilance",
+      "title": "State Administration & Vigilance"
+    },
+    "subtopic": {
+      "id": "bureaucratic-appointments-policy",
+      "slug": "bureaucratic-appointments-policy",
+      "title": "Bureaucratic Transfers & Policy"
+    },
+    "tags": [
+      "BPSC"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/others/ahead-of-teachers-transfer-policy-samrat-says-no-excuses-after-choice-posting-101781631116207.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/others/ahead-of-teachers-transfer-policy-samrat-says-no-excuses-after-choice-posting-101781631116207.html",
+        "original_article_id": "101781631116207",
+        "published_at": "2026-06-16T21:30:13.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/others/ahead-of-teachers-transfer-policy-samrat-says-no-excuses-after-choice-posting-101781631116207.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "a10bf08b81816541b06cbde9c195e9efd62e27eebbd7edc1cb6f0c04ac50acee",
+        "last_verified_at": "2026-08-29T10:01:37.114Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# Ahead of teachers' transfer policy, Samrat says no excuses after choice posting | Hindustan Times\n\n**Patna** — Bihar chief minister Samrat Choudhary on Tuesday said that the government was trying to resolve the vexed issue of teachers' transfer with a policy that would favour all, but the teachers would also be required to deliver what is expected of them - quality education in schools.\n\n\"The government will accommodate all teachers with choice positing as far as possible - in the neighbouring panchayats for women and neighbouring blocks for men- but you all will have to teach the children well. There will be no compromise on that,\" he made it clear, while speaking at a public rally in Kaimur.\n\nThe statement is significant in the context of long-awaited transfer and posting for teachers, which has remained inconclusive in the last couple of years and triggered unrest among them.\n\nChoudhary said the government is fully conscious of teachers' convenience, especially female teachers, who would be posted near their homes.\n\n\"We have decided that our sisters (female teachers) will get the opportunity to teach in the panchayat right next to their homes, so that they face no inconvenience in commuting. Similarly, for our brother teachers, postings will be arranged in the block adjacent to their home block,\" he added.\n\nHowever, the CM also had a stern message for the truant teachers. \"The government will grant you a convenient transfer and provide all facilities, but remember no excuses will be accepted when it comes to teaching children. Focus on teaching and work to advance Bihar's young ones,\" he added.\n\nChoudhary said the government's goal is not just to open schools, but to improve the quality of education so that the students do not have to look beyond for crutches in coaching institutes. \"The government is striving to ensure that the children of poor, farmers and middle-class families of the state get good education,\" he added.\n\nBihar Government has prepared a new transfer policy for around 5.80 lakh teachers (BPSC qualified, regular, and others), head teachers and headmasters, and that is set to be placed in the cabinet for approval. It would have the option of voluntary, mutual and priority transfers. Those who would not like transfer could have the option of remaining where they are.\n\nThe interested teachers would be required to apply on the portal with their choices. The transfers would be done in accordance with the subject wise requirement for rationalisation to have a realistic view of existing vacancies.\n\nLast year in August, the issue of large-scale transfer of teachers had snowballed ahead of election after the ruling dispensation leaders also flagged several issues and the teachers' bodies ventilated their grievances.\n\nDuring a review after transfers under special circumstances in 2025, it came to light that Bihar had been left with 3331 schools with just one or two teachers and 29 schools without any teacher, while there are 14213 schools with student-teacher ratio of above 40, prompting move to depute teachers in understaffed schools.\n\nInterestingly, Patna, the state capital where teachers usually vie for posting, had the second highest number of 57 single teacher schools and 383 two teacher schools, only behind Banka with 65 single-teacher and 413 two teacher schools in the state.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101781439709385",
+    "slug": "bihar-ag-pk-shahi-resigns-successor-may-be-named-today-hindustan-times-709385",
+    "title": "Bihar AG PK Shahi resigns, successor may be named today | Hindustan Times",
+    "summary": "Bihar's Advocate General PK Shahi resigned, effective Monday, following convention. His successor, experienced in both Supreme Court and Patna High Court, will be notified soon.",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-06-14T12:21:48.000Z",
+    "modified_at": "2026-06-14T12:21:49.000Z",
+    "word_count": 297,
+    "reading_time_minutes": 2,
+    "topic": {
+      "id": "judiciary-law-patna-high-court",
+      "slug": "judiciary-law-patna-high-court",
+      "title": "Judiciary, Law & Patna High Court"
+    },
+    "subtopic": {
+      "id": "legal-bar-affairs",
+      "slug": "legal-bar-affairs",
+      "title": "Legal Profession & Bar Affairs"
+    },
+    "tags": [
+      "Nitish Kumar",
+      "Patna High Court"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/bihar-ag-pk-shahi-resigns-successor-may-be-named-today-101781439709385.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/bihar-ag-pk-shahi-resigns-successor-may-be-named-today-101781439709385.html",
+        "original_article_id": "101781439709385",
+        "published_at": "2026-06-14T12:21:48.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/bihar-ag-pk-shahi-resigns-successor-may-be-named-today-101781439709385.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "13a3c23c797e643d45b423a1f943ff39d0e3f69107d2b24d55570d6953211fdb",
+        "last_verified_at": "2026-08-29T10:01:37.116Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# Bihar AG PK Shahi resigns, successor may be named today | Hindustan Times\n\n**Patna** — Bihar's Advocate General PK Shahi tendered his resignation from the post on Sunday. It will be effective from Monday and the notification for his replacement is likely to be issued the same day (today).\n\nThe new AG is likely to take charge on July 18-19.\n\n\"The name has been finalised, but the notification will be issued on Monday. Shahi's successor will be a seasoned person with experience of working in both the Supreme Court and the Patna High Court,\" said an official familiar with the matter.\n\nConfirming the development, Shahi said he tendered his resignation in keeping with the established convention when a new government is installed. He has had a long tenure as the AG. He started off as the AG of the Nitish government on November 25, 2005 and continued till November 25, 2010.\n\nAfter that he became a minister in the Nitish cabinet. His second term as AG began on January 16, 2023 and would end on June 15, 2026. During his second stint, he continued despite the change of alliance partners in the government, as Nitish Kumar remained the head.\n\nThe Advocate General serves as the state's principal legal advisor and holds office under the aegis of the Governor. He is appointed on the advice of the government.\n\nConventionally, the AG steps down to give the new CM the freedom to appoint a legal officer who aligns with the new administration's policies. Their positions are considered co-terminus with the serving government.\n\nAsked about his successor, Shahi said he had no idea. \"Whoever the government wants will be there. I sent my resignation today in accordance with the constitutional convention,\" he added.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101781285820821",
+    "slug": "bihar-govt-releases-998-cr-for-march-to-may-salary-pension-to-varsities-and-coll-820821",
+    "title": "Bihar govt releases ₹998-cr for March to May salary, pension to varsities and colleges | Hindustan Times",
+    "summary": "The funds have been released on the basis of interim approval of the universities' budget and the concerned authorities have to submit utilisation certificates within a month, says the government letter.",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-06-12T21:34:12.000Z",
+    "modified_at": "2026-06-12T21:34:12.000Z",
+    "word_count": 259,
+    "reading_time_minutes": 2,
+    "topic": {
+      "id": "higher-education-reforms",
+      "slug": "higher-education-reforms",
+      "title": "Higher Education & Academic Reforms"
+    },
+    "subtopic": {
+      "id": "student-affairs-protests",
+      "slug": "student-affairs-protests",
+      "title": "Student Affairs, Exams & Protests"
+    },
+    "tags": [
+      "Bihar",
+      "Patna News",
+      "Hindustan Times"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/bihar-govt-releases-998-cr-for-march-to-may-salary-pension-to-varsities-and-colleges-101781285820821.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/bihar-govt-releases-998-cr-for-march-to-may-salary-pension-to-varsities-and-colleges-101781285820821.html",
+        "original_article_id": "101781285820821",
+        "published_at": "2026-06-12T21:34:12.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/bihar-govt-releases-998-cr-for-march-to-may-salary-pension-to-varsities-and-colleges-101781285820821.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "92a423d22b3f9fdd3e3ab6c1bf840122918ad533f82d772566f0970f8b8fa633",
+        "last_verified_at": "2026-08-29T10:01:37.117Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# Bihar govt releases ₹998-cr for March to May salary, pension to varsities and colleges | Hindustan Times\n\n**Patna** — The finance department on Friday finally released grant-in-aid of ₹998.84 crore for payment of salary, pension and retirement benefits to teachers and employees of 13 state universities for the period of March to May, 2026.\n\nWith this, thousands of teachers and employees as well as pensioners are likely to get paid in the coming weeks of June after the funds reach the account of universities.\n\nThe funds have been released on the basis of interim approval of the universities' budget and the concerned authorities have to submit utilisation certificates within a month, says the government letter.\n\n\"If the utilisation of fund is not done within a month, fresh approval will be required from the department and if it remains unutilised for three months, the fund would have to be surrendered,\" the letter clearly states.\n\nThe funds will be made available to the universities through Comprehensive Financial Management System (CFMS) from the treasury after the issue of allotment letters.\n\nThe funds have been released after calculating deafness allowance at 60%, while the new teachers appointed in the last couple of years will be paid salary only after verification of their documents.\n\nThe delay in payment of salary and pension to university and college staff had taken political overtones with the Opposition linking it with the financial stress in the state, while the department of education blamed it on the delay in submission of utilisation certificates by the universities.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101781271896545",
+    "slug": "after-docs-pvt-practice-ban-bihar-bars-teachers-from-tuition-coaching-hindustan--896545",
+    "title": "After docs' pvt practice ban, Bihar bars teachers from tuition, coaching | Hindustan Times",
+    "summary": "The education department has warned violating teachers of strict disciplinary action for breaching the code of conduct if they were found engaged in private coaching and tuition",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-06-12T13:44:56.000Z",
+    "modified_at": "2026-06-12T13:44:56.000Z",
+    "word_count": 746,
+    "reading_time_minutes": 4,
+    "topic": {
+      "id": "higher-education-reforms",
+      "slug": "higher-education-reforms",
+      "title": "Higher Education & Academic Reforms"
+    },
+    "subtopic": {
+      "id": "student-affairs-protests",
+      "slug": "student-affairs-protests",
+      "title": "Student Affairs, Exams & Protests"
+    },
+    "tags": [
+      "JD(U)"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/after-docs-pvt-practice-ban-bihar-bars-teachers-from-tuition-coaching-101781271896545.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/after-docs-pvt-practice-ban-bihar-bars-teachers-from-tuition-coaching-101781271896545.html",
+        "original_article_id": "101781271896545",
+        "published_at": "2026-06-12T13:44:56.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/after-docs-pvt-practice-ban-bihar-bars-teachers-from-tuition-coaching-101781271896545.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "51b0a635600eaf73877936b14af540a88244f3bb43fba5d2e4b3b8fc2377cb72",
+        "last_verified_at": "2026-08-29T10:01:37.119Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# After docs' pvt practice ban, Bihar bars teachers from tuition, coaching | Hindustan Times\n\n**Patna** — Close on the heels of banning private practice by government doctors to improve health services in government hospitals, the education department has now banned private tuition and coaching by the government school teachers, not the first time though.\n\nThe objective of both is the same - to ensure that doctors and teachers devote their full time and attention to serving government institutions they are employed with and for which they are paid.\n\nWhile the implementation of the rule made in April, 2026 for doctors is yet to take place due to hurdles on the way, the education department has warned violating teachers of strict disciplinary action for breaching the code of conduct if they were found engaged in private coaching and tuition.\n\nIn a letter to all district education officers (DEOs), director (secondary education) Sajjan R has said written that teachers found engaged in commercial activities like tuition or coaching would face strong disciplinary action.\n\n\"Ensure compliance that no teacher is engaged in tuition, coaching or other commercial educating activities, as it affects teaching in schools. Any teacher found engaged in such activities will be seen as breach of the code of conduct,\" he added in what is being viewed as an extension to the order to prevent coaching institutes from running with regular students during school hours.\n\nThis is, however, not the first time the education department has taken a serious view of government school teachers engaged anywhere in commercial activities. Many of them have also been found missing from schools and dodging the biometric attendance system by marking their presence from several kilometres away.\n\nThe 2023 ASER had also flagged poor attendance in schools and high prevalence of private tuition, which was then nearly 2.5 times the national average and pointed to lack of quality education in the government schools, though its prevalence was also found among private school students.\n\nJan 2024\n\nIn 2024 also, the education department had decided to crack down on government school teachers who take classes in private coaching institutions and asked all DMs and DEOs to inspect all schools at least twice a week.\n\nInstructions were given to immediately deduct the salary of teachers who are absent without reason and sought the list of teachers engaged with private coaching, tuition or other activities for action, as the department has received complaints regarding this.\n\nNow, the government has again woken up to check teachers' engagement beyond schools after forged attendance marked by them also surfaced from some districts amid reports that many of them were engaged with private coaching and tuition.\n\n\"The government should stick to the earlier announcement of mandatory 75% attendance for availing various incentive schemes and taking board exams and implement it effectively. They were later diluted, but once honest attendance becomes compulsory, everything will fall in line. Compliance of attendance regulation will be easier through regular inspection, strengthening of school management committees and accountability of headmasters,\" said JD(U) MLC from Kosi teachers' constituency Sanjiv Kumar Singh.\n\nA senior academician, who did not want to be quoted, said that mushrooming coaching institutes were a manifestation of unmet needs of students due to huge gap between the school/college curriculum and requirements of competitive exams. \"The alignment is not there and that needs the focus. Unless the schools are wanted by students and teachers alike, search for alternatives will never die,\" he added.\n\nAhead of 2025 elections, Bihar government had in March last year scrapped the 75% attendance rule, allowing students to receive uniform and bicycle benefits at the beginning of the academic year itself, sparking political debate. Earlier, students had to maintain 75% attendance by September 30 every year to qualify for financial incentives. In board exams also, there have been several instances of students enrolled with coaching institutes in Kota or elsewhere taking the board exams.\n\n\"Education is too serious a matter to witness positive change within a short span of time with a couple of bureaucratic orders. The government should take a comprehensive view. It requires passion and devotion, which can come only through conducive environment, trust, capability and facilities. Just by wishing change or putting the blame on teachers, it cannot come. If schools don't deliver, students and parents will remain in search of other options -- good or bad,\" said Col (retired) BB Singh, a founding member of the Simultala Education Society.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101781195844215",
+    "slug": "niti-aayog-meet-bihar-cm-seeks-funds-string-of-institutes-from-centre-hindustan--844215",
+    "title": "NITI Aayog meet: Bihar CM seeks funds, string of institutes from Centre | Hindustan Times",
+    "summary": "Bihar CM Samrat Choudhary requests ₹18,000 crore from the Centre for water programs, institutes, and support for upcoming national events and development projects.",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-06-11T16:37:23.000Z",
+    "modified_at": "2026-06-11T16:37:24.000Z",
+    "word_count": 544,
+    "reading_time_minutes": 3,
+    "topic": {
+      "id": "higher-education-reforms",
+      "slug": "higher-education-reforms",
+      "title": "Higher Education & Academic Reforms"
+    },
+    "subtopic": {
+      "id": "university-reforms-acts",
+      "slug": "university-reforms-acts",
+      "title": "University Reforms & Governance"
+    },
+    "tags": [
+      "Bihar",
+      "Patna News",
+      "Hindustan Times"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/niti-aayog-meet-bihar-cm-seeks-funds-string-of-institutes-from-centre-101781195844215.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/niti-aayog-meet-bihar-cm-seeks-funds-string-of-institutes-from-centre-101781195844215.html",
+        "original_article_id": "101781195844215",
+        "published_at": "2026-06-11T16:37:23.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/niti-aayog-meet-bihar-cm-seeks-funds-string-of-institutes-from-centre-101781195844215.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "372f12db23e879667d4bf0227649e19768871e59972bb778fa2313fb82665337",
+        "last_verified_at": "2026-08-29T10:01:37.121Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# NITI Aayog meet: Bihar CM seeks funds, string of institutes from Centre | Hindustan Times\n\n**Patna** — Bihar chief minister Samrat Choudhary on Thursday urged the Centre to release ₹18,000-crore for the state's \"tap water to every household\" programme, in which the state government invested to achieve the national target of Jal Jeevan Mission.\n\n\"Due to certain reasons, the amount could not be taken from the Government of India. Therefore, it is requested that in the central share of ₹13,000-crore and ₹5,000-crore for the ongoing scheme, i.e. a total of ₹18,000 crore be made available under the head,\" he added.\n\nChoudhary also urged the Centre to provide assistance for the establishment of a string of institutes, viz. regional branch of the Indian Institute of Science Education and Research (IISER), the School of Planning and Architecture, Central Institute for Subtropical Horticulture and the National Institute of Food Technology Entrepreneurship and Managment (NIFTEM) in Bihar.\n\nThe CM was speaking at the 11th Governing Council Meeting of NITI Aayog, chaired by Prime Minister Narendra Modi, at Rashtrapati Bhavan in New Delhi. Themed around the \"Viksit Bharat\" (Developed India) vision, the conference focused on creating better ecosystems for youth through quality education, skilling, employment, and the collective responsibility of the Centre and States.\n\nHe also sought ₹750-crore assistance for the pilot project under the Integrated Scheme in Skilling Architecture (ISSA), ₹1,500 crore for Jannayak Karpuri Thakur Skill University and additional cooperation for the establishment of National Skill Training Institute (NSTI) Bhagalpur.\n\n\"Bihar also expects special support from the central government for host long the National Youth Games in 2028, the Hockey World Cup in 2030 and the National Games in 2031. To boost tourism, there is need to facilitate international air connectivity,\" he added.\n\nThe CM also batted for a regional centre of the National Institute of Design in Bihar and 10 plug-and-play industrial parks equipped with state-of-the-art infrastructure under the \"Bharat Industrial Development Scheme (BHAVYA) with the cooperation of the Centre.\n\n\"I want to assure the PM that under his guidance, the Bihar government is constantly striving to contribute to the goal of a developed India with the mantra 'Sabka Saath Sabka Vikas'. A prosperous Bihar will also be actively involved in realising the vision of 'Developed India-2047',\" he added.\n\nHighlighting the strides Bihar has made in different sphere, Choudhary said that the state was focusing on inclusive human development for Viksit Bharat @2047 through multi-pronged strategy.\n\n\"Bihar government is working in mission mode for industrialisation and 14,037 acres of new industrial land has been approved. In the last two years, more than ₹1 lakh crore of private capital investment has been attracted for various projects,\" he added.\n\nHe said the state government has set a target of developing 14 greenfield satellite townships in more than three lakh acres of land for the planned and balanced urban development of the state.\n\nThe CM said that 91% of the 76,202 schools in the state have internet facility and there was 100% coverage of toilets in girls' schools. \"Bihar is also setting up 211 degree colleges in blocks, while 118,000 artisans have been trained under PM-Vishwakarma scheme. Aryabhatta International Skill Hub is being established in Patna at a cost of ₹640 crore,\" he added.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101781195726280",
+    "slug": "bihars-coaching-chaos-stems-from-feeble-implementation-of-2010-act-hindustan-tim-726280",
+    "title": "Bihar's coaching chaos stems from 'feeble' implementation of 2010 Act | Hindustan Times",
+    "summary": "Despite strict provisions, coaching centres remained unbridled and made hay, with the government responding only with knee-jerk reaction to problems cropping up every now and then",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-06-11T16:35:25.000Z",
+    "modified_at": "2026-06-11T16:35:25.000Z",
+    "word_count": 832,
+    "reading_time_minutes": 5,
+    "topic": {
+      "id": "higher-education-reforms",
+      "slug": "higher-education-reforms",
+      "title": "Higher Education & Academic Reforms"
+    },
+    "subtopic": {
+      "id": "student-affairs-protests",
+      "slug": "student-affairs-protests",
+      "title": "Student Affairs, Exams & Protests"
+    },
+    "tags": [
+      "JD(U)"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/bihars-coaching-chaos-stems-from-feeble-implementation-of-2010-act-101781195726280.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/bihars-coaching-chaos-stems-from-feeble-implementation-of-2010-act-101781195726280.html",
+        "original_article_id": "101781195726280",
+        "published_at": "2026-06-11T16:35:25.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/bihars-coaching-chaos-stems-from-feeble-implementation-of-2010-act-101781195726280.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "5dd17d00b00e9c17f6d4adddb75cccd2d668e47729c8dd888b0b4077435d00aa",
+        "last_verified_at": "2026-08-29T10:01:37.122Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# Bihar's coaching chaos stems from 'feeble' implementation of 2010 Act | Hindustan Times\n\n**Patna** — The saga of firing and subsequent legal battle between two popular educators of Patna - Faisal Khan aka Khan Sir and Roushan Anand - has brought to fore the sordid side of commercial coaching in the state, highlighting that the regulations prescribed for reining in such institutes remain merely on paper. Interestingly, as the present mayhem peaked, chief minister Samrat Choudhary announced \"similar regulations\" which are in force since 2010 via the Bihar Coaching Institute (Control & Regulation) Act in 2010 and the rot lies in feeble implementation rather than the policy itself.\n\n\"The Education Department has been directed to prepare a manual in this regard (for regulations),\" the CM said in a post on X.\n\nHowever, when the state government enacted the Act in 2010, it put in place such regulations - prior registration a must and laid down clear guidelines, viz. clearly mentioned curriculum with a timeline for different kinds of academic support, number of maximum students for every programme, qualification of teachers, prospectus with tuition fees and other details like lectures, tutorial, group discussions and basic infrastructure.\n\nThe Act also made it clear that the district magistrate, by an officer not below the rank of sub-divisional officer, shall get examined the compliance to the provisions, viz. required registration and the satisfactory activities of coaching institutes. Violation of provisions could invite a penalty of ₹25,000 to ₹1-lakh.\n\nYet, despite strict provisions, coaching centres remained unbridled and made hay, with the government responding only with knee-jerk reaction to problems cropping up every now and then. In 2025 also, following a medical aspirant's death in a private hostel in mysterious circumstances, the weaker section wing under Bihar CID again woke up to the need of regulating coaching institutes and hostels, ensuring compliance of the 2010 Act.\n\nLaying down the dos and don't for the coaching institutions, the then ADG had underlined the provision of their registration and verification of the staff working there and mandated that all police stations should have details of coaching institutes in their areas.\n\nThere was a similar Pavlovian response in 2024 also with a crackdown on institutes running in violation of norms after an incident in Delhi, where three civil service aspirants lost their lives due to flooding of the basement of a coaching centre.\n\nThe DM had then constituted several enquiry teams to scrutinise the functioning of all coaching institutions across the district.\n\nThe focus was on the Musallahpur Haat area, one of the oldest coaching hubs of Patna, where hundreds of job aspirants of Group C and D stay in rented accommodations to chase their dreams. Khan Global Studies (of Khan Sir) and Gyan Bindu Institute (of Roushan Sir) are located in this area and locals attribute the present incident to the internecine war for supremacy with inflated claims of results between the two.\n\nIn 2023 also, there was an uproar after the then additional chief secretary, education, banned the functioning of coaching institutes during school hours, asking the DMs to ensure compliance, while the Bihar School Examination Board ran its own coaching facility in an open admission of the huge gap between school/college education and competitive exams. This also contributed to non-attending culture.\n\nWith the strong coaching lobby raising much hue and cry, the Patna district administration referred the demand of the coaching institutes for relief to run classes for competitive exams during day time to the department of education. Having discovered poor attendance in government schools during inspection and thriving coaching institutes in their vicinity, the department had ordered a crackdown on them in the hope that the students would start attending schools and government school teachers would stop bunking classes.\n\nBut the enthusiasm did not last long and everything was back to square one, as many coaching institutes for engineering and medical also provide the facility of getting non-school attending students enrolled for board exams through \"ghost institutions\".\n\nSanjiv Singh, JD(U) MLC from Kosi teachers' constituency, said that it was a fact that the coaching Act needed to be implemented effectively. \"Education and marketing on false claims cannot go together. The government has taken it seriously this time and once the Act is enforced, things will be controlled. But far more important is to ensure quality education in schools and colleges,\" he added.\n\nA teacher of a coaching institute, who did not want to be quoted, said that adherence to norms would help all - the students, the institutes as well as the government - and prevent such ugly incidents.\n\n\"I have no qualms in admitting that students are virtually being lured and trapped. Coaching can at best be topping on the cake if the basics are sound. If a student has weak foundation, coaching can create complex in him, as it becomes hard to catch up with the speed. Some coaching institutes also don't cover the syllabus,\" he added.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101780682093456",
+    "slug": "bihar-governor-calls-for-strict-compliance-with-fire-safety-norms-urges-greater--093456",
+    "title": "Bihar Governor calls for strict compliance with fire safety norms, urges greater awareness | Hindustan Times",
+    "summary": "The Governor, who was earlier member of the National Disaster a management Authority (NDMA), directed to organise a seminar at Bihar Lok Bhawan with the aim of increasing public awareness towards fire safety.",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-06-05T21:50:14.000Z",
+    "modified_at": "2026-06-05T21:50:14.000Z",
+    "word_count": 304,
+    "reading_time_minutes": 2,
+    "topic": {
+      "id": "higher-education-reforms",
+      "slug": "higher-education-reforms",
+      "title": "Higher Education & Academic Reforms"
+    },
+    "subtopic": {
+      "id": "university-reforms-acts",
+      "slug": "university-reforms-acts",
+      "title": "University Reforms & Governance"
+    },
+    "tags": [
+      "Bihar",
+      "Patna News",
+      "Hindustan Times"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/bihar-governor-calls-for-strict-compliance-with-fire-safety-norms-urges-greater-awareness-101780682093456.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/bihar-governor-calls-for-strict-compliance-with-fire-safety-norms-urges-greater-awareness-101780682093456.html",
+        "original_article_id": "101780682093456",
+        "published_at": "2026-06-05T21:50:14.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/bihar-governor-calls-for-strict-compliance-with-fire-safety-norms-urges-greater-awareness-101780682093456.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "448a019d472b22215ff1e5c75e9ee0df41389ea26641f0c3c29c345948a3229d",
+        "last_verified_at": "2026-08-29T10:01:37.124Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# Bihar Governor calls for strict compliance with fire safety norms, urges greater awareness | Hindustan Times\n\n**Patna** — Governor Lt Gen Syed Ata Hasnain (Retd) on Friday discussed various issues related to fire safety audit, its compliance and fire safety in hotels and hospitals in Bihar with Bihar State Disaster Management Authority (BSDMA) member PN Rai, Bihar Fire Services IG M Sunil Naik and DIG Sudhir Kumar Porika.\n\nThe Governor, who was earlier member of the National Disaster a management Authority (NDMA), directed to organise a seminar at Bihar Lok Bhawan with the aim of increasing public awareness towards fire safety.\n\n\"Representatives of NDMA and BSDMA, functionaries of Health Department and Bihar Fire Service, operators of hospitals and hotels in various cities of the state and their security officials, representatives of urban local bodies and other concerned stakeholders will participate in this seminar,\" he added.\n\nHaving extensive experience in various aspects of disaster management, risk mitigation, pre-disaster preparedness and emergency response mechanism, the Governor's guidance is expected to help towards better compliance with safety standards, expansion of public awareness and adoption of best disaster management practises in the state, which is in sport light after big disasters in Muzaffarpur and elsewhere.\n\nIn the meeting, the Governor was informed that the process of fire safety audit and necessary compliance related to it has been completed in 1,679 hospitals out of a total of 1,943 hospitals in Bihar and 3,744 hotels out of a total of 4,020 hotels.\n\n\"The remaining hospitals and hotels have been directed to ensure compliance with fire safety standards and other provisions laid down by the government at the earliest. They have been clearly warned that in case of non-compliance with the prescribed standards, action will be taken against them as per the rules,\" the Governor was told.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101780335443972",
+    "slug": "after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bih-443972",
+    "title": "After a long gap, Governor initiates process for appointment of 14 Pro-VCs in Bihar | Hindustan Times",
+    "summary": "This means, there will be 24 appointments made for the highest academic posts in the state universities in the coming months by Governor Lt Gen (Rtd) Syed Ata Hasnain. For the last few years, no appointment had been made to the post of Pro-VCs in Bihar.",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-06-01T21:36:10.000Z",
+    "modified_at": "2026-06-01T21:36:10.000Z",
+    "word_count": 607,
+    "reading_time_minutes": 4,
+    "topic": {
+      "id": "higher-education-reforms",
+      "slug": "higher-education-reforms",
+      "title": "Higher Education & Academic Reforms"
+    },
+    "subtopic": {
+      "id": "university-reforms-acts",
+      "slug": "university-reforms-acts",
+      "title": "University Reforms & Governance"
+    },
+    "tags": [
+      "Patna University"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bihar-101780335443972.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bihar-101780335443972.html",
+        "original_article_id": "101780335443972",
+        "published_at": "2026-06-01T21:36:10.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bihar-101780335443972.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "2a31c294f05a21860ae2837740eb26127c6d80c7be35d992457192474a31704b",
+        "last_verified_at": "2026-08-29T10:01:37.126Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# After a long gap, Governor initiates process for appointment of 14 Pro-VCs in Bihar | Hindustan Times\n\n**Patna** — After a gap of several years, the secretariat of Governor-cum-Chancellor on Monday initiated the exercise for the appointment of Pro-Vice Chancellors in 14 state universities in Bihar.\n\nThe notification, issued by Dipak Kumar Singh, additional chief secretary to the Governor, issued the notification, inviting applications for the post of Pro-VCs from the \"persons possessing the highest level of competence as distinguished, integrity, morals and institutional commitment\".\n\nThis is in addition to the notification for the appointment of VCs in 10 state universities, including four of those for which re-advertisement was issued after cancelling the earlier one issued during the previous dispensation.\n\nThis means, there will be 24 appointments made for the highest academic posts in the state universities in the coming months by Governor Lt Gen (Rtd) Syed Ata Hasnain. For the last few years, no appointment had been made to the post of Pro-VCs in Bihar.\n\nThe Pro-VCs shall be appointed by the chancellor in consultation with the state government as prescribed for the appointment of VCs. Canvassing directly or indirectly on behalf of any candidate shall attract disqualification,\" said the Lok Bhawan notification.\n\nThe candidates should have 10 years of experience as a professor in a university system or in an equivalent position in a reputed research and/or academic administrative organisation with proof of having demonstrated academic leadership.\n\nHowever, like the post of VCs, the notification for the appointment of Pro-VCs does not mention that experience of professor will be counted from the date of issue of notification for professorship.\n\nPromotion to professorship has been a vexed issue in the state universities, with several universities reporting delay of 6-10 years, with no accountability ever fixed for the situation. The Lok Bhawan has also received complaints and asked for prompt action.\n\n\"The Chancellor's office is receiving several matters pertaining to pending promotions. In the light of previous directions, you are directed to take further action on pending promotions latest from June 15 to September 15, 2026 on a priority basis,\" said the letter to all VCs issued by the ACS to the Governor on Monday.\n\nBuxar MP Sudhakar Singh said that in Bihar's premiere Patna University, the notification for promotion to the rank of nearly 40 professors issued by one VC and vetted by the Syndicate after the nod of the Chancellor was held up by another VC as soon as he was reinstated with a warning by the present Chancellor. \"What I have been informed is that it is a ploy to delay promotions for vested interests,\" said.\n\nJD-U MP Sanjeev Kumar Singh said that the inordinate delay in promotions certainly looked deliberate to create room for outsiders and old guards, who benefit from status quo. \"I have been consistently raising the issue in the Legislative Council. There should be a calendar for promotions, just like the gazette notification of exam calendar. It is high time the arbitrariness is put to an end and accountability fixed for undue delays to allow fair play,\" he added.\n\nSocial analyst Prof N K Choudhary said the bulk appointments to the key positions in the state universities would be the first test both for the Chancellor as well as the Samrat government. \"The state of higher education is not hidden from anyone, as there is very little room for further slide. What kind of people are appointed will definitely give an indication for the future, as leadership is the first step for developing the required systems for revival. I hope things change for the better,\" he added.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101780062652437",
+    "slug": "samrat-bats-for-centre-and-state-coordination-for-bihar-growth-in-delhi-hindusta-652437",
+    "title": "Samrat bats for Centre and state coordination for Bihar growth in Delhi | Hindustan Times",
+    "summary": "the CM said that Bihar has made remarkable progress in the fields of infrastructure, power, connectivity and rural development, but it is necessary to work together continuously to give the state a new identity at the global level",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-05-29T13:50:51.000Z",
+    "modified_at": "2026-05-29T13:50:51.000Z",
+    "word_count": 442,
+    "reading_time_minutes": 3,
+    "topic": {
+      "id": "social-issues-health-culture",
+      "slug": "social-issues-health-culture",
+      "title": "Social Issues, Health & Heritage"
+    },
+    "subtopic": {
+      "id": "heritage-history-patna",
+      "slug": "heritage-history-patna",
+      "title": "Heritage, History & Patna Life"
+    },
+    "tags": [
+      "Nitish Kumar"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/samrat-bats-for-centre-and-state-coordination-for-bihar-growth-in-delhi-101780062652437.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/samrat-bats-for-centre-and-state-coordination-for-bihar-growth-in-delhi-101780062652437.html",
+        "original_article_id": "101780062652437",
+        "published_at": "2026-05-29T13:50:51.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/samrat-bats-for-centre-and-state-coordination-for-bihar-growth-in-delhi-101780062652437.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "09ed546d3dfd4055b79ac264d900183c71d7189f1aea454fbdda18433561d0b5",
+        "last_verified_at": "2026-08-29T10:01:37.127Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# Samrat bats for Centre and state coordination for Bihar growth in Delhi | Hindustan Times\n\n**Patna** — Chief minister Samrat Choudhary during his Delhi visit shared Bihar's development vision with senior leaders and policymakers and said that Bihar's rapid development was a must to add pace to national growth and the time has come to do it unitedly and wholeheartedly.\n\n\"Bihar represents about 10% of the country's population. The dream of a developed India cannot be fulfilled without the rapid development of Bihar,\" he said, urging senior officials to play the role of a strong bridge between the Centre and the state government and to accelerate development plans and investments.\n\nAddressing a special event organised at Ashoka Hotel, Chanakyapuri, New Delhi on Thursday evening, the CM said that Bihar has made remarkable progress in the fields of infrastructure, power, connectivity and rural development, but it is necessary to work together continuously to give the state a new identity at the global level.\n\nHe said that the changes taking place in Bihar were now clearly visible. \"Better infrastructure and connectivity give a sense of development to the people coming to the state. The government is striving to strengthen the tourism sector to give new identity to the cultural and historical heritage of Bihar,\" he added.\n\nHe urged senior officials, policy-makers and stakeholders associated with various sectors that \"a collective effort is needed for the making of a new Bihar through comprehensive transformation\".\n\nHe returned on Friday and paid a visit to former CM Nitish Kumar at the latter's residence for discussion on key issues. Sources said that the forthcoming Legislative Council elections might have figured during talks, as nine out of the 10 seats are set to go to the NDA.\n\nAt the Delhi function, Rajiv Gauba, member, NITI Aayog, said that there are \"limitless possibilities\" in Bihar, but the distance between possibilities and reality needs to be worked out through effective policy and better implementation.\n\nReferring to the improvement in social indices such as infant and maternal mortality rate, he said that Bihar is now ready to take the flight of rapid development.\n\nManoj Kumar Singh, resident Commissioner and Investment Commissioner, Government of Bihar said that such events would play an important role in establishing better coordination between the state government and various sectors.\n\n\"Bihar is continuously working to create new possibilities in the field of investment, tourism, industry and social development,\" he added.\n\nUnion ministers, including Giriraj Singh, Ram Nath Thakur Lalan Singh, Chirag Paswan, Rajbhushan Chaudhary; MPs Sanjay Jha, Ravi Shankar Prassad, Rajiv Pratap Rudy; senior leaders, policy makers and senior officials, attended the function.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101780061991322",
+    "slug": "amid-raging-debate-over-3-language-policy-cusb-to-award-multilingualism-hindusta-991322",
+    "title": "Amid raging debate over 3-language policy, CUSB to award multilingualism | Hindustan Times",
+    "summary": "VC KN Singh said that at a time when implementation of 3-Language Policy of the ministry of education, government of India is a much debated issue, multilingualism should not be seen as a handicap, but a welcome requirement",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-05-29T13:39:50.000Z",
+    "modified_at": "2026-05-29T13:39:50.000Z",
+    "word_count": 566,
+    "reading_time_minutes": 3,
+    "topic": {
+      "id": "higher-education-reforms",
+      "slug": "higher-education-reforms",
+      "title": "Higher Education & Academic Reforms"
+    },
+    "subtopic": {
+      "id": "student-affairs-protests",
+      "slug": "student-affairs-protests",
+      "title": "Student Affairs, Exams & Protests"
+    },
+    "tags": [
+      "Bihar",
+      "Patna News",
+      "Hindustan Times"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/amid-raging-debate-over-3-language-policy-cusb-to-award-multilingualism-101780061991322.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/amid-raging-debate-over-3-language-policy-cusb-to-award-multilingualism-101780061991322.html",
+        "original_article_id": "101780061991322",
+        "published_at": "2026-05-29T13:39:50.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/amid-raging-debate-over-3-language-policy-cusb-to-award-multilingualism-101780061991322.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "0f51d10c7f2f327a4d1e7996818a94f97cb0113e96a661c7948873ce75ab5a99",
+        "last_verified_at": "2026-08-29T10:01:37.129Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# Amid raging debate over 3-language policy, CUSB to award multilingualism | Hindustan Times\n\n**Patna** — Central University of South Bihar (CUSB) has come up with a novel initiative to recognise employees and students having knowledge of maximum Indian languages and reward them.\n\n\"Those having knowledge of maximum Indian languages will be conferred with 'Bhasha Sri Award', as CUSB is a centre that promotes multilingualism, which is aligned with the National Education Policy (NEP) 2020,\" said CUSB vice-chancellor KN Singh.\n\n\"The award is an initiative to encourage students and employees having knowledge of maximum languages. It has been established by experts that multilingualism reshapes cognitive function, social dynamics, and is crucial for educational frameworks,\" said the VC.\n\nHe said that one Bhasha Shri Award in each category of students and employees, apart from some consolation prizes, would be given from this year.\n\n\"We feel that language defines our reality and in a multilingual country like India, it can add strength to students' ability in any part of the country they go. It can only contribute to greater understanding of India and its culture. UNESCO has also highlighted the need to integrate multilingualism in education systems,\" said the VC.\n\nSingh said that at a time when implementation of 3-Language Policy of the ministry of education, government of India is a much debated issue, multilingualism should not be seen as a handicap, but a welcome requirement, especially for students studying in national institutions across the country.\n\n\"I feel proud that CUSB Campus has students and teachers from 28 states of India and the spread is likely to grow further. It makes multilingualism a common practice on the campus and aptly reflects Indian diversity and unity. By rewarding employees and students, there will be encouragement to learn more languages,\" he added.\n\nHe said it was important to address the concerns and confusion in public domain regarding three-language policy and make it clear that there is no imposition of Hindi or any Indian language by CBSE, which has also issued clarifications in this regard.\n\n\"In diverse country like India, languages are the product of the motherland and they are the bridges between people pf different regions. Every Bhartiya Bhasha should be promoted and honoured. Besides, it aligns with NEP-2020, and is flexible, non-imposing, futuristic, transformational and unifying to contribute to nation's growth,\"'he added.\n\nThe VC said that the students are free to choose any two languages given in 8th schedule of the Constitution of India. \"In fact, it will be an added skill to the students for future when they go to other parts of the country to pursue higher education and they will enjoy it. Many students from southern states have also picked up Hindi at CUSB and that needs to be appreciated. There will be no pressure on them,\" he added.\n\nThe issue of three language policy has also reached the Supreme Court of India through a Public Interest Litigation (PIL) challenging its sudden implementation. The court asked the Centre and CBSE to clarify their stance within four weeks, but it has not stayed the implementation of the policy.\n\nThe CBSE has mandated that Class 9 students must study three languages starting July 1, 2026. The policy stipulates that at least two of the three languages must be native Indian languages. This has led to questions being raised over the sudden implementation.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101779976881315",
+    "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
+    "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process | Hindustan Times",
+    "summary": "The advertisements would be issued afresh with fresh guidelines for wider publicity to give opportunities to more capable candidates who could pull the universities out of the rut, a Lok Bhavan official said",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-05-28T14:01:20.000Z",
+    "modified_at": "2026-05-28T14:01:20.000Z",
+    "word_count": 680,
+    "reading_time_minutes": 4,
+    "topic": {
+      "id": "higher-education-reforms",
+      "slug": "higher-education-reforms",
+      "title": "Higher Education & Academic Reforms"
+    },
+    "subtopic": {
+      "id": "university-reforms-acts",
+      "slug": "university-reforms-acts",
+      "title": "University Reforms & Governance"
+    },
+    "tags": [
+      "Patna High Court",
+      "BSUSC"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-process-101779976881315.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-process-101779976881315.html",
+        "original_article_id": "101779976881315",
+        "published_at": "2026-05-28T14:01:20.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-process-101779976881315.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "0a2355f77b986d981dee8bb187166a247ed628148066e9ad36e9819c5034a419",
+        "last_verified_at": "2026-08-29T10:01:37.131Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process | Hindustan Times\n\n**Patna** — In a sudden development, the Bihar Governor's Secretariat has cancelled the advertisements inviting applications for the appointment of vice-chancellors in four state universities. The notifications in this regard have been issued.\n\nThe decision to cancel the advertisements issued in May June and December, 2025 was taken after the meeting of chief minister Samrat Choudhary with Governor Lt Gen (Retd) Syed Ata Hasnain, who is also the chancellor of state universities, on May 25 at the Lok Bhawan to discuss higher education issues.\n\nA senior official of the Lok Bhawan said that while the reasons behind the cancellation was not known, as it was between the CM and Governor, the advertisements would be issued afresh with fresh guidelines for wider publicity to give opportunities to more capable candidates who could pull the universities out of the rut.\n\nWhat is significant about the cancellation is that the interaction for all universities, except Magadh University, had been completed and only the consultation between the CM and Governor on the panel of names submitted by the respective search committees, in keeping with the 2013 Supreme Court guidelines, was due.\n\nThe advertisements for TM Bhagalpur University, Veer Kunwar Singh University, Magadh University and Mazharul Haq Arabic and Persian University had been issued during the previous Nitish government and the tenure of Hasnain's predecessor Arif Mohammad Khan.\n\nHowever, applications invited on May 20 last for LN Mithila University (Darbhanga), Kameshwar Singh Darbhanga, Sanskrit University, BN Mandal University (Madhepura), BBA Bihar University (Muzaffarpur), JP University (Chapra) and Aryabhatt Knowledge University (Patna) for vacancies arising in January remain unaffected.\n\n\"Now fresh search committees will be formed for the four universities under interim arrangement at present. The Governor has also written to the Bihar government to ensure separate government nominee for each university, unlike the past when the same person remained the government nominee for all the universities,\" the official said.\n\nAfter the CM-Governor meeting, there were speculations that the appointment in three of the four universities would be announced, but it turned out to be a decision to cancel all previous advertisements during the past regime.\n\n\"The issues of rampant corruption, poor functioning of the state universities, lukewarm approach to reforms, systemic issues like delayed promotions and fiscal mismanagement, delayed sessions and missing ambiance may have contributed to the decision to go in for fresh move to appoint VCs who could deliver,\" said the official.\n\nThe appointment of VCs in the state universities is crucial for capable leadership to develop system, as the Governor has been quite particular about the much-needed and belated improvement in the higher education in a time-bound manner with a string of recent initiatives, which need to be translated into reality.\n\nBSUSC row\n\nAccording to officials familiar with the matter, the Governor has also taken serious the issue of unending controversies on the ongoing recruitment of assistant professors by the Bihar State University Service Commission (BSUSC), which was also discussed with the CM, and some concrete action would be evident in the days to come.\n\nEven on Tuesday, the BSUSC notified cancellation of its recommendation for an EWS category candidate Shashi Bhushan Pandey following the Patna High Court order on a petition filed by Rabindra Kumar, who had been earlier rejected, challenging manipulation of experience certificate.\n\nThe commission itself admitted in its notification that Pandey got through despite less aggregate marks, without elaborating how it could happen, and withdrew its recommendations to accommodate Rabindra Kumar with a revised result in the EWS category.\n\n\"The result could be revised as one of the petitioners could approach the court for justice and he proved right. Many others might not have approached the court, but such instances point to serious irregularities, as the BSUSC failed to discharge its basic duty of screening of documents even post selection. Many genuine candidates may have been left out at the beginning itself due to manipulated documents. All these facts are under Governor's consideration,\" said a Raj Bhawan official.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101779767828492",
+    "slug": "samrat-discusses-higher-education-issues-with-governor-ahead-of-new-deptt-review-828492",
+    "title": "Samrat discusses higher education issues with Governor ahead of new deptt review | Hindustan Times",
+    "summary": "The issue of unending controversies on the ongoing recruitment of assistant professors by the Bihar State University Service Commission (BSUSC) also figured during the discussions between the Governor and the CM.",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-05-26T03:57:07.000Z",
+    "modified_at": "2026-05-26T03:57:08.000Z",
+    "word_count": 525,
+    "reading_time_minutes": 3,
+    "topic": {
+      "id": "higher-education-reforms",
+      "slug": "higher-education-reforms",
+      "title": "Higher Education & Academic Reforms"
+    },
+    "subtopic": {
+      "id": "university-reforms-acts",
+      "slug": "university-reforms-acts",
+      "title": "University Reforms & Governance"
+    },
+    "tags": [
+      "BSUSC"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/samrat-discusses-higher-education-issues-with-governor-ahead-of-new-deptt-review-101779767828492.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/samrat-discusses-higher-education-issues-with-governor-ahead-of-new-deptt-review-101779767828492.html",
+        "original_article_id": "101779767828492",
+        "published_at": "2026-05-26T03:57:07.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/samrat-discusses-higher-education-issues-with-governor-ahead-of-new-deptt-review-101779767828492.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "0ec1e00bb90ffc48702b703f9a4d8e3dbff836524402da9ca76d06d14ec0ec44",
+        "last_verified_at": "2026-08-29T10:01:37.133Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# Samrat discusses higher education issues with Governor ahead of new deptt review | Hindustan Times\n\n**Patna** — Bihar Chief Minister Samrat Choudhary on Monday met the Governor of Bihar Lieutenant General (Retd) Shri Syed Ata Hasnain, who is also the chancellor of state universities, at the Lok Bhavan\n\n\"We had a meaningful discussion on higher education in the state,\" he said, triggering speculations about his consultations with the Governor over the appointment of vice chancellors in three universities, the process for which had been completed and panel of shortlisted names submitted.\n\nThe CM's meeting with the Governor is also significant, as he is set to hold the review of the newly created higher education department on Tuesday, with focus on the preparations for the start of 208 degree colleges in uncovered blocks, development of \"centres of excellence\" and policy changes required for course correction in view of lingering problems, corruption issues and appointment controversy.\n\nAccording to officials familiar with the matter, the issue of unending controversies on the ongoing recruitment of assistant professors by the Bihar State University Service Commission (BSUSC) also figured during the discussions between the Governor and the CM.\n\n\"There is a definite concern on BSUSC matters, as the issue has snowballed and caused a lot of embarrassment to the government and the use of forged documents have now been established after the sacking of many teachers, while several others have been prevented from joining. The growing number of litigations in the court is also causing alarm and some action would follow in the weeks to come,\" said a senior Raj Bhawan official.\n\nThe appointment of VCs is due in three universities - Veer Kuer Singh University (Ara), TM Bhagalpur University and Maulana Mazharul Haq Arabic and Persian University- while the scrutiny process for Magadh University is yet to be completed.\n\nThe appointment of VCs in the state universities is a crucial issue, as the Governor has been quite particular about the much-needed and belated improvement in the higher education in a time-bound manner with a string of recent initiatives, which need to be translated into reality.\n\n\"It is a fact that the Governor wants Bihar institutions to catch up with reforms, which unfortunately bypassed it in the past and that would require competent leadership. The Governor wants system to be developed, not individual branding and he has been reiterating it in every review meeting with universities. The CM also wants reforms and improvement and the meeting must have revolved around a whole range of issues concerning higher education,\" said another senior Raj Bhawan official.\n\nThe emphasis of the Governor on adoption of Samarth portal of the union ministry of education, to digitise, automate, and bring transparency to the day-to-day operations of academic institutions, is also aimed at making the system accountable.\n\n\"He has been holding separate review meetings with the universities to have an understanding of the challenges. Even on Monday, he held review meeting with officials of the LNMU. He wants solutions from the universities to the problems they cite, as he also has feedback about missing campus ambiance and erratic classes,\" said the official.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
+    "id": "101779370552835",
+    "slug": "patna-hc-takes-serious-view-of-saharsa-mid-day-meal-poisoning-asks-sp-to-head-si-552835",
+    "title": "Patna HC takes serious view of Saharsa mid-day meal poisoning, asks SP to head SIT | Hindustan Times",
+    "summary": "The incident occurred at a government middle school in Baluaha village (Mahishi block) of Saharsa when children fell ill after consuming mid-day meal containing a suspected de\"small snake\"",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-05-21T13:35:52.000Z",
+    "modified_at": "2026-05-21T13:35:52.000Z",
+    "word_count": 938,
+    "reading_time_minutes": 5,
+    "topic": {
+      "id": "judiciary-law-patna-high-court",
+      "slug": "judiciary-law-patna-high-court",
+      "title": "Judiciary, Law & Patna High Court"
+    },
+    "subtopic": {
+      "id": "landmark-rulings-pils",
+      "slug": "landmark-rulings-pils",
+      "title": "Landmark Rulings & Suo Motu PILs"
+    },
+    "tags": [
+      "Patna High Court",
+      "Mid-Day Meal"
+    ],
+    "source_url": "https://www.hindustantimes.com/cities/patna-news/patna-hc-takes-serious-view-of-saharsa-mid-day-meal-poisoning-asks-sp-to-head-sit-101779370552835.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/cities/patna-news/patna-hc-takes-serious-view-of-saharsa-mid-day-meal-poisoning-asks-sp-to-head-sit-101779370552835.html",
+        "original_article_id": "101779370552835",
+        "published_at": "2026-05-21T13:35:52.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/patna-hc-takes-serious-view-of-saharsa-mid-day-meal-poisoning-asks-sp-to-head-sit-101779370552835.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "fc21ce0d77c2fa4b27bc53d08aad5752670b353eedb2853801fdf89e46214df6",
+        "last_verified_at": "2026-08-29T10:01:37.135Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# Patna HC takes serious view of Saharsa mid-day meal poisoning, asks SP to head SIT | Hindustan Times\n\n**Patna** — The Patna High Court has directed the Saharsa Superintendent of Police (SP) to head the special investigation team (SIT) to investigate the case of alleged poisoning of mid-day meal that had left around 300 children sick and hospitalised on May 7.\n\nThe incident occurred at a government middle school in Baluaha village (Mahishi block) of Saharsa when children fell ill after consuming mid-day meal containing a suspected \"small snake\". Though the children recovered after treatment, the incident sparked widespread outrage.\n\nThe attention of the court was drawn towards the information received from an Advocate of the State of Telangana, who brought to the notice of the Chief Justice a report that several children in the schools in Saharsa district of Bihar had fallen ill after suspected contaminated mid-day-meal and had to be admitted to a local hospital. It was turned into a public interest litigation (PIL) taking suo motu cognisance.\n\nDuring the hearing, the Saharsa District Magistrate informed that 189 children were admitted to the hospital and later released after primary treatment.\n\nThe director of the Bihar Directorate of Mid-Day-meal (now known as PM POSHAN), Saharsa District Magistrate, Saharsa Food Safety Officer, Food Analyst, and Agamkuan Laboratory (Patna) were also present during the hearing.\n\n\"The Directorate of MDM/PM, POSHAN shall place on record the reports of third-party assessment of agencies/NGOs involved with MDM for the Financial Year 2024-25 and Financial Year 2025-26,\" said the bench of Justice Rajiv Ranjan Prasad and Justice Mohit Kumar Shah on Tuesday. The order was uploaded on Wednesday.\n\nTaking serious cognisance of the incident, the court also raised questions about the state government's system and the involved NGO/agencies due to serious safety oversight, which has played with the trust of the poor whose children attend government schools.\n\n\"Delay of about seven days in sending the sample to the Regional Forensic Science Laboratory (RFSL), Bhagalpur is a matter of concern which should be looked into by the SP. All the affidavits and action taken reports from the stakeholders should be filed before June 2,\" said the bench.\n\nThe court also directed that notice be issued to the suppliers agency, Bharat Ratna Dr. Bhim Rao Ambedkar Dalit Udhthan Avam Shiksha Samiti, Baluaha Chowk, Lahuar through the Directorate MDM/ PM POSHAN, and that it be added as a respondent.\n\nWith the role of the agency handling the centralised kitchens supplying food to the school under investigation, the court called upon the Director, Directorate of MDM/PM POSHAN, to take an immediate view on whether the agency facing investigation should be allowed to continue during the ongoing investigation and why administrative action should not be considered at the earliest,\" the bench observed.\n\nThe court also sought a report from the director on the parameters for selection of the agencies and the credibility of the agencies, as one agency caters to over hundred schools, and have a re-look on the present arrangements vis-a-vis the capability and capacity of the agencies to handle the work load.\n\n\"The Directorate shall consider whether such large number of schools allotted to one agency is likely to affect the efficiency of the service to the children both in quality and punctuality,\" it added.\n\nMid-day Meal scale\n\nThe court was informed that the mid-day-meal scheme covers 68,798 schools in Bihar catering to over 10 million students from Class 1 to Class 8 under two kinds of arrangements, with monitoring by officers like the District Programme Officer (PM POSHAN), District Programme Manager and Block Resource Person (Prakhand Sadhan Sevi) and third-party review by empaneled Institutes.\n\nAt the Panchayat level in the schools, the mid-day-meals are prepared in the school kitchen under the monitoring of the school management committee and headmaster, and served under the same supervision.\n\nAt the block level, the scheme runs through NGOs and is awarded through a tender process, which have centralized kitchens from where the food is sent to different schools. In 37 districts, 116 centralized kitchens are run through 43 NGOs.\n\nOut of 116 centralised kitchens 41 were recently added in 2025-26. Six were not given renewal due to an adverse inspection report.\n\nIn Saharsa, the centralised kitchens were inspected by ADRI during the year 2024-25 and the report is awaited. Regarding the occurrence in the schools at Baluaha and Chandrayan under Maheshi and Nauhatta Blocks respectively, the food was supplied by an empanelled agency, Bharat Ratna Dr. Bhim Rao Ambedkar Dalit Udhthan Avam Shiksha Samiti.\n\nMasrakh scare\n\nIn 2013, Bihar made news when over 23 children of the government primary school in Dahrmasati Gandawan village at Mashrakh block, about 25 km from Chhapra and 60 km from state capital Patna, died after consuming a contaminated mid-day meal.\n\nAfter that, a string of similar incidents was reported from various districts and with teacher involvement in MDM consistently being raised, the government opted for NGOs, Jeevika groups and other agencies to run MDM.\n\nHowever, the Comptroller and Auditor General (CAG) of India has consistently raised concerns regarding the implementation and financial management of the Mid-Day Meal (MDM) / PM POSHAN scheme in Bihar, flagging structural gaps and procedural lapses.\n\nIn the past, inflated school enrolment and attendance to avail higher allocation for MDM had also surfaced, leading to a drive to crackdown on proxy registers in schools and deletion of names of 'ghost' students. In 2018, the government ordered the recovery of a ₹8.68-crore penalty from headmasters. In 2020, over 2 million names were struck off the rolls by the education department, suspected to be non-existent due to continued absence.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
   }
 ]

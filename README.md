@@ -11,17 +11,32 @@ This repository contains:
 
 ## Key Profiles & Links
 - **X / Twitter**: [@ArunkrHt](https://x.com/ArunkrHt)
-- **Hindustan Times**: [hindustantimes.com/authors/arun-kumar](https://www.hindustantimes.com/authors/arun-kumar)
+- **Hindustan Times**: [hindustantimes.com/author/arun-kumar-101608310583746](https://www.hindustantimes.com/author/arun-kumar-101608310583746)
 - **Muck Rack**: [muckrack.com/arun-kumar-1](https://muckrack.com/arun-kumar-1)
 - **Awards**: K.C. Kulish Journalism Award (2014), Keshav Bhatt Journalism Award, LDM Fellowship.
 
 ## Milestone Status
 - [x] **Milestone 0**: Workspace & Git Staging Initialization (`v0.1.0-scaffold`)
-- [ ] **Milestone 1**: Author Profile, Social Media & Taxonomy Configuration (`v0.2.0-config`)
-- [ ] **Milestone 2**: Stealth Crawler Engine & Disambiguation Rules (`v0.3.0-crawler`)
-- [ ] **Milestone 3**: Pilot Crawl Validation & Quality Gate 1 (`v0.4.0-pilot-crawl`)
-- [ ] **Milestone 4**: Normalization & Packaging Pipeline (`v0.5.0-pipeline`)
-- [ ] **Milestone 5**: Archival Provenance & Wayback Integration (`v0.6.0-provenance`)
-- [ ] **Milestone 6**: Astro SSG Website Construction (`v0.7.0-frontend`)
-- [ ] **Milestone 7**: End-to-End Pilot Ingestion & Quality Gate 2 (`v0.8.0-pilot-ingest`)
-- [ ] **Milestone 8**: Full-Scale Harvest, Build & Production Rollout (`v1.0.0-release`)
+- [x] **Milestone 1**: Author Profile, Social Media & Taxonomy Configuration (`v0.2.0-config`)
+- [x] **Milestone 2**: Stealth Crawler Engine & Disambiguation Rules (`v0.3.0-crawler`)
+- [x] **Milestone 3**: Pilot Crawl Validation & Quality Gate 1 (`v0.4.0-pilot-crawl`)
+- [x] **Milestone 4**: Normalization & Packaging Pipeline (`v0.5.0-pipeline`)
+- [x] **Milestone 5**: Archival Provenance & Wayback Integration (`v0.6.0-provenance`)
+- [x] **Milestone 6**: Astro SSG Website Construction (`v0.7.0-frontend`)
+- [x] **Milestone 7**: End-to-End Pilot Ingestion & Quality Gate 2 (`v0.8.0-pilot-ingest`)
+- [x] **Milestone 8**: Full-Scale Harvest, Build & Production Rollout (`v1.0.0-release`)
+
+## Build & Run Commands
+```bash
+# 1. Harvest latest articles
+node crawler/main.js --limit=50
+
+# 2. Package into standard feed run
+node pipeline/run-pipeline.js
+
+# 3. Build & validate site
+npm run build --prefix site
+
+# 4. Preview local site
+npm run preview --prefix site
+```

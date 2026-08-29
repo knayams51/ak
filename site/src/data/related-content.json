@@ -1,6 +1,28 @@
 {
   "no-student-will-fail-in-class-10-12-bihar-govt-to-replace-it-with-eligible-for-s-847961": [
     {
+      "slug": "bihar-govt-releases-998-cr-for-march-to-may-salary-pension-to-varsities-and-coll-820821",
+      "title": "Bihar govt releases ₹998-cr for March to May salary, pension to varsities and colleges | Hindustan Times",
+      "published_at": "2026-06-12T21:34:12.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "amid-raging-debate-over-3-language-policy-cusb-to-award-multilingualism-hindusta-991322",
+      "title": "Amid raging debate over 3-language policy, CUSB to award multilingualism | Hindustan Times",
+      "published_at": "2026-05-29T13:39:50.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
       "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20 | Hindustan Times",
       "published_at": "2026-07-05T13:36:56.000Z",
@@ -15,28 +37,6 @@
       "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
       "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool | Hindustan Times",
       "published_at": "2026-07-02T12:02:47.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 14
-    },
-    {
-      "slug": "bihar-misses-july-1-deadline-for-211-new-colleges-hindustan-times-532126",
-      "title": "Bihar misses July 1 deadline for 211 new colleges | Hindustan Times",
-      "published_at": "2026-07-01T12:22:11.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 14
-    },
-    {
-      "slug": "pm-lauds-nalanda-universitys-initiative-to-protect-ancient-tradition-in-line-wit-547429",
-      "title": "PM lauds Nalanda University's initiative to protect ancient tradition in line with tech era | Hindustan Times",
-      "published_at": "2026-06-28T13:32:26.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -115,15 +115,26 @@
       "score": 16
     },
     {
-      "slug": "rjd-mp-accuses-bihar-polices-svu-of-shielding-8-ias-officers-in-multi-crore-tend-943518",
-      "title": "RJD MP accuses Bihar Police's SVU of shielding 8 IAS officers in multi-crore tender fraud | Hindustan Times",
-      "published_at": "2026-06-30T12:02:23.000Z",
+      "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
+      "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha | Hindustan Times",
+      "published_at": "2026-06-22T09:36:03.000Z",
       "topic": {
-        "id": "state-administration-vigilance",
-        "slug": "state-administration-vigilance",
-        "title": "State Administration & Vigilance"
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
       },
-      "score": 9
+      "score": 16
+    },
+    {
+      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
+      "title": "JD(U) pledges to follow Nitish, promote Nishant | Hindustan Times",
+      "published_at": "2026-06-21T21:58:08.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
     }
   ],
   "crucial-bankipur-bypoll-on-july-30-to-be-test-for-bjp-chief-nabin-bihar-cm-samra-766682": [
@@ -150,15 +161,26 @@
       "score": 13
     },
     {
-      "slug": "rjd-mp-accuses-bihar-polices-svu-of-shielding-8-ias-officers-in-multi-crore-tend-943518",
-      "title": "RJD MP accuses Bihar Police's SVU of shielding 8 IAS officers in multi-crore tender fraud | Hindustan Times",
-      "published_at": "2026-06-30T12:02:23.000Z",
+      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
+      "title": "JD(U) pledges to follow Nitish, promote Nishant | Hindustan Times",
+      "published_at": "2026-06-21T21:58:08.000Z",
       "topic": {
-        "id": "state-administration-vigilance",
-        "slug": "state-administration-vigilance",
-        "title": "State Administration & Vigilance"
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
       },
-      "score": 6
+      "score": 13
+    },
+    {
+      "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
+      "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha | Hindustan Times",
+      "published_at": "2026-06-22T09:36:03.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 10
     }
   ],
   "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269": [
@@ -223,6 +245,28 @@
       "slug": "patna-hc-criticises-autocratic-action-of-state-on-decades-old-land-ownership-hin-726381",
       "title": "Patna HC criticises 'autocratic action' of state on decades old land ownership | Hindustan Times",
       "published_at": "2026-06-26T10:45:25.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 8
+    },
+    {
+      "slug": "sd-sanjay-appointed-new-advocate-general-of-bihar-hindustan-times-616260",
+      "title": "SD Sanjay appointed new Advocate General of Bihar | Hindustan Times",
+      "published_at": "2026-06-18T12:10:15.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 8
+    },
+    {
+      "slug": "bihar-ag-pk-shahi-resigns-successor-may-be-named-today-hindustan-times-709385",
+      "title": "Bihar AG PK Shahi resigns, successor may be named today | Hindustan Times",
+      "published_at": "2026-06-14T12:21:48.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -347,6 +391,17 @@
       "score": 9
     },
     {
+      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
+      "title": "JD(U) pledges to follow Nitish, promote Nishant | Hindustan Times",
+      "published_at": "2026-06-21T21:58:08.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 9
+    },
+    {
       "slug": "crucial-bankipur-bypoll-on-july-30-to-be-test-for-bjp-chief-nabin-bihar-cm-samra-766682",
       "title": "Crucial Bankipur bypoll on July 30; to be test for BJP chief Nabin, Bihar CM Samrat on BJP home turf | Hindustan Times",
       "published_at": "2026-07-02T12:19:26.000Z",
@@ -452,6 +507,17 @@
   ],
   "patna-hc-criticises-autocratic-action-of-state-on-decades-old-land-ownership-hin-726381": [
     {
+      "slug": "patna-hc-takes-serious-view-of-saharsa-mid-day-meal-poisoning-asks-sp-to-head-si-552835",
+      "title": "Patna HC takes serious view of Saharsa mid-day meal poisoning, asks SP to head SIT | Hindustan Times",
+      "published_at": "2026-05-21T13:35:52.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 13
+    },
+    {
       "slug": "sc-judge-inaugurates-interdisciplinary-research-unit-at-cnlu-hindustan-times-219628",
       "title": "SC judge inaugurates interdisciplinary research unit at CNLU | Hindustan Times",
       "published_at": "2026-07-01T17:00:19.000Z",
@@ -463,15 +529,26 @@
       "score": 8
     },
     {
-      "slug": "bihar-starts-training-for-state-officials-at-istm-to-tone-up-administration-hind-931525",
-      "title": "Bihar starts training for state officials at ISTM to tone up administration | Hindustan Times",
-      "published_at": "2026-06-30T16:45:31.000Z",
+      "slug": "sd-sanjay-appointed-new-advocate-general-of-bihar-hindustan-times-616260",
+      "title": "SD Sanjay appointed new Advocate General of Bihar | Hindustan Times",
+      "published_at": "2026-06-18T12:10:15.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
         "title": "Judiciary, Law & Patna High Court"
       },
-      "score": 5
+      "score": 8
+    },
+    {
+      "slug": "bihar-ag-pk-shahi-resigns-successor-may-be-named-today-hindustan-times-709385",
+      "title": "Bihar AG PK Shahi resigns, successor may be named today | Hindustan Times",
+      "published_at": "2026-06-14T12:21:48.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 8
     }
   ],
   "teachers-shortage-prompts-bihar-govt-to-widen-hiring-ambit-for-degree-colleges-h-499301": [
@@ -533,6 +610,109 @@
       "score": 19
     },
     {
+      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
+      "title": "JD(U) pledges to follow Nitish, promote Nishant | Hindustan Times",
+      "published_at": "2026-06-21T21:58:08.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
+      "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
+      "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha | Hindustan Times",
+      "published_at": "2026-06-22T09:36:03.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
+      "slug": "crucial-bankipur-bypoll-on-july-30-to-be-test-for-bjp-chief-nabin-bihar-cm-samra-766682",
+      "title": "Crucial Bankipur bypoll on July 30; to be test for BJP chief Nabin, Bihar CM Samrat on BJP home turf | Hindustan Times",
+      "published_at": "2026-07-02T12:19:26.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    }
+  ],
+  "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304": [
+    {
+      "slug": "pk-to-contest-bankipur-bypoll-hindustan-times-796953",
+      "title": "PK to contest Bankipur bypoll | Hindustan Times",
+      "published_at": "2026-07-05T11:59:56.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
+      "slug": "jdu-wont-disintegrate-like-tmc-ubt-sanjay-jha-hindustan-times-373572",
+      "title": "JD(U) won't disintegrate like TMC, UBT: Sanjay Jha | Hindustan Times",
+      "published_at": "2026-06-22T21:32:08.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
+      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
+      "title": "JD(U) pledges to follow Nitish, promote Nishant | Hindustan Times",
+      "published_at": "2026-06-21T21:58:08.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
+      "slug": "crucial-bankipur-bypoll-on-july-30-to-be-test-for-bjp-chief-nabin-bihar-cm-samra-766682",
+      "title": "Crucial Bankipur bypoll on July 30; to be test for BJP chief Nabin, Bihar CM Samrat on BJP home turf | Hindustan Times",
+      "published_at": "2026-07-02T12:19:26.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 10
+    }
+  ],
+  "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894": [
+    {
+      "slug": "jdu-wont-disintegrate-like-tmc-ubt-sanjay-jha-hindustan-times-373572",
+      "title": "JD(U) won't disintegrate like TMC, UBT: Sanjay Jha | Hindustan Times",
+      "published_at": "2026-06-22T21:32:08.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
+      "slug": "pk-to-contest-bankipur-bypoll-hindustan-times-796953",
+      "title": "PK to contest Bankipur bypoll | Hindustan Times",
+      "published_at": "2026-07-05T11:59:56.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "crucial-bankipur-bypoll-on-july-30-to-be-test-for-bjp-chief-nabin-bihar-cm-samra-766682",
       "title": "Crucial Bankipur bypoll on July 30; to be test for BJP chief Nabin, Bihar CM Samrat on BJP home turf | Hindustan Times",
       "published_at": "2026-07-02T12:19:26.000Z",
@@ -544,6 +724,122 @@
       "score": 13
     },
     {
+      "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
+      "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha | Hindustan Times",
+      "published_at": "2026-06-22T09:36:03.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    }
+  ],
+  "bihar-governor-issues-strict-guidelines-to-vcs-to-check-arbitrary-transfers-hind-246360": [
+    {
+      "slug": "ahead-of-teachers-transfer-policy-samrat-says-no-excuses-after-choice-posting-hi-116207",
+      "title": "Ahead of teachers' transfer policy, Samrat says no excuses after choice posting | Hindustan Times",
+      "published_at": "2026-06-16T21:30:13.000Z",
+      "topic": {
+        "id": "state-administration-vigilance",
+        "slug": "state-administration-vigilance",
+        "title": "State Administration & Vigilance"
+      },
+      "score": 10
+    },
+    {
+      "slug": "no-student-will-fail-in-class-10-12-bihar-govt-to-replace-it-with-eligible-for-s-847961",
+      "title": "No student will 'fail' in Class 10, 12: Bihar govt to replace it with 'Eligible for Skill Training' | Hindustan Times",
+      "published_at": "2026-08-29T02:13:07.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 9
+    },
+    {
+      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
+      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20 | Hindustan Times",
+      "published_at": "2026-07-05T13:36:56.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 9
+    },
+    {
+      "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
+      "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool | Hindustan Times",
+      "published_at": "2026-07-02T12:02:47.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 9
+    }
+  ],
+  "sd-sanjay-appointed-new-advocate-general-of-bihar-hindustan-times-616260": [
+    {
+      "slug": "bihar-ag-pk-shahi-resigns-successor-may-be-named-today-hindustan-times-709385",
+      "title": "Bihar AG PK Shahi resigns, successor may be named today | Hindustan Times",
+      "published_at": "2026-06-14T12:21:48.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 13
+    },
+    {
+      "slug": "sc-judge-inaugurates-interdisciplinary-research-unit-at-cnlu-hindustan-times-219628",
+      "title": "SC judge inaugurates interdisciplinary research unit at CNLU | Hindustan Times",
+      "published_at": "2026-07-01T17:00:19.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 8
+    },
+    {
+      "slug": "patna-hc-criticises-autocratic-action-of-state-on-decades-old-land-ownership-hin-726381",
+      "title": "Patna HC criticises 'autocratic action' of state on decades old land ownership | Hindustan Times",
+      "published_at": "2026-06-26T10:45:25.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 8
+    },
+    {
+      "slug": "patna-hc-takes-serious-view-of-saharsa-mid-day-meal-poisoning-asks-sp-to-head-si-552835",
+      "title": "Patna HC takes serious view of Saharsa mid-day meal poisoning, asks SP to head SIT | Hindustan Times",
+      "published_at": "2026-05-21T13:35:52.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 8
+    }
+  ],
+  "ahead-of-teachers-transfer-policy-samrat-says-no-excuses-after-choice-posting-hi-116207": [
+    {
+      "slug": "bihar-governor-issues-strict-guidelines-to-vcs-to-check-arbitrary-transfers-hind-246360",
+      "title": "Bihar governor issues strict guidelines to VCs to check arbitrary transfers | Hindustan Times",
+      "published_at": "2026-06-18T22:36:04.000Z",
+      "topic": {
+        "id": "state-administration-vigilance",
+        "slug": "state-administration-vigilance",
+        "title": "State Administration & Vigilance"
+      },
+      "score": 10
+    },
+    {
       "slug": "rjd-mp-accuses-bihar-polices-svu-of-shielding-8-ias-officers-in-multi-crore-tend-943518",
       "title": "RJD MP accuses Bihar Police's SVU of shielding 8 IAS officers in multi-crore tender fraud | Hindustan Times",
       "published_at": "2026-06-30T12:02:23.000Z",
@@ -552,7 +848,559 @@
         "slug": "state-administration-vigilance",
         "title": "State Administration & Vigilance"
       },
-      "score": 9
+      "score": 5
+    }
+  ],
+  "bihar-ag-pk-shahi-resigns-successor-may-be-named-today-hindustan-times-709385": [
+    {
+      "slug": "sd-sanjay-appointed-new-advocate-general-of-bihar-hindustan-times-616260",
+      "title": "SD Sanjay appointed new Advocate General of Bihar | Hindustan Times",
+      "published_at": "2026-06-18T12:10:15.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 13
+    },
+    {
+      "slug": "sc-judge-inaugurates-interdisciplinary-research-unit-at-cnlu-hindustan-times-219628",
+      "title": "SC judge inaugurates interdisciplinary research unit at CNLU | Hindustan Times",
+      "published_at": "2026-07-01T17:00:19.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 8
+    },
+    {
+      "slug": "patna-hc-criticises-autocratic-action-of-state-on-decades-old-land-ownership-hin-726381",
+      "title": "Patna HC criticises 'autocratic action' of state on decades old land ownership | Hindustan Times",
+      "published_at": "2026-06-26T10:45:25.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 8
+    },
+    {
+      "slug": "patna-hc-takes-serious-view-of-saharsa-mid-day-meal-poisoning-asks-sp-to-head-si-552835",
+      "title": "Patna HC takes serious view of Saharsa mid-day meal poisoning, asks SP to head SIT | Hindustan Times",
+      "published_at": "2026-05-21T13:35:52.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 8
+    }
+  ],
+  "bihar-govt-releases-998-cr-for-march-to-may-salary-pension-to-varsities-and-coll-820821": [
+    {
+      "slug": "no-student-will-fail-in-class-10-12-bihar-govt-to-replace-it-with-eligible-for-s-847961",
+      "title": "No student will 'fail' in Class 10, 12: Bihar govt to replace it with 'Eligible for Skill Training' | Hindustan Times",
+      "published_at": "2026-08-29T02:13:07.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "amid-raging-debate-over-3-language-policy-cusb-to-award-multilingualism-hindusta-991322",
+      "title": "Amid raging debate over 3-language policy, CUSB to award multilingualism | Hindustan Times",
+      "published_at": "2026-05-29T13:39:50.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
+      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20 | Hindustan Times",
+      "published_at": "2026-07-05T13:36:56.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 14
+    },
+    {
+      "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
+      "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool | Hindustan Times",
+      "published_at": "2026-07-02T12:02:47.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 14
+    }
+  ],
+  "after-docs-pvt-practice-ban-bihar-bars-teachers-from-tuition-coaching-hindustan--896545": [
+    {
+      "slug": "bihars-coaching-chaos-stems-from-feeble-implementation-of-2010-act-hindustan-tim-726280",
+      "title": "Bihar's coaching chaos stems from 'feeble' implementation of 2010 Act | Hindustan Times",
+      "published_at": "2026-06-11T16:35:25.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "no-student-will-fail-in-class-10-12-bihar-govt-to-replace-it-with-eligible-for-s-847961",
+      "title": "No student will 'fail' in Class 10, 12: Bihar govt to replace it with 'Eligible for Skill Training' | Hindustan Times",
+      "published_at": "2026-08-29T02:13:07.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "bihar-govt-releases-998-cr-for-march-to-may-salary-pension-to-varsities-and-coll-820821",
+      "title": "Bihar govt releases ₹998-cr for March to May salary, pension to varsities and colleges | Hindustan Times",
+      "published_at": "2026-06-12T21:34:12.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "amid-raging-debate-over-3-language-policy-cusb-to-award-multilingualism-hindusta-991322",
+      "title": "Amid raging debate over 3-language policy, CUSB to award multilingualism | Hindustan Times",
+      "published_at": "2026-05-29T13:39:50.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    }
+  ],
+  "niti-aayog-meet-bihar-cm-seeks-funds-string-of-institutes-from-centre-hindustan--844215": [
+    {
+      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
+      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20 | Hindustan Times",
+      "published_at": "2026-07-05T13:36:56.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
+      "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool | Hindustan Times",
+      "published_at": "2026-07-02T12:02:47.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "bihar-misses-july-1-deadline-for-211-new-colleges-hindustan-times-532126",
+      "title": "Bihar misses July 1 deadline for 211 new colleges | Hindustan Times",
+      "published_at": "2026-07-01T12:22:11.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "pm-lauds-nalanda-universitys-initiative-to-protect-ancient-tradition-in-line-wit-547429",
+      "title": "PM lauds Nalanda University's initiative to protect ancient tradition in line with tech era | Hindustan Times",
+      "published_at": "2026-06-28T13:32:26.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    }
+  ],
+  "bihars-coaching-chaos-stems-from-feeble-implementation-of-2010-act-hindustan-tim-726280": [
+    {
+      "slug": "after-docs-pvt-practice-ban-bihar-bars-teachers-from-tuition-coaching-hindustan--896545",
+      "title": "After docs' pvt practice ban, Bihar bars teachers from tuition, coaching | Hindustan Times",
+      "published_at": "2026-06-12T13:44:56.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "no-student-will-fail-in-class-10-12-bihar-govt-to-replace-it-with-eligible-for-s-847961",
+      "title": "No student will 'fail' in Class 10, 12: Bihar govt to replace it with 'Eligible for Skill Training' | Hindustan Times",
+      "published_at": "2026-08-29T02:13:07.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "bihar-govt-releases-998-cr-for-march-to-may-salary-pension-to-varsities-and-coll-820821",
+      "title": "Bihar govt releases ₹998-cr for March to May salary, pension to varsities and colleges | Hindustan Times",
+      "published_at": "2026-06-12T21:34:12.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "amid-raging-debate-over-3-language-policy-cusb-to-award-multilingualism-hindusta-991322",
+      "title": "Amid raging debate over 3-language policy, CUSB to award multilingualism | Hindustan Times",
+      "published_at": "2026-05-29T13:39:50.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    }
+  ],
+  "bihar-governor-calls-for-strict-compliance-with-fire-safety-norms-urges-greater--093456": [
+    {
+      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
+      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20 | Hindustan Times",
+      "published_at": "2026-07-05T13:36:56.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
+      "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool | Hindustan Times",
+      "published_at": "2026-07-02T12:02:47.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "bihar-misses-july-1-deadline-for-211-new-colleges-hindustan-times-532126",
+      "title": "Bihar misses July 1 deadline for 211 new colleges | Hindustan Times",
+      "published_at": "2026-07-01T12:22:11.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "pm-lauds-nalanda-universitys-initiative-to-protect-ancient-tradition-in-line-wit-547429",
+      "title": "PM lauds Nalanda University's initiative to protect ancient tradition in line with tech era | Hindustan Times",
+      "published_at": "2026-06-28T13:32:26.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    }
+  ],
+  "after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bih-443972": [
+    {
+      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
+      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20 | Hindustan Times",
+      "published_at": "2026-07-05T13:36:56.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
+      "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool | Hindustan Times",
+      "published_at": "2026-07-02T12:02:47.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "bihar-misses-july-1-deadline-for-211-new-colleges-hindustan-times-532126",
+      "title": "Bihar misses July 1 deadline for 211 new colleges | Hindustan Times",
+      "published_at": "2026-07-01T12:22:11.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "pm-lauds-nalanda-universitys-initiative-to-protect-ancient-tradition-in-line-wit-547429",
+      "title": "PM lauds Nalanda University's initiative to protect ancient tradition in line with tech era | Hindustan Times",
+      "published_at": "2026-06-28T13:32:26.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    }
+  ],
+  "samrat-bats-for-centre-and-state-coordination-for-bihar-growth-in-delhi-hindusta-652437": [
+    {
+      "slug": "pk-to-contest-bankipur-bypoll-hindustan-times-796953",
+      "title": "PK to contest Bankipur bypoll | Hindustan Times",
+      "published_at": "2026-07-05T11:59:56.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 3
+    },
+    {
+      "slug": "rjd-mp-accuses-bihar-polices-svu-of-shielding-8-ias-officers-in-multi-crore-tend-943518",
+      "title": "RJD MP accuses Bihar Police's SVU of shielding 8 IAS officers in multi-crore tender fraud | Hindustan Times",
+      "published_at": "2026-06-30T12:02:23.000Z",
+      "topic": {
+        "id": "state-administration-vigilance",
+        "slug": "state-administration-vigilance",
+        "title": "State Administration & Vigilance"
+      },
+      "score": 3
+    },
+    {
+      "slug": "jdu-wont-disintegrate-like-tmc-ubt-sanjay-jha-hindustan-times-373572",
+      "title": "JD(U) won't disintegrate like TMC, UBT: Sanjay Jha | Hindustan Times",
+      "published_at": "2026-06-22T21:32:08.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 3
+    },
+    {
+      "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
+      "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha | Hindustan Times",
+      "published_at": "2026-06-22T09:36:03.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 3
+    }
+  ],
+  "amid-raging-debate-over-3-language-policy-cusb-to-award-multilingualism-hindusta-991322": [
+    {
+      "slug": "no-student-will-fail-in-class-10-12-bihar-govt-to-replace-it-with-eligible-for-s-847961",
+      "title": "No student will 'fail' in Class 10, 12: Bihar govt to replace it with 'Eligible for Skill Training' | Hindustan Times",
+      "published_at": "2026-08-29T02:13:07.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "bihar-govt-releases-998-cr-for-march-to-may-salary-pension-to-varsities-and-coll-820821",
+      "title": "Bihar govt releases ₹998-cr for March to May salary, pension to varsities and colleges | Hindustan Times",
+      "published_at": "2026-06-12T21:34:12.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
+      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20 | Hindustan Times",
+      "published_at": "2026-07-05T13:36:56.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 14
+    },
+    {
+      "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
+      "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool | Hindustan Times",
+      "published_at": "2026-07-02T12:02:47.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 14
+    }
+  ],
+  "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315": [
+    {
+      "slug": "samrat-discusses-higher-education-issues-with-governor-ahead-of-new-deptt-review-828492",
+      "title": "Samrat discusses higher education issues with Governor ahead of new deptt review | Hindustan Times",
+      "published_at": "2026-05-26T03:57:07.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
+      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20 | Hindustan Times",
+      "published_at": "2026-07-05T13:36:56.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
+      "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool | Hindustan Times",
+      "published_at": "2026-07-02T12:02:47.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "bihar-misses-july-1-deadline-for-211-new-colleges-hindustan-times-532126",
+      "title": "Bihar misses July 1 deadline for 211 new colleges | Hindustan Times",
+      "published_at": "2026-07-01T12:22:11.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    }
+  ],
+  "samrat-discusses-higher-education-issues-with-governor-ahead-of-new-deptt-review-828492": [
+    {
+      "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
+      "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process | Hindustan Times",
+      "published_at": "2026-05-28T14:01:20.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
+      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20 | Hindustan Times",
+      "published_at": "2026-07-05T13:36:56.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
+      "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool | Hindustan Times",
+      "published_at": "2026-07-02T12:02:47.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "bihar-misses-july-1-deadline-for-211-new-colleges-hindustan-times-532126",
+      "title": "Bihar misses July 1 deadline for 211 new colleges | Hindustan Times",
+      "published_at": "2026-07-01T12:22:11.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    }
+  ],
+  "patna-hc-takes-serious-view-of-saharsa-mid-day-meal-poisoning-asks-sp-to-head-si-552835": [
+    {
+      "slug": "patna-hc-criticises-autocratic-action-of-state-on-decades-old-land-ownership-hin-726381",
+      "title": "Patna HC criticises 'autocratic action' of state on decades old land ownership | Hindustan Times",
+      "published_at": "2026-06-26T10:45:25.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 13
+    },
+    {
+      "slug": "sc-judge-inaugurates-interdisciplinary-research-unit-at-cnlu-hindustan-times-219628",
+      "title": "SC judge inaugurates interdisciplinary research unit at CNLU | Hindustan Times",
+      "published_at": "2026-07-01T17:00:19.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 8
+    },
+    {
+      "slug": "sd-sanjay-appointed-new-advocate-general-of-bihar-hindustan-times-616260",
+      "title": "SD Sanjay appointed new Advocate General of Bihar | Hindustan Times",
+      "published_at": "2026-06-18T12:10:15.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 8
+    },
+    {
+      "slug": "bihar-ag-pk-shahi-resigns-successor-may-be-named-today-hindustan-times-709385",
+      "title": "Bihar AG PK Shahi resigns, successor may be named today | Hindustan Times",
+      "published_at": "2026-06-14T12:21:48.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 8
     }
   ]
 }

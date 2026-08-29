@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Patna HC takes serious view of Saharsa mid-day meal poisoning, asks SP to head SIT | Hindustan Times",
+  "description": "The incident occurred at a government middle school in Baluaha village (Mahishi block) of Saharsa when children fell ill after consuming mid-day meal containing a suspected de\"small snake\"",
+  "datePublished": "2026-05-21T13:35:52.000Z",
+  "dateModified": "2026-05-21T13:35:52.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/patna-hc-takes-serious-view-of-saharsa-mid-day-meal-poisoning-asks-sp-to-head-si-552835"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Patna High Court",
+    "Mid-Day Meal"
+  ],
+  "wordCount": 938
+}
