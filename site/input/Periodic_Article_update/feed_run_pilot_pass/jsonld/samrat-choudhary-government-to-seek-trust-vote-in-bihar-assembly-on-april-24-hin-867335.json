@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Samrat Choudhary government to seek trust vote in Bihar Assembly on April 24 | Hindustan Times",
+  "description": "Samrat Choudhary government to seek trust vote in Bihar Assembly's April 24 session despite NDA majority; one-day sitting ahead of monsoon session.",
+  "datePublished": "2026-04-18T10:41:07.000Z",
+  "dateModified": "2026-04-18T10:41:08.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/samrat-choudhary-government-to-seek-trust-vote-in-bihar-assembly-on-april-24-hin-867335"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 326
+}

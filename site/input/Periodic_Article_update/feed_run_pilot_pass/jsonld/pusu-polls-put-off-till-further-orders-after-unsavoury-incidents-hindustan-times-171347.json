@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "PUSU polls put off till further orders after unsavoury incidents | Hindustan Times",
+  "description": "Polls were scheduled for February 28 and Saturday was the day when the names of the candidate for various central panel and councillors' posts were to be announced to set the stage for campaigning, but things went awry before that",
+  "datePublished": "2026-02-21T15:36:10.000Z",
+  "dateModified": "2026-02-21T15:36:10.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/pusu-polls-put-off-till-further-orders-after-unsavoury-incidents-hindustan-times-171347"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna University"
+  ],
+  "wordCount": 497
+}

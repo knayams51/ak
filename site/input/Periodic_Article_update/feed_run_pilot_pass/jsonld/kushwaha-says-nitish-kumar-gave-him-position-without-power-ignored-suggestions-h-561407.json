@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Kushwaha says Nitish Kumar gave him position without power, ignored suggestions | Hindustan Times",
+  "description": "He said he also respects Kumar and therefore wanted the chief minister to be alert and handle things well or else the party will be damaged",
+  "datePublished": "2023-01-31T10:56:00.000Z",
+  "dateModified": "2023-01-31T10:58:01.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/kushwaha-says-nitish-kumar-gave-him-position-without-power-ignored-suggestions-h-561407"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)"
+  ],
+  "wordCount": 410
+}

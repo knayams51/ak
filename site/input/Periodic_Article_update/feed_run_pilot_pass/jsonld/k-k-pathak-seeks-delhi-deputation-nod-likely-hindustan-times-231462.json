@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "K K Pathak seeks Delhi deputation, nod likely | Hindustan Times",
+  "description": "Pathak, who was only recently praised by chief minister Nitish Kumar as an \"honest officer\", has courted numerous controversies in his less than a year of his stint in the education department.",
+  "datePublished": "2024-02-29T16:30:30.000Z",
+  "dateModified": "2024-02-29T16:30:31.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/k-k-pathak-seeks-delhi-deputation-nod-likely-hindustan-times-231462"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "BPSC"
+  ],
+  "wordCount": 383
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nitish's son likely to ministerial berth as Bihar cabinet set for grand expansion on Thursday | Hindustan Times",
+  "description": "Nishant Kumar, who had embarked on his Bihar yatra, is said to have halted it for the cabinet expansion, hinting that he is ready for a role in the state government after joining the JD(U) only some weeks ago",
+  "datePublished": "2026-05-06T17:23:43.000Z",
+  "dateModified": "2026-05-06T17:23:43.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nitishs-son-likely-to-ministerial-berth-as-bihar-cabinet-set-for-grand-expansion-224380"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "wordCount": 948
+}

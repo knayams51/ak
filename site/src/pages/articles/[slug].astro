@@ -1,0 +1,28 @@
+---
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import articlesData from '../../data/articles.json';
+import relatedContent from '../../data/related-content.json';
+
+export async function getStaticPaths() {
+  return articlesData.map(article => ({
+    params: { slug: article.slug },
+    props: { article }
+  }));
+}
+
+const { article } = Astro.props;
+const related = (relatedContent as Record<string, any>)[article.slug] || [];
+
+// Render paragraphs
+const paragraphs = article.body_markdown
+  ? article.body_markdown.replace(/^#\s+[^\n]+\n+/, '').split(/\n\s*\n/)
+  : [article.summary];
+---
+
+<ArticleLayout article={article} related={related}>
+  {paragraphs.map((p: string) => {
+    const trimmed = p.trim();
+    if (!trimmed) return null;
+    return <p>{trimmed}</p>;
+  })}
+</ArticleLayout>

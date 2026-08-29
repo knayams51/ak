@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "32 ministers, including Nitish's son, inducted in Bihar CM Samrat's cabinet | Hindustan Times",
+  "description": "Lt Gen (Rtd) Syed Ata Hasnain administered the oath of office to the ministers, which brings the Samrat cabinet's strength to 35",
+  "datePublished": "2026-05-07T09:17:09.000Z",
+  "dateModified": "2026-05-07T09:17:09.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/32-ministers-including-nitishs-son-inducted-in-bihar-cm-samrats-cabinet-hindusta-429520"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "BJP"
+  ],
+  "wordCount": 323
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "After a long gap, Governor initiates process for appointment of 14 Pro-VCs in Bihar | Hindustan Times",
+  "description": "This means, there will be 24 appointments made for the highest academic posts in the state universities in the coming months by Governor Lt Gen (Rtd) Syed Ata Hasnain. For the last few years, no appointment had been made to the post of Pro-VCs in Bihar.",
+  "datePublished": "2026-06-01T21:36:10.000Z",
+  "dateModified": "2026-06-01T21:36:10.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bih-443972"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna University"
+  ],
+  "wordCount": 607
+}

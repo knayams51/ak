@@ -1,0 +1,52 @@
+{
+  "id": "944ca409f674f7d9",
+  "slug": "bihars-revolutionary-matuk-falls-in-love-with-aap-india-news-74f7d9",
+  "title": "Bihar's 'revolutionary' Matuk falls in love with AAP | India News",
+  "summary": "Bihar's (in)famous 'love guru', Matuknath Choudhary, whose decision to leave his first wife to live with his student Julie in 2006 hit the headlines, desperately wants to join the Aam Aadmi Party (AAP). | India News",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2014-01-15T19:40:42.000Z",
+  "modified_at": "2014-01-15T19:42:29.000Z",
+  "word_count": 271,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Patna High Court",
+    "Patna University"
+  ],
+  "source_url": "https://www.hindustantimes.com/india/bihar-s-revolutionary-matuk-falls-in-love-with-aap/story-CwZIYC2pgksoCEiB1CkYjM.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india/bihar-s-revolutionary-matuk-falls-in-love-with-aap/story-CwZIYC2pgksoCEiB1CkYjM.html",
+      "original_article_id": "944ca409f674f7d9",
+      "published_at": "2014-01-15T19:40:42.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india/bihar-s-revolutionary-matuk-falls-in-love-with-aap/story-CwZIYC2pgksoCEiB1CkYjM.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "5623379290873ef70825b314cb8886465e812033755cacdbe3bc96774d052535",
+      "last_verified_at": "2026-08-29T12:46:16.532Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

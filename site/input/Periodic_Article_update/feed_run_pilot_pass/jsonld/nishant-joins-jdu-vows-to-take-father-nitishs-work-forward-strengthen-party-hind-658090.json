@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nishant joins JD(U); vows to take father Nitish's work forward, strengthen party | Hindustan Times",
+  "description": "JD(U) state president Umesh Kushwaha said Nishant Kumar is the future of the party and that the entire JD(U) would work with him.",
+  "datePublished": "2026-03-08T09:54:17.000Z",
+  "dateModified": "2026-03-08T09:54:17.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nishant-joins-jdu-vows-to-take-father-nitishs-work-forward-strengthen-party-hind-658090"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)"
+  ],
+  "wordCount": 721
+}

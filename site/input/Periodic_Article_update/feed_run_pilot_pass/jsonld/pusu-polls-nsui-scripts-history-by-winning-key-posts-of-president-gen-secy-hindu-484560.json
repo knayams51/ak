@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "PUSU polls: NSUI scripts history by winning key posts of president, gen secy | Hindustan Times",
+  "description": "NSUI's Shantanu Shekhar won the election for president post by a big margin of 1,496 votes, defeating his nearest rival Prince Kumar from the Chhatra JD(U)",
+  "datePublished": "2026-03-01T12:01:24.000Z",
+  "dateModified": "2026-03-01T12:01:24.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/pusu-polls-nsui-scripts-history-by-winning-key-posts-of-president-gen-secy-hindu-484560"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "Patna University",
+    "JD(U)",
+    "RJD",
+    "Congress"
+  ],
+  "wordCount": 767
+}

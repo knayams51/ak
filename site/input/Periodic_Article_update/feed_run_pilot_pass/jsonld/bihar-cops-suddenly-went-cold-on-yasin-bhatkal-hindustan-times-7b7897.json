@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar cops suddenly went cold on Yasin Bhatkal | Hindustan Times",
+  "description": "State police cooperates with the National Investigation Agency in nabbing the alleged terrorist, but then strangely shows 'disinterest' in questioning them. Arun Kumar & Avinash Kumar report.",
+  "datePublished": "2013-08-30T14:03:11.000Z",
+  "dateModified": "2013-08-30T18:15:03.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-cops-suddenly-went-cold-on-yasin-bhatkal-hindustan-times-7b7897"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 444
+}

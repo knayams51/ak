@@ -1,0 +1,119 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Instant Search | Arun Kumar Living Journalistic Archive"
+  description="Search across all living and historical dispatches by keywords, topics, entities, and datelines."
+>
+  <div class="container" style="max-width: 860px; padding-top: 3.5rem; padding-bottom: 5rem;">
+    <div style="border-bottom: 2px solid var(--border-color); padding-bottom: 1.5rem; margin-bottom: 2.5rem;">
+      <span style="font-size: 0.85rem; font-weight: 700; color: var(--accent-color); text-transform: uppercase; letter-spacing: 0.05em;">
+        Full-Text Discovery
+      </span>
+      <h1 style="font-size: 2.75rem; margin: 0.5rem 0 1rem;">
+        Search Living Archive
+      </h1>
+      <p style="font-size: 1.1rem; color: var(--text-secondary);">
+        Search across Arun Kumar's active ongoing and historical Bihar journalistic dispatches by headlines, government policies, legal rulings, and political keywords.
+      </p>
+
+      {/* Search Input Box */}
+      <div style="margin-top: 1.5rem; position: relative;">
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Search e.g. BPSC, Patna High Court, Assistant Professor, Nitish Kumar, PUSU..."
+          style="width: 100%; padding: 0.85rem 1.25rem; font-size: 1.1rem; border-radius: 8px; border: 2px solid var(--border-color); background-color: var(--bg-surface); color: var(--text-primary); outline: none;"
+          autofocus
+        />
+      </div>
+    </div>
+
+    {/* Search Status & Results Container */}
+    <div id="searchMeta" style="margin-bottom: 1.5rem; font-size: 0.95rem; color: var(--text-muted); font-weight: 600;">
+      Loading search index...
+    </div>
+
+    <div id="resultsContainer" style="display: flex; flex-direction: column; gap: 1.25rem;">
+      {/* Dynamic Results Loaded by JS */}
+    </div>
+  </div>
+
+  <script>
+    let searchIndex: any[] = [];
+    const searchInput = document.getElementById('searchInput') as HTMLInputElement;
+    const searchMeta = document.getElementById('searchMeta') as HTMLElement;
+    const resultsContainer = document.getElementById('resultsContainer') as HTMLElement;
+
+    async function loadIndex() {
+      try {
+        const res = await fetch('/search-index.json');
+        searchIndex = await res.json();
+        searchMeta.textContent = `Search index loaded with ${searchIndex.length} living dispatches. Start typing to filter.`;
+        renderResults(searchIndex);
+      } catch (err) {
+        searchMeta.textContent = 'Failed to load search index.';
+      }
+    }
+
+    function renderResults(items: any[]) {
+      if (items.length === 0) {
+        resultsContainer.innerHTML = `
+          <div class="card" style="text-align: center; padding: 2.5rem;">
+            <p style="font-size: 1.05rem; color: var(--text-muted);">No matching dispatches found. Try different keywords.</p>
+          </div>
+        `;
+        return;
+      }
+
+      resultsContainer.innerHTML = items.map(item => {
+        const dateStr = new Date(item.published_at).toLocaleDateString('en-IN', {
+          year: 'numeric',
+          month: 'short',
+          day: 'numeric'
+        });
+
+        return `
+          <article class="card" style="padding: 1.25rem;">
+            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.4rem; flex-wrap: wrap;">
+              <span style="font-weight: 700; color: var(--accent-color); text-transform: uppercase;">${item.topic || 'Bihar News'}</span>
+              <span>${dateStr} • ${item.word_count || 500} words</span>
+            </div>
+            <h3 style="font-size: 1.25rem; line-height: 1.35; margin-bottom: 0.5rem;">
+              <a href="/articles/${item.slug}" style="color: inherit; text-decoration: none;">
+                ${item.title}
+              </a>
+            </h3>
+            <p style="font-size: 0.95rem; color: var(--text-secondary); line-height: 1.5; margin-bottom: 0.75rem;">
+              ${item.summary || ''}
+            </p>
+            <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem; border-top: 1px solid var(--border-light); padding-top: 0.5rem;">
+              <span style="color: var(--text-muted);">By ${item.byline || 'Arun Kumar'} (${item.dateline || 'Patna'})</span>
+              <a href="/articles/${item.slug}" style="font-weight: 600; color: var(--accent-color); text-decoration: none;">Read dispatch →</a>
+            </div>
+          </article>
+        `;
+      }).join('');
+    }
+
+    searchInput?.addEventListener('input', (e) => {
+      const q = (e.target as HTMLInputElement).value.toLowerCase().trim();
+      if (!q) {
+        searchMeta.textContent = `Showing all ${searchIndex.length} dispatches.`;
+        renderResults(searchIndex);
+        return;
+      }
+
+      const filtered = searchIndex.filter(item => {
+        const combined = `${item.title} ${item.summary} ${item.topic} ${item.subtopic} ${(item.tags || []).join(' ')} ${item.dateline}`.toLowerCase();
+        return combined.includes(q);
+      });
+
+      searchMeta.textContent = `Found ${filtered.length} matching dispatches for "${q}"`;
+      renderResults(filtered);
+    });
+
+    loadIndex();
+  </script>
+</BaseLayout>

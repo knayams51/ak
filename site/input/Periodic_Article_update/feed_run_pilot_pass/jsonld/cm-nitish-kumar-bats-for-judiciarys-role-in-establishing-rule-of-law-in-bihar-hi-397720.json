@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "CM Nitish Kumar bats for judiciary's role in establishing rule of law in Bihar | Hindustan Times",
+  "description": "Kumar had earlier in his address referred to the Patna HC's endeavour in 2006, soon after he took over the reins of the state, to help establish the rule of law by ensuring speedy trials so that wrongdoers could get punishment.",
+  "datePublished": "2021-02-27T13:26:01.000Z",
+  "dateModified": "2021-02-27T13:26:01.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/cm-nitish-kumar-bats-for-judiciarys-role-in-establishing-rule-of-law-in-bihar-hi-397720"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 840
+}

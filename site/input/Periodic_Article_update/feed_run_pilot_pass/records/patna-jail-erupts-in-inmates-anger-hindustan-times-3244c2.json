@@ -1,0 +1,53 @@
+{
+  "id": "f274d7ed063244c2",
+  "slug": "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2",
+  "title": "Patna jail erupts in inmates' anger | Hindustan Times",
+  "summary": "About 400 inmates of Beur Central Jail, irked by ill treatment, take control of the inner wing of the high-security prison for nearly eight hours, report Arun Kumar & Ramashankar.",
+  "byline": "Arun Kumar and Ramashankar",
+  "dateline": "Patna",
+  "published_at": "2007-12-18T19:06:59.000Z",
+  "modified_at": "2007-12-18T21:48:16.000Z",
+  "word_count": 370,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "judiciary-law-patna-high-court",
+    "slug": "judiciary-law-patna-high-court",
+    "title": "Judiciary, Law & Patna High Court"
+  },
+  "subtopic": {
+    "id": "legal-bar-affairs",
+    "slug": "legal-bar-affairs",
+    "title": "Legal Profession & Bar Affairs"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/patna-jail-erupts-in-inmates-anger/story-o7NeJwn0smUNFtOQp1KneL.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/patna-jail-erupts-in-inmates-anger/story-o7NeJwn0smUNFtOQp1KneL.html",
+      "original_article_id": "f274d7ed063244c2",
+      "published_at": "2007-12-18T19:06:59.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/patna-jail-erupts-in-inmates-anger/story-o7NeJwn0smUNFtOQp1KneL.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "fedb703e6a3bd3c21f63e28b9529c4130bc42855eb15d85acfc0dd3bae5a6636",
+      "last_verified_at": "2026-08-29T12:46:16.559Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

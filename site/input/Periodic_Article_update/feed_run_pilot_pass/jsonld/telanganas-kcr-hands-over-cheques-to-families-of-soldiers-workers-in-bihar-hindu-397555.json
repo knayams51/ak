@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Telangana's KCR hands over cheques to families of soldiers, workers in Bihar | Hindustan Times",
+  "description": "Telangana chief minister KCR's visit to Bihar has been seen as part of the efforts to cobble up an Opposition alliance of regional power centres to take on the BJP in 2024 general elections",
+  "datePublished": "2022-08-31T12:36:37.000Z",
+  "dateModified": "2022-08-31T14:12:38.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/telanganas-kcr-hands-over-cheques-to-families-of-soldiers-workers-in-bihar-hindu-397555"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "BJP"
+  ],
+  "wordCount": 551
+}

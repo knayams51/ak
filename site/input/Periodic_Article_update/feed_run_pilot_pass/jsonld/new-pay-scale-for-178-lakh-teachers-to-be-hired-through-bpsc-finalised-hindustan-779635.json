@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "New pay scale for 1.78 lakh teachers to be hired through BPSC finalised | Hindustan Times",
+  "description": "Though the pay scale is significantly higher than what over 3.5 lakh teachers appointed through the panchayatI raj institutions (PRIs) and urban local bodies (ULBs) since 2006 are currently getting, it is lower than the old prescribed pay scale for teachers, under which around 60,000 still remain in service.",
+  "datePublished": "2023-04-30T15:32:59.000Z",
+  "dateModified": "2023-04-30T15:33:02.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/new-pay-scale-for-178-lakh-teachers-to-be-hired-through-bpsc-finalised-hindustan-779635"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar",
+    "Patna High Court",
+    "BPSC"
+  ],
+  "wordCount": 393
+}

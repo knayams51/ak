@@ -1,0 +1,51 @@
+{
+  "id": "5a72c64cc2fe7388",
+  "slug": "cbi-to-probe-death-of-bihar-engineer-hindustan-times-fe7388",
+  "title": "CBI to probe death of Bihar engineer | Hindustan Times",
+  "summary": "Bihar Chief Minister Nitish Kumar on Wednesday consented to a Central Bureau of Investigation (CBI) probe into the mysterious death of Yogendra Pandey, a state public works department engineer on June 18.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2009-06-24T18:45:43.000Z",
+  "modified_at": "2009-06-24T18:48:18.000Z",
+  "word_count": 349,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "state-administration-vigilance",
+    "slug": "state-administration-vigilance",
+    "title": "State Administration & Vigilance"
+  },
+  "subtopic": {
+    "id": "vigilance-anti-corruption",
+    "slug": "vigilance-anti-corruption",
+    "title": "Vigilance & Anti-Corruption Inquiries"
+  },
+  "tags": [
+    "Nitish Kumar"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/cbi-to-probe-death-of-bihar-engineer/story-CQFmQc5VouQDfTONoeplRM.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/cbi-to-probe-death-of-bihar-engineer/story-CQFmQc5VouQDfTONoeplRM.html",
+      "original_article_id": "5a72c64cc2fe7388",
+      "published_at": "2009-06-24T18:45:43.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/cbi-to-probe-death-of-bihar-engineer/story-CQFmQc5VouQDfTONoeplRM.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "f251a4333168d1a90e9e02a8fbd9ec29c776ddb6ccd772bd24e1fba49a8c9ecf",
+      "last_verified_at": "2026-08-29T12:46:16.553Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "101772454531246",
+  "slug": "collegium-clears-9-more-judges-for-patna-hc-hindustan-times-531246",
+  "title": "Collegium clears 9 more judges for Patna HC | Hindustan Times",
+  "summary": "Against the sanctioned strength of 53, the Patna HC will have the working strength of 46 judges, which will be around 87% -- the highest in recent decades",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-03-02T12:28:50.000Z",
+  "modified_at": "2026-03-02T12:28:50.000Z",
+  "word_count": 390,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "judiciary-law-patna-high-court",
+    "slug": "judiciary-law-patna-high-court",
+    "title": "Judiciary, Law & Patna High Court"
+  },
+  "subtopic": {
+    "id": "landmark-rulings-pils",
+    "slug": "landmark-rulings-pils",
+    "title": "Landmark Rulings & Suo Motu PILs"
+  },
+  "tags": [
+    "Patna High Court"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/collegium-clears-9-more-judges-for-patna-hc-101772454531246.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/collegium-clears-9-more-judges-for-patna-hc-101772454531246.html",
+      "original_article_id": "101772454531246",
+      "published_at": "2026-03-02T12:28:50.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/collegium-clears-9-more-judges-for-patna-hc-101772454531246.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "cf234a1465f51424c83e13b13b4883439ed624a46a372ca449080c8e45a95439",
+      "last_verified_at": "2026-08-29T12:46:16.365Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

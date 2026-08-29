@@ -1,0 +1,53 @@
+{
+  "id": "e8daca9fc1e12495",
+  "slug": "state-council-to-streamline-higher-education-soon-hindustan-times-e12495",
+  "title": "State council to streamline higher education soon | Hindustan Times",
+  "summary": "The government is likely to try and rope in services of former President APJ Abul Kalam and founder director of NLSIU, Bangalore, Dr NR Madhava Menon and the likes",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2013-02-27T09:05:03.000Z",
+  "modified_at": "2013-02-27T09:07:55.000Z",
+  "word_count": 452,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/state-council-to-streamline-higher-education-soon/story-W6fBbiGJY484IOm2MZf2lK.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/state-council-to-streamline-higher-education-soon/story-W6fBbiGJY484IOm2MZf2lK.html",
+      "original_article_id": "e8daca9fc1e12495",
+      "published_at": "2013-02-27T09:05:03.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/state-council-to-streamline-higher-education-soon/story-W6fBbiGJY484IOm2MZf2lK.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "b9cbb446387238e84b80a04dda7e701b9d88cb990fb44312489a0432dde4aef0",
+      "last_verified_at": "2026-08-29T12:46:16.540Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

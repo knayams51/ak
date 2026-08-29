@@ -1,0 +1,53 @@
+{
+  "id": "101782475948097",
+  "slug": "bihar-to-have-new-act-to-govern-state-varsities-hindustan-times-948097",
+  "title": "Bihar to have new Act to govern state varsities | Hindustan Times",
+  "summary": "The new law will incorporate best practices adopted by 15 other states and also key features of similar acts prevalent there",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-06-26T12:12:27.000Z",
+  "modified_at": "2026-06-26T12:12:27.000Z",
+  "word_count": 527,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/bihar-to-have-new-act-to-govern-state-varsities-101782475948097.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/bihar-to-have-new-act-to-govern-state-varsities-101782475948097.html",
+      "original_article_id": "101782475948097",
+      "published_at": "2026-06-26T12:12:27.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/bihar-to-have-new-act-to-govern-state-varsities-101782475948097.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "6397776ea4d012d2784ba7aa6a31c714f6ba89377d8ccc9e0b89dc5715cde288",
+      "last_verified_at": "2026-08-29T12:46:16.242Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

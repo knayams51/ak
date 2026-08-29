@@ -1,0 +1,117 @@
+---
+const { provenance, title = "Article" } = Astro.props;
+if (!provenance) return null;
+
+const { primary_source, archival_source, document_provenance } = provenance;
+---
+
+<div class="provenance-action-bar" aria-label="Journalistic Archival Provenance">
+  <div style="display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;">
+    {primary_source?.canonical_url ? (
+      <a 
+        href={primary_source.canonical_url} 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="provenance-pill tag-ht" 
+        title="View original publication on Hindustan Times"
+      >
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+        Hindustan Times ({primary_source?.dateline || 'Patna'}) ↗
+      </a>
+    ) : (
+      <span class="provenance-pill tag-ht">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+        Hindustan Times ({primary_source?.dateline || 'Patna'})
+      </span>
+    )}
+
+    {archival_source?.wayback_url && (
+      <a 
+        href={archival_source.wayback_url} 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="provenance-pill tag-wayback" 
+        title="Permanent snapshot on Internet Archive Wayback Machine"
+      >
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        Wayback Preserved ↗
+      </a>
+    )}
+
+    {document_provenance?.has_pdf_scan && (
+      <a 
+        href={document_provenance.pdf_public_url} 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="provenance-pill tag-pdf"
+      >
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+        Print PDF Scan ↗
+      </a>
+    )}
+  </div>
+</div>
+
+<style>
+  .provenance-action-bar {
+    margin: 1.25rem 0 1.75rem;
+  }
+
+  .provenance-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.8rem;
+    font-weight: 700;
+    padding: 0.35rem 0.75rem;
+    border-radius: 6px;
+    text-decoration: none !important;
+    transition: all 0.15s ease;
+  }
+
+  .tag-ht {
+    background-color: #fee2e2;
+    color: #991b1b !important;
+    border: 1px solid #fca5a5;
+  }
+  .tag-ht:hover {
+    background-color: #fecaca;
+    transform: translateY(-1px);
+  }
+
+  .tag-wayback {
+    background-color: #e0f2fe;
+    color: #0369a1 !important;
+    border: 1px solid #7dd3fc;
+  }
+  .tag-wayback:hover {
+    background-color: #bae6fd;
+    transform: translateY(-1px);
+  }
+
+  .tag-pdf {
+    background-color: #f3e8ff;
+    color: #6b21a8 !important;
+    border: 1px solid #d8b4fe;
+  }
+  .tag-pdf:hover {
+    background-color: #e9d5ff;
+    transform: translateY(-1px);
+  }
+
+  :global([data-theme="dark"]) .tag-ht {
+    background-color: #450a0a;
+    color: #fca5a5 !important;
+    border-color: #7f1d1d;
+  }
+  :global([data-theme="dark"]) .tag-wayback {
+    background-color: #082f49;
+    color: #7dd3fc !important;
+    border-color: #0369a1;
+  }
+  :global([data-theme="dark"]) .tag-pdf {
+    background-color: #3b0764;
+    color: #d8b4fe !important;
+    border-color: #6b21a8;
+  }
+</style>

@@ -1,0 +1,53 @@
+{
+  "id": "101772041890248",
+  "slug": "6-more-bills-to-be-tabled-in-bihar-house-hindustan-times-890248",
+  "title": "6 more bills to be tabled in Bihar House | Hindustan Times",
+  "summary": "The Bills are Bihar Jan Vishwas (Amendment of Provisions) Bill, 2026, Bihar Micro Finance Institutions (Regulations of Money Lending and Prevention of Coercive Actions) Bill, 2026, the Bihar State Madarsa Education Board (Amendment) Bill, 2026, Bihar Private Professional Educational Institutions (Admission, Regulation and Fixation of Fee) Bill, 2026, Bihar Advocates Welfare Fund (Amendment) Act, 2026 and Bihar Secretariat Service (Amendment) Bill 2026.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-02-25T21:48:18.000Z",
+  "modified_at": "2026-02-25T21:48:18.000Z",
+  "word_count": 797,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "assembly-cabinet-decisions",
+    "slug": "assembly-cabinet-decisions",
+    "title": "Assembly Proceedings & Cabinet Decisions"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/6-more-bills-to-be-tabled-in-bihar-house-101772041890248.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/6-more-bills-to-be-tabled-in-bihar-house-101772041890248.html",
+      "original_article_id": "101772041890248",
+      "published_at": "2026-02-25T21:48:18.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/6-more-bills-to-be-tabled-in-bihar-house-101772041890248.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "7dd2975e4ba558c12ce42497667df0b2debf7be1e76301462d735475f133cb05",
+      "last_verified_at": "2026-08-29T12:46:16.371Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

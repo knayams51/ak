@@ -1,0 +1,131 @@
+---
+interface Props {
+  variant?: 'hero' | 'circle' | 'card' | 'about';
+  size?: number;
+  class?: string;
+}
+
+const { variant = 'hero', size = 88, class: className = '' } = Astro.props;
+---
+
+{variant === 'circle' && (
+  <div class={`author-portrait-circle ${className}`} style={`width: ${size}px; height: ${size}px;`}>
+    <img 
+      src="/images/author/arun_kumar_portrait.svg" 
+      alt="Arun Kumar, Associate Editor, Hindustan Times Patna" 
+      class="circle-img"
+      loading="eager"
+    />
+    <span class="status-indicator" title="Active Journalist & Living Archive"></span>
+  </div>
+)}
+
+{variant === 'hero' && (
+  <div class={`author-poster-card ${className}`}>
+    <div class="poster-inner">
+      <img 
+        src="/images/author/arun_kumar_portrait.svg" 
+        alt="Arun Kumar, Associate Editor, Hindustan Times" 
+        class="poster-img"
+        loading="eager"
+      />
+    </div>
+  </div>
+)}
+
+{variant === 'about' && (
+  <div class={`author-about-card ${className}`}>
+    <div class="about-poster-inner">
+      <img 
+        src="/images/author/arun_kumar_portrait.svg" 
+        alt="Arun Kumar - Associate Editor, Hindustan Times Patna" 
+        class="about-img"
+        loading="eager"
+      />
+    </div>
+  </div>
+)}
+
+<style>
+  /* Circle Vignette (Mobile Hero & Byline Bio) */
+  .author-portrait-circle {
+    position: relative;
+    border-radius: 50%;
+    overflow: visible;
+    flex-shrink: 0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  }
+
+  .circle-img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid var(--accent-color);
+    background: var(--bg-surface);
+    display: block;
+  }
+
+  .status-indicator {
+    position: absolute;
+    bottom: 4px;
+    right: 4px;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background-color: #16a34a;
+    border: 2px solid var(--bg-surface);
+    box-shadow: 0 0 0 2px rgba(22, 163, 74, 0.3);
+  }
+
+  /* Framed Vertical Poster (Desktop Hero) */
+  .author-poster-card {
+    width: 100%;
+    max-width: 280px;
+    border-radius: 12px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .author-poster-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 16px 32px -6px rgba(0, 0, 0, 0.15);
+  }
+
+  .poster-inner {
+    width: 100%;
+    aspect-ratio: 4 / 4.8;
+  }
+
+  .poster-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* About Page Poster */
+  .author-about-card {
+    width: 100%;
+    max-width: 320px;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  }
+
+  .about-poster-inner {
+    width: 100%;
+    aspect-ratio: 4 / 4.8;
+  }
+
+  .about-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+</style>

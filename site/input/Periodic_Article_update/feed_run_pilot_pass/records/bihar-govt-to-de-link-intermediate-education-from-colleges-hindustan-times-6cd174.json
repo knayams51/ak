@@ -1,0 +1,51 @@
+{
+  "id": "ef0b0cad196cd174",
+  "slug": "bihar-govt-to-de-link-intermediate-education-from-colleges-hindustan-times-6cd174",
+  "title": "Bihar Govt to de-link intermediate education from colleges | Hindustan Times",
+  "summary": "The Govt will de-linked Intermediate teaching from all the degree colleges of the State from 2008, reports Arun Kumar.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2007-06-29T16:04:44.000Z",
+  "modified_at": "2007-06-29T16:06:29.000Z",
+  "word_count": 444,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Patna University"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/bihar-govt-to-de-link-intermediate-education-from-colleges/story-iCGIlmUKHtKgefdYxdPSSK.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/bihar-govt-to-de-link-intermediate-education-from-colleges/story-iCGIlmUKHtKgefdYxdPSSK.html",
+      "original_article_id": "ef0b0cad196cd174",
+      "published_at": "2007-06-29T16:04:44.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/bihar-govt-to-de-link-intermediate-education-from-colleges/story-iCGIlmUKHtKgefdYxdPSSK.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "1cccebdbca72aaebdcc5ed445d52d7a55093af8c0a7d9ac7eec185efd88d10c2",
+      "last_verified_at": "2026-08-29T12:46:16.569Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

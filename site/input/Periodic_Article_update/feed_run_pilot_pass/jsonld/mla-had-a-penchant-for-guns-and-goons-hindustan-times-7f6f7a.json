@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "MLA had a penchant for guns and goons | Hindustan Times",
+  "description": "The JD(U) legislator from Mokama town, popularly known as Chhote Sarkar, has been arrested along with four of his associates for assaulting journalists in his house, report Arun Kumar and Ramashankar.",
+  "datePublished": "2007-11-01T21:14:25.000Z",
+  "dateModified": "2007-11-01T21:16:35.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/mla-had-a-penchant-for-guns-and-goons-hindustan-times-7f6f7a"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "JD(U)",
+    "RJD"
+  ],
+  "wordCount": 371
+}

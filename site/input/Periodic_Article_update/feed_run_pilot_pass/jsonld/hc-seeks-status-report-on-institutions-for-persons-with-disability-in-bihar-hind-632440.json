@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "HC seeks status report on institutions for persons with disability in Bihar | Hindustan Times",
+  "description": "The Patna high court has sought the exact status with regard to the establishment and functioning of all the institutions within Bihar falling with the ambit and scope of the Rights of Persons Disability Act, 2016",
+  "datePublished": "2022-07-30T10:23:52.000Z",
+  "dateModified": "2022-07-30T10:26:45.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/hc-seeks-status-report-on-institutions-for-persons-with-disability-in-bihar-hind-632440"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Patna High Court"
+  ],
+  "wordCount": 489
+}

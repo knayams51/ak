@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Never been into politics of framing or protecting anyone, says Nitish Kumar | India News",
+  "description": "The Bihar chief minister dared opposition parties to come out with names of ministers that they alleged were involved in the Bihar Staff Selection Commission examination question paper leak. | India News",
+  "datePublished": "2017-02-28T11:38:29.000Z",
+  "dateModified": "2017-02-28T12:57:58.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/never-been-into-politics-of-framing-or-protecting-anyone-says-nitish-kumar-india-a6d9ef"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar",
+    "Patna High Court",
+    "JD(U)",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 725
+}

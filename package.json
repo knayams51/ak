@@ -1,0 +1,14 @@
+{
+  "name": "arun-kumar-living-archive",
+  "version": "1.4.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build-root.js",
+    "dev": "npm --prefix site run dev",
+    "preview": "npm --prefix site run preview"
+  },
+  "dependencies": {
+    "astro": "^5.18.2"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Forged land documents could lead to FIR, 7-year jail, says Deputy CM | Hindustan Times",
+  "description": "The minister was giving the government reply after the debate on ₹2,190.15-crore budgetary demand of the department",
+  "datePublished": "2026-02-13T17:12:22.000Z",
+  "dateModified": "2026-02-13T17:12:22.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/forged-land-documents-could-lead-to-fir-7-year-jail-says-deputy-cm-hindustan-tim-743126"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 610
+}

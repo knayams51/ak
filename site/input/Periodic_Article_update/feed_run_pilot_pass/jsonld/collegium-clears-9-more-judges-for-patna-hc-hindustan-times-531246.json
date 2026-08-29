@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Collegium clears 9 more judges for Patna HC | Hindustan Times",
+  "description": "Against the sanctioned strength of 53, the Patna HC will have the working strength of 46 judges, which will be around 87% -- the highest in recent decades",
+  "datePublished": "2026-03-02T12:28:50.000Z",
+  "dateModified": "2026-03-02T12:28:50.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/collegium-clears-9-more-judges-for-patna-hc-hindustan-times-531246"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Patna High Court"
+  ],
+  "wordCount": 390
+}

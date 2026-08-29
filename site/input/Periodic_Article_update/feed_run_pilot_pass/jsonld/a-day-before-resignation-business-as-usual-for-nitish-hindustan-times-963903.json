@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "A day before resignation, business as usual for Nitish | Hindustan Times",
+  "description": "Bihar CM Nitish Kumar prepares to resign, reflecting on his tenure while JD(U) strategizes for a new government with BJP amid political shifts.",
+  "datePublished": "2026-04-13T17:06:03.000Z",
+  "dateModified": "2026-04-13T17:06:04.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/a-day-before-resignation-business-as-usual-for-nitish-hindustan-times-963903"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "wordCount": 450
+}

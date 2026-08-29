@@ -1,0 +1,51 @@
+{
+  "id": "e1d58ead6ece9fbf",
+  "slug": "as-students-protest-poor-inter-results-nitish-promises-early-compartmental-exams-ce9fbf",
+  "title": "As students protest poor inter results, Nitish promises early compartmental exams | Hindustan Times",
+  "summary": "With a pass percentage of just 35, the Bihar school examination board intermediate results, declared on Tuesday, have triggered a series of suicides by examinees who failed the test.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2017-05-31T15:32:38.000Z",
+  "modified_at": "2017-05-31T15:32:38.000Z",
+  "word_count": 603,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "student-affairs-protests",
+    "slug": "student-affairs-protests",
+    "title": "Student Affairs, Exams & Protests"
+  },
+  "tags": [
+    "Nitish Kumar"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/as-students-protest-poor-inter-results-nitish-promises-early-compartmental-exams/story-UEbyFjKnqkH5kZjKJJSMyL.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/as-students-protest-poor-inter-results-nitish-promises-early-compartmental-exams/story-UEbyFjKnqkH5kZjKJJSMyL.html",
+      "original_article_id": "e1d58ead6ece9fbf",
+      "published_at": "2017-05-31T15:32:38.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/as-students-protest-poor-inter-results-nitish-promises-early-compartmental-exams/story-UEbyFjKnqkH5kZjKJJSMyL.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "fa3635571d9b2d328f7826c83cbfd483447046d202c89c061c5603f9a428350f",
+      "last_verified_at": "2026-08-29T12:46:16.497Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

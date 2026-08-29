@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar moots proposal for women's university | Hindustan Times",
+  "description": "Buoyed by the highest growth in female literacy in the decade and significant increase in the number of girls passing class 10 and 12 board examinations, the human resource development department has mooted a proposal for setting up a women's university - only the second of its kind in the country.",
+  "datePublished": "2011-10-28T12:11:13.000Z",
+  "dateModified": "2011-10-28T12:14:18.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-moots-proposal-for-womens-university-hindustan-times-176759"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 489
+}

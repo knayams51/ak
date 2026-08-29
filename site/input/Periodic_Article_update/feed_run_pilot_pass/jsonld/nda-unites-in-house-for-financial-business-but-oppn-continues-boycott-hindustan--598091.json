@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "NDA unites in House for financial business, but Oppn continues boycott | Hindustan Times",
+  "description": "After Tuesday's episode in the second half, when the ruling JD(U) members also stayed away from the House, the treasury benches presented a united look, with Speaker Vijay Kumar Sinha also communicating through chits with chief minister Nitish Kumar.",
+  "datePublished": "2022-06-29T16:19:57.000Z",
+  "dateModified": "2022-06-29T16:19:57.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nda-unites-in-house-for-financial-business-but-oppn-continues-boycott-hindustan--598091"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD"
+  ],
+  "wordCount": 366
+}

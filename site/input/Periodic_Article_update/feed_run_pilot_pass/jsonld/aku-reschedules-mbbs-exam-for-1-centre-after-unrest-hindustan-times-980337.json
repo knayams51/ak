@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "AKU reschedules MBBS exam for 1 centre after unrest | Hindustan Times",
+  "description": "AKU reschedules two cancelled MBBS exams at Patna Science College due to malpractice, with new dates set for May 20 and 22 at a different center.",
+  "datePublished": "2026-05-03T16:49:40.000Z",
+  "dateModified": "2026-05-03T16:49:40.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/aku-reschedules-mbbs-exam-for-1-centre-after-unrest-hindustan-times-980337"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "PMCH"
+  ],
+  "wordCount": 657
+}

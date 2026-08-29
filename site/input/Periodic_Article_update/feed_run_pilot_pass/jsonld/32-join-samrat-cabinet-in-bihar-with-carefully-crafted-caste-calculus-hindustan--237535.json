@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "32 join Samrat cabinet in Bihar with carefully crafted caste calculus | Hindustan Times",
+  "description": "Among the inductees 15 are from the BJP, 13 from the JD(U), two from the LJP(RV), one each from the HAM(S) and RLM.",
+  "datePublished": "2026-05-07T13:07:17.000Z",
+  "dateModified": "2026-05-07T13:07:17.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/32-join-samrat-cabinet-in-bihar-with-carefully-crafted-caste-calculus-hindustan--237535"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "wordCount": 688
+}

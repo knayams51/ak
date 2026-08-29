@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nitish govt allocates highest ever ₹60K-cr for education budget | Hindustan Times",
+  "description": "The minister also reiterated the government's plan to open model schools and degree colleges in every district and carry out recruitment of around 45,000 teachers through Teachers' Recruitment Exam (TRE-4)",
+  "datePublished": "2026-02-20T03:08:15.000Z",
+  "dateModified": "2026-02-20T03:08:15.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nitish-govt-allocates-highest-ever-60k-cr-for-education-budget-hindustan-times-922195"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "BPSC",
+    "RJD"
+  ],
+  "wordCount": 470
+}

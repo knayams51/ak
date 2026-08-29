@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process | Hindustan Times",
+  "description": "The advertisements would be issued afresh with fresh guidelines for wider publicity to give opportunities to more capable candidates who could pull the universities out of the rut, a Lok Bhavan official said",
+  "datePublished": "2026-05-28T14:01:20.000Z",
+  "dateModified": "2026-05-28T14:01:20.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna High Court",
+    "BSUSC"
+  ],
+  "wordCount": 680
+}

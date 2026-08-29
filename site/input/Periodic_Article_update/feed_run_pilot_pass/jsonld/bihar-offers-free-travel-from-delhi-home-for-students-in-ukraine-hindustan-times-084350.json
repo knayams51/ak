@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar offers free travel from Delhi home for students in Ukraine | Hindustan Times",
+  "description": "Information and public relations department minister Sanjay Jha said 21 Bihar students from Ukraine were being evacuated by MEA through Bucharest and they were due to arrive in New Delhi on February 26 morning.",
+  "datePublished": "2022-02-26T15:41:24.000Z",
+  "dateModified": "2022-02-26T15:41:24.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-offers-free-travel-from-delhi-home-for-students-in-ukraine-hindustan-times-084350"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 414
+}

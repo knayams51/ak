@@ -1,0 +1,53 @@
+{
+  "id": "d8a1c051ade4b44e",
+  "slug": "warrant-against-3-yr-old-for-rioting-hindustan-times-e4b44e",
+  "title": "Warrant against 3-yr-old for rioting | Hindustan Times",
+  "summary": "In a bizarre incident in Bihar, a three-year-old boy has been accused of rioting and attacking policemen during a clash between two communities, reports Arun Kumar.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2007-06-21T21:17:51.000Z",
+  "modified_at": "2007-06-21T21:20:26.000Z",
+  "word_count": 329,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "assembly-elections-bypolls",
+    "slug": "assembly-elections-bypolls",
+    "title": "Assembly Elections & Bypolls"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/warrant-against-3-yr-old-for-rioting/story-kfmdbQepA3gYM2djZS9jHM.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/warrant-against-3-yr-old-for-rioting/story-kfmdbQepA3gYM2djZS9jHM.html",
+      "original_article_id": "d8a1c051ade4b44e",
+      "published_at": "2007-06-21T21:17:51.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/warrant-against-3-yr-old-for-rioting/story-kfmdbQepA3gYM2djZS9jHM.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "b672beaafc49e757c8ba4cde9e077b95a300182a785257cc82da38b770e73fc0",
+      "last_verified_at": "2026-08-29T12:46:16.574Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

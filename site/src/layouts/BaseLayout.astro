@@ -1,0 +1,78 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import siteConfig from '../config/site.config.json';
+import authorConfig from '../config/author.config.json';
+import '../styles/global.css';
+
+const {
+  title = siteConfig.site_title,
+  description = siteConfig.site_description,
+  ogImage = siteConfig.default_og_image,
+  canonicalUrl = Astro.url.href
+} = Astro.props;
+
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": authorConfig.name,
+  "jobTitle": authorConfig.honorific,
+  "worksFor": {
+    "@type": "NewsMediaOrganization",
+    "name": authorConfig.organization.name,
+    "location": authorConfig.organization.bureau
+  },
+  "sameAs": [
+    authorConfig.social_links.twitter?.url,
+    authorConfig.social_links.muckrack?.url,
+    authorConfig.social_links.hindustantimes?.url
+  ].filter(Boolean),
+  "award": authorConfig.awards.map(a => a.title)
+};
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalUrl} />
+  <link rel="alternate" type="application/rss+xml" title="Arun Kumar RSS Feed" href="/rss.xml" />
+
+  {/* Anti-flash theme script */}
+  <script is:inline>
+    (function() {
+      const savedTheme = localStorage.getItem('theme');
+      if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      } else {
+        document.documentElement.setAttribute('data-theme', 'light');
+      }
+    })();
+  </script>
+
+  {/* OpenGraph & Twitter Cards */}
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:image" content={ogImage} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@ArunkrHt" />
+  <meta name="twitter:creator" content="@ArunkrHt" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+
+  {/* Structured Data */}
+  <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
+</head>
+<body>
+  <Header />
+  <main>
+    <slot />
+  </main>
+  <Footer />
+</body>
+</html>

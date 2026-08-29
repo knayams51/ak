@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar's 'revolutionary' Matuk falls in love with AAP | India News",
+  "description": "Bihar's (in)famous 'love guru', Matuknath Choudhary, whose decision to leave his first wife to live with his student Julie in 2006 hit the headlines, desperately wants to join the Aam Aadmi Party (AAP). | India News",
+  "datePublished": "2014-01-15T19:40:42.000Z",
+  "dateModified": "2014-01-15T19:42:29.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihars-revolutionary-matuk-falls-in-love-with-aap-india-news-74f7d9"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna High Court",
+    "Patna University"
+  ],
+  "wordCount": 271
+}

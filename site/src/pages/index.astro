@@ -1,0 +1,435 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import SocialConnect from '../components/SocialConnect.astro';
+import AuthorPortrait from '../components/AuthorPortrait.astro';
+import authorConfig from '../config/author.config.json';
+import taxonomyConfig from '../config/taxonomy.config.json';
+import articlesData from '../data/articles.json';
+
+const leadArticle = articlesData[0];
+const secondaryArticles = articlesData.slice(1, 4);
+---
+
+<BaseLayout>
+  {/* Hero / Editorial Banner */}
+  <section class="hero-section">
+    <div class="container">
+      <div class="hero-layout">
+        {/* Mobile Portrait Vignette */}
+        <div class="mobile-portrait-wrap">
+          <AuthorPortrait variant="circle" size={84} />
+        </div>
+
+        <div class="hero-main-content">
+          <span class="hero-eyebrow">
+            The Official Living Journalistic Archive
+          </span>
+          <h1 class="hero-title">
+            Documenting Contemporary Bihar
+          </h1>
+          <p class="hero-desc">
+            Over three and a half decades of continuous, active reporting on Bihar politics, higher education reforms, Patna High Court jurisprudence, and state governance by <strong>Arun Kumar</strong>, Associate Editor at <em>Hindustan Times</em> (Patna Bureau).
+          </p>
+
+          <div class="hero-cta-row">
+            <a href="/archive" class="btn btn-primary">
+              Explore Living Archive ({articlesData.length} Dispatches)
+            </a>
+            <a href="/topics" class="btn btn-outline">
+              Browse by Beat
+            </a>
+          </div>
+
+          {/* Four Connect Buttons in Single Horizontal Row Below BrowseByBeat */}
+          <div class="hero-connect-row">
+            <span class="hero-connect-label">Connect with Arun Kumar:</span>
+            <SocialConnect />
+          </div>
+        </div>
+
+        {/* Desktop Framed Poster Card */}
+        <div class="desktop-portrait-wrap">
+          <AuthorPortrait variant="hero" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {/* Lead Story & Highlights */}
+  <section class="container dispatches-section">
+    <div class="section-header">
+      <h2 class="section-heading">Latest Dispatches</h2>
+      <a href="/archive" class="section-sublink">
+        View complete archive ({articlesData.length} dispatches) →
+      </a>
+    </div>
+
+    {/* Featured Lead Dispatch Card (Balanced Proportion) */}
+    {leadArticle && (
+      <div class="card lead-card">
+        <div class="lead-meta-top">
+          <span class="lead-badge">
+            Featured Report • {leadArticle.topic?.title}
+          </span>
+          <span class="lead-date">
+            {new Date(leadArticle.published_at).toLocaleDateString('en-IN', { year: 'numeric', month: 'long', day: 'numeric' })}
+          </span>
+        </div>
+        <h3 class="lead-title">
+          <a href={`/articles/${leadArticle.slug}`} style="color: inherit; text-decoration: none;">
+            {leadArticle.title}
+          </a>
+        </h3>
+        <p class="lead-summary">
+          {leadArticle.summary}
+        </p>
+        <div class="lead-footer">
+          <span class="lead-byline-text">
+            By <strong>{leadArticle.byline}</strong> ({leadArticle.dateline}) • {leadArticle.word_count || 450} words
+          </span>
+          <a href={`/articles/${leadArticle.slug}`} class="btn btn-primary lead-btn">
+            Read full dispatch →
+          </a>
+        </div>
+      </div>
+    )}
+
+    {/* Secondary Stories Grid */}
+    <div class="dispatches-grid">
+      {secondaryArticles.map(art => (
+        <ArticleCard article={art} />
+      ))}
+    </div>
+
+    {/* Beat Breakdown */}
+    <div class="beats-section-wrap">
+      <div class="section-header">
+        <div>
+          <h2 class="section-heading">Editorial Beats</h2>
+          <p class="section-subdesc">
+            Continuous structured reporting across key sectors of Bihar governance, education, and jurisprudence.
+          </p>
+        </div>
+      </div>
+
+      <div class="beats-grid">
+        {taxonomyConfig.topics.map(topic => {
+          const topicArticles = articlesData.filter(a => a.topic?.id === topic.id);
+          return (
+            <div class="card beat-card">
+              <div>
+                <h3 class="beat-title">
+                  <a href={`/topics/${topic.slug}`} style="color: inherit; text-decoration: none;">
+                    {topic.title}
+                  </a>
+                </h3>
+                <p class="beat-desc">
+                  {topic.description}
+                </p>
+              </div>
+              <div class="beat-footer">
+                <span class="beat-count">
+                  {topicArticles.length} {topicArticles.length === 1 ? 'dispatch' : 'dispatches'}
+                </span>
+                <a href={`/topics/${topic.slug}`} class="beat-link">
+                  Explore beat →
+                </a>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero-section {
+    background-color: var(--bg-surface);
+    border-bottom: 1px solid var(--border-color);
+    padding: 3rem 0 2.25rem;
+  }
+
+  .hero-layout {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 3rem;
+    max-width: 1040px;
+    margin: 0 auto;
+  }
+
+  .mobile-portrait-wrap {
+    display: none;
+  }
+
+  .desktop-portrait-wrap {
+    display: block;
+    flex-shrink: 0;
+  }
+
+  .hero-main-content {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .hero-eyebrow {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+
+  .hero-title {
+    font-size: clamp(1.85rem, 5vw, 2.75rem);
+    line-height: 1.18;
+    margin-bottom: 0.85rem;
+  }
+
+  .hero-desc {
+    font-size: clamp(0.95rem, 2.5vw, 1.12rem);
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+
+  .hero-cta-row {
+    display: flex;
+    align-items: center;
+    gap: 0.85rem;
+    flex-wrap: wrap;
+  }
+
+  .hero-connect-row {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--border-light);
+    flex-wrap: wrap;
+  }
+
+  .hero-connect-label {
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+  }
+
+  .dispatches-section {
+    padding-top: 2.5rem;
+    padding-bottom: 3.5rem;
+  }
+
+  .section-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 0.75rem;
+    margin-bottom: 1.75rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .section-heading {
+    font-size: clamp(1.4rem, 4vw, 1.75rem);
+    margin: 0;
+  }
+
+  .section-sublink {
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: var(--accent-color);
+    text-decoration: none;
+  }
+
+  .section-subdesc {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    margin-top: 0.25rem;
+  }
+
+  .lead-card {
+    padding: 1.75rem 2rem;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-color);
+    border-left: 5px solid var(--accent-color);
+    margin-bottom: 1.75rem;
+  }
+
+  .lead-meta-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.65rem;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .lead-badge {
+    font-size: 0.75rem;
+    font-weight: 800;
+    color: var(--accent-color);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .lead-date {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    font-weight: 600;
+  }
+
+  .lead-title {
+    font-size: clamp(1.35rem, 4vw, 1.85rem);
+    line-height: 1.3;
+    margin-bottom: 0.75rem;
+  }
+
+  .lead-summary {
+    font-size: clamp(0.95rem, 2.5vw, 1.05rem);
+    color: var(--text-secondary);
+    line-height: 1.55;
+    margin-bottom: 1.25rem;
+  }
+
+  .lead-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    border-top: 1px solid var(--border-light);
+    padding-top: 0.75rem;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+  }
+
+  .lead-btn {
+    padding: 0.35rem 0.85rem;
+    font-size: 0.8rem;
+  }
+
+  .dispatches-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.25rem;
+    margin-bottom: 3.5rem;
+  }
+
+  .beats-section-wrap {
+    margin-top: 3.5rem;
+  }
+
+  .beats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .beat-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .beat-title {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .beat-desc {
+    font-size: 0.88rem;
+    color: var(--text-secondary);
+    line-height: 1.5;
+    margin-bottom: 1.15rem;
+  }
+
+  .beat-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid var(--border-light);
+    padding-top: 0.65rem;
+    font-size: 0.82rem;
+  }
+
+  .beat-count {
+    color: var(--text-muted);
+    font-weight: 600;
+  }
+
+  .beat-link {
+    font-weight: 600;
+    color: var(--accent-color);
+  }
+
+  @media (max-width: 900px) {
+    .hero-layout {
+      flex-direction: column;
+      text-align: center;
+      gap: 1.5rem;
+    }
+
+    .desktop-portrait-wrap {
+      display: none;
+    }
+
+    .mobile-portrait-wrap {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 0.5rem;
+    }
+
+    .hero-cta-row,
+    .hero-connect-row {
+      justify-content: center;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .hero-section {
+      padding: 1.75rem 0 1.5rem;
+    }
+
+    .hero-cta-row {
+      flex-direction: column;
+      width: 100%;
+    }
+
+    .hero-cta-row .btn {
+      width: 100%;
+      justify-content: center;
+    }
+
+    .hero-connect-row {
+      margin-top: 1.25rem;
+      padding-top: 1rem;
+    }
+
+    .lead-card {
+      padding: 1.15rem;
+    }
+
+    .lead-footer {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .lead-btn {
+      width: 100%;
+      justify-content: center;
+    }
+
+    .section-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.25rem;
+    }
+  }
+</style>

@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nitish hails KCR role in Telangana creation | Hindustan Times",
+  "description": "Nitish Kumar said the kind of work Rao had done in his state after playing the lead role in Telangana's creation was unparalleled.",
+  "datePublished": "2022-08-31T16:08:47.000Z",
+  "dateModified": "2022-08-31T16:08:47.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nitish-hails-kcr-role-in-telangana-creation-hindustan-times-128049"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 298
+}

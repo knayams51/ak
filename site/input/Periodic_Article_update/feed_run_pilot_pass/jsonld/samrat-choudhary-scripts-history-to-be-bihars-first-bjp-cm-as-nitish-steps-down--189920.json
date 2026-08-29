@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Samrat Choudhary scripts history, to be Bihar's first BJP CM as Nitish steps down | Hindustan Times",
+  "description": "Samrat Choudhary, who has been the state's deputy CM since January 2024, is set to take the oath of office on Wednesday morning.",
+  "datePublished": "2026-04-14T11:46:29.000Z",
+  "dateModified": "2026-04-14T11:46:29.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/samrat-choudhary-scripts-history-to-be-bihars-first-bjp-cm-as-nitish-steps-down--189920"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 492
+}

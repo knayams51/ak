@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar Governor reinstates Patna University VC sent on leave by predecessor | Hindustan Times",
+  "description": "Prof Ajay Kumar Singh was sent on compulsory leave by former Governor Arif Mohammad Khan on October 16 on the charge that \"he was not acting in accordance with the statutory provisions and directions issued by the Chancellor's secretariat and the education department\"",
+  "datePublished": "2026-03-28T12:13:56.000Z",
+  "dateModified": "2026-03-28T12:13:56.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna High Court",
+    "Patna University"
+  ],
+  "wordCount": 380
+}

@@ -1,0 +1,311 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import taxonomyConfig from '../../config/taxonomy.config.json';
+import articlesData from '../../data/articles.json';
+
+export async function getStaticPaths() {
+  return taxonomyConfig.topics.map(topic => ({
+    params: { topic: topic.slug },
+    props: { topic }
+  }));
+}
+
+const { topic } = Astro.props;
+const topicArticles = articlesData.filter(a => a.topic?.id === topic.id || a.topic?.slug === topic.slug);
+---
+
+<BaseLayout
+  title={`${topic.title} | Arun Kumar Living Bihar Archive`}
+  description={topic.description}
+>
+  <div class="container topic-container">
+    {/* Topic Header */}
+    <div class="topic-header">
+      <a href="/topics" class="back-link">
+        ← Back to All Beats
+      </a>
+      <h1 class="topic-title">
+        {topic.title}
+      </h1>
+      <p class="topic-desc">
+        {topic.description}
+      </p>
+      <div class="topic-count">
+        {topicArticles.length} {topicArticles.length === 1 ? 'Dispatch' : 'Dispatches'} in Living Archive
+      </div>
+    </div>
+
+    {/* Subtopic Filter Bar */}
+    {topic.subtopics && topic.subtopics.length > 0 && (
+      <div class="subtopics-filter-box">
+        <span class="subtopics-filter-label">
+          Filter by Subtopic:
+        </span>
+        <div class="subtopics-tabs-wrap" id="subtopicFilters">
+          <button
+            class="subtopic-tab active-subtopic"
+            data-filter="all"
+            type="button"
+          >
+            All Subtopics ({topicArticles.length})
+          </button>
+          {topic.subtopics.map(sub => {
+            const count = topicArticles.filter(a => a.subtopic?.id === sub.id || a.subtopic?.slug === sub.slug).length;
+            return (
+              <button
+                class="subtopic-tab"
+                data-filter={sub.slug}
+                data-subid={sub.id}
+                type="button"
+              >
+                {sub.title} ({count})
+              </button>
+            );
+          })}
+        </div>
+      </div>
+    )}
+
+    {/* Active Filter Notification Bar */}
+    <div id="filterBanner" class="filter-banner" style="display: none;">
+      <div>
+        Showing dispatches for: <strong id="currentFilterLabel" style="color: var(--accent-color);"></strong> (<span id="currentFilterCount"></span>)
+      </div>
+      <button id="resetFilterBtn" type="button" class="btn btn-outline reset-btn">
+        Clear Filter
+      </button>
+    </div>
+
+    {/* Articles Grid */}
+    {topicArticles.length > 0 ? (
+      <div id="articlesGrid" class="topic-articles-grid">
+        {topicArticles.map(art => (
+          <div class="article-card-wrapper" data-subtopic={art.subtopic?.slug || ''} data-subtopic-id={art.subtopic?.id || ''}>
+            <ArticleCard article={art} />
+          </div>
+        ))}
+      </div>
+    ) : (
+      <div class="card" style="text-align: center; padding: 3rem;">
+        <p style="font-size: 1.1rem; color: var(--text-secondary);">
+          No published articles currently indexed in this beat. Check back as living archive updates progress.
+        </p>
+      </div>
+    )}
+
+    <div id="noResultsMsg" class="card" style="display: none; text-align: center; padding: 3rem; margin-top: 1rem;">
+      <p style="font-size: 1.05rem; color: var(--text-muted);">
+        No dispatches found matching this subtopic filter.
+      </p>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .topic-container {
+    padding-top: 2.5rem;
+    padding-bottom: 4.5rem;
+  }
+
+  .topic-header {
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 1.25rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .back-link {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 0.35rem;
+  }
+
+  .topic-title {
+    font-size: clamp(1.75rem, 5vw, 2.75rem);
+    margin: 0.35rem 0 0.75rem;
+    line-height: 1.2;
+  }
+
+  .topic-desc {
+    font-size: clamp(0.95rem, 2.5vw, 1.15rem);
+    color: var(--text-secondary);
+    max-width: 840px;
+    line-height: 1.55;
+  }
+
+  .topic-count {
+    margin-top: 0.75rem;
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+
+  .subtopics-filter-box {
+    margin-bottom: 1.75rem;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+  }
+
+  .subtopics-filter-label {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    display: block;
+    margin-bottom: 0.65rem;
+  }
+
+  .subtopics-tabs-wrap {
+    display: flex;
+    gap: 0.45rem;
+    flex-wrap: wrap;
+  }
+
+  .subtopic-tab {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.28rem 0.7rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    border-radius: 20px;
+    border: 1px solid var(--border-color);
+    background-color: var(--bg-surface);
+    color: var(--text-primary);
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .subtopic-tab:hover {
+    border-color: var(--accent-color);
+    color: var(--accent-color);
+  }
+
+  .subtopic-tab.active-subtopic {
+    background-color: var(--accent-color) !important;
+    border-color: var(--accent-color) !important;
+    color: #ffffff !important;
+  }
+
+  .filter-banner {
+    align-items: center;
+    justify-content: space-between;
+    background: var(--provenance-bg);
+    border: 1px solid var(--border-color);
+    padding: 0.65rem 1rem;
+    border-radius: 6px;
+    margin-bottom: 1.5rem;
+    font-size: 0.85rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .reset-btn {
+    padding: 0.2rem 0.55rem;
+    font-size: 0.78rem;
+  }
+
+  .topic-articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.25rem;
+  }
+
+  @media (max-width: 640px) {
+    .topic-container {
+      padding-top: 1.5rem;
+      padding-bottom: 3rem;
+    }
+
+    .subtopics-filter-box {
+      padding: 0.85rem;
+    }
+  }
+</style>
+
+<script>
+  function setupSubtopicFilter() {
+    const filterButtons = document.querySelectorAll('.subtopic-tab');
+    const cards = document.querySelectorAll('.article-card-wrapper');
+    const filterBanner = document.getElementById('filterBanner');
+    const currentFilterLabel = document.getElementById('currentFilterLabel');
+    const currentFilterCount = document.getElementById('currentFilterCount');
+    const resetFilterBtn = document.getElementById('resetFilterBtn');
+    const noResultsMsg = document.getElementById('noResultsMsg');
+
+    function applyFilter(subtopicSlug: string) {
+      let visibleCount = 0;
+
+      filterButtons.forEach(btn => {
+        const btnFilter = btn.getAttribute('data-filter');
+        const btnSubId = btn.getAttribute('data-subid');
+        if (btnFilter === subtopicSlug || (btnSubId && btnSubId === subtopicSlug)) {
+          btn.classList.add('active-subtopic');
+          if (subtopicSlug !== 'all' && currentFilterLabel) {
+            currentFilterLabel.textContent = (btn.textContent || '').replace(/\s*\(\d+\)$/, '').trim();
+          }
+        } else {
+          btn.classList.remove('active-subtopic');
+        }
+      });
+
+      cards.forEach(card => {
+        const cardSubtopic = card.getAttribute('data-subtopic');
+        const cardSubtopicId = card.getAttribute('data-subtopic-id');
+        if (subtopicSlug === 'all' || cardSubtopic === subtopicSlug || cardSubtopicId === subtopicSlug) {
+          (card as HTMLElement).style.display = 'block';
+          visibleCount++;
+        } else {
+          (card as HTMLElement).style.display = 'none';
+        }
+      });
+
+      if (subtopicSlug === 'all') {
+        if (filterBanner) filterBanner.style.display = 'none';
+      } else {
+        if (filterBanner) filterBanner.style.display = 'flex';
+        if (currentFilterCount) currentFilterCount.textContent = visibleCount.toString();
+      }
+
+      if (noResultsMsg) {
+        noResultsMsg.style.display = visibleCount === 0 ? 'block' : 'none';
+      }
+
+      // Update URL search param without reload
+      const url = new URL(window.location.href);
+      if (subtopicSlug === 'all') {
+        url.searchParams.delete('subtopic');
+      } else {
+        url.searchParams.set('subtopic', subtopicSlug);
+      }
+      window.history.replaceState({}, '', url.toString());
+    }
+
+    filterButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const filter = btn.getAttribute('data-filter') || 'all';
+        applyFilter(filter);
+      });
+    });
+
+    resetFilterBtn?.addEventListener('click', () => {
+      applyFilter('all');
+    });
+
+    // Check URL param on page load
+    const urlParams = new URLSearchParams(window.location.search);
+    const initialSubtopic = urlParams.get('subtopic');
+    if (initialSubtopic) {
+      applyFilter(initialSubtopic);
+    }
+  }
+
+  setupSubtopicFilter();
+  document.addEventListener('astro:after-swap', setupSubtopicFilter);
+</script>

@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "If BJP loses Bihar, terrorists in Pak will celebrate: Amit Shah | India News",
+  "description": "BJP president Amit Shah on Thursday warned voters that terror cells at home and in Pakistan would celebrate if they help the Grand Alliance (GA) win the election in Bihar. | India News",
+  "datePublished": "2015-10-29T14:32:05.000Z",
+  "dateModified": "2015-10-30T02:47:19.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/if-bjp-loses-bihar-terrorists-in-pak-will-celebrate-amit-shah-india-news-1159ba"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 440
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "RJD MP accuses Bihar Police's SVU of shielding 8 IAS officers in multi-crore tender fraud | Hindustan Times",
+  "description": "Sudhakar Singh alleged that while second rung officials were being arrested, the senior IAS officials had been let off despite ED's clear indications at whose behest junior officials operated without fear",
+  "datePublished": "2026-06-30T12:02:23.000Z",
+  "dateModified": "2026-06-30T12:02:23.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/rjd-mp-accuses-bihar-polices-svu-of-shielding-8-ias-officers-in-multi-crore-tend-943518"
+  },
+  "articleSection": "State Administration & Vigilance",
+  "keywords": [
+    "Nitish Kumar",
+    "Special Vigilance Unit",
+    "JD(U)",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 541
+}

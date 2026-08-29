@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar: Ex-CM Nitish Kumar says new NDA govt will have his full cooperation | Hindustan Times",
+  "description": "BJP's Samrat Choudhary has been elected as the legislative party leader in Bihar, paving way for him to take oath as the next chief minister of the state.",
+  "datePublished": "2026-04-14T11:27:29.000Z",
+  "dateModified": "2026-04-14T11:27:29.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-ex-cm-nitish-kumar-says-new-nda-govt-will-have-his-full-cooperation-hindus-049480"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "BJP"
+  ],
+  "wordCount": 349
+}

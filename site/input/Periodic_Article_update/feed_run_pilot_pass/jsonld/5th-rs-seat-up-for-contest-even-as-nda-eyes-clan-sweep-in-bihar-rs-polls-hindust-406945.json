@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "5th RS seat up for contest even as NDA eyes clan sweep in Bihar RS polls | Hindustan Times",
+  "description": "With numbers comfortably stacked in favour of the National Democratic Alliance (NDA) for four seats and marginally short for the fifth, the Opposition has forced an election by fielding a joint candidate",
+  "datePublished": "2026-03-15T16:00:06.000Z",
+  "dateModified": "2026-03-15T16:00:06.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/5th-rs-seat-up-for-contest-even-as-nda-eyes-clan-sweep-in-bihar-rs-polls-hindust-406945"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 1315
+}

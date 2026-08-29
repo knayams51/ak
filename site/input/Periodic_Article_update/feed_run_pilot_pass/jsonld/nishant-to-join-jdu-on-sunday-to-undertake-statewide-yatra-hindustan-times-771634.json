@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nishant to join JD(U) on Sunday, to undertake statewide Yatra | Hindustan Times",
+  "description": "Nishant Kumar, son of Bihar CM Nitish Kumar, will formally join JD(U) on Sunday, as part of a plan for political transition and future leadership.",
+  "datePublished": "2026-03-06T23:18:16.000Z",
+  "dateModified": "2026-03-06T23:18:16.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nishant-to-join-jdu-on-sunday-to-undertake-statewide-yatra-hindustan-times-771634"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "wordCount": 992
+}

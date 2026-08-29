@@ -1,0 +1,53 @@
+{
+  "id": "101770228360876",
+  "slug": "asst-profs-appointment-lnmu-seeks-supporting-documents-of-experience-hindustan-t-360876",
+  "title": "Asst Profs appointment: LNMU seeks supporting documents of experience | Hindustan Times",
+  "summary": "The LNMU's direction to the 14 candidates out of 46 recommended has come in the Political Science subject, which was mired in controversy ahead of election",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-02-04T22:36:01.000Z",
+  "modified_at": "2026-02-04T22:36:01.000Z",
+  "word_count": 395,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Patna High Court",
+    "BSUSC",
+    "Patna University"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/asst-profs-appointment-lnmu-seeks-supporting-documents-of-experience-101770228360876.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/asst-profs-appointment-lnmu-seeks-supporting-documents-of-experience-101770228360876.html",
+      "original_article_id": "101770228360876",
+      "published_at": "2026-02-04T22:36:01.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/asst-profs-appointment-lnmu-seeks-supporting-documents-of-experience-101770228360876.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "61fd992e745f41f64d57c3493d888f63afddc2b1729933ca3a89a87c53115144",
+      "last_verified_at": "2026-08-29T12:46:16.399Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Arun Kumar",
+  "honorific": "Associate Editor",
+  "roles": [
+    "Associate Editor, Hindustan Times",
+    "Associate Editor, Patna Bureau",
+    "Veteran Bihar Political & Educational Correspondent"
+  ],
+  "experience_years": "35+",
+  "organization": {
+    "name": "Hindustan Times",
+    "bureau": "Patna Bureau, Bihar",
+    "parent": "HT Media Ltd."
+  },
+  "short_bio": "Associate Editor at Hindustan Times (Patna Bureau) with over three and a half decades of authoritative reporting on Bihar's political developments, higher education reforms, Patna High Court jurisprudence, and state governance.",
+  "full_bio": "Arun Kumar is a veteran journalist and Associate Editor with Hindustan Times, based in Patna. For more than three and a half decades, his reporting has chronicled Bihar's complex political landscape, university and educational reforms, landmark judicial rulings of the Patna High Court, administrative governance, and social shifts across the state. Known for deep investigative reporting and source-grounded accountability journalism, he is a recipient of the prestigious K.C. Kulish Journalism Award and the Keshav Bhatt Journalism Award, and is an LDM Fellow.",
+  "location": "Patna, Bihar, India",
+  "avatar_url": "/images/author/arun_kumar_portrait.jpg",
+  "social_links": {
+    "twitter": {
+      "handle": "@ArunkrHt",
+      "url": "https://x.com/ArunkrHt",
+      "label": "Follow @ArunkrHt on X",
+      "verified": true
+    },
+    "muckrack": {
+      "handle": "arun-kumar-1",
+      "url": "https://muckrack.com/arun-kumar-1",
+      "label": "Muck Rack Portfolio",
+      "verified": true
+    },
+    "hindustantimes": {
+      "handle": "arun-kumar-101608310583746",
+      "url": "https://www.hindustantimes.com/author/arun-kumar-101608310583746",
+      "label": "HT Author Archive",
+      "verified": true
+    },
+    "facebook": {
+      "url": "",
+      "label": "Facebook",
+      "enabled": false
+    },
+    "linkedin": {
+      "url": "",
+      "label": "LinkedIn",
+      "enabled": false
+    },
+    "email": {
+      "address": "arunkumar.htpatna@gmail.com",
+      "label": "Contact Arun Kumar",
+      "enabled": true
+    },
+    "rss": {
+      "url": "/rss.xml",
+      "label": "Subscribe via RSS",
+      "enabled": true
+    }
+  },
+  "awards": [
+    {
+      "title": "K.C. Kulish Journalism Award",
+      "year": "2014",
+      "conferred_by": "Rajasthan Patrika Group",
+      "description": "Prestigious international award recognizing excellence in print journalism and investigative reporting."
+    },
+    {
+      "title": "Keshav Bhatt Journalism Award",
+      "year": "Honorary",
+      "description": "Recognizing outstanding contributions to regional and state-level investigative reporting in Bihar."
+    },
+    {
+      "title": "LDM Fellowship",
+      "year": "Fellow",
+      "description": "Journalistic fellowship focusing on public policy, governance, and institutional reforms."
+    }
+  ],
+  "areas_of_expertise": [
+    "Bihar Politics & Coalition Dynamics",
+    "Higher Education & University Reforms",
+    "Patna High Court & Judicial Rulings",
+    "BPSC Recruitment & Administrative Appointments",
+    "Vigilance, Anti-Corruption & Public Finance",
+    "Health Infrastructure & Social Welfare"
+  ]
+}

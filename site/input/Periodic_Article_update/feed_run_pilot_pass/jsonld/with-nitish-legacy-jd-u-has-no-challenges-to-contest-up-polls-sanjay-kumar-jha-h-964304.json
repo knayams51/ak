@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha | Hindustan Times",
+  "description": "JD-U working president Sanjay Kumar Jha said that Kumar himself said that he will devote more time to the organisation with an eye on the 2029 Lok Sabha election and 2030 Assembly elections",
+  "datePublished": "2026-06-22T09:36:03.000Z",
+  "dateModified": "2026-06-22T09:36:03.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Congress"
+  ],
+  "wordCount": 341
+}

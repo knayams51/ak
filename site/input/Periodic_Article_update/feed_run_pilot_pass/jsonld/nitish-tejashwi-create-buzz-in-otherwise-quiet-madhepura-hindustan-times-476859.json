@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nitish, Tejashwi create buzz in otherwise quiet Madhepura | Hindustan Times",
+  "description": "Mahagathbandhan candidate Kumar Chandradeep of the RJD, an English professor, is making his electoral debut against the sitting MP Dinesh Chandra Yadav of the JD-U, who is the NDA nominee.",
+  "datePublished": "2024-04-30T15:54:36.000Z",
+  "dateModified": "2024-04-30T15:54:36.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nitish-tejashwi-create-buzz-in-otherwise-quiet-madhepura-hindustan-times-476859"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 778
+}

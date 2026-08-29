@@ -1,0 +1,152 @@
+---
+import ThemeToggle from './ThemeToggle.astro';
+import authorConfig from '../config/author.config.json';
+import siteConfig from '../config/site.config.json';
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="site-header">
+  <div class="container masthead-container">
+    {/* Row 1: Brand Title on Left, Day/Night Toggle on Right */}
+    <div class="brand-row">
+      <div class="brand-block">
+        <a href="/" style="text-decoration: none; color: inherit;">
+          <h1 class="brand-title">
+            ARUN KUMAR
+          </h1>
+          <p class="brand-subtitle">
+            Associate Editor • Hindustan Times Patna • Living Journalistic Archive
+          </p>
+        </a>
+      </div>
+
+      <div class="theme-toggle-wrap">
+        <ThemeToggle />
+      </div>
+    </div>
+
+    {/* Row 2: Clean Navigation Bar */}
+    <nav class="main-nav">
+      <div class="nav-links">
+        <a href="/" class={currentPath === '/' ? 'active-nav' : ''}>Home</a>
+        <a href="/archive" class={currentPath.startsWith('/archive') ? 'active-nav' : ''}>Living Archive</a>
+        <a href="/topics" class={currentPath.startsWith('/topics') ? 'active-nav' : ''}>Beats</a>
+        <a href="/about" class={currentPath.startsWith('/about') ? 'active-nav' : ''}>About</a>
+      </div>
+
+      <a href="/search" class="btn btn-outline search-btn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <span>Search</span>
+      </a>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    border-bottom: 1px solid var(--border-color);
+    background-color: var(--bg-surface);
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    width: 100%;
+  }
+
+  .masthead-container {
+    padding: 1.15rem 1.25rem 0.65rem;
+  }
+
+  .brand-row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.85rem;
+  }
+
+  .brand-block {
+    min-width: 0;
+  }
+
+  .brand-title {
+    font-size: clamp(1.75rem, 5vw, 2.35rem);
+    letter-spacing: -0.02em;
+    line-height: 1.05;
+    margin-bottom: 0.2rem;
+  }
+
+  .brand-subtitle {
+    font-size: clamp(0.78rem, 2vw, 0.88rem);
+    color: var(--text-secondary);
+    font-weight: 500;
+    line-height: 1.35;
+  }
+
+  .theme-toggle-wrap {
+    flex-shrink: 0;
+    margin-top: 0.15rem;
+  }
+
+  .main-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid var(--border-light);
+    padding-top: 0.65rem;
+    font-size: 0.92rem;
+    font-weight: 600;
+    gap: 1rem;
+  }
+
+  .nav-links {
+    display: flex;
+    align-items: center;
+    gap: 1.35rem;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+  }
+
+  .nav-links::-webkit-scrollbar {
+    display: none;
+  }
+
+  .search-btn {
+    padding: 0.3rem 0.75rem;
+    font-size: 0.82rem;
+    flex-shrink: 0;
+  }
+
+  .active-nav {
+    color: var(--accent-color) !important;
+    border-bottom: 2px solid var(--accent-color);
+    padding-bottom: 2px;
+  }
+
+  @media (max-width: 640px) {
+    .masthead-container {
+      padding: 0.85rem 1rem 0.5rem;
+    }
+
+    .brand-row {
+      margin-bottom: 0.65rem;
+    }
+
+    .main-nav {
+      gap: 0.75rem;
+      padding-top: 0.5rem;
+    }
+
+    .nav-links {
+      gap: 1rem;
+      font-size: 0.88rem;
+    }
+
+    .search-btn {
+      padding: 0.25rem 0.55rem;
+      font-size: 0.78rem;
+    }
+  }
+</style>

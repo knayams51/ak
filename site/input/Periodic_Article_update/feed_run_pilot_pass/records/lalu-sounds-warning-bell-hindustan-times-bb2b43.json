@@ -1,0 +1,54 @@
+{
+  "id": "2099ec98cfbb2b43",
+  "slug": "lalu-sounds-warning-bell-hindustan-times-bb2b43",
+  "title": "Lalu sounds warning bell | Hindustan Times",
+  "summary": "Railway Minister Lalu Prasad predicts an early fall for the Nitish Kumar-led NDA government in Bihar, report Anirban Guha Roy & Arun Kumar.",
+  "byline": "Anirban Guha Roy & Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2007-10-28T21:21:14.000Z",
+  "modified_at": "2007-10-28T21:26:06.000Z",
+  "word_count": 327,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "RJD",
+    "BJP"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/lalu-sounds-warning-bell/story-W4AAQheqifEC0AcCY1ofOM.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/lalu-sounds-warning-bell/story-W4AAQheqifEC0AcCY1ofOM.html",
+      "original_article_id": "2099ec98cfbb2b43",
+      "published_at": "2007-10-28T21:21:14.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/lalu-sounds-warning-bell/story-W4AAQheqifEC0AcCY1ofOM.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "b881a088a46cd39d5cbaf49a8d4c5a65b8b700334d871177880b7547d55e49e0",
+      "last_verified_at": "2026-08-29T12:46:16.564Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

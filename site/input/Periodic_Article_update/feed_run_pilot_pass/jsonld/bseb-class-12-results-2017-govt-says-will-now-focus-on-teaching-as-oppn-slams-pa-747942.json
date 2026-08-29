@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "BSEB Class 12 results 2017: Govt says will now focus on teaching as Oppn slams 'pathetic' system | Hindustan Times",
+  "description": "The dismal performance of students in Class 12 or intermediate examination conducted by BSEB has the opposition up in arms and experts questioning the quality of education being imparted in its schools.",
+  "datePublished": "2017-05-31T09:51:48.000Z",
+  "dateModified": "2017-06-01T10:49:23.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bseb-class-12-results-2017-govt-says-will-now-focus-on-teaching-as-oppn-slams-pa-747942"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna University",
+    "BJP",
+    "Mid-Day Meal"
+  ],
+  "wordCount": 1119
+}

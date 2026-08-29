@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Congress MLA bats for Nitish Kumar's return to Grand Alliance, draws RJD ire | India News",
+  "description": "Speculation about Nitish Kumar's return to the grand alliance, which routed BJP-led NDA in the 2015 Bihar assembly polls, caught fire after the CM called up a convalescing Lalu Prasad to enquire about his health. | India News",
+  "datePublished": "2018-06-29T13:22:34.000Z",
+  "dateModified": "2018-06-29T15:03:29.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/congress-mla-bats-for-nitish-kumars-return-to-grand-alliance-draws-rjd-ire-india-14ee31"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 613
+}

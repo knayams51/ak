@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Patna HC flags mental illness issues, seeks state response on steps taken | Hindustan Times",
+  "description": "The observation came from the bench of Chief Justice Sangam Kumar Sahoo and Justice Harish Kumar on suo motu Public Interest Litigation initiated pursuant to the inspection report dated February 17, 2026 submitted by the Member Secretary, Bihar State Legal Services Authority",
+  "datePublished": "2026-02-20T03:04:15.000Z",
+  "dateModified": "2026-02-20T03:04:15.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/patna-hc-flags-mental-illness-issues-seeks-state-response-on-steps-taken-hindust-442088"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Patna High Court"
+  ],
+  "wordCount": 707
+}

@@ -1,0 +1,19 @@
+{
+  "name": "arun-kumar-journalism-archive",
+  "version": "1.0.0",
+  "description": "Official Journalistic Archive & Website for Arun Kumar (Hindustan Times Patna Bureau)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "node scripts/build-site-data.js && node scripts/generate-related-content.js && node scripts/generate-sitemap.js && node scripts/generate-rss.js && node scripts/validate-site.js && astro build",
+    "preview": "astro preview",
+    "build:data": "node scripts/build-site-data.js && node scripts/generate-related-content.js",
+    "generate:sitemap": "node scripts/generate-sitemap.js",
+    "generate:rss": "node scripts/generate-rss.js",
+    "validate": "node scripts/validate-site.js"
+  },
+  "dependencies": {
+    "astro": "^5.18.2"
+  }
+}

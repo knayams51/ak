@@ -1,0 +1,53 @@
+{
+  "id": "a230cbf98c565a9c",
+  "slug": "most-bihar-teachers-cant-do-their-math-india-news-565a9c",
+  "title": "Most Bihar teachers can't do their math | India News",
+  "summary": "Only 40 per cent of teachers in primary schools run by the Bihar Govt were able to make error-free summaries of a passage given to them, reports Arun Kumar. | India News",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2008-07-15T19:11:46.000Z",
+  "modified_at": "2008-07-15T19:54:34.000Z",
+  "word_count": 251,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "student-affairs-protests",
+    "slug": "student-affairs-protests",
+    "title": "Student Affairs, Exams & Protests"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/india/most-bihar-teachers-can-t-do-their-math/story-yAJaE2izQarfKaheDUAXaN.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india/most-bihar-teachers-can-t-do-their-math/story-yAJaE2izQarfKaheDUAXaN.html",
+      "original_article_id": "a230cbf98c565a9c",
+      "published_at": "2008-07-15T19:11:46.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india/most-bihar-teachers-can-t-do-their-math/story-yAJaE2izQarfKaheDUAXaN.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "d21aa75561c9a975fba79a52cf78e2856053bd0547049746f26404d887bf6fe2",
+      "last_verified_at": "2026-08-29T12:46:16.557Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

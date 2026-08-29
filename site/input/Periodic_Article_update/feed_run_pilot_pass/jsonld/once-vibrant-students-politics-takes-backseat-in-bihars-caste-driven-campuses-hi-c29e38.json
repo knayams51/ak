@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Once vibrant students' politics takes backseat in Bihar's caste driven campuses | Hindustan Times",
+  "description": "Former Congress chief Ram Jatan Sinha says the current crop of student leaders in Bihar are not able to create impact even if given posts.",
+  "datePublished": "2020-09-30T07:34:24.000Z",
+  "dateModified": "2020-09-30T07:34:33.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/once-vibrant-students-politics-takes-backseat-in-bihars-caste-driven-campuses-hi-c29e38"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "Patna High Court",
+    "Patna University",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 752
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar set for cabinet expansion on May 7; Modi, Shah to attend | Hindustan Times",
+  "description": "According to insiders in the NDA bloc, as per an agreed upon formula, the BJP and the JD(U) would have 16 berths each, two would go to the LJP-RV and one each to HAM-S and RLM",
+  "datePublished": "2026-05-05T13:25:41.000Z",
+  "dateModified": "2026-05-05T13:25:41.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-set-for-cabinet-expansion-on-may-7-modi-shah-to-attend-hindustan-times-541916"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "wordCount": 865
+}

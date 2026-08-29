@@ -1,0 +1,51 @@
+{
+  "id": "bacc993d5f7b7897",
+  "slug": "bihar-cops-suddenly-went-cold-on-yasin-bhatkal-hindustan-times-7b7897",
+  "title": "Bihar cops suddenly went cold on Yasin Bhatkal | Hindustan Times",
+  "summary": "State police cooperates with the National Investigation Agency in nabbing the alleged terrorist, but then strangely shows 'disinterest' in questioning them. Arun Kumar & Avinash Kumar report.",
+  "byline": "Arun Kumar and Avinash Kumar",
+  "dateline": "Patna",
+  "published_at": "2013-08-30T14:03:11.000Z",
+  "modified_at": "2013-08-30T18:15:03.000Z",
+  "word_count": 444,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/bihar-cops-suddenly-went-cold-on-yasin-bhatkal/story-Cgxqbv2FI9a85MNkuHlZkN.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/bihar-cops-suddenly-went-cold-on-yasin-bhatkal/story-Cgxqbv2FI9a85MNkuHlZkN.html",
+      "original_article_id": "bacc993d5f7b7897",
+      "published_at": "2013-08-30T14:03:11.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/bihar-cops-suddenly-went-cold-on-yasin-bhatkal/story-Cgxqbv2FI9a85MNkuHlZkN.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "e08e8c76e5f948021785f6e34523fee5a86e1fb8c3b90b873bdd64b3ac49f9e7",
+      "last_verified_at": "2026-08-29T12:46:16.536Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "e58d2d3508100425",
+  "slug": "george-yeo-to-take-over-as-nalanda-chancellor-india-news-100425",
+  "title": "George Yeo to take over as Nalanda Chancellor | India News",
+  "summary": "Former foreign minister of Singapore, George Yeo has been made the new Chancellor of Nalanda University. He succeeds the first chancellor, Nobel laureate Prof Amartya Sen. | India News",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2015-05-30T12:56:28.000Z",
+  "modified_at": "2015-05-30T13:09:56.000Z",
+  "word_count": 398,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/india/george-yeo-to-take-over-as-nalanda-chancellor/story-EFbmt62v8i1AEfxcfeFMDK.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india/george-yeo-to-take-over-as-nalanda-chancellor/story-EFbmt62v8i1AEfxcfeFMDK.html",
+      "original_article_id": "e58d2d3508100425",
+      "published_at": "2015-05-30T12:56:28.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india/george-yeo-to-take-over-as-nalanda-chancellor/story-EFbmt62v8i1AEfxcfeFMDK.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "382062ca7334c64135dd9c5f63ae2280ca3067c7dd37fd4d3ea43e0584984581",
+      "last_verified_at": "2026-08-29T12:46:16.528Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

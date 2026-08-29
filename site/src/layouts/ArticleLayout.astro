@@ -1,0 +1,439 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import TaxonomyBadge from '../components/TaxonomyBadge.astro';
+import SocialShareModal from '../components/SocialShareModal.astro';
+import AuthorPortrait from '../components/AuthorPortrait.astro';
+import authorConfig from '../config/author.config.json';
+
+const { article, related = [] } = Astro.props;
+
+const provenance = article.provenance || {};
+const primarySource = provenance.primary_source;
+const archivalSource = provenance.archival_source;
+const docProvenance = provenance.document_provenance;
+
+const formattedDate = new Date(article.published_at).toLocaleDateString('en-IN', {
+  weekday: 'long',
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+});
+
+const newsArticleSchema = {
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": article.title,
+  "description": article.summary,
+  "datePublished": article.published_at,
+  "dateModified": article.modified_at || article.published_at,
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Associate Editor",
+    "sameAs": [
+      authorConfig.social_links.twitter?.url,
+      authorConfig.social_links.muckrack?.url,
+      authorConfig.social_links.hindustantimes?.url
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": Astro.url.href
+  },
+  "articleSection": article.topic?.title || "Bihar News",
+  "wordCount": article.word_count
+};
+---
+
+<BaseLayout
+  title={`${article.title} | Arun Kumar (Hindustan Times)`}
+  description={article.summary}
+  canonicalUrl={Astro.url.href}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(newsArticleSchema)} />
+
+  <div class="container article-container">
+    <div class="article-layout-grid">
+      {/* Main Article Column */}
+      <article class="main-article-content">
+        {/* Breadcrumbs & Beat Tag */}
+        <div class="breadcrumbs-row">
+          <TaxonomyBadge topic={article.topic} />
+          {article.subtopic && (
+            <a 
+              href={`/topics/${article.topic?.slug || article.topic?.id}?subtopic=${article.subtopic.slug || article.subtopic.id}`}
+              class="subtopic-breadcrumb"
+            >
+              / {article.subtopic.title}
+            </a>
+          )}
+        </div>
+
+        {/* Headline */}
+        <h1 class="article-headline">
+          {article.title}
+        </h1>
+
+        {/* Sub-headline / Summary */}
+        {article.summary && (
+          <p class="article-summary-lead">
+            {article.summary}
+          </p>
+        )}
+
+        {/* Unified 2-Row Author, Provenance & Dateline Bar */}
+        <div class="article-meta-bar">
+          {/* Row 1 Left: Byline | Row 2 Left: Role & Hyperlinked HT/Wayback */}
+          <div class="meta-left">
+            <div class="byline-author">
+              By <a href="/about" style="color: inherit; text-decoration: none;">{article.byline}</a>
+            </div>
+            <div class="byline-details">
+              <span>Associate Editor,</span>
+              {primarySource?.canonical_url ? (
+                <a 
+                  href={primarySource.canonical_url} 
+                  target="_blank" 
+                  rel="noopener noreferrer" 
+                  class="source-link"
+                  title="View original publication on Hindustan Times"
+                >
+                  Hindustan Times ({article.dateline || 'Patna'}) ↗
+                </a>
+              ) : (
+                <span style="font-weight: 600;">Hindustan Times ({article.dateline || 'Patna'})</span>
+              )}
+              {archivalSource?.wayback_url && (
+                <>
+                  <span class="meta-sep">•</span>
+                  <a 
+                    href={archivalSource.wayback_url} 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    class="wayback-link"
+                    title="Permanent snapshot on Internet Archive Wayback Machine"
+                  >
+                    Wayback Preserved ↗
+                  </a>
+                </>
+              )}
+              {docProvenance?.has_pdf_scan && (
+                <>
+                  <span class="meta-sep">•</span>
+                  <a 
+                    href={docProvenance.pdf_public_url} 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    class="pdf-link"
+                  >
+                    PDF Scan ↗
+                  </a>
+                </>
+              )}
+            </div>
+          </div>
+
+          {/* Row 1 Right: Formatted Date | Row 2 Right: Read Time & Word Count */}
+          <div class="meta-right">
+            <div class="pub-date">{formattedDate}</div>
+            <div class="read-stats">{article.reading_time_minutes || 2} min read • {article.word_count || 400} words</div>
+          </div>
+        </div>
+
+        {/* Article Body Content (Strict 100% Word-for-Word Preservation) */}
+        <div class="article-body">
+          <slot />
+        </div>
+
+        {/* Social Share Bar */}
+        <div style="margin-top: 2.5rem;">
+          <SocialShareModal url={Astro.url.href} title={article.title} summary={article.summary} />
+        </div>
+
+        {/* Author Box */}
+        <div class="card author-bio-card">
+          <div style="display: flex; gap: 1.25rem; align-items: flex-start; flex-wrap: wrap;">
+            <AuthorPortrait variant="circle" size={68} />
+            <div style="flex: 1; min-width: 240px;">
+              <h3 style="font-size: 1.2rem; margin-bottom: 0.5rem;">About the Author</h3>
+              <p style="font-size: 0.95rem; color: var(--text-secondary); line-height: 1.6; margin-bottom: 1rem;">
+                {authorConfig.full_bio}
+              </p>
+              <div class="author-actions">
+                <a href="/about" class="btn btn-outline" style="font-size: 0.85rem; padding: 0.35rem 0.75rem;">
+                  Full Biography & Awards →
+                </a>
+                <a href={authorConfig.social_links.twitter?.url} target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="font-size: 0.85rem; padding: 0.35rem 0.75rem;">
+                  Follow @ArunkrHt on X
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      {/* Right Sidebar on Desktop / Flows Below on Mobile */}
+      <aside class="sidebar-column">
+        {related.length > 0 && (
+          <div class="sticky-sidebar">
+            <div class="sidebar-header">
+              <h3 class="sidebar-title">
+                Related Bihar Dispatches
+              </h3>
+            </div>
+
+            <div class="sidebar-articles-list">
+              {related.map((rel: any) => (
+                <div class="card related-card">
+                  <div class="related-date">
+                    {new Date(rel.published_at).toLocaleDateString('en-IN', { year: 'numeric', month: 'short', day: 'numeric' })}
+                  </div>
+                  <h4 class="related-title">
+                    <a href={`/articles/${rel.slug}`} style="color: inherit; text-decoration: none;">
+                      {rel.title}
+                    </a>
+                  </h4>
+                  <a href={`/articles/${rel.slug}`} class="related-link">
+                    Read dispatch →
+                  </a>
+                </div>
+              ))}
+            </div>
+
+            {/* Quick Link to Current Beat */}
+            <div style="margin-top: 1.25rem; text-align: center;">
+              <a href={`/topics/${article.topic?.slug || article.topic?.id}`} class="btn btn-outline" style="width: 100%; justify-content: center; font-size: 0.82rem;">
+                Explore All {article.topic?.title || 'Beat'} Reports →
+              </a>
+            </div>
+          </div>
+        )}
+      </aside>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .article-container {
+    max-width: 1180px;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+  }
+
+  .article-layout-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  .main-article-content {
+    min-width: 0;
+  }
+
+  .breadcrumbs-row {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .subtopic-breadcrumb {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .subtopic-breadcrumb:hover {
+    color: var(--accent-color) !important;
+    text-decoration: underline !important;
+  }
+
+  .article-headline {
+    font-size: clamp(1.6rem, 4.5vw, 2.35rem);
+    line-height: 1.25;
+    margin-bottom: 0.85rem;
+    letter-spacing: -0.01em;
+  }
+
+  .article-summary-lead {
+    font-size: clamp(1rem, 2.8vw, 1.15rem);
+    color: var(--text-secondary);
+    line-height: 1.55;
+    margin-bottom: 1.25rem;
+    font-weight: 400;
+  }
+
+  .article-meta-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.85rem;
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+    padding: 0.85rem 0;
+    margin-bottom: 1.75rem;
+  }
+
+  .meta-left {
+    min-width: 0;
+  }
+
+  .byline-author {
+    font-weight: 700;
+    font-size: 1rem;
+    margin-bottom: 0.2rem;
+  }
+
+  .byline-details {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+  }
+
+  .source-link {
+    color: var(--accent-color);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .wayback-link {
+    color: var(--link-color);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .pdf-link {
+    color: #9333ea;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .meta-sep {
+    opacity: 0.4;
+    margin: 0 0.15rem;
+  }
+
+  .meta-right {
+    text-align: right;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+
+  .pub-date {
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 0.2rem;
+  }
+
+  .read-stats {
+    font-size: 0.82rem;
+  }
+
+  .author-bio-card {
+    margin-top: 2.5rem;
+    background-color: var(--bg-surface);
+  }
+
+  .author-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .sidebar-header {
+    border-bottom: 2px solid var(--accent-color);
+    padding-bottom: 0.45rem;
+    margin-bottom: 1rem;
+  }
+
+  .sidebar-title {
+    font-size: 1.05rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .sidebar-articles-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+  }
+
+  .related-card {
+    padding: 1rem;
+    background-color: var(--bg-surface);
+  }
+
+  .related-date {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-bottom: 0.3rem;
+    font-weight: 600;
+  }
+
+  .related-title {
+    font-size: 0.92rem;
+    line-height: 1.4;
+    margin-bottom: 0.35rem;
+  }
+
+  .related-link {
+    font-size: 0.78rem;
+    color: var(--accent-color);
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  /* Desktop 2-Column Layout */
+  @media (min-width: 1024px) {
+    .article-layout-grid {
+      grid-template-columns: 1fr 340px;
+      gap: 3rem;
+      align-items: start;
+    }
+
+    .sticky-sidebar {
+      position: sticky;
+      top: 100px;
+    }
+  }
+
+  /* Mobile Tweaks */
+  @media (max-width: 640px) {
+    .article-container {
+      padding-top: 1.5rem;
+      padding-bottom: 3rem;
+    }
+
+    .article-meta-bar {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.65rem;
+    }
+
+    .meta-right {
+      text-align: left;
+    }
+
+    .author-actions {
+      flex-direction: column;
+      width: 100%;
+    }
+
+    .author-actions .btn {
+      width: 100%;
+      justify-content: center;
+    }
+  }
+</style>

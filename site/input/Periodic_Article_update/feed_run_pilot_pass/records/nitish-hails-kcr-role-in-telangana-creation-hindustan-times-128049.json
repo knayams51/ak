@@ -1,0 +1,51 @@
+{
+  "id": "101661962128049",
+  "slug": "nitish-hails-kcr-role-in-telangana-creation-hindustan-times-128049",
+  "title": "Nitish hails KCR role in Telangana creation | Hindustan Times",
+  "summary": "Nitish Kumar said the kind of work Rao had done in his state after playing the lead role in Telangana's creation was unparalleled.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2022-08-31T16:08:47.000Z",
+  "modified_at": "2022-08-31T16:08:47.000Z",
+  "word_count": 298,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/nitish-hails-kcr-role-in-telangana-creation-101661962128049.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/nitish-hails-kcr-role-in-telangana-creation-101661962128049.html",
+      "original_article_id": "101661962128049",
+      "published_at": "2022-08-31T16:08:47.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/nitish-hails-kcr-role-in-telangana-creation-101661962128049.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "ad827e3aaff3e103560a3b02bdfc222b80af95aaaeb45129548cc6f330f03a39",
+      "last_verified_at": "2026-08-29T12:46:16.450Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "EC notice to 104 candidates in Bihar assembly polls for not publicising criminal cases | Hindustan Times",
+  "description": "An EC directive requires candidates and parties to mandatorily publicise pending criminal cases against the candidates through advertisements in a local and a national newspaper, besides official social media platforms of the political party, and explain reasons for fielding them.",
+  "datePublished": "2020-11-02T06:37:47.000Z",
+  "dateModified": "2020-11-02T06:49:51.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/ec-notice-to-104-candidates-in-bihar-assembly-polls-for-not-publicising-criminal-7420a2"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "RJD",
+    "Congress"
+  ],
+  "wordCount": 548
+}

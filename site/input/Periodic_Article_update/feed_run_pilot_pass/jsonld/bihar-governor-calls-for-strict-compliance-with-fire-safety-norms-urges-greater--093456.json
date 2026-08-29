@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar Governor calls for strict compliance with fire safety norms, urges greater awareness | Hindustan Times",
+  "description": "The Governor, who was earlier member of the National Disaster a management Authority (NDMA), directed to organise a seminar at Bihar Lok Bhawan with the aim of increasing public awareness towards fire safety.",
+  "datePublished": "2026-06-05T21:50:14.000Z",
+  "dateModified": "2026-06-05T21:50:14.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-governor-calls-for-strict-compliance-with-fire-safety-norms-urges-greater--093456"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 304
+}

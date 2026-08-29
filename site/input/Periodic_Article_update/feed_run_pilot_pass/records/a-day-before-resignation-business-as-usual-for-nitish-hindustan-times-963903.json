@@ -1,0 +1,53 @@
+{
+  "id": "101776099963903",
+  "slug": "a-day-before-resignation-business-as-usual-for-nitish-hindustan-times-963903",
+  "title": "A day before resignation, business as usual for Nitish | Hindustan Times",
+  "summary": "Bihar CM Nitish Kumar prepares to resign, reflecting on his tenure while JD(U) strategizes for a new government with BJP amid political shifts.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-04-13T17:06:03.000Z",
+  "modified_at": "2026-04-13T17:06:04.000Z",
+  "word_count": 450,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/a-day-before-resignation-business-as-usual-for-nitish-101776099963903.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/a-day-before-resignation-business-as-usual-for-nitish-101776099963903.html",
+      "original_article_id": "101776099963903",
+      "published_at": "2026-04-13T17:06:03.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/a-day-before-resignation-business-as-usual-for-nitish-101776099963903.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "a0a192f22252ec68b417c7527bb77c48e1db5b90d620f23c1fb6845baf630b69",
+      "last_verified_at": "2026-08-29T12:46:16.316Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

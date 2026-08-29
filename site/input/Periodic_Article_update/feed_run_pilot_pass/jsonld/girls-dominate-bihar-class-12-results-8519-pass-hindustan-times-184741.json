@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Girls dominate Bihar Class 12 results, 85.19% pass | Hindustan Times",
+  "description": "In the top 5, there were four girls out of six students, with the second and third position going to Sakshi Kumari (Sitamarhi) and Sapna Kumari (Nawada)",
+  "datePublished": "2026-03-23T13:06:24.000Z",
+  "dateModified": "2026-03-23T13:06:24.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/girls-dominate-bihar-class-12-results-8519-pass-hindustan-times-184741"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 463
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "15 colleges in Bihar fail to renew NAAC accreditation | Hindustan Times",
+  "description": "Fifteen Bihar colleges lost their accreditation as they failed to renew it before the expiry of its five-year validity, the National Assessment and Accreditation Council (NAAC) said on Wednesday.",
+  "datePublished": "2010-12-22T18:59:36.000Z",
+  "dateModified": "2010-12-22T19:01:10.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/15-colleges-in-bihar-fail-to-renew-naac-accreditation-hindustan-times-ef9e2c"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna University"
+  ],
+  "wordCount": 288
+}

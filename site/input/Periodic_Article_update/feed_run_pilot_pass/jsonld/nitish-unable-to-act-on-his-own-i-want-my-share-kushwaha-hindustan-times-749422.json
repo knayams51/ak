@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nitish unable to act on his own, I want my share: Kushwaha | Hindustan Times",
+  "description": "The former union minister said it was true that Nitish Kumar made him the parliamentary board chairman and amended the party constitution to make such a provision, but it was made meaningless and reduced to a mere \"jhunjhuna (a child's rattle)\" by the way he was treated",
+  "datePublished": "2023-01-31T16:32:29.000Z",
+  "dateModified": "2023-01-31T16:32:29.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nitish-unable-to-act-on-his-own-i-want-my-share-kushwaha-hindustan-times-749422"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "JD(U)",
+    "BJP"
+  ],
+  "wordCount": 727
+}

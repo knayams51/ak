@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Samrat bats for Centre and state coordination for Bihar growth in Delhi | Hindustan Times",
+  "description": "the CM said that Bihar has made remarkable progress in the fields of infrastructure, power, connectivity and rural development, but it is necessary to work together continuously to give the state a new identity at the global level",
+  "datePublished": "2026-05-29T13:50:51.000Z",
+  "dateModified": "2026-05-29T13:50:51.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/samrat-bats-for-centre-and-state-coordination-for-bihar-growth-in-delhi-hindusta-652437"
+  },
+  "articleSection": "Social Issues, Health & Heritage",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 442
+}

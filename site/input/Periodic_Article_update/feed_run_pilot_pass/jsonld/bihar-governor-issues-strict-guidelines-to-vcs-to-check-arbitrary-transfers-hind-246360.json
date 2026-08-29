@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar governor issues strict guidelines to VCs to check arbitrary transfers | Hindustan Times",
+  "description": "The guidelines have been issued in order to ensure transparency, uniformity, and academic continuity.",
+  "datePublished": "2026-06-18T22:36:04.000Z",
+  "dateModified": "2026-06-18T22:36:04.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-governor-issues-strict-guidelines-to-vcs-to-check-arbitrary-transfers-hind-246360"
+  },
+  "articleSection": "State Administration & Vigilance",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 403
+}

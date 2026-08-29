@@ -1,0 +1,55 @@
+{
+  "id": "101773672572530",
+  "slug": "bihar-rs-polls-nda-sweeps-all-5-seats-as-4-rjd-cong-mlas-abstain-from-voting-hin-572530",
+  "title": "Bihar RS polls: NDA sweeps all 5 seats as 4 RJD-Cong MLAs abstain from voting | Hindustan Times",
+  "summary": "NDA won with a sound strategy for the fifth seat, while the Opposition could not ensure voting by all its 41 legislators after four of them abstained.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-03-16T14:49:32.000Z",
+  "modified_at": "2026-03-16T16:51:21.000Z",
+  "word_count": 1195,
+  "reading_time_minutes": 6,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/bihar-rs-polls-nda-sweeps-all-5-seats-as-4-rjd-cong-mlas-abstain-from-voting-101773672572530.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/bihar-rs-polls-nda-sweeps-all-5-seats-as-4-rjd-cong-mlas-abstain-from-voting-101773672572530.html",
+      "original_article_id": "101773672572530",
+      "published_at": "2026-03-16T14:49:32.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/bihar-rs-polls-nda-sweeps-all-5-seats-as-4-rjd-cong-mlas-abstain-from-voting-101773672572530.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "00823e5e8993ccfc2870007098abd85ceaa2a3b613ac5384a6c31885089defd1",
+      "last_verified_at": "2026-08-29T12:46:16.352Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

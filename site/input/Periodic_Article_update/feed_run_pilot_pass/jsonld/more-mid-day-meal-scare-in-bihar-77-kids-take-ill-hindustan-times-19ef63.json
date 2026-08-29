@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "More mid-day meal scare in Bihar: 77 kids take ill | Hindustan Times",
+  "description": "Just days after the July 16 Masrakh (Chhapra) mid-day meal (MDM) tragedy, which claimed 23 lives, around 77 children fell ill after eating their meals schools in Arwal and Jamui districts of Bihar on Wednesday. The first incident was stated to be a case of indigestion, whereas 'foul play' was suspected in Jamui. Arun Kumar reports.",
+  "datePublished": "2013-07-31T16:33:36.000Z",
+  "dateModified": "2013-07-31T16:38:22.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/more-mid-day-meal-scare-in-bihar-77-kids-take-ill-hindustan-times-19ef63"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Mid-Day Meal"
+  ],
+  "wordCount": 536
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar treated Bhatkal as 'damaad': BJP | Hindustan Times",
+  "description": "The BJP on Friday accused the Bihar government if treating the country's top terror suspects with kid gloves, as part of its larger policy of 'appeasing' such elements.",
+  "datePublished": "2013-08-30T22:55:34.000Z",
+  "dateModified": "2013-08-30T22:57:17.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-treated-bhatkal-as-damaad-bjp-hindustan-times-f9a3dd"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "BJP"
+  ],
+  "wordCount": 518
+}

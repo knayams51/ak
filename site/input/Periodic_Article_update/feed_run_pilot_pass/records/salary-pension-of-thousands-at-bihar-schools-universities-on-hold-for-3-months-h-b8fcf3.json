@@ -1,0 +1,51 @@
+{
+  "id": "e46ba8d30ab8fcf3",
+  "slug": "salary-pension-of-thousands-at-bihar-schools-universities-on-hold-for-3-months-h-b8fcf3",
+  "title": "Salary, pension of thousands at Bihar schools, universities on hold for 3 months | Hindustan Times",
+  "summary": "Officials in the department of education admitted to the delay in payment of salary, but said that efforts were on to resolve the matter.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2019-06-10T08:30:59.000Z",
+  "modified_at": "2019-06-10T08:30:59.000Z",
+  "word_count": 749,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Patna High Court"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/salary-pension-of-thousands-at-bihar-schools-universities-on-hold-for-3-months/story-i340HjKGU1G0nSo7k9lVHO.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/salary-pension-of-thousands-at-bihar-schools-universities-on-hold-for-3-months/story-i340HjKGU1G0nSo7k9lVHO.html",
+      "original_article_id": "e46ba8d30ab8fcf3",
+      "published_at": "2019-06-10T08:30:59.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/salary-pension-of-thousands-at-bihar-schools-universities-on-hold-for-3-months/story-i340HjKGU1G0nSo7k9lVHO.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "96d23a3337c13cbe9f3390f931679d17da5c6668c21078ab97d2a7c0757bfc63",
+      "last_verified_at": "2026-08-29T12:46:16.481Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

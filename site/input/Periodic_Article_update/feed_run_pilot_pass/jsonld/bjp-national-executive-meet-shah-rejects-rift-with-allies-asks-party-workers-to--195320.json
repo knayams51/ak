@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "BJP national executive meet: Shah rejects rift with allies, asks party workers to aim at bigger tally in 2024 LS polls | Hindustan Times",
+  "description": "Union home minister Amit Shah, who was given a rousing reception at the airport on Sunday, made it clear that the NDA alliance in Bihar was here to stay till 2024-2025.",
+  "datePublished": "2022-07-31T17:23:14.000Z",
+  "dateModified": "2022-07-31T17:23:14.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bjp-national-executive-meet-shah-rejects-rift-with-allies-asks-party-workers-to--195320"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 678
+}

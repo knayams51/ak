@@ -1,0 +1,54 @@
+{
+  "id": "3570a3b0037f6f7a",
+  "slug": "mla-had-a-penchant-for-guns-and-goons-hindustan-times-7f6f7a",
+  "title": "MLA had a penchant for guns and goons | Hindustan Times",
+  "summary": "The JD(U) legislator from Mokama town, popularly known as Chhote Sarkar, has been arrested along with four of his associates for assaulting journalists in his house, report Arun Kumar and Ramashankar.",
+  "byline": "Arun Kumar/Ramashankar",
+  "dateline": "Patna",
+  "published_at": "2007-11-01T21:14:25.000Z",
+  "modified_at": "2007-11-01T21:16:35.000Z",
+  "word_count": 371,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "JD(U)",
+    "RJD"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/mla-had-a-penchant-for-guns-and-goons/story-UBXR4Nw0rvHV9Goz6hEScP.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/mla-had-a-penchant-for-guns-and-goons/story-UBXR4Nw0rvHV9Goz6hEScP.html",
+      "original_article_id": "3570a3b0037f6f7a",
+      "published_at": "2007-11-01T21:14:25.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/mla-had-a-penchant-for-guns-and-goons/story-UBXR4Nw0rvHV9Goz6hEScP.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "6f91d7e9e64508bfdc45cda2e737f4e1d2466900e6ef2d5dba0ab3b86e88703d",
+      "last_verified_at": "2026-08-29T12:46:16.560Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

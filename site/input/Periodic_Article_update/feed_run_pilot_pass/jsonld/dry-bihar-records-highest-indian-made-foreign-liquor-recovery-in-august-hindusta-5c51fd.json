@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Dry Bihar records highest Indian made foreign liquor recovery in August | Hindustan Times",
+  "description": "In April this year, 1,281 persons were sent to jail under Bihar's amended excise law. It was the first month after total prohibition was enforced in the state (on April 5) by the Nitish Kumar government.",
+  "datePublished": "2016-08-30T09:25:04.000Z",
+  "dateModified": "2016-08-30T09:25:04.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/dry-bihar-records-highest-indian-made-foreign-liquor-recovery-in-august-hindusta-5c51fd"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 540
+}

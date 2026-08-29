@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Centre approves Rs 3,300-cr for implementation of Sarva Shiksha Abhiyaan in Bihar | India News",
+  "description": "Of this, Rs 1,300 crore would be used on civil works, including construction of school buildings and classrooms while the rest will be for teachers' salary, training et al, reports Arun Kumar. | India News",
+  "datePublished": "2007-05-23T16:06:16.000Z",
+  "dateModified": "2007-05-23T16:14:04.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/centre-approves-rs-3300-cr-for-implementation-of-sarva-shiksha-abhiyaan-in-bihar-3835d2"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 463
+}

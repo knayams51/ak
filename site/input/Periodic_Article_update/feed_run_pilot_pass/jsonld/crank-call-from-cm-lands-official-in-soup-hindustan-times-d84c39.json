@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "'Crank call' from CM lands official in soup | Hindustan Times",
+  "description": "Call it a misunderstanding or sheer bad luck, but being \"rude\" to Chief Minister Nitish Kumar has led to Saharsa district magistrate NK Chaudhary's transfer, reports Arun Kumar.",
+  "datePublished": "2007-08-28T21:16:01.000Z",
+  "dateModified": "2007-08-28T21:17:10.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/crank-call-from-cm-lands-official-in-soup-hindustan-times-d84c39"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "BJP"
+  ],
+  "wordCount": 245
+}

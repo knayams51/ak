@@ -1,0 +1,53 @@
+{
+  "id": "101667231190774",
+  "slug": "chirag-campaigns-for-bjp-nitish-takes-a-swipe-hindustan-times-190774",
+  "title": "Chirag campaigns for BJP, Nitish takes a swipe | Hindustan Times",
+  "summary": "Chirag, who did a roadshow in Mokama on his birthday, said he and his father late Ram Vilas Paswan were uneasy even in 2017 when Nitish Kumar had switched sides and realigned with BJP.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2022-10-31T15:46:30.000Z",
+  "modified_at": "2022-10-31T15:46:30.000Z",
+  "word_count": 349,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "RJD",
+    "BJP"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/chirag-campaigns-for-bjp-nitish-takes-a-swipe-101667231190774.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/chirag-campaigns-for-bjp-nitish-takes-a-swipe-101667231190774.html",
+      "original_article_id": "101667231190774",
+      "published_at": "2022-10-31T15:46:30.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/chirag-campaigns-for-bjp-nitish-takes-a-swipe-101667231190774.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "d510a5970f5b7c2aaaebf9bdc15d46eb62cbe4650b0a5bd4f3dcfb1007acc4ef",
+      "last_verified_at": "2026-08-29T12:46:16.448Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

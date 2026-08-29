@@ -1,0 +1,53 @@
+{
+  "id": "8e3fd5e547169278",
+  "slug": "proxy-attendance-for-mid-day-meal-funds-headmasters-salary-to-be-deducted-to-rec-169278",
+  "title": "Proxy attendance for mid-day meal funds: Headmasters' salary to be deducted to recover penalty of ₹8 crore | Hindustan Times",
+  "summary": "The government has ordered the recovery of a Rs8.68-crore penalty from HMs. Of which, ₹4.21-crore (48%) has been recovered. More than 1,000 HMs have allegedly fudged the data since 2013, when the idea of penalty was first mooted by the state education department.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2018-12-29T08:58:40.000Z",
+  "modified_at": "2018-12-29T08:58:40.000Z",
+  "word_count": 530,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "state-administration-vigilance",
+    "slug": "state-administration-vigilance",
+    "title": "State Administration & Vigilance"
+  },
+  "subtopic": {
+    "id": "welfare-schemes-monitoring",
+    "slug": "welfare-schemes-monitoring",
+    "title": "Welfare Schemes & School Monitoring"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "Patna High Court",
+    "Mid-Day Meal"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/proxy-attendance-for-mid-day-meal-funds-headmasters-salary-to-be-deducted-to-recover-penalty-of-rs-8-crore/story-q1ROrsc4w57xdnLM9cNnPL.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/proxy-attendance-for-mid-day-meal-funds-headmasters-salary-to-be-deducted-to-recover-penalty-of-rs-8-crore/story-q1ROrsc4w57xdnLM9cNnPL.html",
+      "original_article_id": "8e3fd5e547169278",
+      "published_at": "2018-12-29T08:58:40.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/proxy-attendance-for-mid-day-meal-funds-headmasters-salary-to-be-deducted-to-recover-penalty-of-rs-8-crore/story-q1ROrsc4w57xdnLM9cNnPL.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "42b678d8d8e1444f6ec25cdfda40640f799b246487d2f022dd855581b094a123",
+      "last_verified_at": "2026-08-29T12:46:16.485Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

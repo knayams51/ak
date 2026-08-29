@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Prashant Kishor 'dares' Nitish to remove, arrest Bihar deputy CM Samrat Choudhary | India News",
+  "description": "Kishor alleged that Choudhary had been granted reprieve \"in a 1995 murder case on the basis of a forged age certificate submitted before the Supreme Court.\" | India News",
+  "datePublished": "2025-09-30T03:47:33.000Z",
+  "dateModified": "2025-09-30T03:47:33.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/prashant-kishor-dares-nitish-to-remove-arrest-bihar-deputy-cm-samrat-choudhary-i-244997"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 22
+}

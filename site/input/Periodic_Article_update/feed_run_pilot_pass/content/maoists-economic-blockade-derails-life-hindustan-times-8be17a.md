@@ -1,0 +1,5 @@
+# Maoists' economic blockade derails life | Hindustan Times
+
+**Patna** — Maoists, who have called a two-day economic blockade on Monday-Tuesday in the state, blew up railway tracks between Chetar and Richuguta areas under Dhanbad rail division on Tuesday.It led to the derailment of 22 wagons and the engine of a freight train.
+
+Confirming the incident, Amerandra Das, senior public relations officer, Railways, said the Maoists also triggered explosion on tracks between Mangra halt and Barwadih near Latehar, besides placing a truck on a level crossing near Parasanth Outer.In several parts of the state, trains were halted mid-way through their journey, causing problems for the passengers. As a precautionary measure, several trains on various sections of the East Central Railway were cancelled. Vehicular traffic was also affected in Naxal-prone areas like Rohtas, Gaya, Jehanabad, East Champaran and West Champaran.IG (Headquarters) Anil Sinha said no untoward incident had been reported from any part of the state so far.

@@ -1,0 +1,51 @@
+{
+  "id": "e23688f5d9824ba9",
+  "slug": "bihar-ias-officers-meet-governor-say-wont-take-cms-oral-orders-india-news-824ba9",
+  "title": "Bihar IAS officers meet governor, say won't take CM's oral orders | India News",
+  "summary": "Administrative machinery in Bihar cut up over action against officers in BSSC question paper leak and boat tragedy, leading to death of 24 persons | India News",
+  "byline": "Arun Kumar and Anirban Guha Roy",
+  "dateline": "Patna",
+  "published_at": "2017-02-27T07:27:21.000Z",
+  "modified_at": "2017-03-23T06:19:54.000Z",
+  "word_count": 441,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Nitish Kumar"
+  ],
+  "source_url": "https://www.hindustantimes.com/india-news/bihar-ias-officers-meet-governor-say-won-t-take-cm-s-oral-orders/story-jk3YG2riSoLuDejhFCYYYP.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india-news/bihar-ias-officers-meet-governor-say-won-t-take-cm-s-oral-orders/story-jk3YG2riSoLuDejhFCYYYP.html",
+      "original_article_id": "e23688f5d9824ba9",
+      "published_at": "2017-02-27T07:27:21.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india-news/bihar-ias-officers-meet-governor-say-won-t-take-cm-s-oral-orders/story-jk3YG2riSoLuDejhFCYYYP.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "40f04de7058ebf715aab9735b2686ab52b425936451f6163f98b4d692092b1a2",
+      "last_verified_at": "2026-08-29T12:46:16.514Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

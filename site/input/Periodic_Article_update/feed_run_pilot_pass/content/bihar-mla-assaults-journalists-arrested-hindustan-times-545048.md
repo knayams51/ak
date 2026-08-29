@@ -1,0 +1,13 @@
+# Bihar MLA assaults journalists, arrested | Hindustan Times
+
+**Patna** — Police On Thursday arrested Anant Singh, a controversial MLA of the ruling JD(U) in Bihar, on charges of assaulting three journalists who approached him for comments in a rape and murder case in which he is alleged to be involved. The journalists were covering the story of Reshma, whose decomposed body was found on Wednesday night, just weeks after she is believed to have written to the chief minister and police alleging that she had been raped by the MLA and his men. In the letter, Reshma had said she feared she would be murdered. Singh's behavior and the allegations have come as an embarrassment to Chief Minister Nitish Kumar, who was quick to condemn the assault and order a CBI investigation into the rape and murder case. Mounting pressure on the government, RJD leader Rabri Devi, meanwhile, called for a Bihar Bandh on Friday. The chief minister said the police were pursuing the murder case in a "free and fearless" manner. "Anant Singh had been involved in this type of activities in the past and had also faced jail term several times," he said.
+
+Four associates of the Mokama legislator were also arrested. All five were charged under non-bailable sections and remanded in judicial custody till November 12.
+
+Kundan Krishnan, Patna senior superintendent of police, said: "We will take appropriate action. It is also being verified whether the victim was raped before murder. The veracity of the letter will also be examined." The letter, which did not have the sender's address, said that the victim was allegedly raped by a builder, who then took her to the MLA's bodyguard. On October 27, Anant Singh too raped her, the victim alleged.
+
+The letter said that the victim was offered money and later threatened to lodge a fabricated complaint with the police against a ward councilor and a politician. She feared she would be killed but "the culprits must be brought to book, irrespective of whether I am alive or not", the letter said.
+
+Prakash Singh and cameraperson Habib Ali of NDTV, in their complaint to the Sachivalay police, said they had gone to Anant Singh's residence for his reaction. But they were beaten up with sticks and rifle butts and kept in wrongful confinement in the house of the MLA for over an hour. A photo-journalist, Ajay Kumar, suffered a fractured hand and his camera was smashed.
+
+"The MLA was initially calm, but suddenly lost his cool and began beating us up with others," said Prakash. The cameraman, however, managed to escape and alert the police.

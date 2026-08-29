@@ -1,0 +1,51 @@
+{
+  "id": "248f55df0af1b312",
+  "slug": "mobs-punishing-criminals-administration-experts-hindustan-times-f1b312",
+  "title": "Mobs punishing criminals, administration: experts | Hindustan Times",
+  "summary": "Mob violence in Bihar has developed a disconcerting pattern of late, reports Arun Kumar.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2007-09-13T19:59:58.000Z",
+  "modified_at": "2007-09-13T20:52:52.000Z",
+  "word_count": 289,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "patna-university-development",
+    "slug": "patna-university-development",
+    "title": "Patna University & Heritage Campuses"
+  },
+  "tags": [
+    "Patna University"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/mobs-punishing-criminals-administration-experts/story-6egZ1SDEnuas2CiTZaF50H.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/mobs-punishing-criminals-administration-experts/story-6egZ1SDEnuas2CiTZaF50H.html",
+      "original_article_id": "248f55df0af1b312",
+      "published_at": "2007-09-13T19:59:58.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/mobs-punishing-criminals-administration-experts/story-6egZ1SDEnuas2CiTZaF50H.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "98f64f33c1a6532033246dd879373bf4c203bc693620da699698092ec3bcaef5",
+      "last_verified_at": "2026-08-29T12:46:16.565Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

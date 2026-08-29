@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar election: NDA releases manifesto focused on jobs, edu, healthcare, women | India News",
+  "description": "The manifesto pledges ₹10 lakh financial assistance to those from the Extremely Backward Classes (EBCs), constituting 36% of the population, for business and entrepreneurship | India News",
+  "datePublished": "2025-10-31T09:24:47.000Z",
+  "dateModified": "2025-10-31T09:24:47.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-election-nda-releases-manifesto-focused-on-jobs-edu-healthcare-women-india-687672"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Tejashwi Yadav",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 675
+}

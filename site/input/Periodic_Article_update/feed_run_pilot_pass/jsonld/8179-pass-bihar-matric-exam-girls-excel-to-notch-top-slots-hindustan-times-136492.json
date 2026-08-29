@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "81.79% pass Bihar matric exam; girls excel to notch top slots | Hindustan Times",
+  "description": "In Bihar's secondary board exams, girls outperformed boys in pass rates, with two girls as joint toppers. Overall pass percentage fell to 81.79%.",
+  "datePublished": "2026-03-29T17:25:36.000Z",
+  "dateModified": "2026-03-29T17:25:37.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/8179-pass-bihar-matric-exam-girls-excel-to-notch-top-slots-hindustan-times-136492"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 573
+}

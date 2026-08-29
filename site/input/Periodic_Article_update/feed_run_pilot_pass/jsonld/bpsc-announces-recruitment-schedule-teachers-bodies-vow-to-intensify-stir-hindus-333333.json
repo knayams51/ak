@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "BPSC announces recruitment schedule, teachers' bodies vow to intensify stir | Hindustan Times",
+  "description": "Nearly a dozen petitions have already been filed in the Patna High Court against the new rules and the matter will come up for hearing later in June after the summer vacation.",
+  "datePublished": "2023-05-31T16:42:12.000Z",
+  "dateModified": "2023-05-31T16:42:14.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bpsc-announces-recruitment-schedule-teachers-bodies-vow-to-intensify-stir-hindus-333333"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna High Court",
+    "BPSC",
+    "BJP"
+  ],
+  "wordCount": 630
+}

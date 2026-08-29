@@ -1,0 +1,178 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import articlesData from '../data/articles.json';
+
+// Group articles by year
+const articlesByYear: Record<string, typeof articlesData> = {};
+
+for (const art of articlesData) {
+  const year = new Date(art.published_at).getFullYear().toString();
+  if (!articlesByYear[year]) {
+    articlesByYear[year] = [];
+  }
+  articlesByYear[year].push(art);
+}
+
+const sortedYears = Object.keys(articlesByYear).sort((a, b) => parseInt(b, 10) - parseInt(a, 10));
+---
+
+<BaseLayout
+  title="Living Chronological Archive | Arun Kumar (Hindustan Times Patna)"
+  description="Living chronological record of all dispatches authored by Arun Kumar for Hindustan Times Patna Bureau."
+>
+  <div class="container archive-container">
+    <div class="archive-header">
+      <div class="live-indicator">
+        <span class="live-dot"></span>
+        <span class="live-text">
+          Live & Historical Timeline Index
+        </span>
+      </div>
+      <h1 class="archive-title">
+        Living Chronological Archive
+      </h1>
+      <p class="archive-desc">
+        {articlesData.length} published dispatches continuously updated from Arun Kumar's active ongoing reporting for <em>Hindustan Times</em> (Patna Bureau).
+      </p>
+
+      {/* Year Jump Pills */}
+      <div class="year-pills-wrap">
+        {sortedYears.map(year => (
+          <a href={`#year-${year}`} class="btn btn-outline year-pill">
+            {year} <span class="year-count">({articlesByYear[year].length})</span>
+          </a>
+        ))}
+      </div>
+    </div>
+
+    {/* Year Groups */}
+    <div class="years-stack">
+      {sortedYears.map(year => (
+        <section id={`year-${year}`} class="year-section">
+          <div class="year-header">
+            <h2 class="year-heading">{year}</h2>
+            <span class="year-meta">
+              ({articlesByYear[year].length} {articlesByYear[year].length === 1 ? 'dispatch' : 'dispatches'})
+            </span>
+          </div>
+
+          <div class="archive-grid">
+            {articlesByYear[year].map(art => (
+              <ArticleCard article={art} />
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .archive-container {
+    padding-top: 2.5rem;
+    padding-bottom: 4.5rem;
+  }
+
+  .archive-header {
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 1.25rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .live-indicator {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-bottom: 0.4rem;
+  }
+
+  .live-dot {
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background-color: #16a34a;
+  }
+
+  .live-text {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #16a34a;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .archive-title {
+    font-size: clamp(1.75rem, 5vw, 2.75rem);
+    margin: 0.35rem 0 0.75rem;
+    line-height: 1.2;
+  }
+
+  .archive-desc {
+    font-size: clamp(0.95rem, 2.5vw, 1.15rem);
+    color: var(--text-secondary);
+    line-height: 1.55;
+  }
+
+  .year-pills-wrap {
+    display: flex;
+    gap: 0.45rem;
+    flex-wrap: wrap;
+    margin-top: 1.25rem;
+  }
+
+  .year-pill {
+    padding: 0.25rem 0.65rem;
+    font-size: 0.82rem;
+    border-radius: 20px;
+  }
+
+  .year-count {
+    opacity: 0.65;
+    font-size: 0.75rem;
+    margin-left: 0.2rem;
+  }
+
+  .years-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+  }
+
+  .year-section {
+    scroll-margin-top: 90px;
+  }
+
+  .year-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin-bottom: 1.25rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.45rem;
+  }
+
+  .year-heading {
+    font-size: 1.75rem;
+    color: var(--accent-color);
+  }
+
+  .year-meta {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+
+  .archive-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.25rem;
+  }
+
+  @media (max-width: 640px) {
+    .archive-container {
+      padding-top: 1.5rem;
+      padding-bottom: 3rem;
+    }
+  }
+</style>

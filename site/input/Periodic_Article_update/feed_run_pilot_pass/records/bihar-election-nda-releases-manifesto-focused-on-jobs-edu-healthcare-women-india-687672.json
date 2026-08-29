@@ -1,0 +1,54 @@
+{
+  "id": "101761902687672",
+  "slug": "bihar-election-nda-releases-manifesto-focused-on-jobs-edu-healthcare-women-india-687672",
+  "title": "Bihar election: NDA releases manifesto focused on jobs, edu, healthcare, women | India News",
+  "summary": "The manifesto pledges ₹10 lakh financial assistance to those from the Extremely Backward Classes (EBCs), constituting 36% of the population, for business and entrepreneurship | India News",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2025-10-31T09:24:47.000Z",
+  "modified_at": "2025-10-31T09:24:47.000Z",
+  "word_count": 675,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "Tejashwi Yadav",
+    "RJD",
+    "BJP"
+  ],
+  "source_url": "https://www.hindustantimes.com/india-news/bihar-election-nda-releases-manifesto-focused-on-jobs-edu-healthcare-women-101761902687672.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india-news/bihar-election-nda-releases-manifesto-focused-on-jobs-edu-healthcare-women-101761902687672.html",
+      "original_article_id": "101761902687672",
+      "published_at": "2025-10-31T09:24:47.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india-news/bihar-election-nda-releases-manifesto-focused-on-jobs-edu-healthcare-women-101761902687672.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "4297abcc46eb0ef4c3575ea3d889a7c740119a7255aa6d4ae3c41929152d4e01",
+      "last_verified_at": "2026-08-29T12:46:16.413Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

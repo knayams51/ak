@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "JD-U, BJP swap health, edu depts after 2 decades amid challenges, hopes | Hindustan Times",
+  "description": "Bihar's cabinet sees BJP-JD(U) ministry swap, with JD(U) taking health and BJP handling education, aiming for reforms amid ongoing challenges.",
+  "datePublished": "2026-05-08T15:59:48.000Z",
+  "dateModified": "2026-05-08T15:59:49.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/jd-u-bjp-swap-health-edu-depts-after-2-decades-amid-challenges-hopes-hindustan-t-988501"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar",
+    "BSUSC",
+    "Patna University",
+    "JD(U)",
+    "BJP",
+    "Mid-Day Meal"
+  ],
+  "wordCount": 1188
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar passes bill to ease prohibition law | Hindustan Times",
+  "description": "The chief minister Nitish Kumar-led Bihar government brought the amendment bill weeks after the Supreme Court expressed its reservation for high pendency of prohibition-related cases in local courts and the Patna high Court.",
+  "datePublished": "2022-03-30T18:30:45.000Z",
+  "dateModified": "2022-03-30T18:30:45.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-passes-bill-to-ease-prohibition-law-hindustan-times-046164"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Tejashwi Yadav",
+    "Patna High Court",
+    "Congress",
+    "Chanakya National Law University"
+  ],
+  "wordCount": 1263
+}

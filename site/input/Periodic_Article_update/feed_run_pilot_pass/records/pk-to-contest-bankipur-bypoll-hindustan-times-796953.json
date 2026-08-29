@@ -1,0 +1,54 @@
+{
+  "id": "101783252796953",
+  "slug": "pk-to-contest-bankipur-bypoll-hindustan-times-796953",
+  "title": "PK to contest Bankipur bypoll | Hindustan Times",
+  "summary": "Jan Suraaj Party announced Prashant Kishor as its candidate for Bankipur bypoll on July 30, aiming for political change in Bihar post-2025 elections.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-07-05T11:59:56.000Z",
+  "modified_at": "2026-07-05T11:59:57.000Z",
+  "word_count": 861,
+  "reading_time_minutes": 5,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/pk-to-contest-bankipur-bypoll-101783252796953.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/pk-to-contest-bankipur-bypoll-101783252796953.html",
+      "original_article_id": "101783252796953",
+      "published_at": "2026-07-05T11:59:56.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/pk-to-contest-bankipur-bypoll-101783252796953.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "864667e9f5b3cac868fd1efafbebb7ebaa818c6c506e4df09f70e2dbe67670d5",
+      "last_verified_at": "2026-08-29T12:46:16.231Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

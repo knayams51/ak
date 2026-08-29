@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar opposes centre's decision to reduce central assistance | India News",
+  "description": "The Centre's move to reduce assistance under the Sarva Shiksha Abhiyaan (SSA) from the existing 75 per cent to 50 per cent will deal a serious blow to the ongoing teachers' recruitment drive in the State, reports Arun Kumar. | India News",
+  "datePublished": "2007-04-26T14:12:52.000Z",
+  "dateModified": "2007-04-26T14:15:09.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-opposes-centres-decision-to-reduce-central-assistance-india-news-ac28e3"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 494
+}

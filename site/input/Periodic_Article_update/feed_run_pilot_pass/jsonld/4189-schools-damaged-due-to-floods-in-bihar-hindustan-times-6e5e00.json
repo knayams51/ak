@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "4,189 schools damaged due to floods in Bihar | Hindustan Times",
+  "description": "The worst affected are the primary and secondary schools, which are located in the interiors and have a small infrastructure compared to high schools, reports Arun Kumar.",
+  "datePublished": "2007-08-08T15:12:35.000Z",
+  "dateModified": "2007-08-08T16:18:42.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/4189-schools-damaged-due-to-floods-in-bihar-hindustan-times-6e5e00"
+  },
+  "articleSection": "Social Issues, Health & Heritage",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 370
+}

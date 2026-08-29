@@ -1,0 +1,326 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SocialConnect from '../components/SocialConnect.astro';
+import AuthorPortrait from '../components/AuthorPortrait.astro';
+import authorConfig from '../config/author.config.json';
+---
+
+<BaseLayout
+  title="About Arun Kumar | Associate Editor, Hindustan Times (Patna)"
+  description="Biographical overview, active reporting profile, journalistic milestones, awards, and areas of expertise for Arun Kumar (Hindustan Times Patna Bureau)."
+>
+  <div class="container about-container">
+    {/* Profile Header */}
+    <div class="about-header">
+      <div class="about-header-flex">
+        <div class="about-header-text">
+          <div class="status-indicator-wrap">
+            <span class="status-dot"></span>
+            <span class="status-title">
+              Active Associate Editor • Living Archive
+            </span>
+          </div>
+          <h1 class="about-author-name">
+            Arun Kumar
+          </h1>
+          <p class="about-author-role">
+            Associate Editor, <em>Hindustan Times</em> (Patna Bureau)
+          </p>
+
+          {/* Social & Contact Bar */}
+          <div class="about-social-row">
+            <SocialConnect />
+            <a href={authorConfig.social_links.twitter?.url} target="_blank" rel="noopener noreferrer" class="btn btn-primary about-follow-btn">
+              Follow @ArunkrHt on X
+            </a>
+          </div>
+        </div>
+
+        {/* High-res Editorial Portrait Poster */}
+        <div class="about-portrait-wrap">
+          <AuthorPortrait variant="about" />
+        </div>
+      </div>
+    </div>
+
+    {/* Narrative Biography */}
+    <section class="about-section">
+      <h2 class="about-section-heading">Active Reporting & Career</h2>
+      <div class="about-bio-paragraphs">
+        <p>
+          {authorConfig.full_bio}
+        </p>
+        <p>
+          Currently actively based out of Patna as Associate Editor for <em>Hindustan Times</em>, Arun Kumar continues to provide daily, real-time investigative and beat reporting on Bihar's political developments, cabinet affairs, higher education policy shifts, BPSC recruitments, and Patna High Court orders.
+        </p>
+        <p>
+          Throughout his three and a half decades of reporting at the <em>Hindustan Times</em>, his journalism has documented multiple decades of Bihar state governance, shifting coalition equations, teacher recruitment movements (TRE / BPSC), university governance battles, and landmark judicial rulings.
+        </p>
+        <p>
+          This <strong>living archive</strong> is dynamically maintained to preserve every published dispatch with cryptographic provenance (SHA-256 hashes) and direct links to live Hindustan Times canonical records and Internet Archive Wayback snapshots.
+        </p>
+      </div>
+    </section>
+
+    {/* Awards & Honors */}
+    <section id="awards" class="about-section">
+      <h2 class="about-section-heading">Awards & Honors</h2>
+      <div class="awards-grid">
+        {authorConfig.awards.map(award => (
+          <div class="card award-card">
+            <div class="award-card-header">
+              <h3 class="award-title">{award.title}</h3>
+              <span class="award-year">
+                {award.year}
+              </span>
+            </div>
+            <p class="award-desc">
+              {award.description}
+            </p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    {/* Areas of Reporting Expertise */}
+    <section class="about-section">
+      <h2 class="about-section-heading">Key Areas of Reporting</h2>
+      <div class="expertise-grid">
+        {authorConfig.areas_of_expertise.map(area => (
+          <div class="card expertise-card">
+            <span class="check-mark">✓</span>
+            {area}
+          </div>
+        ))}
+      </div>
+    </section>
+
+    {/* Digital Identity & Channels */}
+    <section class="card channels-card">
+      <h2 class="channels-heading">Verified Channels & Portfolios</h2>
+      <ul class="channels-list">
+        <li>
+          <strong>X (Twitter):</strong>{' '}
+          <a href={authorConfig.social_links.twitter?.url} target="_blank" rel="noopener noreferrer">
+            @ArunkrHt ({authorConfig.social_links.twitter?.url})
+          </a>
+        </li>
+        <li>
+          <strong>Hindustan Times Author Feed:</strong>{' '}
+          <a href={authorConfig.social_links.hindustantimes?.url} target="_blank" rel="noopener noreferrer">
+            {authorConfig.social_links.hindustantimes?.url}
+          </a>
+        </li>
+        <li>
+          <strong>Muck Rack Portfolio:</strong>{' '}
+          <a href={authorConfig.social_links.muckrack?.url} target="_blank" rel="noopener noreferrer">
+            muckrack.com/arun-kumar-1
+          </a>
+        </li>
+        <li>
+          <strong>Direct Email:</strong>{' '}
+          <a href={`mailto:${authorConfig.social_links.email?.address}`}>
+            {authorConfig.social_links.email?.address}
+          </a>
+        </li>
+      </ul>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .about-container {
+    max-width: 900px;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+  }
+
+  .about-header {
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 2rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .about-header-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2.5rem;
+    flex-wrap: wrap;
+  }
+
+  .about-header-text {
+    flex: 1;
+    min-width: 280px;
+  }
+
+  .about-portrait-wrap {
+    flex-shrink: 0;
+  }
+
+  .status-indicator-wrap {
+    display: flex;
+    align-items: center;
+    gap: 0.45rem;
+    margin-bottom: 0.4rem;
+  }
+
+  .status-dot {
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background-color: #16a34a;
+    box-shadow: 0 0 0 3px rgba(22, 163, 74, 0.2);
+  }
+
+  .status-title {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: #16a34a;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .about-author-name {
+    font-size: clamp(2rem, 5vw, 2.75rem);
+    line-height: 1.15;
+    margin: 0.35rem 0 0.75rem;
+  }
+
+  .about-author-role {
+    font-size: clamp(1.05rem, 2.5vw, 1.25rem);
+    color: var(--text-secondary);
+    line-height: 1.45;
+    margin-bottom: 1.35rem;
+  }
+
+  .about-social-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .about-follow-btn {
+    font-size: 0.82rem;
+    padding: 0.35rem 0.8rem;
+  }
+
+  .about-section {
+    margin-bottom: 3rem;
+  }
+
+  .about-section-heading {
+    font-size: clamp(1.4rem, 4vw, 1.75rem);
+    margin-bottom: 1.15rem;
+  }
+
+  .about-bio-paragraphs {
+    font-size: 1.08rem;
+    line-height: 1.8;
+    color: var(--text-primary);
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  .awards-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.15rem;
+  }
+
+  .award-card {
+    border-left: 4px solid var(--accent-color);
+  }
+
+  .award-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.4rem;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .award-title {
+    font-size: 1.2rem;
+  }
+
+  .award-year {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    background: #fee2e2;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+  }
+
+  .award-desc {
+    font-size: 0.92rem;
+    color: var(--text-secondary);
+    line-height: 1.5;
+  }
+
+  .expertise-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 0.85rem;
+  }
+
+  .expertise-card {
+    padding: 0.85rem 1rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .check-mark {
+    color: var(--accent-color);
+  }
+
+  .channels-card {
+    background-color: var(--bg-surface);
+    border: 1px solid var(--border-color);
+  }
+
+  .channels-heading {
+    font-size: 1.35rem;
+    margin-bottom: 1rem;
+  }
+
+  .channels-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    font-size: 0.95rem;
+  }
+
+  @media (max-width: 768px) {
+    .about-header-flex {
+      flex-direction: column-reverse;
+      text-align: center;
+      gap: 1.5rem;
+    }
+
+    .about-social-row {
+      justify-content: center;
+    }
+
+    .about-portrait-wrap {
+      display: flex;
+      justify-content: center;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .about-container {
+      padding-top: 1.75rem;
+      padding-bottom: 3.5rem;
+    }
+  }
+</style>

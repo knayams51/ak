@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Education gets a lion's share, but provision missing for job creation | Hindustan Times",
+  "description": "In the education sector, the government has announced to recruit 48,762 primary teachers, 5,886 physical education trainers, 40,506 head teachers, 44,193 teachers in secondary schools, 89,734 teachers in higher secondary schools and 7,360 computer teachers.",
+  "datePublished": "2023-02-28T16:49:39.000Z",
+  "dateModified": "2023-02-28T16:49:39.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/education-gets-a-lions-share-but-provision-missing-for-job-creation-hindustan-ti-980023"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 474
+}

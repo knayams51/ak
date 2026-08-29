@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Amid raging debate over 3-language policy, CUSB to award multilingualism | Hindustan Times",
+  "description": "VC KN Singh said that at a time when implementation of 3-Language Policy of the ministry of education, government of India is a much debated issue, multilingualism should not be seen as a handicap, but a welcome requirement",
+  "datePublished": "2026-05-29T13:39:50.000Z",
+  "dateModified": "2026-05-29T13:39:50.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/amid-raging-debate-over-3-language-policy-cusb-to-award-multilingualism-hindusta-991322"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 566
+}

@@ -1,0 +1,51 @@
+{
+  "id": "101771688171347",
+  "slug": "pusu-polls-put-off-till-further-orders-after-unsavoury-incidents-hindustan-times-171347",
+  "title": "PUSU polls put off till further orders after unsavoury incidents | Hindustan Times",
+  "summary": "Polls were scheduled for February 28 and Saturday was the day when the names of the candidate for various central panel and councillors' posts were to be announced to set the stage for campaigning, but things went awry before that",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-02-21T15:36:10.000Z",
+  "modified_at": "2026-02-21T15:36:10.000Z",
+  "word_count": 497,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "student-affairs-protests",
+    "slug": "student-affairs-protests",
+    "title": "Student Affairs, Exams & Protests"
+  },
+  "tags": [
+    "Patna University"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/pusu-polls-put-off-till-further-orders-after-unsavoury-incidents-101771688171347.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/pusu-polls-put-off-till-further-orders-after-unsavoury-incidents-101771688171347.html",
+      "original_article_id": "101771688171347",
+      "published_at": "2026-02-21T15:36:10.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/pusu-polls-put-off-till-further-orders-after-unsavoury-incidents-101771688171347.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "6003c65ce068c9a312600a0d845673685d8197715cb9b1278d97fde57fcecf0e",
+      "last_verified_at": "2026-08-29T12:46:16.380Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

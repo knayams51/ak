@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Polls over, panchayat rule in Bihar set for overhaul | Hindustan Times",
+  "description": "Bihar is set to transform rural governance by gearing its panchayati raj institutions (PRIs) towards delivering at the grassroots, state's panchayati raj minister Samrat Choudhary has said.",
+  "datePublished": "2021-12-30T16:02:40.000Z",
+  "dateModified": "2021-12-30T16:02:40.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/polls-over-panchayat-rule-in-bihar-set-for-overhaul-hindustan-times-161040"
+  },
+  "articleSection": "Social Issues, Health & Heritage",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 732
+}

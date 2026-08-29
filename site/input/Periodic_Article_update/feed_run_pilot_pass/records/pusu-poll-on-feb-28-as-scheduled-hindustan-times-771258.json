@@ -1,0 +1,51 @@
+{
+  "id": "101771853771258",
+  "slug": "pusu-poll-on-feb-28-as-scheduled-hindustan-times-771258",
+  "title": "PUSU poll on Feb 28 as scheduled | Hindustan Times",
+  "summary": "The campaigning would end at 5 pm on February 26, which would leave the candidates with just there days for canvassing in keeping with the strict guidelines.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-02-23T13:36:10.000Z",
+  "modified_at": "2026-02-23T13:36:11.000Z",
+  "word_count": 490,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "patna-university-development",
+    "slug": "patna-university-development",
+    "title": "Patna University & Heritage Campuses"
+  },
+  "tags": [
+    "Patna University"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/pusu-poll-on-feb-28-as-scheduled-101771853771258.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/pusu-poll-on-feb-28-as-scheduled-101771853771258.html",
+      "original_article_id": "101771853771258",
+      "published_at": "2026-02-23T13:36:10.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/pusu-poll-on-feb-28-as-scheduled-101771853771258.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "dd77078a81382d4a69c37be66f09e6a6b57c97e43d20c4c48338c4231b61bdf6",
+      "last_verified_at": "2026-08-29T12:46:16.374Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

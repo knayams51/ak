@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud' | Hindustan Times",
+  "description": "Patna University registrar has written to the director, higher education, NK Aggarwal, that the recommendation of the candidate Vivek Kumar, made by BSUSC on serial No. 1 in the geography subject, is under cloud",
+  "datePublished": "2026-04-16T21:34:13.000Z",
+  "dateModified": "2026-04-16T21:34:13.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna High Court",
+    "BSUSC",
+    "Patna University"
+  ],
+  "wordCount": 779
+}

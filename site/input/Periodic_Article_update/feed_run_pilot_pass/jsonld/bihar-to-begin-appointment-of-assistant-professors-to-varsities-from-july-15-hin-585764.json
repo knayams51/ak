@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar to begin appointment of assistant professors to varsities from July 15 | Hindustan Times",
+  "description": "Interview letters have been sent to the candidates through email. Those called for interview are required to come with their Covid-19 test report and all the original documents at the commission's office",
+  "datePublished": "2021-07-01T08:36:25.000Z",
+  "dateModified": "2021-07-01T08:36:25.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-to-begin-appointment-of-assistant-professors-to-varsities-from-july-15-hin-585764"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "BSUSC"
+  ],
+  "wordCount": 291
+}

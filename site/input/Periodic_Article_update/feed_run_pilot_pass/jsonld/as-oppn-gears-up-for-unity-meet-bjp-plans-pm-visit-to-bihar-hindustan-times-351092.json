@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "As Oppn gears up for unity meet, BJP plans PM visit to Bihar | Hindustan Times",
+  "description": "A little less than a year left for the parliamentary elections, BJP has organised a month-long mass contact programme ending on June 30 in Bihar.",
+  "datePublished": "2023-05-30T16:15:50.000Z",
+  "dateModified": "2023-05-30T16:15:53.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/as-oppn-gears-up-for-unity-meet-bjp-plans-pm-visit-to-bihar-hindustan-times-351092"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 367
+}

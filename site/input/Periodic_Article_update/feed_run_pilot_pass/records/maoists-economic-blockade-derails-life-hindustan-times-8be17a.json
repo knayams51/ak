@@ -1,0 +1,53 @@
+{
+  "id": "7e92fa67278be17a",
+  "slug": "maoists-economic-blockade-derails-life-hindustan-times-8be17a",
+  "title": "Maoists' economic blockade derails life | Hindustan Times",
+  "summary": "Maoists blew up railway tracks between Chetar and Richuguta areas under Dhanbad rail division on Tuesday during the blockade, report Arun Kumar and Amitabh Srivastava.",
+  "byline": "Arun Kumar/Amitabh Srivastava",
+  "dateline": "Patna",
+  "published_at": "2007-06-26T20:15:51.000Z",
+  "modified_at": "2007-06-26T20:18:46.000Z",
+  "word_count": 146,
+  "reading_time_minutes": 1,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "assembly-elections-bypolls",
+    "slug": "assembly-elections-bypolls",
+    "title": "Assembly Elections & Bypolls"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/maoists-economic-blockade-derails-life/story-0VzOuIkZo9x1ItaUN9HEcO.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/maoists-economic-blockade-derails-life/story-0VzOuIkZo9x1ItaUN9HEcO.html",
+      "original_article_id": "7e92fa67278be17a",
+      "published_at": "2007-06-26T20:15:51.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/maoists-economic-blockade-derails-life/story-0VzOuIkZo9x1ItaUN9HEcO.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "837153e4efc2d4144f97ca00a2bf09a025ec1a4affbd7cbc56e134791a8d55f7",
+      "last_verified_at": "2026-08-29T12:46:16.571Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

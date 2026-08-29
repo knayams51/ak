@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Choudhary wins trust vote, vows to follow in predecessor Nitish Kumar's footsteps | India News",
+  "description": "Choudhary said the National Democratic Alliance government under Kumar worked for all sections of society in the last two decades | India News",
+  "datePublished": "2026-04-24T09:54:27.000Z",
+  "dateModified": "2026-04-24T09:54:27.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/choudhary-wins-trust-vote-vows-to-follow-in-predecessor-nitish-kumars-footsteps--467510"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Tejashwi Yadav",
+    "Lalu Prasad",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 541
+}

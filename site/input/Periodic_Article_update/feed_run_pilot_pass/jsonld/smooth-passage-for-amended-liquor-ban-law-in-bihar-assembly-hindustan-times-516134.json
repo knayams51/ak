@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Smooth passage for amended liquor ban law in Bihar Assembly | Hindustan Times",
+  "description": "The Bihar Prohibition and Excise (Amendment) Bill, 2022, which dilutes some of the stringent provisions of the liquor prohibition law that is in force in the state since April 2016, was passed by the Legislative Assembly on Tuesday without any opposition from a surprisingly thinly attended Opposition benches in the House.",
+  "datePublished": "2022-03-30T16:41:55.000Z",
+  "dateModified": "2022-03-30T16:41:55.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/smooth-passage-for-amended-liquor-ban-law-in-bihar-assembly-hindustan-times-516134"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Nitish Kumar",
+    "Patna High Court",
+    "RJD",
+    "Congress",
+    "Chanakya National Law University"
+  ],
+  "wordCount": 918
+}

@@ -1,0 +1,31 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Build outputs
+.astro/
+dist/
+build/
+.cache/
+
+# Crawler temp & runtime data
+crawler/data/*.db-journal
+crawler/data/*.db-wal
+crawler/data/*.db-shm
+.puppeteer/
+puppeteer_downloads/
+crawler_cache/
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+.env.local
+.env.*.local

@@ -1,0 +1,51 @@
+{
+  "id": "101771953767302",
+  "slug": "bihar-assembly-passes-4-bills-by-voice-vote-within-24-minutes-one-to-replace-188-767302",
+  "title": "Bihar Assembly passes 4 bills by voice vote within 24 minutes, one to replace 1887 British era Act | Hindustan Times",
+  "summary": "Coming 114 year an after Bihar became a state, the new bill replaces the old British law of 1887 (Bengal, Agra and Assam Civil Courts Act) in line with the specific judicial requirements of Bihar",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-02-24T17:22:46.000Z",
+  "modified_at": "2026-02-24T17:22:46.000Z",
+  "word_count": 600,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "assembly-cabinet-decisions",
+    "slug": "assembly-cabinet-decisions",
+    "title": "Assembly Proceedings & Cabinet Decisions"
+  },
+  "tags": [
+    "RJD"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/bihar-assembly-passes-4-bills-by-voice-vote-within-24-minutes-one-to-replace-1887-british-era-act-101771953767302.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/bihar-assembly-passes-4-bills-by-voice-vote-within-24-minutes-one-to-replace-1887-british-era-act-101771953767302.html",
+      "original_article_id": "101771953767302",
+      "published_at": "2026-02-24T17:22:46.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/bihar-assembly-passes-4-bills-by-voice-vote-within-24-minutes-one-to-replace-1887-british-era-act-101771953767302.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "7bb3a0681c4cf70b65956fe25441694dfd60e34f3ef6c553e092b196f7fa4e35",
+      "last_verified_at": "2026-08-29T12:46:16.372Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

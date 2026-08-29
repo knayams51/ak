@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "121 fellowships: Bihar govt to rope in experts to improve governance | Hindustan Times",
+  "description": "The Bihar Administrative Reforms Mission, under the chairmanship of Chief Secretary Pratyaya Amrit, and the Indian Institute of Management (Bodh Gaya) on Thursday signed a memorandum of understanding (MoU) to roll out the fellowship programme",
+  "datePublished": "2025-11-28T12:51:37.000Z",
+  "dateModified": "2025-11-28T12:51:37.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/121-fellowships-bihar-govt-to-rope-in-experts-to-improve-governance-hindustan-ti-297342"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 651
+}

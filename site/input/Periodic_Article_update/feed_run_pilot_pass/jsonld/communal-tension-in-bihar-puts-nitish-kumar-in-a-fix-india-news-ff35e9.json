@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Communal tension in Bihar puts Nitish Kumar in a fix | India News",
+  "description": "The JD(U)'s defeat in the bypolls and a series of post-Ram Navami clashes across Bihar have dented Kumar's \"pro-development\" image in recent times. | India News",
+  "datePublished": "2018-03-30T18:30:26.000Z",
+  "dateModified": "2018-03-30T18:30:55.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/communal-tension-in-bihar-puts-nitish-kumar-in-a-fix-india-news-ff35e9"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Tejashwi Yadav",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 397
+}

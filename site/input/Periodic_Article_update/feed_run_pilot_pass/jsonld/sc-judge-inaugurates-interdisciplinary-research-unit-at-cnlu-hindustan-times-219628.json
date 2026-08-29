@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "SC judge inaugurates interdisciplinary research unit at CNLU | Hindustan Times",
+  "description": "Chanakya National Law University (CNLU), Patna, in collaboration with GIGA Innovations Technologies Pvt.Ltd., on Wednesday inaugurated the Cyber Security and Data Protection Compliance Research Unit (CS-DPCRU), a pioneering initiative dedicated to advancing research, policy development, capacity building, and industry collaboration in the fields of cyber security, data protection, privacy, and emerging technologies.",
+  "datePublished": "2026-07-01T17:00:19.000Z",
+  "dateModified": "2026-07-01T17:00:19.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/sc-judge-inaugurates-interdisciplinary-research-unit-at-cnlu-hindustan-times-219628"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Patna High Court",
+    "Chanakya National Law University"
+  ],
+  "wordCount": 388
+}

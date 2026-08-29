@@ -1,0 +1,24 @@
+---
+const { topic, subtopic, size = 'normal' } = Astro.props;
+if (!topic) return null;
+
+const colorMap = {
+  'politics-elections-governance': { bg: '#fef3c7', text: '#92400e', border: '#fcd34d' },
+  'higher-education-reforms': { bg: '#e0e7ff', text: '#3730a3', border: '#a5b4fc' },
+  'judiciary-law-patna-high-court': { bg: '#d1fae5', text: '#065f46', border: '#6ee7b7' },
+  'state-administration-vigilance': { bg: '#f3e8ff', text: '#6b21a8', border: '#d8b4fe' },
+  'social-issues-health-culture': { bg: '#ffe4e6', text: '#9f1239', border: '#fda4af' }
+};
+
+const colors = colorMap[topic.slug || topic.id] || { bg: '#f3f4f6', text: '#374151', border: '#d1d5db' };
+const padding = size === 'small' ? '0.15rem 0.45rem' : '0.25rem 0.65rem';
+const fontSize = size === 'small' ? '0.7rem' : '0.75rem';
+---
+
+<a 
+  href={`/topics/${topic.slug || topic.id}`} 
+  style={`display: inline-flex; align-items: center; gap: 0.35rem; background-color: ${colors.bg}; color: ${colors.text}; border: 1px solid ${colors.border}; padding: ${padding}; font-size: ${fontSize}; font-weight: 700; border-radius: 9999px; text-decoration: none; text-transform: uppercase; letter-spacing: 0.03em;`}
+>
+  <span style={`width: 6px; height: 6px; border-radius: 50%; background-color: ${colors.text};`}></span>
+  {topic.title}
+</a>

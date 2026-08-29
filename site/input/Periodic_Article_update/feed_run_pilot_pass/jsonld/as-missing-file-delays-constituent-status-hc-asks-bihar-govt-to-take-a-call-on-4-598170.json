@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "As missing file delays constituent status, HC asks Bihar govt to take a call on 4-decade old college | Hindustan Times",
+  "description": "The matter relates to Dwarka Nath College, Jatti Chak, Masaurhi, Patna, duly affiliated to Magadh University, Bodhgaya and recognized by the University Grants Commission. Subsequently, the College came under Patliputra University by a notification issued by the Education Department",
+  "datePublished": "2026-02-22T12:16:37.000Z",
+  "dateModified": "2026-02-22T12:16:37.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/as-missing-file-delays-constituent-status-hc-asks-bihar-govt-to-take-a-call-on-4-598170"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna High Court"
+  ],
+  "wordCount": 542
+}

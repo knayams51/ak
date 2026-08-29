@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Uproar in Bihar House over 'blood test' poser on liquor prohibition | Hindustan Times",
+  "description": "Parliamentary affairs minister Vijay Kumar Choudhary clarified that there was no such proposal for any review and all the members had unanimously backed prohibition",
+  "datePublished": "2026-02-18T12:20:29.000Z",
+  "dateModified": "2026-02-18T12:20:29.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/uproar-in-bihar-house-over-blood-test-poser-on-liquor-prohibition-hindustan-time-229783"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "RJD",
+    "Congress"
+  ],
+  "wordCount": 672
+}

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b91c1c"/>
+      <stop offset="100%" stop-color="#dc2626"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="400" height="480" rx="12" fill="url(#bgGrad)"/>
+  
+  <!-- Subtle Border -->
+  <rect x="1" y="1" width="398" height="478" rx="11" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <!-- Journalistic Silhouette / Headshot Art -->
+  <g transform="translate(200, 190)" filter="url(#shadow)">
+    <!-- Aura Ring -->
+    <circle cx="0" cy="0" r="95" fill="#1e293b" stroke="#475569" stroke-width="3"/>
+    
+    <!-- Inner Base Circle -->
+    <circle cx="0" cy="0" r="88" fill="#334155"/>
+    
+    <!-- Silhouette Head & Shoulders -->
+    <!-- Head -->
+    <circle cx="0" cy="-22" r="38" fill="#e2e8f0"/>
+    <!-- Glasses -->
+    <rect x="-26" y="-28" width="22" height="15" rx="3" fill="none" stroke="#0f172a" stroke-width="3"/>
+    <rect x="4" y="-28" width="22" height="15" rx="3" fill="none" stroke="#0f172a" stroke-width="3"/>
+    <line x1="-4" y1="-22" x2="4" y2="-22" stroke="#0f172a" stroke-width="3"/>
+    
+    <!-- Torso / Suit -->
+    <path d="M-68 70 C-68 20 -40 5 0 5 C40 5 68 20 68 70 Z" fill="#cbd5e1"/>
+    <!-- Collar & Tie -->
+    <path d="M-18 5 L0 38 L18 5 Z" fill="#ffffff"/>
+    <path d="M-6 8 L0 45 L6 8 Z" fill="url(#accentGrad)"/>
+  </g>
+
+  <!-- Verified Bureau Badge -->
+  <g transform="translate(200, 315)">
+    <rect x="-110" y="0" width="220" height="26" rx="13" fill="rgba(15, 23, 42, 0.85)" stroke="#475569" stroke-width="1"/>
+    <circle cx="-88" cy="13" r="4.5" fill="#16a34a"/>
+    <text x="5" y="17" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="0.05em">
+      HINDUSTAN TIMES • PATNA
+    </text>
+  </g>
+
+  <!-- Name & Title -->
+  <text x="200" y="375" fill="#ffffff" font-family="'Merriweather', Georgia, serif" font-size="24" font-weight="700" text-anchor="middle" letter-spacing="-0.02em">
+    ARUN KUMAR
+  </text>
+  
+  <text x="200" y="405" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" text-anchor="middle" letter-spacing="0.03em">
+    ASSOCIATE EDITOR
+  </text>
+
+  <text x="200" y="432" fill="#ef4444" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="0.08em">
+    35+ YEARS BIHAR JOURNALISM
+  </text>
+</svg>

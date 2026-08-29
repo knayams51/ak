@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar edu dept seeks clarity on minister's selection as asst prof | India News",
+  "description": "Bihar education department seeks clarification on appointing minister Ashok Chaudhary as Assistant Professor due to scrutiny of his PhD degree. | India News",
+  "datePublished": "2025-12-29T23:16:06.000Z",
+  "dateModified": "2025-12-29T23:16:06.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-edu-dept-seeks-clarity-on-ministers-selection-as-asst-prof-india-news-363747"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "BSUSC",
+    "Congress"
+  ],
+  "wordCount": 527
+}

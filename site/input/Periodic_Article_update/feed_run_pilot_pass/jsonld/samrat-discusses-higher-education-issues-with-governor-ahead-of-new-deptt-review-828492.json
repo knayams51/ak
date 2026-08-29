@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Samrat discusses higher education issues with Governor ahead of new deptt review | Hindustan Times",
+  "description": "The issue of unending controversies on the ongoing recruitment of assistant professors by the Bihar State University Service Commission (BSUSC) also figured during the discussions between the Governor and the CM.",
+  "datePublished": "2026-05-26T03:57:07.000Z",
+  "dateModified": "2026-05-26T03:57:08.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/samrat-discusses-higher-education-issues-with-governor-ahead-of-new-deptt-review-828492"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "BSUSC"
+  ],
+  "wordCount": 525
+}

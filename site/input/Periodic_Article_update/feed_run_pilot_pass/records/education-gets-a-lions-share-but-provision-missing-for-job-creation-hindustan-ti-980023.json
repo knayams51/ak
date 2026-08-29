@@ -1,0 +1,51 @@
+{
+  "id": "101677602980023",
+  "slug": "education-gets-a-lions-share-but-provision-missing-for-job-creation-hindustan-ti-980023",
+  "title": "Education gets a lion's share, but provision missing for job creation | Hindustan Times",
+  "summary": "In the education sector, the government has announced to recruit 48,762 primary teachers, 5,886 physical education trainers, 40,506 head teachers, 44,193 teachers in secondary schools, 89,734 teachers in higher secondary schools and 7,360 computer teachers.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2023-02-28T16:49:39.000Z",
+  "modified_at": "2023-02-28T16:49:39.000Z",
+  "word_count": 474,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "assembly-cabinet-decisions",
+    "slug": "assembly-cabinet-decisions",
+    "title": "Assembly Proceedings & Cabinet Decisions"
+  },
+  "tags": [
+    "Nitish Kumar"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/education-gets-a-lion-s-share-but-provision-missing-for-job-creation-101677602980023.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/education-gets-a-lion-s-share-but-provision-missing-for-job-creation-101677602980023.html",
+      "original_article_id": "101677602980023",
+      "published_at": "2023-02-28T16:49:39.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/education-gets-a-lion-s-share-but-provision-missing-for-job-creation-101677602980023.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "27513b83c3ec23d49efc32d18499269da83f8b16c037a1abb5bdf9f1c3205172",
+      "last_verified_at": "2026-08-29T12:46:16.440Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

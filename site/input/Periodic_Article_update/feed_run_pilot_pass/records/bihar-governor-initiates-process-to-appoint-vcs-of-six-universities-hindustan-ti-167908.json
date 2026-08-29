@@ -1,0 +1,54 @@
+{
+  "id": "101779298167908",
+  "slug": "bihar-governor-initiates-process-to-appoint-vcs-of-six-universities-hindustan-ti-167908",
+  "title": "Bihar governor initiates process to appoint VCs of six universities | Hindustan Times",
+  "summary": "The Governor's secretariat on Wednesday invited applications for LN Mithila University (Darbhanga), Kameshwar Singh Darbhanga, Sanskrit University, BN Mandal University (Madhepura), BBA Bihar University (Muzaffarpur), JP University (Chapra) and Aryabhatt Knowledge University (Patna).",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-05-20T17:29:27.000Z",
+  "modified_at": "2026-05-20T17:29:27.000Z",
+  "word_count": 750,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "BPSC",
+    "Patna University",
+    "JD(U)",
+    "RJD"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/bihar-governor-initiates-process-to-appoint-vcs-of-six-universities-101779298167908.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/bihar-governor-initiates-process-to-appoint-vcs-of-six-universities-101779298167908.html",
+      "original_article_id": "101779298167908",
+      "published_at": "2026-05-20T17:29:27.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/bihar-governor-initiates-process-to-appoint-vcs-of-six-universities-101779298167908.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "ef35960b7288144d0c2c6d7b6d424651a741f6b02936da9e5234b215c00dc0fb",
+      "last_verified_at": "2026-08-29T12:46:16.273Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

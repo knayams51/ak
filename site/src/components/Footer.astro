@@ -1,0 +1,59 @@
+---
+import SocialConnect from './SocialConnect.astro';
+import taxonomyConfig from '../config/taxonomy.config.json';
+import authorConfig from '../config/author.config.json';
+---
+
+<footer style="background-color: var(--bg-surface); border-top: 1px solid var(--border-color); margin-top: 4rem; padding: 3.5rem 0 2rem;">
+  <div class="container">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 2.5rem; margin-bottom: 2.5rem;">
+      {/* Bio Column */}
+      <div>
+        <h3 style="font-size: 1.2rem; margin-bottom: 1rem;">Arun Kumar</h3>
+        <p style="font-size: 0.9rem; color: var(--text-secondary); line-height: 1.6; margin-bottom: 1.25rem;">
+          {authorConfig.short_bio}
+        </p>
+        <SocialConnect />
+      </div>
+
+      {/* Beats Column */}
+      <div>
+        <h4 style="font-size: 1rem; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted);">
+          Editorial Beats
+        </h4>
+        <ul style="list-style: none; display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.9rem;">
+          {taxonomyConfig.topics.map(topic => (
+            <li>
+              <a href={`/topics/${topic.slug}`} style="color: var(--text-secondary); text-decoration: none;">
+                {topic.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      {/* Archival Standards & Links */}
+      <div>
+        <h4 style="font-size: 1rem; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted);">
+          Living Archival Standards
+        </h4>
+        <ul style="list-style: none; display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.9rem; color: var(--text-secondary);">
+          <li><a href="/methodology">Editorial Fidelity & Provenance</a></li>
+          <li><a href="/archive">Living Chronological Archive (2000–Present)</a></li>
+          <li><a href="/about#awards">Journalism Awards & Honors</a></li>
+          <li><a href="/rss.xml">RSS Syndication Feed</a></li>
+        </ul>
+      </div>
+    </div>
+
+    {/* Bottom Copyright */}
+    <div style="border-top: 1px solid var(--border-light); padding-top: 1.5rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; font-size: 0.85rem; color: var(--text-muted);">
+      <div>
+        © {new Date().getFullYear()} Arun Kumar. All articles originally published in <em>Hindustan Times</em>.
+      </div>
+      <div>
+        Living journalistic archive with cryptographic provenance & Wayback preservation.
+      </div>
+    </div>
+  </div>
+</footer>

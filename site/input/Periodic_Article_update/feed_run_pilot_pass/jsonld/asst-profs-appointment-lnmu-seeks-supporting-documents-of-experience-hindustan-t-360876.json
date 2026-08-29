@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Asst Profs appointment: LNMU seeks supporting documents of experience | Hindustan Times",
+  "description": "The LNMU's direction to the 14 candidates out of 46 recommended has come in the Political Science subject, which was mired in controversy ahead of election",
+  "datePublished": "2026-02-04T22:36:01.000Z",
+  "dateModified": "2026-02-04T22:36:01.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/asst-profs-appointment-lnmu-seeks-supporting-documents-of-experience-hindustan-t-360876"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna High Court",
+    "BSUSC",
+    "Patna University"
+  ],
+  "wordCount": 395
+}

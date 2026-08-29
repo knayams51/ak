@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar Governor says state to offer 1.2 mn jobs, 3.4 mn other opportunities before polls | Hindustan Times",
+  "description": "Governor Arif Mohammad Khan said the Centre was extending full support to add pace to the state's developmental journey under chief minister Nitish Kumar.",
+  "datePublished": "2025-02-28T09:48:26.000Z",
+  "dateModified": "2025-02-28T09:48:26.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-governor-says-state-to-offer-12-mn-jobs-34-mn-other-opportunities-before-p-107069"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 429
+}

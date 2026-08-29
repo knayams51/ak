@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Lathicharge on aspirants protesting TRE-4 delay in Patna | Hindustan Times",
+  "description": "The students alleged that the BPSC had been dilly-dallying despite assurances and the students had no more patience. Many students sustained injuries in the police action.",
+  "datePublished": "2026-05-08T12:20:44.000Z",
+  "dateModified": "2026-05-08T12:20:44.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/lathicharge-on-aspirants-protesting-tre-4-delay-in-patna-hindustan-times-845041"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar",
+    "BPSC"
+  ],
+  "wordCount": 446
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Patna HC flags mental health issues, seeks state response on steps taken | Hindustan Times",
+  "description": "The report, prepared on the court's direction, underlined the shortcomings of mental health facilities in Bihar and at Bihar State Institute of Mental Health and Allied Sciences (BIMHAS), Koelwar, Bhojpur",
+  "datePublished": "2026-02-19T07:51:59.000Z",
+  "dateModified": "2026-02-19T07:51:59.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/patna-hc-flags-mental-health-issues-seeks-state-response-on-steps-taken-hindusta-520367"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Patna High Court"
+  ],
+  "wordCount": 633
+}

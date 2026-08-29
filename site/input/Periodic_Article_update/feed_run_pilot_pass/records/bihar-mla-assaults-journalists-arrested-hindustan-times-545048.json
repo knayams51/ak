@@ -1,0 +1,53 @@
+{
+  "id": "b9f133e0e3545048",
+  "slug": "bihar-mla-assaults-journalists-arrested-hindustan-times-545048",
+  "title": "Bihar MLA assaults journalists, arrested | Hindustan Times",
+  "summary": "Journalists had approached him for comments in a rape & murder case in which he is alleged to be involved, report A Kumar & Ramashankar.",
+  "byline": "Arun Kumar and Ramashankar Arun Kumar and Ramashankar",
+  "dateline": "Patna",
+  "published_at": "2007-11-01T21:00:16.000Z",
+  "modified_at": "2007-11-02T11:51:08.000Z",
+  "word_count": 426,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/bihar-mla-assaults-journalists-arrested/story-MHsrnq7i4aMMxKTzvmXeyM.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/bihar-mla-assaults-journalists-arrested/story-MHsrnq7i4aMMxKTzvmXeyM.html",
+      "original_article_id": "b9f133e0e3545048",
+      "published_at": "2007-11-01T21:00:16.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/bihar-mla-assaults-journalists-arrested/story-MHsrnq7i4aMMxKTzvmXeyM.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "48f255ba44b88b44a0e94c474902779fdbb65e352072d1cf709b2165c467ac4a",
+      "last_verified_at": "2026-08-29T12:46:16.562Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

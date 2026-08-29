@@ -1,0 +1,44 @@
+---
+import authorConfig from '../config/author.config.json';
+const { links = authorConfig.social_links, showLabels = false } = Astro.props;
+---
+
+<div class="social-connect-wrapper" style="display: flex; align-items: center; gap: 0.65rem; flex-wrap: wrap;">
+  {links.twitter && (
+    <a href={links.twitter.url} target="_blank" rel="noopener noreferrer" class="social-icon-btn" title={links.twitter.label} aria-label="X Twitter Profile">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+      </svg>
+      {showLabels && <span>X (@ArunkrHt)</span>}
+    </a>
+  )}
+
+  {links.muckrack && (
+    <a href={links.muckrack.url} target="_blank" rel="noopener noreferrer" class="social-icon-btn" title={links.muckrack.label} aria-label="Muck Rack Portfolio">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/>
+        <path d="M6 6h10"/>
+        <path d="M6 10h10"/>
+      </svg>
+      {showLabels && <span>Muck Rack</span>}
+    </a>
+  )}
+
+  {links.hindustantimes && (
+    <a href={links.hindustantimes.url} target="_blank" rel="noopener noreferrer" class="social-icon-btn" title={links.hindustantimes.label} aria-label="Hindustan Times Author Feed">
+      <span style="font-weight: 800; font-size: 0.8rem; font-family: var(--font-serif);">HT</span>
+      {showLabels && <span>Hindustan Times</span>}
+    </a>
+  )}
+
+  {links.rss && (
+    <a href="/rss.xml" class="social-icon-btn" title="RSS Feed" aria-label="RSS Feed">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 11a9 9 0 0 1 9 9"/>
+        <path d="M4 4a16 16 0 0 1 16 16"/>
+        <circle cx="5" cy="19" r="1"/>
+      </svg>
+      {showLabels && <span>RSS</span>}
+    </a>
+  )}
+</div>

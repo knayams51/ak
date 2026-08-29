@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Patna HC criticises 'autocratic action' of state on decades old land ownership | Hindustan Times",
+  "description": "Hearing his civil writ petition, a single-judge bench of Justice Sourendra Pandey ordered the local administration to immediately resume issuing rent receipts to the petitioner",
+  "datePublished": "2026-06-26T10:45:25.000Z",
+  "dateModified": "2026-06-26T10:45:26.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/patna-hc-criticises-autocratic-action-of-state-on-decades-old-land-ownership-hin-726381"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Patna High Court"
+  ],
+  "wordCount": 368
+}

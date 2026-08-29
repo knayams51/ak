@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Acting VCs for eight Bihar universities | Hindustan Times",
+  "description": "Chancellor Ramnath Kovind has made interim arrangement as the process to appoint regular vice chancellors in Bihar, which will require 'effective and meaningful' consultation between Raj Bhawan and the government, may stretch over a month.",
+  "datePublished": "2017-01-31T11:37:16.000Z",
+  "dateModified": "2017-01-31T11:37:16.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/acting-vcs-for-eight-bihar-universities-hindustan-times-9b91e4"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna High Court",
+    "Patna University"
+  ],
+  "wordCount": 444
+}

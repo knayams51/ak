@@ -1,0 +1,55 @@
+{
+  "id": "101685463351092",
+  "slug": "as-oppn-gears-up-for-unity-meet-bjp-plans-pm-visit-to-bihar-hindustan-times-351092",
+  "title": "As Oppn gears up for unity meet, BJP plans PM visit to Bihar | Hindustan Times",
+  "summary": "A little less than a year left for the parliamentary elections, BJP has organised a month-long mass contact programme ending on June 30 in Bihar.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2023-05-30T16:15:50.000Z",
+  "modified_at": "2023-05-30T16:15:53.000Z",
+  "word_count": 367,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/pm-modi-to-address-bjp-s-public-meeting-in-bihar-highlighting-9-years-of-govt-and-countering-nitish-kumar-s-anti-bjp-alliance-101685463351092.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/pm-modi-to-address-bjp-s-public-meeting-in-bihar-highlighting-9-years-of-govt-and-countering-nitish-kumar-s-anti-bjp-alliance-101685463351092.html",
+      "original_article_id": "101685463351092",
+      "published_at": "2023-05-30T16:15:50.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/pm-modi-to-address-bjp-s-public-meeting-in-bihar-highlighting-9-years-of-govt-and-countering-nitish-kumar-s-anti-bjp-alliance-101685463351092.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "289adcc31814f91aa0356776d22378cf4990008c829ab600e99c37f9128dacd2",
+      "last_verified_at": "2026-08-29T12:46:16.433Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nitish to leave Bihar House on March 30 | Hindustan Times",
+  "description": "According to the Prohibition of Simultaneous Membership Rules, 1950 (under Articles 101/190 of the Constitution), a member elected to both Parliament and a State Legislature must resign from one within 14 days. He was elected to the Rajya Sabha on March 16.",
+  "datePublished": "2026-03-27T12:38:27.000Z",
+  "dateModified": "2026-03-27T12:38:27.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nitish-to-leave-bihar-house-on-march-30-hindustan-times-107422"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD"
+  ],
+  "wordCount": 508
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "JD(U) pledges to follow Nitish, promote Nishant | Hindustan Times",
+  "description": "The party also appreciated centre's continued help in development of Bihar and congratulated the Samrat government for being committed to taking forward Nitish's legacy",
+  "datePublished": "2026-06-21T21:58:08.000Z",
+  "dateModified": "2026-06-21T21:58:08.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "wordCount": 691
+}

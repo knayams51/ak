@@ -1,0 +1,52 @@
+{
+  "id": "8e045060bcaf823d",
+  "slug": "shatrughan-praises-nitish-may-get-notice-hindustan-times-af823d",
+  "title": "Shatrughan praises Nitish, may get notice | Hindustan Times",
+  "summary": "The BJP on Tuesday removed ex-MLC and party spokesman, Ram Kishore Singh from his post and issued a showcause notice for his praise of chief minister, Nitish Kumar yesterday, even as party MP, Shatrughan Sinha asserted 'Nitish Kumar is prime minister material'.",
+  "byline": "Arun Kumar Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2013-07-30T09:53:37.000Z",
+  "modified_at": "2013-07-30T19:20:40.000Z",
+  "word_count": 399,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "BJP"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/shatrughan-praises-nitish-may-get-notice/story-chzUocjmx5Wfeq4UZ3N45J.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/shatrughan-praises-nitish-may-get-notice/story-chzUocjmx5Wfeq4UZ3N45J.html",
+      "original_article_id": "8e045060bcaf823d",
+      "published_at": "2013-07-30T09:53:37.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/shatrughan-praises-nitish-may-get-notice/story-chzUocjmx5Wfeq4UZ3N45J.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "4da6639065b85ec2119bd577b90304f6f5dcc588b07884f8972cb55b95e6d274",
+      "last_verified_at": "2026-08-29T12:46:16.539Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}
