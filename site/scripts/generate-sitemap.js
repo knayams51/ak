@@ -7,7 +7,7 @@ const __dirname = path.dirname(__filename);
 
 const dataPath = path.join(__dirname, '..', 'src', 'data', 'articles.json');
 const publicDir = path.join(__dirname, '..', 'public');
-const baseUrl = 'https://arunkumar-journalism.org';
+const baseUrl = process.env.SITE_URL || 'https://ak-89y.pages.dev';
 
 if (!fs.existsSync(dataPath)) {
   console.log('[GenerateSitemap] articles.json not found. Skipping.');
