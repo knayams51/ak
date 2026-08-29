@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar governor removes MU VC midway through extended tenure; senior- most professor given charge | Hindustan Times",
+  "description": "This is the first removal of the VC since Hasnain took charge on March 14 last. What exactly led to the sudden removal is not known, but it is said to be the fallout of complaints against the VC reaching the Lok Bhawan.",
+  "datePublished": "2026-05-20T21:36:07.000Z",
+  "dateModified": "2026-05-20T21:36:07.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-governor-removes-mu-vc-midway-through-extended-tenure-senior-most-professo-250671"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "BJP"
+  ],
+  "wordCount": 377
+}

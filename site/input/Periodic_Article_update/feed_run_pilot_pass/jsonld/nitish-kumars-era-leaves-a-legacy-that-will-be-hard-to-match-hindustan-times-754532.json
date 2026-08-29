@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nitish Kumar's era leaves a legacy that will be hard to match | Hindustan Times",
+  "description": "For many in Bihar, Nitish Kumar was the CM who worked towards ensuring basic infrastructure like roads, bridges and electricity",
+  "datePublished": "2026-04-15T07:55:54.000Z",
+  "dateModified": "2026-04-15T07:55:54.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nitish-kumars-era-leaves-a-legacy-that-will-be-hard-to-match-hindustan-times-754532"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 901
+}

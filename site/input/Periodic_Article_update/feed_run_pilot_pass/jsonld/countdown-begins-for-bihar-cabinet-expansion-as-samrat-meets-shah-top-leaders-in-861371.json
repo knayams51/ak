@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Countdown begins for Bihar cabinet expansion as Samrat meets Shah, top leaders in Delhi | Hindustan Times",
+  "description": "Bihar's cabinet expansion may happen on May 6, as CM Samrat Choudhary consults BJP leaders in Delhi to finalize ministerial positions.",
+  "datePublished": "2026-05-03T16:47:41.000Z",
+  "dateModified": "2026-05-03T16:47:42.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/countdown-begins-for-bihar-cabinet-expansion-as-samrat-meets-shah-top-leaders-in-861371"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "wordCount": 780
+}

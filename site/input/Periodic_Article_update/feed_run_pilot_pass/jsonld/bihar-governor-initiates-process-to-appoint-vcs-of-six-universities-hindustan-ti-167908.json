@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar governor initiates process to appoint VCs of six universities | Hindustan Times",
+  "description": "The Governor's secretariat on Wednesday invited applications for LN Mithila University (Darbhanga), Kameshwar Singh Darbhanga, Sanskrit University, BN Mandal University (Madhepura), BBA Bihar University (Muzaffarpur), JP University (Chapra) and Aryabhatt Knowledge University (Patna).",
+  "datePublished": "2026-05-20T17:29:27.000Z",
+  "dateModified": "2026-05-20T17:29:27.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-governor-initiates-process-to-appoint-vcs-of-six-universities-hindustan-ti-167908"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "BPSC",
+    "Patna University",
+    "JD(U)",
+    "RJD"
+  ],
+  "wordCount": 750
+}

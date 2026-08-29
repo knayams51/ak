@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nitish picks close aide Shravan Kumar as JD(U) LP leader | Hindustan Times",
+  "description": "Shravan Kumar replaces Nitish Kumar as JD(U) legislature party leader, recognized for loyalty and experience as Bihar's MLA since 1995.",
+  "datePublished": "2026-04-21T13:26:36.000Z",
+  "dateModified": "2026-04-21T13:26:37.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nitish-picks-close-aide-shravan-kumar-as-jdu-lp-leader-hindustan-times-996756"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)"
+  ],
+  "wordCount": 305
+}

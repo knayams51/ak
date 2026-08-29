@@ -1,0 +1,31 @@
+# Ahead of joining of Asst Profs, fake teaching experience stumps BBABU | Hindustan Times
+
+**Patna** — The controversy-ridden appointment of assistant professors in Bihar has faced yet another roadblock, with the Babasaheb Bhimrao Ambedkar Bihar University (Muzaffarpur) writing to the Bihar State University Service Commission (BSUSC) and the department of higher education for specific guidelines to determine the yardstick for verification of experience certificates after the recommendation has been made.
+
+The guidelines have been sought following detection by the university that several candidates got shortlisted and also selected on the basis of experience certificates, which were either fake or never issued in accordance with the laid down provisions, but passed the scrutiny at the level of BSUSC, and now the universities are supposed to verify them before allowing joining.
+
+What the university has stumbled upon in course of preliminary verification is bizarre, with some candidates having teaching experience certificate without fulfilling the mandatory minimum criteria (a similar case also surfaced in Patna University and is under scrutiny), while there are also third grade employees who availed marks on experience (other universities have also reported such instances) working at a different place, though there is no supporting documents available with the institution where they claimed to have engaged classes.
+
+There are also others who availed minimum qualification for teaching much later, but produced experience certificates of the earlier period. There are still others who did not receive prescribed payment though banks or those who taught in institutions that were not even affiliated. There are also candidates whose documents were said to have been lost in flood or were nibbled by termites and no document is available for crosschecking.
+
+"What is common to them all is that they have all been allotted marks by the BSUSC and cleared two processes of shortlisting and selection. Even those who engaged a class as resource person or on honorary basis have also been allotted marks. Now the universities have been asked to verify such documents, but what has to be done with such candidates who have been recommended by the BSUSC needs to be made clear," says the letter written for the second time.
+
+The BBABU correspondence has further cited two different letters from the department of education and the BSUSC. The January 2025 letter of the department says that joining has to be ensured only after getting satisfied on 14 points, while the BSUSC letter of December 2024 states that confirmation of service has to be done after verification, which, university officials say, means they could join even while the verification is under process.
+
+The university VC Prof Dinesh Rai said that he had also brought these issues before the Governor as well as the commission and the department, as onus has been put on the universities, while the entire process was conducted by the BSUSC.
+
+"The BSUSC advertised the vacancies, set the eligibility criteria and the yardsticks, conducted interview after shortlisting and also made recommendations. Now we expect clear guidelines on every point so that the direction of verification could be clear for timely action and detection of those who availed benefits on illegal experience certificates," he added.
+
+On the other hand, the BSUSC had, in a letter to registrar, earlier washed its hands of the controversy after making recommendations, saying it was for the universities to verify the documents as they were the issuing authorities.
+
+"Had the commission gone in for verification before shortlisting of candidates and selection process, the controversy would have never arisen. The universities have undergone regular changes of VC and registrar over the years and the present incumbents cannot take the blame for the lapse done 10-15 years ago. Besides, those appointed in one university are from different universities. Still, even if we carry out verification, we need to have clear guidelines, as the matter is also in court," said a senior university functionary.
+
+In December, the Patna High Court had also taken a stern view on detection of forged and fabricated testimonials in course of verification in Physics subject, which eventually led to the cancellation of appointment. The court directed the Commission to consider the experience certificate of the petitioner duly issued by the Joint Registrar of the IIT, Kanpur and award the marks accordingly for his appointment against the vacant post in Physics.
+
+Strangely, while the ongoing appointment of assistant professors since 2020 is yet to be completed and is saddled with hundreds of court cases also, the move for fresh appointment in the state universities with new rules involving a written test has triggered a debate due to growing quality concern, trust deficit in the system after recent fiasco, disregard for top 6% of UGC-NET/CSIR qualified candidates eligible for Assistant professors through an all-India test, no weightage to doctorates from top-rung institutions in keeping with UGC categorisation of universities since 2018 and uploaded on Shodhganga repository and absence of domicile policy.
+
+The ongoing recruitment process, on for over five years, has been consistently embroiled in one controversy after another, which also evoked sharp criticism from the HC due to numerous petitions and controversies and failed to improve the health of seriously understaffed universities of Bihar, as regular retirements dilute the impact. The result is there is no state university ranked in NIRF or having NAAC A grade.
+
+BSUSC had advertised 4,638 vacancies of assistant professors in 52 subjects on September 23, 2020, just ahead of the announcement of state assembly elections. The previous recruitment process through the BPSC had also lingered for around five years.
+
+Arun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues.

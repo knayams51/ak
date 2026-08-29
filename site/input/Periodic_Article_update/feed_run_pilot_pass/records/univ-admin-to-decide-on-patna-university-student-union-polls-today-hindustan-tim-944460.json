@@ -1,0 +1,51 @@
+{
+  "id": "101771779944460",
+  "slug": "univ-admin-to-decide-on-patna-university-student-union-polls-today-hindustan-tim-944460",
+  "title": "Univ admin to decide on Patna University Student Union polls today | Hindustan Times",
+  "summary": "Patna University may decide on student union elections today after a postponement due to violence; students apologize and seek no legal action.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-02-22T17:05:44.000Z",
+  "modified_at": "2026-02-22T17:05:45.000Z",
+  "word_count": 791,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Patna University"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/univ-admin-to-decide-on-patna-university-student-union-polls-today-101771779944460.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/univ-admin-to-decide-on-patna-university-student-union-polls-today-101771779944460.html",
+      "original_article_id": "101771779944460",
+      "published_at": "2026-02-22T17:05:44.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/univ-admin-to-decide-on-patna-university-student-union-polls-today-101771779944460.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "83954af267f6e6119edb7d9f25d7cc053e423463692d0a7a95e799c479231be9",
+      "last_verified_at": "2026-08-29T10:18:12.395Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

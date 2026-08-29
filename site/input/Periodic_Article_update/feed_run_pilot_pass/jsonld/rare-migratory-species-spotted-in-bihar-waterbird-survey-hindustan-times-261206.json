@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Rare migratory species spotted in Bihar Waterbird survey | Hindustan Times",
+  "description": "The Bird Survey in Bihar's Kosi region noted 4,982 birds of 92 species, including rare migratory ducks, highlighting the need for wetland conservation.",
+  "datePublished": "2026-02-08T16:14:20.000Z",
+  "dateModified": "2026-02-08T16:14:21.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/rare-migratory-species-spotted-in-bihar-waterbird-survey-hindustan-times-261206"
+  },
+  "articleSection": "Social Issues, Health & Heritage",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 495
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar inter results 2025: Girls outperfom boys; overall success rate at 85.19% | Hindustan Times",
+  "description": "The overall pass percentage stood at 85.19%, with girls recording a higher success rate of 86.23% compared to 84.09% for boys.",
+  "datePublished": "2026-03-23T11:08:20.000Z",
+  "dateModified": "2026-03-23T11:08:20.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-inter-results-2025-girls-outperfom-boys-overall-success-rate-at-8519-hindu-101256"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 453
+}

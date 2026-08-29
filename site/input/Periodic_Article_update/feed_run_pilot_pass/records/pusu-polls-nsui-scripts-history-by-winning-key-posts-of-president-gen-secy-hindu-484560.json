@@ -1,0 +1,56 @@
+{
+  "id": "101772366484560",
+  "slug": "pusu-polls-nsui-scripts-history-by-winning-key-posts-of-president-gen-secy-hindu-484560",
+  "title": "PUSU polls: NSUI scripts history by winning key posts of president, gen secy | Hindustan Times",
+  "summary": "NSUI's Shantanu Shekhar won the election for president post by a big margin of 1,496 votes, defeating his nearest rival Prince Kumar from the Chhatra JD(U)",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-03-01T12:01:24.000Z",
+  "modified_at": "2026-03-01T12:01:24.000Z",
+  "word_count": 767,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "patna-university-development",
+    "slug": "patna-university-development",
+    "title": "Patna University & Heritage Campuses"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "Patna University",
+    "JD(U)",
+    "RJD",
+    "Congress"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/pusu-polls-nsui-scripts-history-by-winning-key-posts-of-president-gen-secy-101772366484560.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/pusu-polls-nsui-scripts-history-by-winning-key-posts-of-president-gen-secy-101772366484560.html",
+      "original_article_id": "101772366484560",
+      "published_at": "2026-03-01T12:01:24.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/pusu-polls-nsui-scripts-history-by-winning-key-posts-of-president-gen-secy-101772366484560.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "8848262cbdbd5b3f58a3d26250c2d29ebc379177706934acbce31c91ae28bfcc",
+      "last_verified_at": "2026-08-29T10:18:12.383Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

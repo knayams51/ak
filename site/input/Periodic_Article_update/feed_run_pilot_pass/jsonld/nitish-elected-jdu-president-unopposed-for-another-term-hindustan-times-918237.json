@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nitish elected JD(U) president unopposed for another term | Hindustan Times",
+  "description": "This time, he has been elected party chief at a time when the state is headed towards political transition after his decision to move to national politics.",
+  "datePublished": "2026-03-24T13:11:57.000Z",
+  "dateModified": "2026-03-24T13:11:57.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nitish-elected-jdu-president-unopposed-for-another-term-hindustan-times-918237"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 776
+}

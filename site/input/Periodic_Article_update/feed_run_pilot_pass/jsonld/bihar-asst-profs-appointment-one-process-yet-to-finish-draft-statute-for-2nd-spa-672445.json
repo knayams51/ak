@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar asst profs' appointment: One process yet to finish, draft statute for 2nd sparks debate | Hindustan Times",
+  "description": "The draft statute has proposed a descriptive type three-hour written test based on NET syllabus. It will carry 160 marks, while 40 marks will be for interview.",
+  "datePublished": "2026-03-12T21:46:09.000Z",
+  "dateModified": "2026-03-12T21:46:09.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-asst-profs-appointment-one-process-yet-to-finish-draft-statute-for-2nd-spa-672445"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar",
+    "BPSC",
+    "BSUSC",
+    "Patna University"
+  ],
+  "wordCount": 1333
+}

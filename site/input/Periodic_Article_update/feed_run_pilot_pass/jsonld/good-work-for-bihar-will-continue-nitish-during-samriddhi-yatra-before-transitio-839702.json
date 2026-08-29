@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Good work for Bihar will continue: Nitish during Samriddhi Yatra before transition | Hindustan Times",
+  "description": "Samriddhi Yatra, which commenced from January 16, may have one more phase to complete the entire state for direct feedback from the people, reviewing the ongoing schemes and preparing ground work for new initiatives",
+  "datePublished": "2026-03-17T15:53:59.000Z",
+  "dateModified": "2026-03-17T15:53:59.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/good-work-for-bihar-will-continue-nitish-during-samriddhi-yatra-before-transitio-839702"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "wordCount": 668
+}

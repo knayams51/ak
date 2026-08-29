@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "'Defeat of Women's Reservation Bill a dark chapter of democracy' | Hindustan Times",
+  "description": "Bihar CM Samrat Choudhary criticized the Congress-led Opposition for the defeat of the Women's Reservation Bill, calling it a setback for women's empowerment.",
+  "datePublished": "2026-04-19T21:30:15.000Z",
+  "dateModified": "2026-04-19T21:30:15.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/defeat-of-womens-reservation-bill-a-dark-chapter-of-democracy-hindustan-times-200461"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Lalu Prasad",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 846
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Oppn RJD stages walkout during govt reply after Budget discussion | Hindustan Times",
+  "description": "The RJD staged a walkout in Bihar's Vidhan Sabha during the budget discussion, citing dissatisfaction with the government's response and budget issues.",
+  "datePublished": "2026-02-09T16:58:52.000Z",
+  "dateModified": "2026-02-09T16:58:53.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/oppn-rjd-stages-walkout-during-govt-reply-after-budget-discussion-hindustan-time-333058"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "RJD"
+  ],
+  "wordCount": 428
+}

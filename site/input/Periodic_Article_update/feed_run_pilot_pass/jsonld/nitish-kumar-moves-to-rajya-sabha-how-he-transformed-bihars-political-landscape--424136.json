@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nitish Kumar moves to Rajya Sabha: How he transformed Bihar's political landscape | Hindustan Times",
+  "description": "In 2025, JD-U won 85 seats at a strike rate of 85% despite Nitish Kumar's muted campaign amid concerns over his health",
+  "datePublished": "2026-03-05T07:07:03.000Z",
+  "dateModified": "2026-03-05T07:07:03.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nitish-kumar-moves-to-rajya-sabha-how-he-transformed-bihars-political-landscape--424136"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "Patna University",
+    "JD(U)",
+    "BJP"
+  ],
+  "wordCount": 666
+}

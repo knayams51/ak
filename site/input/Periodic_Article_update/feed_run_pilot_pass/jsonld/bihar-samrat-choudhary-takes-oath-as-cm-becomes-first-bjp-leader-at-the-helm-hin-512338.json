@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar: Samrat Choudhary takes oath as CM, becomes first BJP leader at the helm | Hindustan Times",
+  "description": "The development marks a departure from over two decades of politics centred around Nitish Kumar, who resigned as chief minister on Tuesday.",
+  "datePublished": "2026-04-15T06:11:52.000Z",
+  "dateModified": "2026-04-15T06:11:52.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-samrat-choudhary-takes-oath-as-cm-becomes-first-bjp-leader-at-the-helm-hin-512338"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "wordCount": 707
+}

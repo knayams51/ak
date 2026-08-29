@@ -1,0 +1,53 @@
+{
+  "id": "101770567261206",
+  "slug": "rare-migratory-species-spotted-in-bihar-waterbird-survey-hindustan-times-261206",
+  "title": "Rare migratory species spotted in Bihar Waterbird survey | Hindustan Times",
+  "summary": "The Bird Survey in Bihar's Kosi region noted 4,982 birds of 92 species, including rare migratory ducks, highlighting the need for wetland conservation.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-02-08T16:14:20.000Z",
+  "modified_at": "2026-02-08T16:14:21.000Z",
+  "word_count": 495,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "social-issues-health-culture",
+    "slug": "social-issues-health-culture",
+    "title": "Social Issues, Health & Heritage"
+  },
+  "subtopic": {
+    "id": "floods-disaster-management",
+    "slug": "floods-disaster-management",
+    "title": "Floods & Disaster Management"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/rare-migratory-species-spotted-in-bihar-waterbird-survey-101770567261206.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/rare-migratory-species-spotted-in-bihar-waterbird-survey-101770567261206.html",
+      "original_article_id": "101770567261206",
+      "published_at": "2026-02-08T16:14:20.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/rare-migratory-species-spotted-in-bihar-waterbird-survey-101770567261206.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "77912bbf0bfc4e42f8dd44c7eecc5001d5f59769e5409905542bdbc98a3492e7",
+      "last_verified_at": "2026-08-29T10:18:12.420Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

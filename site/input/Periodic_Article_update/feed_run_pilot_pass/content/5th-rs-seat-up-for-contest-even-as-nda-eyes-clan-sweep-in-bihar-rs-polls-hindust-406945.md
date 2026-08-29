@@ -1,0 +1,39 @@
+# 5th RS seat up for contest even as NDA eyes clan sweep in Bihar RS polls | Hindustan Times
+
+**Patna** — All eyes are now on Monday's Rajya Sabha election for five seats in Bihar, as it includes two big names - Bihar chief minister Nitish Kumar, who has announced to step down to make his debut in the Upper House, and BJP national president Nitin Nabin, a five-term MLA who will also make his debut in the House of Elders.
+
+Rest three from the NDA in the fray are Union minister Ram Nath Thakur, Rashtriya Lok Morcha (RLM) leader Upendra Kushwaha, both of whom are sitting members, and debutant Shivesh Kumar of the BJP.
+
+With numbers comfortably stacked in favour of the National Democratic Alliance (NDA) for four seats and marginally short for the fifth, the Opposition has forced an election by fielding a joint candidate, RJD's AD Singh. For the fifth seat, intense mind game is on with claims and counter-claims for the requisite number. Each seat will require 41 first preference votes.
+
+However, experts see this as an opportunity for the NDA, especially the BJP, to stamp its authority far beyond the Rajya Sabha election to give a clear signal ahead of the transition of power for a BJP CM --- the first time it will happen in Bihar.
+
+"For the Opposition also, one seat will be enough to send a signal that it could still cause upheavals to upset BJP calculations despite its depleted strength in House, but that will be difficult. It has to get all 41 first preference votes, which means no room even for a blip in the Opposition camp. If it is able to do that, that will be big. The Opposition will not have the opportunity of second preferential votes," said Prof Vijay Kumar of BBA Bihar University.
+
+Rajya Sabha members are elected by the state assembly members through the system of proportional representation by a single, transferable vote through an open ballot. In case all the seats are not filled by first preference votes, the surplus votes of the winning candidates would be transferred to the other candidate falling short of numbers and if that is still not enough to reach the required 41-mark, the second preferential votes will be the deciding factor, as it happened in UP in 2018. The NDA has the advantage of second preferential votes, if the situation demands it.
+
+That makes minute calculation of the quota required by any party to first ensure victories on seats it has got numbers for, and the MLAs are accordingly prepared for voting. Mock polls were also organised at the residence of Deputy CM Samrat Choudhary. NDA is assured of four seats, but it has shortfall of three MLAs for the fifth seat, which the Opposition wants to snatch and has fielded one candidate.
+
+The Opposition has 35 MLAs, but it is banking on five more from the AIMIM, and the sole BSP MLA. Put together, the number reaches the required 41, but it is easier said than done, considering the fear of cross voting as was witnessed during the 2024 voting on the no-confidence motion against the then Bihar Assembly Speaker Awadh Bihari Choudhary, when three JD(U) legislators were allegedly prevented from voting and the matter is still under investigation. Later, the Nitish government won the trust vote and three RJD MLAs sat with the treasury benches.
+
+"Cross voting and abstentions are not alien to Bihar Assembly. Usually, dominant force enjoys the advantage of cross voting. For the fifth seat, both the NDA and the Opposition will have to keep its 'extended' flock together and that is the reason hectic parleys are on in both the camps for the last few days to make sure that the numbers on paper are translated into votes. Even abstentions will make or mar the prospects and there is an increasing possibility of that, but the NDA seems comfortably placed at this stage. It is a test of not just numbers, but also political strategy to increase strength," said social analyst Prof NK Choudhary.
+
+Sensing the tightrope walk, Leader of Opposition Tejashwi Prasad Yadav has asked all the Opposition MLAs to remain in Patna in a hotel to avoid horse trading attempts. He also held close-door meeting with them. However, even party leaders admit that it was difficult to commit about AIMIM until the vote was cast. The Congress party in Bihar also has six MLAs, but it has no legislative party leader so far, reflecting lack of cohesion. The lone BSP MLA is another unknown proposition.
+
+Exuding both optimism and concern, RJD MLC Faisal Ali, however, said that with AIMIM support, the Opposition has the required number of 41, while the NDA has just 38, three short. "The NDA will try to resort to horse trading, as they often do. They also have fissures within, with two-three parties attacking one another over denial of Rajya Sabha seat and preference to a smaller party. So, the problem is more on the other side to keep the house in order," he added.
+
+Bihar minister Sanjay Singh from the LJP, on the other hand, said that the NDA would get more votes than required, as despite all efforts, AIMIM would never forget that RJD had decimated it after 2020 election by snatching its MLAs. "The picture will be clear once the polling is over. Wait for the count, NDA may have more than required," hinting that AIMIM would not go with the RJD.
+
+JD-U leaders are also terming Opposition's remarks as mere posturing. "While four seats of the NDA are clear, Shivesh Kumar of the BJP is a Mahadalit and he is the fifth candidate. That is enough of an indication that the NDA is winning all five. You will see the results," said JD(U) minister Ratnesh Sada, removing the doubt about who would be treated as the fifth NDA candidate.
+
+Parliamentary affairs minister Vijay Kunar Choudhary, however, said that there was no question of any fifth candidate, as all five were equally valued in the NDA and would win. "All NDA leaders are confident about all five seats. The unease is in the opposition camp and they are in a huddle. That shows which side is not sure of the outcome," he added.
+
+Earlier, the general perception was that Upendra Kushwaha of the RLM will be the fifth candidate, but the BJP did not want to take any chances due to possible reservations LJP-RV's Chirag Paswan and HAM-S's Jitan Ram Manjhi could have with a party having just four seats getting preference over them. "Everything will be clear after the election. The writing is on the wall," said state BJP chief Sanjay Saraogi.
+
+NDA leaders are confident that with 202 MLAs, they could walk away with all the five seats. "No point hazarding any guess at this stage. Let's see, we may end up getting more than we require, as some MLAs from the Opposition camp will not like to waste their vote. They can be confined to a hotel by the RJD, they will vote in the Vidhan Sabha only," said a senior BJP leader.
+
+If the NDA manages to make inroads into the Opposition camp, the additional votes will clearly send a strong message ahead of the political transition in the state, and that makes the fifth seat as much a challenge for the BJP as for the RJD. Of the five seats going to polls, two were earlier with the RJD and it is desperate to snatch at least one.
+
+Of the five Rajya Sabha members completing their tenure on April 9, Deputy Chairman of Rajya Sabha Harivansh (JD-U) made way for Nitish Kumar, while Prem Gupta of the RJD has not been fielded as the party does not have the numbers. Current Rajya Sabha member, RJD's AD Singh is the lone Opposition candidate.
+
+Arun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues.

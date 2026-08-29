@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Prez to be chief guest at 2nd Nalanda University convocation on March 31 | Hindustan Times",
+  "description": "Set up in 2014 through an Act of Parliament passed in 2010 after years of hard work piloted by the Nitish Kumar government and involving the likes of former President APJ Abdul Kalam in preparing the ground work, NU had held its first convocation in 2016 for the first batch of its post-graduate students.",
+  "datePublished": "2026-03-27T12:22:25.000Z",
+  "dateModified": "2026-03-27T12:22:25.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/prez-to-be-chief-guest-at-2nd-nalanda-university-convocation-on-march-31-hindust-146404"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 413
+}

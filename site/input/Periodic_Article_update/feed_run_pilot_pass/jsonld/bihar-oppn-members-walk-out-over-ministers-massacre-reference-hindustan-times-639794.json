@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar: Oppn members walk out over minister's massacre reference | Hindustan Times",
+  "description": "Bihar plans to open special schools for disabled children in all divisions, while the Opposition staged a walkout over governance criticisms in the assembly.",
+  "datePublished": "2026-02-11T21:32:03.000Z",
+  "dateModified": "2026-02-11T21:32:03.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-oppn-members-walk-out-over-ministers-massacre-reference-hindustan-times-639794"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "RJD",
+    "Congress"
+  ],
+  "wordCount": 503
+}

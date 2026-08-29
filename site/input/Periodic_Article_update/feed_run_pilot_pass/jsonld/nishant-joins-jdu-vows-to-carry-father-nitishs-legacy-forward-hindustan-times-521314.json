@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nishant joins JD(U); vows to carry father Nitish's legacy forward | Hindustan Times",
+  "description": "'I will work for the party as an active member. My father has decided to go to the Rajya Sabha and I respect his decision. I will try to live up to the faith that the people and the party have shown in me,' said Nishant Kumar after his induction into JD(U)",
+  "datePublished": "2026-03-08T12:05:20.000Z",
+  "dateModified": "2026-03-08T12:05:20.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nishant-joins-jdu-vows-to-carry-father-nitishs-legacy-forward-hindustan-times-521314"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)"
+  ],
+  "wordCount": 823
+}

@@ -82,8 +82,22 @@ class QueueManager {
     }
   }
 
-  saveFallback() {
-    fs.writeFileSync(this.fallbackPath, JSON.stringify(this.fallbackState, null, 2), 'utf8');
+  saveFallback(immediate = false) {
+    if (immediate) {
+      if (this._saveTimeout) clearTimeout(this._saveTimeout);
+      this._saveTimeout = null;
+      try {
+        fs.writeFileSync(this.fallbackPath, JSON.stringify(this.fallbackState, null, 2), 'utf8');
+      } catch (e) {}
+      return;
+    }
+    if (this._saveTimeout) return;
+    this._saveTimeout = setTimeout(() => {
+      this._saveTimeout = null;
+      try {
+        fs.writeFileSync(this.fallbackPath, JSON.stringify(this.fallbackState, null, 2), 'utf8');
+      } catch (e) {}
+    }, 400);
   }
 
   enqueue(url, sourceType = 'seed', priority = 10) {

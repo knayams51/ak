@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Patna HC flags poor implementation of prohibition, spike in cases due to rising illicit liquor trade | Hindustan Times",
+  "description": "The observation came from the bench of Justice Purnendu Singh on Tuesday while hearing a petition of a 19-year-old boy seeking pre-arrest bail in connection with alleged recovery of 55 litres of liquor from his motorcycle",
+  "datePublished": "2026-02-18T17:19:26.000Z",
+  "dateModified": "2026-02-18T17:19:26.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/patna-hc-flags-poor-implementation-of-prohibition-spike-in-cases-due-to-rising-i-167055"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Patna High Court"
+  ],
+  "wordCount": 663
+}

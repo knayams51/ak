@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Governor house set to search VCs as 3 univs slip under ad hoc arrangement | Hindustan Times",
+  "description": "A senior official of the Lok Bhawan said that the search committee would have a nominee from the University Grants Commission (UGC) in keeping with the UGC provisions and Supreme Court order on the appointment of VCs",
+  "datePublished": "2026-02-15T17:25:20.000Z",
+  "dateModified": "2026-02-15T17:25:20.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/governor-house-set-to-search-vcs-as-3-univs-slip-under-ad-hoc-arrangement-hindus-320772"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna University"
+  ],
+  "wordCount": 593
+}

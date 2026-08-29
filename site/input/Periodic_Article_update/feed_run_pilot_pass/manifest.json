@@ -1,7 +1,7 @@
 {
   "package_name": "feed_run_pilot_pass",
-  "generated_at": "2026-08-29T10:01:37.136Z",
-  "article_count": 32,
+  "generated_at": "2026-08-29T10:18:12.427Z",
+  "article_count": 121,
   "status": "ready_for_ingestion",
   "checksum_algorithm": "SHA-256",
   "articles": [
@@ -196,6 +196,540 @@
       "slug": "patna-hc-takes-serious-view-of-saharsa-mid-day-meal-poisoning-asks-sp-to-head-si-552835",
       "title": "Patna HC takes serious view of Saharsa mid-day meal poisoning, asks SP to head SIT | Hindustan Times",
       "sha256": "fc21ce0d77c2fa4b27bc53d08aad5752670b353eedb2853801fdf89e46214df6"
+    },
+    {
+      "id": "101779299250671",
+      "slug": "bihar-governor-removes-mu-vc-midway-through-extended-tenure-senior-most-professo-250671",
+      "title": "Bihar governor removes MU VC midway through extended tenure; senior- most professor given charge | Hindustan Times",
+      "sha256": "f7780acfb63e87f6143f02fff354185a50d20df7ea00396db552445868809e03"
+    },
+    {
+      "id": "101779298167908",
+      "slug": "bihar-governor-initiates-process-to-appoint-vcs-of-six-universities-hindustan-ti-167908",
+      "title": "Bihar governor initiates process to appoint VCs of six universities | Hindustan Times",
+      "sha256": "ef35960b7288144d0c2c6d7b6d424651a741f6b02936da9e5234b215c00dc0fb"
+    },
+    {
+      "id": "101779211982231",
+      "slug": "patna-hc-restores-pappu-yadavs-y-security-hindustan-times-982231",
+      "title": "Patna HC restores Pappu Yadav's Y+ security | Hindustan Times",
+      "sha256": "dae6c8be1245701ee3a10958781f14ae5ad142ab606697d05b09da0c095bb7f1"
+    },
+    {
+      "id": "101779124951667",
+      "slug": "ad-hocism-at-the-top-plagues-bihars-higher-edu-institutions-hindustan-times-951667",
+      "title": "Ad-hocism at the top plagues Bihar's higher edu institutions | Hindustan Times",
+      "sha256": "56b1807486d047d9a54ec7668cdcd169490b3fa7202fa7b8f9fc96ea5f7ef1f7"
+    },
+    {
+      "id": "101778764558766",
+      "slug": "setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766",
+      "title": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll | Hindustan Times",
+      "sha256": "c54b9bdf25c4ca5633be674c7d852d59b95b5d3b0762dda42fd2ce1e44a93988"
+    },
+    {
+      "id": "101778255988501",
+      "slug": "jd-u-bjp-swap-health-edu-depts-after-2-decades-amid-challenges-hopes-hindustan-t-988501",
+      "title": "JD-U, BJP swap health, edu depts after 2 decades amid challenges, hopes | Hindustan Times",
+      "sha256": "9a4735d02001d3a33eb7cf9d70b7fe41174ec743475efa9242894a8f7258619b"
+    },
+    {
+      "id": "101778242845041",
+      "slug": "lathicharge-on-aspirants-protesting-tre-4-delay-in-patna-hindustan-times-845041",
+      "title": "Lathicharge on aspirants protesting TRE-4 delay in Patna | Hindustan Times",
+      "sha256": "47bb7f956a92cb524e4ad79b23778a9dc10693518090483e1e2a76c379b90f69"
+    },
+    {
+      "id": "101778159237535",
+      "slug": "32-join-samrat-cabinet-in-bihar-with-carefully-crafted-caste-calculus-hindustan--237535",
+      "title": "32 join Samrat cabinet in Bihar with carefully crafted caste calculus | Hindustan Times",
+      "sha256": "3292bfd867f91716fecd371d12328d3b3cdf598ea03bf45fa7a267df0e16f160"
+    },
+    {
+      "id": "101778145429520",
+      "slug": "32-ministers-including-nitishs-son-inducted-in-bihar-cm-samrats-cabinet-hindusta-429520",
+      "title": "32 ministers, including Nitish's son, inducted in Bihar CM Samrat's cabinet | Hindustan Times",
+      "sha256": "0946234f37b262034f0fda46c46e94492f235417f6d12b52516fa3e3f22a9232"
+    },
+    {
+      "id": "101778088224380",
+      "slug": "nitishs-son-likely-to-ministerial-berth-as-bihar-cabinet-set-for-grand-expansion-224380",
+      "title": "Nitish's son likely to ministerial berth as Bihar cabinet set for grand expansion on Thursday | Hindustan Times",
+      "sha256": "76e04b2ab48fe0723d186868765701ca1b5e1eaeece458eaa09ef4d0466ef9d0"
+    },
+    {
+      "id": "101777987541916",
+      "slug": "bihar-set-for-cabinet-expansion-on-may-7-modi-shah-to-attend-hindustan-times-541916",
+      "title": "Bihar set for cabinet expansion on May 7; Modi, Shah to attend | Hindustan Times",
+      "sha256": "f64b713b737d1980470e9b8473c63366f358db3cb3ff6884314f7d794a705009"
+    },
+    {
+      "id": "101777826980337",
+      "slug": "aku-reschedules-mbbs-exam-for-1-centre-after-unrest-hindustan-times-980337",
+      "title": "AKU reschedules MBBS exam for 1 centre after unrest | Hindustan Times",
+      "sha256": "687e68b157ec9ee64d3a4469ceac4010fdd6f26ac30553445c2077722175ba49"
+    },
+    {
+      "id": "101777826861371",
+      "slug": "countdown-begins-for-bihar-cabinet-expansion-as-samrat-meets-shah-top-leaders-in-861371",
+      "title": "Countdown begins for Bihar cabinet expansion as Samrat meets Shah, top leaders in Delhi | Hindustan Times",
+      "sha256": "e68fbdd032a66db67cfd47aaf35b141bb2e9b4b174aae3c3364bd668a423e278"
+    },
+    {
+      "id": "101777393918510",
+      "slug": "hc-escalates-bank-fraud-case-calls-for-action-taken-report-refers-matter-to-cj-h-918510",
+      "title": "HC escalates bank fraud case, calls for action taken report; refers matter to CJ | Hindustan Times",
+      "sha256": "599323ae82c4d9d08eaf8af86e0e7b0782ce38f8c8b2ca7450c6f9a3433728eb"
+    },
+    {
+      "id": "101777223310978",
+      "slug": "encroachment-of-govt-land-wont-be-allowed-samrat-warns-from-tarapur-hindustan-ti-310978",
+      "title": "Encroachment of govt land won't be allowed: Samrat warns from Tarapur | Hindustan Times",
+      "sha256": "1adbbc07b28cc78bb43176a83c3dd49c2bb6113c374a32e94e66b62c27694e6f"
+    },
+    {
+      "id": "101777024467510",
+      "slug": "choudhary-wins-trust-vote-vows-to-follow-in-predecessor-nitish-kumars-footsteps--467510",
+      "title": "Choudhary wins trust vote, vows to follow in predecessor Nitish Kumar's footsteps | India News",
+      "sha256": "671f434e63ccddb118d68b33acdec9f6125c7eb17f66985df076be7ded0e194a"
+    },
+    {
+      "id": "101776951961731",
+      "slug": "samrat-led-nda-govt-to-seek-trust-vote-today-hindustan-times-961731",
+      "title": "Samrat-led NDA govt to seek trust vote today | Hindustan Times",
+      "sha256": "f86b049b2515c5e8be58c91c714de02a34013e3968cacf3f85019e0d2f635a55"
+    },
+    {
+      "id": "101776860721797",
+      "slug": "nitish-retains-sanjay-jha-as-working-chief-in-jdu-rejig-son-nishant-absent-hindu-721797",
+      "title": "Nitish retains Sanjay Jha as working chief in JD(U) rejig, son Nishant absent | Hindustan Times",
+      "sha256": "390fce942acd99f0ae648fc8b51118b4a6692a26dcd8b005add7bfbca9dcce18"
+    },
+    {
+      "id": "101776777996756",
+      "slug": "nitish-picks-close-aide-shravan-kumar-as-jdu-lp-leader-hindustan-times-996756",
+      "title": "Nitish picks close aide Shravan Kumar as JD(U) LP leader | Hindustan Times",
+      "sha256": "3ebc4358d05119ab71d1e28878d44835acffe415c584cd0dcca8a7b08bb6b1a4"
+    },
+    {
+      "id": "101776691626882",
+      "slug": "nitish-to-pick-jdu-legislative-party-leader-hindustan-times-626882",
+      "title": "Nitish to pick JD(U) legislative party leader | Hindustan Times",
+      "sha256": "672af9bc66ddecb125dae459ae0b802916392a51cabab331ea2f0b1c07b84cc6"
+    },
+    {
+      "id": "101776620200461",
+      "slug": "defeat-of-womens-reservation-bill-a-dark-chapter-of-democracy-hindustan-times-200461",
+      "title": "'Defeat of Women's Reservation Bill a dark chapter of democracy' | Hindustan Times",
+      "sha256": "cba1e36b455317cf4570bdc9477d6c14279e0c206d327e5a158ee7108e294916"
+    },
+    {
+      "id": "101776520149543",
+      "slug": "cm-samrat-to-seek-trust-vote-on-april-24-hindustan-times-149543",
+      "title": "CM Samrat to seek trust vote on April 24 | Hindustan Times",
+      "sha256": "32ff2cf4beb4f77764900369567af8821b2d3a4c9dab291560e545001dc2689e"
+    },
+    {
+      "id": "101776508867335",
+      "slug": "samrat-choudhary-government-to-seek-trust-vote-in-bihar-assembly-on-april-24-hin-867335",
+      "title": "Samrat Choudhary government to seek trust vote in Bihar Assembly on April 24 | Hindustan Times",
+      "sha256": "cec1ffa3cc9cc7858620d8620dc798e1e52607496b32d678491c0c2edb80731d"
+    },
+    {
+      "id": "101776427715481",
+      "slug": "chancellor-sets-up-panel-to-work-out-modalities-for-inter-varsity-transfers-hind-715481",
+      "title": "Chancellor sets up panel to work out modalities for inter-varsity transfers | Hindustan Times",
+      "sha256": "7a72d0b1771762cd6817055b3c6cd0df23496be6338aa9460b751ecae55429d2"
+    },
+    {
+      "id": "101776360970789",
+      "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
+      "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud' | Hindustan Times",
+      "sha256": "be7814b5f1a616f154837a38659471dc3c0c20d2626df50345e8392f9f1be34b"
+    },
+    {
+      "id": "101776347703906",
+      "slug": "entire-bihar-with-pm-on-33-quota-for-women-samrat-hindustan-times-703906",
+      "title": "Entire Bihar with PM on 33% quota for women: Samrat | Hindustan Times",
+      "sha256": "6df4c554fd4f38a441576fd68884d2273eba6c404f1e86b1469f668a82c18201"
+    },
+    {
+      "id": "101776239754532",
+      "slug": "nitish-kumars-era-leaves-a-legacy-that-will-be-hard-to-match-hindustan-times-754532",
+      "title": "Nitish Kumar's era leaves a legacy that will be hard to match | Hindustan Times",
+      "sha256": "786c42a33ac5d1f22be5b13c6ad813252656846544603ddc21248d406e252b27"
+    },
+    {
+      "id": "101776233512338",
+      "slug": "bihar-samrat-choudhary-takes-oath-as-cm-becomes-first-bjp-leader-at-the-helm-hin-512338",
+      "title": "Bihar: Samrat Choudhary takes oath as CM, becomes first BJP leader at the helm | Hindustan Times",
+      "sha256": "95804fdb59b89c7b5b4fc07cdbcf57344fb90ee8f0cb373ea05392f2f63c1df9"
+    },
+    {
+      "id": "101776167189920",
+      "slug": "samrat-choudhary-scripts-history-to-be-bihars-first-bjp-cm-as-nitish-steps-down--189920",
+      "title": "Samrat Choudhary scripts history, to be Bihar's first BJP CM as Nitish steps down | Hindustan Times",
+      "sha256": "e28ff76398b096c68157efffb7768acd86af1a2958031a376b1d8af974bc63aa"
+    },
+    {
+      "id": "101776166049480",
+      "slug": "bihar-ex-cm-nitish-kumar-says-new-nda-govt-will-have-his-full-cooperation-hindus-049480",
+      "title": "Bihar: Ex-CM Nitish Kumar says new NDA govt will have his full cooperation | Hindustan Times",
+      "sha256": "8931c9e8bd32508b0ad10a7762f0c53948ee08ab32883e3cc42761bd3e4c8800"
+    },
+    {
+      "id": "101776099963903",
+      "slug": "a-day-before-resignation-business-as-usual-for-nitish-hindustan-times-963903",
+      "title": "A day before resignation, business as usual for Nitish | Hindustan Times",
+      "sha256": "a0a192f22252ec68b417c7527bb77c48e1db5b90d620f23c1fb6845baf630b69"
+    },
+    {
+      "id": "101776012620598",
+      "slug": "countdown-for-new-bihar-govt-begins-with-last-cabinet-meet-on-april-14-hindustan-620598",
+      "title": "Countdown for new Bihar govt begins with last cabinet meet on April 14 | Hindustan Times",
+      "sha256": "d5d55b3f9db296fe6443f2ed759b845320a26fc268c7121f71d96616aecc87ab"
+    },
+    {
+      "id": "101775653757356",
+      "slug": "patna-hc-directs-mines-dept-to-videograph-entire-seizure-process-of-vehicles-hin-757356",
+      "title": "Patna HC directs mines dept to videograph entire seizure process of vehicles | Hindustan Times",
+      "sha256": "5b3cdeae501975cfc99035c5cc690420ca76bd8cc7ea51ad4692d48e1fdd31d4"
+    },
+    {
+      "id": "101775457670972",
+      "slug": "ahead-of-joining-of-asst-profs-fake-teaching-experience-stumps-bbabu-hindustan-t-670972",
+      "title": "Ahead of joining of Asst Profs, fake teaching experience stumps BBABU | Hindustan Times",
+      "sha256": "363c1f93dc6e618ca876d4ce0edcbc72f3c3cf712f2f46eeed78c117604854d6"
+    },
+    {
+      "id": "101775391348871",
+      "slug": "process-for-next-govt-after-nitishs-rs-oath-on-april-10-bihar-bjp-chief-hindusta-348871",
+      "title": "Process for next govt after Nitish's RS oath on April 10: Bihar BJP chief | Hindustan Times",
+      "sha256": "750afbfe6d313f34e576bda23a0a423437ea36d86a71184eae78c2c50aa29735"
+    },
+    {
+      "id": "101775131139068",
+      "slug": "nitish-kumar-to-take-rajya-sabha-oath-on-april-10-then-resign-as-chief-minister--139068",
+      "title": "Nitish Kumar to take Rajya Sabha oath on April 10, then resign as chief minister | Hindustan Times",
+      "sha256": "09c042fe3867d9dbe88eec25cabfefed4a1fcfd1e535b1165a85f828a8de86ad"
+    },
+    {
+      "id": "101774959393335",
+      "slug": "nalanda-spirit-of-linking-knowledge-to-well-being-more-relevant-today-president--393335",
+      "title": "Nalanda spirit of linking knowledge to well-being more relevant today: President | Hindustan Times",
+      "sha256": "54c67a867a62f41d0c4f3de43013eaa9006cd3c1b8e53b7cf2826f6c9b185bab"
+    },
+    {
+      "id": "101774890427506",
+      "slug": "bihar-show-competence-confident-leadership-guv-to-vcs-hindustan-times-427506",
+      "title": "Bihar: Show competence, confident leadership: Guv to VCs | Hindustan Times",
+      "sha256": "1cff2a409eec37304ab2f2d96ad9eacb4e1a3db5a6800355977e7f5f1b78d45d"
+    },
+    {
+      "id": "101774805136492",
+      "slug": "8179-pass-bihar-matric-exam-girls-excel-to-notch-top-slots-hindustan-times-136492",
+      "title": "81.79% pass Bihar matric exam; girls excel to notch top slots | Hindustan Times",
+      "sha256": "e6b61fa928de584715621287fd78301cf2845e9f1ab45681e59d40da9e83f370"
+    },
+    {
+      "id": "101774804955967",
+      "slug": "nabins-resignation-from-assembly-held-up-amid-bjp-brainstorming-on-next-cm-hindu-955967",
+      "title": "Nabin's resignation from Assembly held up amid BJP brainstorming on next CM | Hindustan Times",
+      "sha256": "1954e03d31310318704c8ea639ba3146f9eb509a02630efea0b685e66a75d931"
+    },
+    {
+      "id": "101774784968505",
+      "slug": "pushpanjali-sabreen-toppers-nahid-sultana-at-second-spot-girls-outshine-in-bihar-968505",
+      "title": "Pushpanjali, Sabreen toppers, Nahid Sultana at second spot: Girls outshine in Bihar BSEB Class 10 merit list | Hindustan Times",
+      "sha256": "12332270e3115880364240eb21e769fd5a252a83b66c67e4d80e2638c1478b7b"
+    },
+    {
+      "id": "101774700037036",
+      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
+      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor | Hindustan Times",
+      "sha256": "1dda7ba64a8c84306f96f67a3a233fe62999826e1b4bf226dbb8ce870ff19f14"
+    },
+    {
+      "id": "101774615107422",
+      "slug": "nitish-to-leave-bihar-house-on-march-30-hindustan-times-107422",
+      "title": "Nitish to leave Bihar House on March 30 | Hindustan Times",
+      "sha256": "157c3d7f0d5c2fe5701f58b4d841a0f418b9a03a847f3c2fd06a169e4caf5049"
+    },
+    {
+      "id": "101774614146404",
+      "slug": "prez-to-be-chief-guest-at-2nd-nalanda-university-convocation-on-march-31-hindust-146404",
+      "title": "Prez to be chief guest at 2nd Nalanda University convocation on March 31 | Hindustan Times",
+      "sha256": "e217ecb29a956b5a12170b5e3a720c49caae80622101ba098f6266d6e1c4ad1c"
+    },
+    {
+      "id": "101774542840536",
+      "slug": "bihar-balirajgarh-excavation-to-start-form-saturday-hindustan-times-840536",
+      "title": "Bihar: Balirajgarh excavation to start form Saturday | Hindustan Times",
+      "sha256": "a7ca0e22d43da67aa8c46b9a46fcde66f8a930a1388fa536d62225d19df767b8"
+    },
+    {
+      "id": "101774438163642",
+      "slug": "jdu-seeks-own-mps-disqualification-over-anti-party-activities-hindustan-times-163642",
+      "title": "JD(U) seeks own MP's disqualification over anti-party activities | Hindustan Times",
+      "sha256": "424ad8f55d9d4be7d70294eaa39153ecd299fdc663710dbd60234922dfff0541"
+    },
+    {
+      "id": "101774357918237",
+      "slug": "nitish-elected-jdu-president-unopposed-for-another-term-hindustan-times-918237",
+      "title": "Nitish elected JD(U) president unopposed for another term | Hindustan Times",
+      "sha256": "6dc5ad78642354c1b150120900b07a5f8346d7dfef100361a1b7e50b2a395705"
+    },
+    {
+      "id": "101774271184741",
+      "slug": "girls-dominate-bihar-class-12-results-8519-pass-hindustan-times-184741",
+      "title": "Girls dominate Bihar Class 12 results, 85.19% pass | Hindustan Times",
+      "sha256": "de21f1ff4c504b521a2f2ec74a3203b5a4fc881f9b4370774d0054a9302027f7"
+    },
+    {
+      "id": "101774264101256",
+      "slug": "bihar-inter-results-2025-girls-outperfom-boys-overall-success-rate-at-8519-hindu-101256",
+      "title": "Bihar inter results 2025: Girls outperfom boys; overall success rate at 85.19% | Hindustan Times",
+      "sha256": "89cd9979113777d4dec540797c45be2ba3825189a588ec4ee8ba0b115dff65a9"
+    },
+    {
+      "id": "101774205461378",
+      "slug": "president-pm-greet-people-on-bihar-diwas-nitish-inaugurates-function-hindustan-t-461378",
+      "title": "President, PM greet people on Bihar Diwas, Nitish inaugurates function | Hindustan Times",
+      "sha256": "f809a14a86f1b5dc025dcc850c854055f3f3e5a049f7c6e72408b2975f1554ba"
+    },
+    {
+      "id": "101774205580566",
+      "slug": "new-bihar-guv-to-review-higher-education-with-vcs-edu-deptt-on-march-30-hindusta-580566",
+      "title": "New Bihar Guv to review higher education with VCs, edu deptt on March 30 | Hindustan Times",
+      "sha256": "1cbbc773e34e3f22ca3eaba367db2c0530c624bc2c23accd2a255f31be142535"
+    },
+    {
+      "id": "101774009730018",
+      "slug": "asst-profs-recruitment-jdu-mlc-writes-to-guv-seeking-new-draft-statute-hindustan-730018",
+      "title": "Asst Profs' recruitment: JD()U MLC writes to guv seeking new draft statute | Hindustan Times",
+      "sha256": "6441c58a1d17f94419f7363352278bbe327ff985d903f9f54af18282f9700dd2"
+    },
+    {
+      "id": "101773762839702",
+      "slug": "good-work-for-bihar-will-continue-nitish-during-samriddhi-yatra-before-transitio-839702",
+      "title": "Good work for Bihar will continue: Nitish during Samriddhi Yatra before transition | Hindustan Times",
+      "sha256": "cdd7ec1814cfdd1e756b5c85cb29a996bdc9f7c4754e07ddf3fb29f51ff5afcf"
+    },
+    {
+      "id": "101773590406945",
+      "slug": "5th-rs-seat-up-for-contest-even-as-nda-eyes-clan-sweep-in-bihar-rs-polls-hindust-406945",
+      "title": "5th RS seat up for contest even as NDA eyes clan sweep in Bihar RS polls | Hindustan Times",
+      "sha256": "a98e207a5fa3d4bf44b03dfed52c4b2533130758e5acb5283b78584d69963f5c"
+    },
+    {
+      "id": "101773672572530",
+      "slug": "bihar-rs-polls-nda-sweeps-all-5-seats-as-4-rjd-cong-mlas-abstain-from-voting-hin-572530",
+      "title": "Bihar RS polls: NDA sweeps all 5 seats as 4 RJD-Cong MLAs abstain from voting | Hindustan Times",
+      "sha256": "00823e5e8993ccfc2870007098abd85ceaa2a3b613ac5384a6c31885089defd1"
+    },
+    {
+      "id": "101773406510921",
+      "slug": "balirajgarh-excavation-can-uncover-2000-year-old-roots-asi-expert-hindustan-time-510921",
+      "title": "Balirajgarh excavation can uncover 2,000-year-old roots: ASI expert | Hindustan Times",
+      "sha256": "afdba36899fb724c2618b8479bdd8a0f3042d428e43a0d1d656c2d3dfebd2751"
+    },
+    {
+      "id": "101773337672445",
+      "slug": "bihar-asst-profs-appointment-one-process-yet-to-finish-draft-statute-for-2nd-spa-672445",
+      "title": "Bihar asst profs' appointment: One process yet to finish, draft statute for 2nd sparks debate | Hindustan Times",
+      "sha256": "cce4a46617c7c720583904ce0b480f61968aa9e6cb760cc662a31995dea6a819"
+    },
+    {
+      "id": "101773337614295",
+      "slug": "holi-over-eid-nears-but-pension-blues-for-bihar-varsity-staff-continue-hindustan-614295",
+      "title": "Holi over, Eid nears, but pension blues for Bihar varsity staff continue | Hindustan Times",
+      "sha256": "b9184826a315e487a0678fc9227c64d75a066ad4ee208da5fcc8b1241ac51211"
+    },
+    {
+      "id": "101773147141221",
+      "slug": "nitish-on-last-yatra-as-cm-amid-questions-about-fate-of-son-party-and-prohibitio-141221",
+      "title": "Nitish on 'last yatra' as CM amid questions about fate of son, party and prohibition in state | Hindustan Times",
+      "sha256": "3ba63813e857ff512a61879544d3d26c35b91088f49594777515a133f6c46676"
+    },
+    {
+      "id": "101772971521314",
+      "slug": "nishant-joins-jdu-vows-to-carry-father-nitishs-legacy-forward-hindustan-times-521314",
+      "title": "Nishant joins JD(U); vows to carry father Nitish's legacy forward | Hindustan Times",
+      "sha256": "517adf3778972dca505747a706526b51f8e18be2a212421a5042212c2e0f19df"
+    },
+    {
+      "id": "101772963658090",
+      "slug": "nishant-joins-jdu-vows-to-take-father-nitishs-work-forward-strengthen-party-hind-658090",
+      "title": "Nishant joins JD(U); vows to take father Nitish's work forward, strengthen party | Hindustan Times",
+      "sha256": "cf995d1ad7172a8e150f7a25f96777f1c33811a9002b16398b75437a58d8312a"
+    },
+    {
+      "id": "101772821771634",
+      "slug": "nishant-to-join-jdu-on-sunday-to-undertake-statewide-yatra-hindustan-times-771634",
+      "title": "Nishant to join JD(U) on Sunday, to undertake statewide Yatra | Hindustan Times",
+      "sha256": "0caff13d48da55a2d854de233860c837cbbeb5ef360969328c4e7d4d4ce858af"
+    },
+    {
+      "id": "101772454531246",
+      "slug": "collegium-clears-9-more-judges-for-patna-hc-hindustan-times-531246",
+      "title": "Collegium clears 9 more judges for Patna HC | Hindustan Times",
+      "sha256": "cf234a1465f51424c83e13b13b4883439ed624a46a372ca449080c8e45a95439"
+    },
+    {
+      "id": "101772366484560",
+      "slug": "pusu-polls-nsui-scripts-history-by-winning-key-posts-of-president-gen-secy-hindu-484560",
+      "title": "PUSU polls: NSUI scripts history by winning key posts of president, gen secy | Hindustan Times",
+      "sha256": "8848262cbdbd5b3f58a3d26250c2d29ebc379177706934acbce31c91ae28bfcc"
+    },
+    {
+      "id": "101772694424136",
+      "slug": "nitish-kumar-moves-to-rajya-sabha-how-he-transformed-bihars-political-landscape--424136",
+      "title": "Nitish Kumar moves to Rajya Sabha: How he transformed Bihar's political landscape | Hindustan Times",
+      "sha256": "7eaff7c3f952962a6145f8eeb57153f8e23cf72822dcc580bcbfff37a753f9f9"
+    },
+    {
+      "id": "101772357301414",
+      "slug": "nsui-wins-president-general-secretary-posts-in-patna-university-polls-hindustan--301414",
+      "title": "NSUI wins president, general secretary posts in Patna University polls | Hindustan Times",
+      "sha256": "ab84cc6be1a5b35bd1d4f0a8d2637a47053af2cfbfc2c673104bfbc94f6b5006"
+    },
+    {
+      "id": "101772041890248",
+      "slug": "6-more-bills-to-be-tabled-in-bihar-house-hindustan-times-890248",
+      "title": "6 more bills to be tabled in Bihar House | Hindustan Times",
+      "sha256": "7dd2975e4ba558c12ce42497667df0b2debf7be1e76301462d735475f133cb05"
+    },
+    {
+      "id": "101771953767302",
+      "slug": "bihar-assembly-passes-4-bills-by-voice-vote-within-24-minutes-one-to-replace-188-767302",
+      "title": "Bihar Assembly passes 4 bills by voice vote within 24 minutes, one to replace 1887 British era Act | Hindustan Times",
+      "sha256": "7bb3a0681c4cf70b65956fe25441694dfd60e34f3ef6c553e092b196f7fa4e35"
+    },
+    {
+      "id": "101771853771258",
+      "slug": "pusu-poll-on-feb-28-as-scheduled-hindustan-times-771258",
+      "title": "PUSU poll on Feb 28 as scheduled | Hindustan Times",
+      "sha256": "dd77078a81382d4a69c37be66f09e6a6b57c97e43d20c4c48338c4231b61bdf6"
+    },
+    {
+      "id": "101771852933691",
+      "slug": "appropriation-bill-passed-in-bihar-assembly-to-clear-decks-for-353l-cr-withdrawa-933691",
+      "title": "Appropriation Bill passed in Bihar assembly to clear decks for ₹3.53L-cr withdrawal | Hindustan Times",
+      "sha256": "f89950ef1c90e2f67ec67ea18f03831755bf1cbd11a28e03b295946db9d03e2a"
+    },
+    {
+      "id": "101771779944460",
+      "slug": "univ-admin-to-decide-on-patna-university-student-union-polls-today-hindustan-tim-944460",
+      "title": "Univ admin to decide on Patna University Student Union polls today | Hindustan Times",
+      "sha256": "83954af267f6e6119edb7d9f25d7cc053e423463692d0a7a95e799c479231be9"
+    },
+    {
+      "id": "101771762598170",
+      "slug": "as-missing-file-delays-constituent-status-hc-asks-bihar-govt-to-take-a-call-on-4-598170",
+      "title": "As missing file delays constituent status, HC asks Bihar govt to take a call on 4-decade old college | Hindustan Times",
+      "sha256": "47745bb2fa7b96318b3523b6a1bda0b9cd5eb5fb26cf24c9910f0e2ac3fe7a37"
+    },
+    {
+      "id": "101771688171347",
+      "slug": "pusu-polls-put-off-till-further-orders-after-unsavoury-incidents-hindustan-times-171347",
+      "title": "PUSU polls put off till further orders after unsavoury incidents | Hindustan Times",
+      "sha256": "6003c65ce068c9a312600a0d845673685d8197715cb9b1278d97fde57fcecf0e"
+    },
+    {
+      "id": "101771529922195",
+      "slug": "nitish-govt-allocates-highest-ever-60k-cr-for-education-budget-hindustan-times-922195",
+      "title": "Nitish govt allocates highest ever ₹60K-cr for education budget | Hindustan Times",
+      "sha256": "1b71777b1b5b2d6c640c0e7cea726083e061a120f7948cfb3b86cefa0bba479b"
+    },
+    {
+      "id": "101771529442088",
+      "slug": "patna-hc-flags-mental-illness-issues-seeks-state-response-on-steps-taken-hindust-442088",
+      "title": "Patna HC flags mental illness issues, seeks state response on steps taken | Hindustan Times",
+      "sha256": "09a2ee344f5c4ee4817fd4c645e5f2f31f19f520eed1a4e4a9eaccb301bc247d"
+    },
+    {
+      "id": "101771487520367",
+      "slug": "patna-hc-flags-mental-health-issues-seeks-state-response-on-steps-taken-hindusta-520367",
+      "title": "Patna HC flags mental health issues, seeks state response on steps taken | Hindustan Times",
+      "sha256": "1edbc1d13a75f254733bf9707193199232c73dcc5f2c5b0e340805a97f073aae"
+    },
+    {
+      "id": "101771435167055",
+      "slug": "patna-hc-flags-poor-implementation-of-prohibition-spike-in-cases-due-to-rising-i-167055",
+      "title": "Patna HC flags poor implementation of prohibition, spike in cases due to rising illicit liquor trade | Hindustan Times",
+      "sha256": "9eef5164718191b1b333b6af67663eefded626cb5b434e56b172538617253d37"
+    },
+    {
+      "id": "101771417229783",
+      "slug": "uproar-in-bihar-house-over-blood-test-poser-on-liquor-prohibition-hindustan-time-229783",
+      "title": "Uproar in Bihar House over 'blood test' poser on liquor prohibition | Hindustan Times",
+      "sha256": "abd7781dc3420c45333d15d2699c7ca99df69c9afbe6e981b7031fd4472e2926"
+    },
+    {
+      "id": "101771264276873",
+      "slug": "bihar-min-appointed-asst-prof-after-bsusc-clean-chit-hindustan-times-276873",
+      "title": "Bihar min appointed Asst Prof after BSUSC clean chit | Hindustan Times",
+      "sha256": "a23f6a1e75a18cff92181ba793174d7615bb779cfcc271193fc2ac6548842a02"
+    },
+    {
+      "id": "101771176320772",
+      "slug": "governor-house-set-to-search-vcs-as-3-univs-slip-under-ad-hoc-arrangement-hindus-320772",
+      "title": "Governor house set to search VCs as 3 univs slip under ad hoc arrangement | Hindustan Times",
+      "sha256": "641c13419106bfdf531475eec9870887d61a51a35c2e4879e5022717cfa2065c"
+    },
+    {
+      "id": "101771002743126",
+      "slug": "forged-land-documents-could-lead-to-fir-7-year-jail-says-deputy-cm-hindustan-tim-743126",
+      "title": "Forged land documents could lead to FIR, 7-year jail, says Deputy CM | Hindustan Times",
+      "sha256": "50526592f4d8ee0830eeddb52a076a3127622a2f65edcd9427a2645234a29c2c"
+    },
+    {
+      "id": "101770921594130",
+      "slug": "decks-cleared-for-tre-4-for-46k-vacancies-bpsc-to-issue-advertisement-hindustan--594130",
+      "title": "Decks cleared for TRE-4 for 46k vacancies, BPSC to issue advertisement | Hindustan Times",
+      "sha256": "1df19953157b45543f701974b67f8fc2ad83ccc1ccc86bb437cca7a5a87601b4"
+    },
+    {
+      "id": "101770831639794",
+      "slug": "bihar-oppn-members-walk-out-over-ministers-massacre-reference-hindustan-times-639794",
+      "title": "Bihar: Oppn members walk out over minister's massacre reference | Hindustan Times",
+      "sha256": "1419e00d88de7983e44559cf0704bac4914c1c70793db1516e55c614309fc6a0"
+    },
+    {
+      "id": "101770656333058",
+      "slug": "oppn-rjd-stages-walkout-during-govt-reply-after-budget-discussion-hindustan-time-333058",
+      "title": "Oppn RJD stages walkout during govt reply after Budget discussion | Hindustan Times",
+      "sha256": "ce39db205f69f2f6972052b4991bdfaf903749c99957479a1c52c61cd1c8d042"
+    },
+    {
+      "id": "101770567261206",
+      "slug": "rare-migratory-species-spotted-in-bihar-waterbird-survey-hindustan-times-261206",
+      "title": "Rare migratory species spotted in Bihar Waterbird survey | Hindustan Times",
+      "sha256": "77912bbf0bfc4e42f8dd44c7eecc5001d5f59769e5409905542bdbc98a3492e7"
+    },
+    {
+      "id": "101770311267354",
+      "slug": "verbal-spat-between-nitish-tejashwi-in-assembly-hindustan-times-267354",
+      "title": "Verbal spat between Nitish, Tejashwi in Assembly | Hindustan Times",
+      "sha256": "71ed9086ab015c09fc4728c5d1fbbd6711a7701733f5aaf5f68d0e076e066881"
+    },
+    {
+      "id": "101770228360876",
+      "slug": "asst-profs-appointment-lnmu-seeks-supporting-documents-of-experience-hindustan-t-360876",
+      "title": "Asst Profs appointment: LNMU seeks supporting documents of experience | Hindustan Times",
+      "sha256": "61fd992e745f41f64d57c3493d888f63afddc2b1729933ca3a89a87c53115144"
+    },
+    {
+      "id": "101770206549013",
+      "slug": "patna-univ-set-for-polls-amid-strict-guidelines-voting-on-february-28-hindustan--549013",
+      "title": "Patna Univ set for polls amid strict guidelines, voting on February 28 | Hindustan Times",
+      "sha256": "6f1193a28347926d38e0cc6700a1f7e2ab296329674fed9cb591a07af72fd164"
+    },
+    {
+      "id": "101770140348089",
+      "slug": "bihar-tables-347l-cr-budget-with-focus-on-7-resolves-fulfilment-hindustan-times-348089",
+      "title": "Bihar tables ₹3.47L-cr budget with focus on 7-Resolves fulfilment | Hindustan Times",
+      "sha256": "9e97c145e58241d0810c2ed5d68d4ab3f36535f2352429b5ba2bd3a7b4a0430c"
     }
   ]
 }

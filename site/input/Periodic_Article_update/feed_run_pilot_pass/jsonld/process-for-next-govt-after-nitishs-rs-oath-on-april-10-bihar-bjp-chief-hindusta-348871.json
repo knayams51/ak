@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Process for next govt after Nitish's RS oath on April 10: Bihar BJP chief | Hindustan Times",
+  "description": "Bihar CM Nitish Kumar will take Rajya Sabha oath on April 10, starting new government formation. His successor remains uncertain amid ongoing development efforts.",
+  "datePublished": "2026-04-05T12:15:48.000Z",
+  "dateModified": "2026-04-05T12:15:49.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/process-for-next-govt-after-nitishs-rs-oath-on-april-10-bihar-bjp-chief-hindusta-348871"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "BJP"
+  ],
+  "wordCount": 530
+}

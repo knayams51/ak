@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Samrat-led NDA govt to seek trust vote today | Hindustan Times",
+  "description": "The National Democratic Alliance (NDA) government headed by chief minister Samrat Choudhary will seek the vote of confidence in a special session of the Bihar Assembly on Friday. According to the Vidhan Sabha schedule, Speaker Prem Kumar will first make introductory remarks and then Choudhary will propose that \"this Assembly expresses faith in the current Council of Ministers.\"",
+  "datePublished": "2026-04-23T13:46:01.000Z",
+  "dateModified": "2026-04-23T13:46:02.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/samrat-led-nda-govt-to-seek-trust-vote-today-hindustan-times-961731"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 557
+}

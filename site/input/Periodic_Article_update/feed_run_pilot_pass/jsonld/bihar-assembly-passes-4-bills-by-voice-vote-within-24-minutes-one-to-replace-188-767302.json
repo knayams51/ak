@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar Assembly passes 4 bills by voice vote within 24 minutes, one to replace 1887 British era Act | Hindustan Times",
+  "description": "Coming 114 year an after Bihar became a state, the new bill replaces the old British law of 1887 (Bengal, Agra and Assam Civil Courts Act) in line with the specific judicial requirements of Bihar",
+  "datePublished": "2026-02-24T17:22:46.000Z",
+  "dateModified": "2026-02-24T17:22:46.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-assembly-passes-4-bills-by-voice-vote-within-24-minutes-one-to-replace-188-767302"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "RJD"
+  ],
+  "wordCount": 600
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Ahead of joining of Asst Profs, fake teaching experience stumps BBABU | Hindustan Times",
+  "description": "What the university has stumbled upon in course of preliminary verification is bizarre, with some candidates having teaching experience certificate without fulfilling the mandatory minimum criteria",
+  "datePublished": "2026-04-06T06:41:10.000Z",
+  "dateModified": "2026-04-06T06:41:10.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/ahead-of-joining-of-asst-profs-fake-teaching-experience-stumps-bbabu-hindustan-t-670972"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna High Court",
+    "BPSC",
+    "BSUSC",
+    "Patna University"
+  ],
+  "wordCount": 926
+}

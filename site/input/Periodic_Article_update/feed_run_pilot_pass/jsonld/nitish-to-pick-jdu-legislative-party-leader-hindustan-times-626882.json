@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nitish to pick JD(U) legislative party leader | Hindustan Times",
+  "description": "This was the first meeting since Kumar stepped down as CM and held significance due to the clamour within the JD(U) for important role of his son Nishant Kumar within the party and the impending cabinet expansion",
+  "datePublished": "2026-04-20T13:27:06.000Z",
+  "dateModified": "2026-04-20T13:27:06.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nitish-to-pick-jdu-legislative-party-leader-hindustan-times-626882"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)"
+  ],
+  "wordCount": 484
+}

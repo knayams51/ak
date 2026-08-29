@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nitish on 'last yatra' as CM amid questions about fate of son, party and prohibition in state | Hindustan Times",
+  "description": "On Tuesday, Nitish embarked on the five-day third leg of his \"Samriddhi Yatra\", during which he will cross-cross 10 districts of Kosi and Seemanchal. He will return on March 14 evening visiting Begusarai and Sheikhpura on the way, while the Rajya Sabha election is on March 16.",
+  "datePublished": "2026-03-10T12:52:20.000Z",
+  "dateModified": "2026-03-10T12:52:20.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nitish-on-last-yatra-as-cm-amid-questions-about-fate-of-son-party-and-prohibitio-141221"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 1185
+}

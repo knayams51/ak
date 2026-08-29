@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll | Hindustan Times",
+  "description": "The result is politically significant, as it was the first election since the formation of the new government and stepping down of JD(U) national president Nitish Kumar as the CM",
+  "datePublished": "2026-05-14T13:15:58.000Z",
+  "dateModified": "2026-05-14T13:15:58.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 809
+}

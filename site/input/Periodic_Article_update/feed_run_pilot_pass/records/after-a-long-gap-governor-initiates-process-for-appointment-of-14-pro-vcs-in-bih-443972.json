@@ -44,7 +44,7 @@
     },
     "verification": {
       "content_sha256": "2a31c294f05a21860ae2837740eb26127c6d80c7be35d992457192474a31704b",
-      "last_verified_at": "2026-08-29T10:01:37.126Z",
+      "last_verified_at": "2026-08-29T10:18:12.272Z",
       "integrity_status": "tamper_proof"
     }
   }

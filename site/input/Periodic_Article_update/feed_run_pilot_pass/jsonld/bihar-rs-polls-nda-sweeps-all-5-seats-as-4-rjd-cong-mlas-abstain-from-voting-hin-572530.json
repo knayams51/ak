@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar RS polls: NDA sweeps all 5 seats as 4 RJD-Cong MLAs abstain from voting | Hindustan Times",
+  "description": "NDA won with a sound strategy for the fifth seat, while the Opposition could not ensure voting by all its 41 legislators after four of them abstained.",
+  "datePublished": "2026-03-16T14:49:32.000Z",
+  "dateModified": "2026-03-16T16:51:21.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-rs-polls-nda-sweeps-all-5-seats-as-4-rjd-cong-mlas-abstain-from-voting-hin-572530"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 1195
+}

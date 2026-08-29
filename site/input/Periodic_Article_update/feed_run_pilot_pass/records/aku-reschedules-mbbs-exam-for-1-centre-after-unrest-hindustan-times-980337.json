@@ -1,0 +1,51 @@
+{
+  "id": "101777826980337",
+  "slug": "aku-reschedules-mbbs-exam-for-1-centre-after-unrest-hindustan-times-980337",
+  "title": "AKU reschedules MBBS exam for 1 centre after unrest | Hindustan Times",
+  "summary": "AKU reschedules two cancelled MBBS exams at Patna Science College due to malpractice, with new dates set for May 20 and 22 at a different center.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-05-03T16:49:40.000Z",
+  "modified_at": "2026-05-03T16:49:40.000Z",
+  "word_count": 657,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "student-affairs-protests",
+    "slug": "student-affairs-protests",
+    "title": "Student Affairs, Exams & Protests"
+  },
+  "tags": [
+    "PMCH"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/aku-reschedules-mbbs-exam-for-1-centre-after-unrest-101777826980337.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/aku-reschedules-mbbs-exam-for-1-centre-after-unrest-101777826980337.html",
+      "original_article_id": "101777826980337",
+      "published_at": "2026-05-03T16:49:40.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/aku-reschedules-mbbs-exam-for-1-centre-after-unrest-101777826980337.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "687e68b157ec9ee64d3a4469ceac4010fdd6f26ac30553445c2077722175ba49",
+      "last_verified_at": "2026-08-29T10:18:12.298Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

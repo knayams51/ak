@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar tables ₹3.47L-cr budget with focus on 7-Resolves fulfilment | Hindustan Times",
+  "description": "The finance minister said the budget had its focus on imaan, gyaan, vigyaan, armaan aur samman (faith, knowledge, science and respect) to contribute to a developed Bihar in keeping with the Nitish government's motto of development with justice",
+  "datePublished": "2026-02-03T21:42:06.000Z",
+  "dateModified": "2026-02-03T21:42:06.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-tables-347l-cr-budget-with-focus-on-7-resolves-fulfilment-hindustan-times-348089"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Patna University"
+  ],
+  "wordCount": 594
+}

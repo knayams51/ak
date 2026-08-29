@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Patna HC directs mines dept to videograph entire seizure process of vehicles | Hindustan Times",
+  "description": "The court was hearing a petition challenging the seizure of a truck despite the fact that it had a valid challan issued, but the driver could not show it, while the authorities also did not bother to check the validity and went ahead with seizure",
+  "datePublished": "2026-04-08T13:09:16.000Z",
+  "dateModified": "2026-04-08T13:09:16.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/patna-hc-directs-mines-dept-to-videograph-entire-seizure-process-of-vehicles-hin-757356"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Patna High Court"
+  ],
+  "wordCount": 541
+}

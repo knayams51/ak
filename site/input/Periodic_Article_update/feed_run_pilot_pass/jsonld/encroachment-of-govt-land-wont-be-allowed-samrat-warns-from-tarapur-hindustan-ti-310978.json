@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Encroachment of govt land won't be allowed: Samrat warns from Tarapur | Hindustan Times",
+  "description": "Bihar CM Samrat Choudhary vows to demolish illegal constructions on government land, aims for ₹5-lakh crore investment, and announces new development projects.",
+  "datePublished": "2026-04-26T17:08:30.000Z",
+  "dateModified": "2026-04-26T17:08:31.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/encroachment-of-govt-land-wont-be-allowed-samrat-warns-from-tarapur-hindustan-ti-310978"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 561
+}

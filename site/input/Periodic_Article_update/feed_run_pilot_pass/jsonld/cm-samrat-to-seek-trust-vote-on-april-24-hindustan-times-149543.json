@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "CM Samrat to seek trust vote on April 24 | Hindustan Times",
+  "description": "It will be a one-day session, according to a notification issued by the Vidhan Sabha director Rajiv Kumar on Saturday",
+  "datePublished": "2026-04-18T13:49:09.000Z",
+  "dateModified": "2026-04-18T13:49:09.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/cm-samrat-to-seek-trust-vote-on-april-24-hindustan-times-149543"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 377
+}

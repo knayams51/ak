@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Patna Univ set for polls amid strict guidelines, voting on February 28 | Hindustan Times",
+  "description": "The Code of Conduct for the PUSU elections has come into effect with the announcement of the election schedule released by the PUSU chief patron and officiating vice-chancellor Prof Namita Singh",
+  "datePublished": "2026-02-04T12:02:28.000Z",
+  "dateModified": "2026-02-04T12:02:28.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/patna-univ-set-for-polls-amid-strict-guidelines-voting-on-february-28-hindustan--549013"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna University",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 816
+}

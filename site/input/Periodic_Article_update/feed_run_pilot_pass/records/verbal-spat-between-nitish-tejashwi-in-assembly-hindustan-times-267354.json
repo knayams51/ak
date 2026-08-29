@@ -1,0 +1,54 @@
+{
+  "id": "101770311267354",
+  "slug": "verbal-spat-between-nitish-tejashwi-in-assembly-hindustan-times-267354",
+  "title": "Verbal spat between Nitish, Tejashwi in Assembly | Hindustan Times",
+  "summary": "In Bihar Assembly, CM Nitish Kumar and Opp. Leader Tejashwi Yadav clashed over development claims, law and order, and corruption amid ongoing debates.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-02-05T17:07:46.000Z",
+  "modified_at": "2026-02-05T17:07:47.000Z",
+  "word_count": 682,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "Tejashwi Yadav",
+    "Lalu Prasad",
+    "BJP"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/verbal-spat-between-nitish-tejashwi-in-assembly-101770311267354.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/verbal-spat-between-nitish-tejashwi-in-assembly-101770311267354.html",
+      "original_article_id": "101770311267354",
+      "published_at": "2026-02-05T17:07:46.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/verbal-spat-between-nitish-tejashwi-in-assembly-101770311267354.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "71ed9086ab015c09fc4728c5d1fbbd6711a7701733f5aaf5f68d0e076e066881",
+      "last_verified_at": "2026-08-29T10:18:12.421Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

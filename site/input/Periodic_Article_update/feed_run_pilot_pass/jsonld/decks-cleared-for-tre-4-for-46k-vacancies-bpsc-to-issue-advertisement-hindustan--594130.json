@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Decks cleared for TRE-4 for 46k vacancies, BPSC to issue advertisement | Hindustan Times",
+  "description": "Bihar's Teachers' Recruitment Examination (TRE-4) is set to proceed, filling around 46,000 vacancies after a long delay, with details to follow.",
+  "datePublished": "2026-02-13T00:16:16.000Z",
+  "dateModified": "2026-02-13T00:16:16.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/decks-cleared-for-tre-4-for-46k-vacancies-bpsc-to-issue-advertisement-hindustan--594130"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar",
+    "BPSC"
+  ],
+  "wordCount": 297
+}

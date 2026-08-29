@@ -1,0 +1,54 @@
+{
+  "id": "101774205580566",
+  "slug": "new-bihar-guv-to-review-higher-education-with-vcs-edu-deptt-on-march-30-hindusta-580566",
+  "title": "New Bihar Guv to review higher education with VCs, edu deptt on March 30 | Hindustan Times",
+  "summary": "Bihar Governor Syed Aata Hasnain will review higher education issues on March 30, focusing on corruption and appointments in state universities.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-03-22T23:08:00.000Z",
+  "modified_at": "2026-03-22T23:08:00.000Z",
+  "word_count": 928,
+  "reading_time_minutes": 5,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "Patna High Court",
+    "Patna University",
+    "JD(U)"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/new-bihar-guv-to-review-higher-education-with-vcs-edu-deptt-on-march-30-101774205580566.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/new-bihar-guv-to-review-higher-education-with-vcs-edu-deptt-on-march-30-101774205580566.html",
+      "original_article_id": "101774205580566",
+      "published_at": "2026-03-22T23:08:00.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/new-bihar-guv-to-review-higher-education-with-vcs-edu-deptt-on-march-30-101774205580566.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "1cbbc773e34e3f22ca3eaba367db2c0530c624bc2c23accd2a255f31be142535",
+      "last_verified_at": "2026-08-29T10:18:12.359Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

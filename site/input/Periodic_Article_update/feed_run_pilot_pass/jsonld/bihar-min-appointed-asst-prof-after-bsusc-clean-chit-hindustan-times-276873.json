@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar min appointed Asst Prof after BSUSC clean chit | Hindustan Times",
+  "description": "Though Choudhary finally got through, there are nearly 150 other candidates recommended for appointment in the political science subject who are not so lucky and are awaiting their turn for joining in various universities",
+  "datePublished": "2026-02-16T21:42:15.000Z",
+  "dateModified": "2026-02-16T21:42:15.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-min-appointed-asst-prof-after-bsusc-clean-chit-hindustan-times-276873"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna High Court",
+    "BSUSC",
+    "Patna University"
+  ],
+  "wordCount": 530
+}

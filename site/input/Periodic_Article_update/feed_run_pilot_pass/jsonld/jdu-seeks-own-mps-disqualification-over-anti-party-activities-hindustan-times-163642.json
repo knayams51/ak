@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "JD(U) seeks own MP's disqualification over anti-party activities | Hindustan Times",
+  "description": "Yadav allegedly campaigned against the party candidate during the 2025 Assembly election in Belhar, from where his son Chanakya Prakash Ranjan contested on the RJD ticket",
+  "datePublished": "2026-03-25T11:29:23.000Z",
+  "dateModified": "2026-03-25T11:29:23.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/jdu-seeks-own-mps-disqualification-over-anti-party-activities-hindustan-times-163642"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "JD(U)",
+    "RJD"
+  ],
+  "wordCount": 521
+}

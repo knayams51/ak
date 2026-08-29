@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar: Balirajgarh excavation to start form Saturday | Hindustan Times",
+  "description": "Rajya Sabha MP Sanjay Kumar Jha, who is the Chairman of the Parliamentary Standing Committee on Transport, Tourism, and Culture and who played a key role in getting the excavation restarted, will inaugurate the long-awaited exercise as the chief guest on the occasion.",
+  "datePublished": "2026-03-26T16:34:00.000Z",
+  "dateModified": "2026-03-26T16:34:00.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-balirajgarh-excavation-to-start-form-saturday-hindustan-times-840536"
+  },
+  "articleSection": "Social Issues, Health & Heritage",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 330
+}

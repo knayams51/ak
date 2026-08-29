@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Asst Profs' recruitment: JD()U MLC writes to guv seeking new draft statute | Hindustan Times",
+  "description": "JD(U) MLC Sanjiv Kumar Singh has written a letter to the secretariat of new Bihar Governor Lt Gen (Rtd) Syed Ata Hasnain, who was himself Chancellor of Central University of Kashmir",
+  "datePublished": "2026-03-20T12:28:49.000Z",
+  "dateModified": "2026-03-20T12:28:49.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/asst-profs-recruitment-jdu-mlc-writes-to-guv-seeking-new-draft-statute-hindustan-730018"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna High Court",
+    "BPSC",
+    "Patna University",
+    "JD(U)"
+  ],
+  "wordCount": 963
+}
