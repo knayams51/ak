@@ -1,0 +1,16 @@
+{
+  "name": "ht_crawler",
+  "version": "1.0.0",
+  "description": "Stealth Harvester & Disambiguation Engine for Arun Kumar (HT Patna Archive)",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "pilot": "node pilot.js --limit=15",
+    "crawl": "node main.js",
+    "test-filter": "node author-filter.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0"
+  }
+}
