@@ -13,6 +13,14 @@
   --link-hover: #1d4ed8;
   --provenance-bg: #f8fafc;
   --provenance-border: #cbd5e1;
+  --gold-accent: #b45309;
+  --gold-text: #92400e;
+  --gold-light: #fef3c7;
+  --gold-border: #f59e0b;
+  --gold-gradient: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+  --gold-badge-bg: rgba(245, 158, 11, 0.12);
+  --gold-badge-border: rgba(217, 119, 6, 0.35);
+  --crimson-deep: #881337;
   --font-serif: "Merriweather", "Georgia", "Cambria", serif;
   --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
@@ -33,6 +41,14 @@
   --link-hover: #93c5fd;
   --provenance-bg: #1c2128;
   --provenance-border: #374151;
+  --gold-accent: #fbbf24;
+  --gold-text: #fde68a;
+  --gold-light: #78350f;
+  --gold-border: #d97706;
+  --gold-gradient: linear-gradient(135deg, #2a2012 0%, #1f1a10 100%);
+  --gold-badge-bg: rgba(251, 191, 36, 0.15);
+  --gold-badge-border: rgba(251, 191, 36, 0.35);
+  --crimson-deep: #fda4af;
 }
 
 * {
