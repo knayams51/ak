@@ -1,0 +1,54 @@
+---
+const { provenance, title = "Article" } = Astro.props;
+if (!provenance) return null;
+
+const { primary_source, archival_source, verification, document_provenance } = provenance;
+const shaTruncated = verification && verification.content_sha256 ? verification.content_sha256.substring(0, 16) + '...' : null;
+---
+
+<aside class="provenance-bar" aria-label="Journalistic Archival Provenance">
+  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; border-bottom: 1px solid var(--provenance-border); padding-bottom: 0.65rem; margin-bottom: 0.65rem;">
+    <div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+      <span class="provenance-tag tag-ht">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+        Hindustan Times ({primary_source?.dateline || 'Patna'})
+      </span>
+
+      {archival_source?.wayback_url && (
+        <a href={archival_source.wayback_url} target="_blank" rel="noopener noreferrer" class="provenance-tag tag-wayback" title="Permanent snapshot on Wayback Machine">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+          Wayback Preserved
+        </a>
+      )}
+
+      {shaTruncated && (
+        <span class="provenance-tag tag-verified" title={`SHA-256 Content Hash: ${verification.content_sha256}`}>
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          Fidelity Verified
+        </span>
+      )}
+    </div>
+
+    {document_provenance?.has_pdf_scan && (
+      <a href={document_provenance.pdf_public_url} target="_blank" rel="noopener noreferrer" class="btn btn-outline" style="padding: 0.25rem 0.6rem; font-size: 0.75rem;">
+        View Print Clipping (PDF)
+      </a>
+    )}
+  </div>
+
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8rem; color: var(--text-muted);">
+    <div>
+      <strong>Primary Source:</strong>{' '}
+      {primary_source?.canonical_url ? (
+        <a href={primary_source.canonical_url} target="_blank" rel="noopener noreferrer" style="word-break: break-all;">
+          {primary_source.canonical_url}
+        </a>
+      ) : 'Archive Feed'}
+    </div>
+    {shaTruncated && (
+      <div style="font-family: var(--font-mono); font-size: 0.75rem;">
+        SHA-256: {shaTruncated}
+      </div>
+    )}
+  </div>
+</aside>

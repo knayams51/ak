@@ -1,0 +1,59 @@
+---
+import SocialConnect from './SocialConnect.astro';
+import authorConfig from '../config/author.config.json';
+import siteConfig from '../config/site.config.json';
+
+const currentPath = Astro.url.pathname;
+---
+
+<header style="border-bottom: 1px solid var(--border-color); background-color: var(--bg-surface); position: sticky; top: 0; z-index: 50;">
+  {/* Top Banner with Social Connect */}
+  <div style="border-bottom: 1px solid var(--border-light); background-color: var(--bg-primary); padding: 0.4rem 0;">
+    <div class="container" style="display: flex; align-items: center; justify-content: space-between; font-size: 0.8rem; color: var(--text-muted);">
+      <div style="display: flex; align-items: center; gap: 0.5rem;">
+        <span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background-color: #16a34a;"></span>
+        <span>Hindustan Times Patna Bureau Archive</span>
+      </div>
+      <div style="display: flex; align-items: center; gap: 1rem;">
+        <span style="font-weight: 600;">Connect with Arun Kumar:</span>
+        <SocialConnect />
+      </div>
+    </div>
+  </div>
+
+  {/* Masthead */}
+  <div class="container" style="padding: 1.25rem 1.25rem 0.75rem;">
+    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+      <div>
+        <a href="/" style="text-decoration: none; color: inherit;">
+          <h1 style="font-size: 2rem; letter-spacing: -0.02em; line-height: 1.1; margin-bottom: 0.2rem;">
+            ARUN KUMAR
+          </h1>
+          <p style="font-size: 0.9rem; color: var(--text-secondary); font-weight: 500;">
+            Senior Assistant Editor • Hindustan Times • 25+ Years Bihar Journalism
+          </p>
+        </a>
+      </div>
+
+      {/* Navigation */}
+      <nav style="display: flex; align-items: center; gap: 1.5rem; font-size: 0.95rem; font-weight: 600;">
+        <a href="/" class={currentPath === '/' ? 'active-nav' : ''}>Home</a>
+        <a href="/archive" class={currentPath.startsWith('/archive') ? 'active-nav' : ''}>Archive</a>
+        <a href="/topics" class={currentPath.startsWith('/topics') ? 'active-nav' : ''}>Beats</a>
+        <a href="/about" class={currentPath.startsWith('/about') ? 'active-nav' : ''}>About</a>
+        <a href="/search" class="btn btn-outline" style="padding: 0.35rem 0.75rem; font-size: 0.85rem;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          Search
+        </a>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<style>
+  .active-nav {
+    color: var(--accent-color) !important;
+    border-bottom: 2px solid var(--accent-color);
+    padding-bottom: 2px;
+  }
+</style>

@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import taxonomyConfig from '../../config/taxonomy.config.json';
+import articlesData from '../../data/articles.json';
+
+export async function getStaticPaths() {
+  return taxonomyConfig.topics.map(topic => ({
+    params: { topic: topic.slug },
+    props: { topic }
+  }));
+}
+
+const { topic } = Astro.props;
+const topicArticles = articlesData.filter(a => a.topic?.id === topic.id || a.topic?.slug === topic.slug);
+---
+
+<BaseLayout
+  title={`${topic.title} | Arun Kumar Bihar Archive`}
+  description={topic.description}
+>
+  <div class="container" style="padding-top: 3.5rem; padding-bottom: 5rem;">
+    <div style="border-bottom: 2px solid var(--border-color); padding-bottom: 1.5rem; margin-bottom: 3rem;">
+      <a href="/topics" style="font-size: 0.85rem; font-weight: 700; color: var(--accent-color); text-transform: uppercase; text-decoration: none;">
+        ← Back to All Beats
+      </a>
+      <h1 style="font-size: 2.75rem; margin: 0.75rem 0 1rem;">
+        {topic.title}
+      </h1>
+      <p style="font-size: 1.15rem; color: var(--text-secondary); max-width: 800px; line-height: 1.6;">
+        {topic.description}
+      </p>
+      <div style="margin-top: 1rem; font-weight: 600; font-size: 0.9rem; color: var(--text-muted);">
+        {topicArticles.length} {topicArticles.length === 1 ? 'Dispatch' : 'Dispatches'} Documented
+      </div>
+    </div>
+
+    {topicArticles.length > 0 ? (
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem;">
+        {topicArticles.map(art => (
+          <ArticleCard article={art} />
+        ))}
+      </div>
+    ) : (
+      <div class="card" style="text-align: center; padding: 3rem;">
+        <p style="font-size: 1.1rem; color: var(--text-secondary);">
+          No published articles currently indexed in this beat. Check back as historical backfill progresses.
+        </p>
+      </div>
+    )}
+  </div>
+</BaseLayout>

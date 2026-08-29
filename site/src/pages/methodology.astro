@@ -1,0 +1,57 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Archival Methodology & Provenance Manifesto | Arun Kumar Journalism"
+  description="The technical and editorial standards governing the Arun Kumar digital archive: the Non-Negotiable Body Rule, cryptographic hashing, and Wayback Machine preservation."
+>
+  <div class="container" style="max-width: 860px; padding-top: 3.5rem; padding-bottom: 5rem;">
+    <div style="border-bottom: 2px solid var(--border-color); padding-bottom: 1.5rem; margin-bottom: 3rem;">
+      <span style="font-size: 0.85rem; font-weight: 700; color: var(--accent-color); text-transform: uppercase; letter-spacing: 0.05em;">
+        Integrity Standards
+      </span>
+      <h1 style="font-size: 2.75rem; margin: 0.5rem 0 1rem;">
+        Archival Methodology & Provenance
+      </h1>
+      <p style="font-size: 1.15rem; color: var(--text-secondary);">
+        Technical governance and verification principles ensuring the permanent historical fidelity of Arun Kumar's journalistic work.
+      </p>
+    </div>
+
+    <div style="display: flex; flex-direction: column; gap: 2.5rem; font-size: 1.05rem; line-height: 1.8;">
+      <section class="card" style="border-left: 4px solid var(--accent-color);">
+        <h2 style="font-size: 1.4rem; margin-bottom: 0.75rem;">1. The Non-Negotiable Body Rule</h2>
+        <p style="color: var(--text-secondary);">
+          Every article published on this digital archive preserves the original published journalistic text with 100% fidelity. No paragraph is summarized, paraphrased, or rewritten by AI. All quotes, data points, bureau datelines, and investigative findings are maintained exactly as originally printed in <em>Hindustan Times</em>.
+        </p>
+      </section>
+
+      <section class="card" style="border-left: 4px solid #0284c7;">
+        <h2 style="font-size: 1.4rem; margin-bottom: 0.75rem;">2. Dual-Tier Provenance System</h2>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">
+          To safeguard against link rot, digital censorship, and CMS migrations, each article maintains three independent tiers of evidence:
+        </p>
+        <ul style="margin-left: 1.5rem; color: var(--text-secondary); display: flex; flex-direction: column; gap: 0.5rem;">
+          <li><strong>Tier 1 (Canonical Source):</strong> Direct live canonical link to the original article on <code>hindustantimes.com</code>.</li>
+          <li><strong>Tier 2 (Archival Snapshot):</strong> Permanent, immutable snapshot preserved on the Internet Archive's Wayback Machine.</li>
+          <li><strong>Tier 3 (Document Clipping):</strong> High-resolution print newspaper scans or official PDF clippings where available.</li>
+        </ul>
+      </section>
+
+      <section class="card" style="border-left: 4px solid #16a34a;">
+        <h2 style="font-size: 1.4rem; margin-bottom: 0.75rem;">3. Cryptographic Tamper-Proofing (SHA-256)</h2>
+        <p style="color: var(--text-secondary);">
+          At the moment of ingestion, each article body is processed through a SHA-256 cryptographic hashing algorithm. The resulting 64-character hash is permanently recorded in the article metadata and displayed in the Provenance Bar, allowing readers and researchers to independently verify that the text has not been altered since archival.
+        </p>
+      </section>
+
+      <section class="card" style="border-left: 4px solid #9333ea;">
+        <h2 style="font-size: 1.4rem; margin-bottom: 0.75rem;">4. Author Disambiguation Heuristics</h2>
+        <p style="color: var(--text-secondary);">
+          To guarantee that only reporting by Arun Kumar (Senior Assistant Editor, Patna Bureau) is included, the ingestion engine enforces multi-layered disambiguation filters. Bylines are verified against target author IDs, validated with positive dateline markers (Patna, Bihar), and scored against key Bihar governance entities, rejecting namesake contributors from other bureaus.
+        </p>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

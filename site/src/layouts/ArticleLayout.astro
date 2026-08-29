@@ -1,0 +1,154 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import ProvenanceBar from '../components/ProvenanceBar.astro';
+import TaxonomyBadge from '../components/TaxonomyBadge.astro';
+import SocialShareModal from '../components/SocialShareModal.astro';
+import authorConfig from '../config/author.config.json';
+
+const { article, related = [] } = Astro.props;
+
+const formattedDate = new Date(article.published_at).toLocaleDateString('en-IN', {
+  weekday: 'long',
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+});
+
+const newsArticleSchema = {
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": article.title,
+  "description": article.summary,
+  "datePublished": article.published_at,
+  "dateModified": article.modified_at || article.published_at,
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      authorConfig.social_links.twitter?.url,
+      authorConfig.social_links.muckrack?.url,
+      authorConfig.social_links.hindustantimes?.url
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": Astro.url.href
+  },
+  "articleSection": article.topic?.title || "Bihar News",
+  "wordCount": article.word_count
+};
+---
+
+<BaseLayout
+  title={`${article.title} | Arun Kumar (Hindustan Times)`}
+  description={article.summary}
+  canonicalUrl={Astro.url.href}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(newsArticleSchema)} />
+
+  <article class="container" style="max-width: 860px; padding-top: 2.5rem; padding-bottom: 4rem;">
+    {/* Breadcrumbs & Beat Tag */}
+    <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1.25rem; flex-wrap: wrap;">
+      <TaxonomyBadge topic={article.topic} />
+      {article.subtopic && (
+        <span style="font-size: 0.85rem; color: var(--text-muted); font-weight: 500;">
+          / {article.subtopic.title}
+        </span>
+      )}
+    </div>
+
+    {/* Headline */}
+    <h1 style="font-size: 2.4rem; line-height: 1.25; margin-bottom: 1rem;">
+      {article.title}
+    </h1>
+
+    {/* Sub-headline / Summary */}
+    {article.summary && (
+      <p style="font-size: 1.2rem; color: var(--text-secondary); line-height: 1.5; margin-bottom: 1.5rem; font-weight: 400;">
+        {article.summary}
+      </p>
+    )}
+
+    {/* Author Byline & Publication Dateline Bar */}
+    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; border-top: 1px solid var(--border-color); border-bottom: 1px solid var(--border-color); padding: 0.85rem 0; margin-bottom: 1.5rem;">
+      <div style="display: flex; align-items: center; gap: 0.75rem;">
+        <div>
+          <div style="font-weight: 700; font-size: 1rem;">
+            By <a href="/about" style="color: inherit; text-decoration: none;">{article.byline}</a>
+          </div>
+          <div style="font-size: 0.85rem; color: var(--text-muted);">
+            Senior Assistant Editor, Hindustan Times ({article.dateline})
+          </div>
+        </div>
+      </div>
+
+      <div style="text-align: right; font-size: 0.85rem; color: var(--text-muted);">
+        <div>{formattedDate}</div>
+        <div>{article.reading_time_minutes} min read • {article.word_count} words</div>
+      </div>
+    </div>
+
+    {/* Archival Provenance Bar */}
+    <ProvenanceBar provenance={article.provenance} title={article.title} />
+
+    {/* Article Body Content (Strict Preservation) */}
+    <div class="article-body" style="margin-top: 2rem;">
+      <slot />
+    </div>
+
+    {/* Social Share Bar */}
+    <SocialShareModal url={Astro.url.href} title={article.title} summary={article.summary} />
+
+    {/* Author Box */}
+    <div class="card" style="margin-top: 3rem; background-color: var(--bg-surface);">
+      <div style="display: flex; gap: 1.25rem; align-items: flex-start; flex-wrap: wrap;">
+        <div style="flex: 1;">
+          <h3 style="font-size: 1.2rem; margin-bottom: 0.5rem;">About the Author</h3>
+          <p style="font-size: 0.95rem; color: var(--text-secondary); line-height: 1.6; margin-bottom: 1rem;">
+            {authorConfig.full_bio}
+          </p>
+          <div style="display: flex; align-items: center; gap: 1rem;">
+            <a href="/about" class="btn btn-outline" style="font-size: 0.85rem; padding: 0.35rem 0.75rem;">
+              Full Biography & Awards →
+            </a>
+            <a href={authorConfig.social_links.twitter?.url} target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="font-size: 0.85rem; padding: 0.35rem 0.75rem;">
+              Follow @ArunkrHt on X
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {/* Contextual Related Dispatches */}
+    {related.length > 0 && (
+      <div style="margin-top: 3.5rem;">
+        <h3 style="font-size: 1.4rem; margin-bottom: 1.25rem; border-bottom: 2px solid var(--accent-color); padding-bottom: 0.5rem; display: inline-block;">
+          Related Bihar Dispatches
+        </h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.25rem; margin-top: 1rem;">
+          {related.map((rel: any) => (
+            <div class="card" style="padding: 1.15rem;">
+              <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 0.4rem;">
+                {new Date(rel.published_at).toLocaleDateString('en-IN', { year: 'numeric', month: 'short', day: 'numeric' })}
+              </div>
+              <h4 style="font-size: 1rem; line-height: 1.35; margin-bottom: 0.5rem;">
+                <a href={`/articles/${rel.slug}`} style="color: inherit; text-decoration: none;">
+                  {rel.title}
+                </a>
+              </h4>
+              <a href={`/articles/${rel.slug}`} style="font-size: 0.8rem; color: var(--accent-color); font-weight: 600;">
+                Read report →
+              </a>
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
+  </article>
+</BaseLayout>

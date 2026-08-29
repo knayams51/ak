@@ -1,0 +1,113 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SocialConnect from '../components/SocialConnect.astro';
+import authorConfig from '../config/author.config.json';
+---
+
+<BaseLayout
+  title="About Arun Kumar | Senior Assistant Editor, Hindustan Times"
+  description="Biographical archive, journalistic milestones, awards, and areas of reporting expertise for Arun Kumar (Hindustan Times Patna Bureau)."
+>
+  <div class="container" style="max-width: 860px; padding-top: 3.5rem; padding-bottom: 5rem;">
+    {/* Profile Header */}
+    <div style="border-bottom: 2px solid var(--border-color); padding-bottom: 2rem; margin-bottom: 2.5rem;">
+      <span style="font-size: 0.85rem; font-weight: 700; color: var(--accent-color); text-transform: uppercase; letter-spacing: 0.05em;">
+        Journalist & Editor Profile
+      </span>
+      <h1 style="font-size: 2.75rem; line-height: 1.15; margin: 0.5rem 0 1rem;">
+        Arun Kumar
+      </h1>
+      <p style="font-size: 1.25rem; color: var(--text-secondary); line-height: 1.5; margin-bottom: 1.5rem;">
+        Senior Assistant Editor, <em>Hindustan Times</em> (Patna Bureau)
+      </p>
+
+      {/* Social & Contact Bar */}
+      <div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
+        <SocialConnect />
+        <a href={authorConfig.social_links.twitter?.url} target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="font-size: 0.85rem; padding: 0.4rem 0.85rem;">
+          Follow @ArunkrHt on X
+        </a>
+      </div>
+    </div>
+
+    {/* Narrative Biography */}
+    <section style="margin-bottom: 3rem;">
+      <h2 style="font-size: 1.75rem; margin-bottom: 1.25rem;">Biographical Overview</h2>
+      <div style="font-size: 1.1rem; line-height: 1.8; color: var(--text-primary); display: flex; flex-direction: column; gap: 1.25rem;">
+        <p>
+          {authorConfig.full_bio}
+        </p>
+        <p>
+          Throughout his career at the <em>Hindustan Times</em>, Arun Kumar has been at the forefront of major state transitions in Bihar. His reporting spans five terms of the Nitish Kumar administration, the shifting dynamics of the NDA and Mahagathbandhan alliances, high-stakes assembly elections, teacher recruitment movements (TRE / BPSC), and landmark judgments by the Patna High Court on public accountability and prohibition.
+        </p>
+        <p>
+          Known for rigorous documentation and an uncompromising commitment to on-the-ground facts, his journalistic dispatches have frequently served as primary reference material for policy makers, legal researchers, and academics studying North Indian politics and administrative reforms.
+        </p>
+      </div>
+    </section>
+
+    {/* Awards & Honors */}
+    <section id="awards" style="margin-bottom: 3.5rem;">
+      <h2 style="font-size: 1.75rem; margin-bottom: 1.25rem;">Awards & Honors</h2>
+      <div style="display: grid; grid-template-columns: 1fr; gap: 1.25rem;">
+        {authorConfig.awards.map(award => (
+          <div class="card" style="border-left: 4px solid var(--accent-color);">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.4rem; flex-wrap: wrap;">
+              <h3 style="font-size: 1.25rem;">{award.title}</h3>
+              <span style="font-size: 0.85rem; font-weight: 700; color: var(--accent-color); background: #fee2e2; padding: 0.15rem 0.5rem; border-radius: 4px;">
+                {award.year}
+              </span>
+            </div>
+            <p style="font-size: 0.95rem; color: var(--text-secondary); line-height: 1.5;">
+              {award.description}
+            </p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    {/* Areas of Reporting Expertise */}
+    <section style="margin-bottom: 3.5rem;">
+      <h2 style="font-size: 1.75rem; margin-bottom: 1.25rem;">Key Areas of Reporting</h2>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem;">
+        {authorConfig.areas_of_expertise.map(area => (
+          <div class="card" style="padding: 1rem; font-weight: 600; font-size: 0.95rem; display: flex; align-items: center; gap: 0.5rem;">
+            <span style="color: var(--accent-color);">✓</span>
+            {area}
+          </div>
+        ))}
+      </div>
+    </section>
+
+    {/* Digital Identity & Channels */}
+    <section class="card" style="background-color: var(--bg-surface); border: 2px solid var(--border-color);">
+      <h2 style="font-size: 1.4rem; margin-bottom: 1rem;">Verified Channels & Portfolios</h2>
+      <ul style="list-style: none; display: flex; flex-direction: column; gap: 0.85rem; font-size: 1rem;">
+        <li>
+          <strong>X (Twitter):</strong>{' '}
+          <a href={authorConfig.social_links.twitter?.url} target="_blank" rel="noopener noreferrer">
+            @ArunkrHt ({authorConfig.social_links.twitter?.url})
+          </a>
+        </li>
+        <li>
+          <strong>Hindustan Times Author Feed:</strong>{' '}
+          <a href={authorConfig.social_links.hindustantimes?.url} target="_blank" rel="noopener noreferrer">
+            {authorConfig.social_links.hindustantimes?.url}
+          </a>
+        </li>
+        <li>
+          <strong>Muck Rack Portfolio:</strong>{' '}
+          <a href={authorConfig.social_links.muckrack?.url} target="_blank" rel="noopener noreferrer">
+            muckrack.com/arun-kumar-1
+          </a>
+        </li>
+        <li>
+          <strong>Direct Email:</strong>{' '}
+          <a href={`mailto:${authorConfig.social_links.email?.address}`}>
+            {authorConfig.social_links.email?.address}
+          </a>
+        </li>
+      </ul>
+    </section>
+  </div>
+</BaseLayout>
