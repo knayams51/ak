@@ -1,13 +1,14 @@
 {
-  "site_name": "Arun Kumar | Journalistic Archive",
-  "site_title": "Arun Kumar — Senior Assistant Editor, Hindustan Times (Patna Bureau)",
-  "site_description": "The official digital archive of Arun Kumar's journalistic work spanning over 25 years of Bihar politics, higher education reforms, Patna High Court jurisprudence, and state governance.",
+  "site_name": "Arun Kumar | Living Journalistic Archive",
+  "site_title": "Arun Kumar — Senior Assistant Editor, Hindustan Times (Patna Bureau) | Living Archive",
+  "site_description": "The official living digital archive of Arun Kumar's journalistic dispatches and continuous active reporting as Senior Assistant Editor at Hindustan Times (Patna Bureau), chronicling Bihar politics, higher education reforms, Patna High Court jurisprudence, and state governance.",
   "site_url": "https://arunkumar-journalism.org",
   "default_og_image": "/images/share/default_share_card.jpg",
   "locale": "en-IN",
   "editorial_policy": {
     "non_negotiable_fidelity": true,
     "paraphrasing_allowed": false,
+    "living_archive": true,
     "provenance_tiers": [
       "primary_canonical_ht",
       "archival_wayback_machine",
@@ -15,7 +16,7 @@
     ]
   },
   "navigation": [
-    { "label": "Archive", "url": "/archive" },
+    { "label": "Living Archive", "url": "/archive" },
     { "label": "Beats", "url": "/topics" },
     { "label": "Search", "url": "/search" },
     { "label": "About Arun Kumar", "url": "/about" },

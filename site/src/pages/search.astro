@@ -3,8 +3,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
 <BaseLayout
-  title="Instant Search | Arun Kumar Journalistic Archive"
-  description="Search across all historical dispatches by keywords, topics, entities, and datelines."
+  title="Instant Search | Arun Kumar Living Journalistic Archive"
+  description="Search across all living and historical dispatches by keywords, topics, entities, and datelines."
 >
   <div class="container" style="max-width: 860px; padding-top: 3.5rem; padding-bottom: 5rem;">
     <div style="border-bottom: 2px solid var(--border-color); padding-bottom: 1.5rem; margin-bottom: 2.5rem;">
@@ -12,10 +12,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         Full-Text Discovery
       </span>
       <h1 style="font-size: 2.75rem; margin: 0.5rem 0 1rem;">
-        Search Archive
+        Search Living Archive
       </h1>
       <p style="font-size: 1.1rem; color: var(--text-secondary);">
-        Search across two and a half decades of Bihar journalism by headlines, government policies, legal rulings, and political keywords.
+        Search across Arun Kumar's active ongoing and historical Bihar journalistic dispatches by headlines, government policies, legal rulings, and political keywords.
       </p>
 
       {/* Search Input Box */}
@@ -23,7 +23,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         <input
           type="text"
           id="searchInput"
-          placeholder="Search e.g. BPSC, Patna High Court, Assistant Professor, Nitish Kumar..."
+          placeholder="Search e.g. BPSC, Patna High Court, Assistant Professor, Nitish Kumar, PUSU..."
           style="width: 100%; padding: 0.85rem 1.25rem; font-size: 1.1rem; border-radius: 8px; border: 2px solid var(--border-color); background-color: var(--bg-surface); color: var(--text-primary); outline: none;"
           autofocus
         />
@@ -50,7 +50,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       try {
         const res = await fetch('/search-index.json');
         searchIndex = await res.json();
-        searchMeta.textContent = `Search index loaded with ${searchIndex.length} dispatches. Start typing to filter.`;
+        searchMeta.textContent = `Search index loaded with ${searchIndex.length} living dispatches. Start typing to filter.`;
         renderResults(searchIndex);
       } catch (err) {
         searchMeta.textContent = 'Failed to load search index.';

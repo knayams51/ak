@@ -5,15 +5,18 @@ import authorConfig from '../config/author.config.json';
 ---
 
 <BaseLayout
-  title="About Arun Kumar | Senior Assistant Editor, Hindustan Times"
-  description="Biographical archive, journalistic milestones, awards, and areas of reporting expertise for Arun Kumar (Hindustan Times Patna Bureau)."
+  title="About Arun Kumar | Senior Assistant Editor, Hindustan Times (Patna)"
+  description="Biographical overview, active reporting profile, journalistic milestones, awards, and areas of expertise for Arun Kumar (Hindustan Times Patna Bureau)."
 >
   <div class="container" style="max-width: 860px; padding-top: 3.5rem; padding-bottom: 5rem;">
     {/* Profile Header */}
     <div style="border-bottom: 2px solid var(--border-color); padding-bottom: 2rem; margin-bottom: 2.5rem;">
-      <span style="font-size: 0.85rem; font-weight: 700; color: var(--accent-color); text-transform: uppercase; letter-spacing: 0.05em;">
-        Journalist & Editor Profile
-      </span>
+      <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+        <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background-color: #16a34a; box-shadow: 0 0 0 3px rgba(22, 163, 74, 0.2);"></span>
+        <span style="font-size: 0.85rem; font-weight: 700; color: #16a34a; text-transform: uppercase; letter-spacing: 0.05em;">
+          Active Senior Assistant Editor • Living Archive
+        </span>
+      </div>
       <h1 style="font-size: 2.75rem; line-height: 1.15; margin: 0.5rem 0 1rem;">
         Arun Kumar
       </h1>
@@ -32,16 +35,19 @@ import authorConfig from '../config/author.config.json';
 
     {/* Narrative Biography */}
     <section style="margin-bottom: 3rem;">
-      <h2 style="font-size: 1.75rem; margin-bottom: 1.25rem;">Biographical Overview</h2>
+      <h2 style="font-size: 1.75rem; margin-bottom: 1.25rem;">Active Reporting & Career</h2>
       <div style="font-size: 1.1rem; line-height: 1.8; color: var(--text-primary); display: flex; flex-direction: column; gap: 1.25rem;">
         <p>
           {authorConfig.full_bio}
         </p>
         <p>
-          Throughout his career at the <em>Hindustan Times</em>, Arun Kumar has been at the forefront of major state transitions in Bihar. His reporting spans five terms of the Nitish Kumar administration, the shifting dynamics of the NDA and Mahagathbandhan alliances, high-stakes assembly elections, teacher recruitment movements (TRE / BPSC), and landmark judgments by the Patna High Court on public accountability and prohibition.
+          Currently actively based out of Patna as Senior Assistant Editor for <em>Hindustan Times</em>, Arun Kumar continues to provide daily, real-time investigative and beat reporting on Bihar's political developments, cabinet affairs, higher education policy shifts, BPSC recruitments, and Patna High Court orders.
         </p>
         <p>
-          Known for rigorous documentation and an uncompromising commitment to on-the-ground facts, his journalistic dispatches have frequently served as primary reference material for policy makers, legal researchers, and academics studying North Indian politics and administrative reforms.
+          Throughout his career at the <em>Hindustan Times</em>, his reporting has documented five terms of the Nitish Kumar administration, shifting coalition equations, teacher recruitment movements (TRE / BPSC), university governance battles, and landmark judicial rulings.
+        </p>
+        <p>
+          This <strong>living archive</strong> is dynamically maintained to preserve every published dispatch with cryptographic provenance (SHA-256 hashes) and direct links to live Hindustan Times canonical records and Internet Archive Wayback snapshots.
         </p>
       </div>
     </section>

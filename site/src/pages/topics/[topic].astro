@@ -16,7 +16,7 @@ const topicArticles = articlesData.filter(a => a.topic?.id === topic.id || a.top
 ---
 
 <BaseLayout
-  title={`${topic.title} | Arun Kumar Bihar Archive`}
+  title={`${topic.title} | Arun Kumar Living Bihar Archive`}
   description={topic.description}
 >
   <div class="container" style="padding-top: 3.5rem; padding-bottom: 5rem;">
@@ -31,7 +31,7 @@ const topicArticles = articlesData.filter(a => a.topic?.id === topic.id || a.top
         {topic.description}
       </p>
       <div style="margin-top: 1rem; font-weight: 600; font-size: 0.9rem; color: var(--text-muted);">
-        {topicArticles.length} {topicArticles.length === 1 ? 'Dispatch' : 'Dispatches'} Documented
+        {topicArticles.length} {topicArticles.length === 1 ? 'Dispatch' : 'Dispatches'} in Living Archive
       </div>
     </div>
 
@@ -44,7 +44,7 @@ const topicArticles = articlesData.filter(a => a.topic?.id === topic.id || a.top
     ) : (
       <div class="card" style="text-align: center; padding: 3rem;">
         <p style="font-size: 1.1rem; color: var(--text-secondary);">
-          No published articles currently indexed in this beat. Check back as historical backfill progresses.
+          No published articles currently indexed in this beat. Check back as living archive updates progress.
         </p>
       </div>
     )}

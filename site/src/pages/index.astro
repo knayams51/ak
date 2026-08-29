@@ -15,20 +15,20 @@ const secondaryArticles = articlesData.slice(1, 4);
   {/* Hero / Editorial Banner */}
   <section style="background-color: var(--bg-surface); border-bottom: 1px solid var(--border-color); padding: 3.5rem 0 3rem;">
     <div class="container">
-      <div style="display: grid; grid-template-columns: 1fr; max-width: 820px; margin: 0 auto; text-align: center;">
+      <div style="display: grid; grid-template-columns: 1fr; max-width: 840px; margin: 0 auto; text-align: center;">
         <span style="font-size: 0.85rem; font-weight: 700; color: var(--accent-color); text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.75rem;">
-          The Official Journalistic Archive
+          The Official Living Journalistic Archive
         </span>
         <h1 style="font-size: 3rem; line-height: 1.15; margin-bottom: 1rem;">
           Documenting Contemporary Bihar
         </h1>
         <p style="font-size: 1.15rem; color: var(--text-secondary); line-height: 1.6; margin-bottom: 1.75rem;">
-          Over two and a half decades of investigative journalism, political history, university reforms, and Patna High Court jurisprudence by <strong>Arun Kumar</strong>, Senior Assistant Editor at <em>Hindustan Times</em> (Patna).
+          Over two and a half decades of continuous, active reporting on Bihar politics, higher education reforms, Patna High Court jurisprudence, and state governance by <strong>Arun Kumar</strong>, Senior Assistant Editor at <em>Hindustan Times</em> (Patna Bureau).
         </p>
 
         <div style="display: flex; justify-content: center; align-items: center; gap: 1rem; flex-wrap: wrap;">
           <a href="/archive" class="btn btn-primary">
-            Explore Full Archive ({articlesData.length} Dispatches)
+            Explore Living Archive ({articlesData.length} Dispatches)
           </a>
           <a href="/topics" class="btn btn-outline">
             Browse by Beat
@@ -43,7 +43,7 @@ const secondaryArticles = articlesData.slice(1, 4);
     <div style="display: flex; align-items: center; justify-content: space-between; border-bottom: 2px solid var(--border-color); padding-bottom: 0.75rem; margin-bottom: 2rem;">
       <h2 style="font-size: 1.75rem;">Latest Dispatches</h2>
       <a href="/archive" style="font-weight: 600; font-size: 0.9rem; color: var(--accent-color);">
-        View all articles →
+        View living archive →
       </a>
     </div>
 
@@ -94,7 +94,7 @@ const secondaryArticles = articlesData.slice(1, 4);
       <div style="border-bottom: 2px solid var(--border-color); padding-bottom: 0.75rem; margin-bottom: 2rem;">
         <h2 style="font-size: 1.75rem;">Editorial Beats</h2>
         <p style="font-size: 0.95rem; color: var(--text-secondary);">
-          Structured coverage across key sectors of Bihar governance and society.
+          Continuous structured reporting across key sectors of Bihar governance, education, and jurisprudence.
         </p>
       </div>
 
@@ -115,7 +115,7 @@ const secondaryArticles = articlesData.slice(1, 4);
               </div>
               <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--border-light); padding-top: 0.75rem; font-size: 0.85rem;">
                 <span style="color: var(--text-muted); font-weight: 600;">
-                  {topicArticles.length} {topicArticles.length === 1 ? 'article' : 'articles'}
+                  {topicArticles.length} {topicArticles.length === 1 ? 'dispatch' : 'dispatches'}
                 </span>
                 <a href={`/topics/${topic.slug}`} style="font-weight: 600; color: var(--accent-color);">
                   Explore beat →
