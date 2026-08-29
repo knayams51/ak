@@ -1,0 +1,51 @@
+{
+  "id": "d225c5513f469e5d",
+  "slug": "bihar-quake-toll-rises-to-51-fresh-tremors-spark-panic-india-news-469e5d",
+  "title": "Bihar quake toll rises to 51, fresh tremors spark panic | India News",
+  "summary": "Fresh tremors were felt in Bihar on Sunday, which sparked panic in the state where the death toll from Saturday's quake has risen to 51. | India News",
+  "byline": "Arun Kumar & Anil Kumar",
+  "dateline": "Patna",
+  "published_at": "2015-04-26T18:48:53.000Z",
+  "modified_at": "2015-04-26T18:52:26.000Z",
+  "word_count": 292,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "social-issues-health-culture",
+    "slug": "social-issues-health-culture",
+    "title": "Social Issues, Health & Heritage"
+  },
+  "subtopic": {
+    "id": "floods-disaster-management",
+    "slug": "floods-disaster-management",
+    "title": "Floods & Disaster Management"
+  },
+  "tags": [
+    "Nitish Kumar"
+  ],
+  "source_url": "https://www.hindustantimes.com/india/bihar-quake-toll-rises-to-51-fresh-tremors-spark-panic/story-MTWHa9FGty51d6PZ3X8bZI.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india/bihar-quake-toll-rises-to-51-fresh-tremors-spark-panic/story-MTWHa9FGty51d6PZ3X8bZI.html",
+      "original_article_id": "d225c5513f469e5d",
+      "published_at": "2015-04-26T18:48:53.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india/bihar-quake-toll-rises-to-51-fresh-tremors-spark-panic/story-MTWHa9FGty51d6PZ3X8bZI.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "c5f09158194a36dc8f45e7c534dab97283e355e081b64d24afb30e5026a5ae23",
+      "last_verified_at": "2026-08-29T11:29:47.121Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

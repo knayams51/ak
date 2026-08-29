@@ -1,0 +1,53 @@
+{
+  "id": "101640880939995",
+  "slug": "bihar-set-to-touch-100mn-vaccination-mark-today-hindustan-times-939995",
+  "title": "Bihar set to touch 100mn vaccination mark today | Hindustan Times",
+  "summary": "PATNA: Even as the government is gearing up to tackle the looming threat of a third wave and the new Omicron variant, the state is set to touch the 100 million mark in vaccination against Covid-19, said health officials",
+  "byline": "Arun Kumar",
+  "dateline": "PATNA",
+  "published_at": "2021-12-30T16:15:39.000Z",
+  "modified_at": "2021-12-30T16:15:39.000Z",
+  "word_count": 549,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "faculty-recruitment-controversies",
+    "slug": "faculty-recruitment-controversies",
+    "title": "Faculty Recruitment & BPSC Exams"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/others/bihar-set-to-touch-100mn-vaccination-mark-today-101640880939995.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/others/bihar-set-to-touch-100mn-vaccination-mark-today-101640880939995.html",
+      "original_article_id": "101640880939995",
+      "published_at": "2021-12-30T16:15:39.000Z",
+      "dateline": "PATNA"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/others/bihar-set-to-touch-100mn-vaccination-mark-today-101640880939995.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "9c6e6cc00894e9b80c8307b14c393c8e3b97ee4ba03200fce0a7c5bbd985fb66",
+      "last_verified_at": "2026-08-29T11:29:47.060Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

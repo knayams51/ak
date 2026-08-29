@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "After big poll mandate in 2025, Nitish-led NDA govt in Bihar has to walk the talk in 2026 | Hindustan Times",
+  "description": "One writing was on the sheet of poll verdict was in bold letters: Bihar has voted for the new generation development in the state so that people are not forced to migrate to other states for their livelihood. That's like a task cut out for the current Nitish-led NDA government",
+  "datePublished": "2025-12-31T17:33:43.000Z",
+  "dateModified": "2025-12-31T17:33:43.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/after-big-poll-mandate-in-2025-nitish-led-nda-govt-in-bihar-has-to-walk-the-talk-424332"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "BJP"
+  ],
+  "wordCount": 1772
+}

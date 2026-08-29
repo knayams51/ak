@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Patna University, cradle of Bihar politics, fights off a thoroughfare | Hindustan Times",
+  "description": "The issue relates to the development of Krishnaghat road to connect with upcoming Ganga Path along the Ganga river for which PU has been asked to transfer land.",
+  "datePublished": "2019-03-30T10:36:15.000Z",
+  "dateModified": "2019-03-30T10:36:15.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/patna-university-cradle-of-bihar-politics-fights-off-a-thoroughfare-hindustan-ti-0dc0ed"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "Patna University",
+    "Congress"
+  ],
+  "wordCount": 683
+}

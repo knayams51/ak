@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Chirag campaigns for BJP, Nitish takes a swipe | Hindustan Times",
+  "description": "Chirag, who did a roadshow in Mokama on his birthday, said he and his father late Ram Vilas Paswan were uneasy even in 2017 when Nitish Kumar had switched sides and realigned with BJP.",
+  "datePublished": "2022-10-31T15:46:30.000Z",
+  "dateModified": "2022-10-31T15:46:30.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/chirag-campaigns-for-bjp-nitish-takes-a-swipe-hindustan-times-190774"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 349
+}

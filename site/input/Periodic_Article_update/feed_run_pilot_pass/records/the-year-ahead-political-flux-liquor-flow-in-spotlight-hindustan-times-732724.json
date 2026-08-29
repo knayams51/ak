@@ -1,0 +1,55 @@
+{
+  "id": "101672501732724",
+  "slug": "the-year-ahead-political-flux-liquor-flow-in-spotlight-hindustan-times-732724",
+  "title": "The year ahead: Political flux, liquor flow in spotlight | Hindustan Times",
+  "summary": "In 2022, Bihar saw a sudden change in government that stripped BJP of power, a number of hooch tragedies, frequent protests by job aspirants, embarrassing leak of question papers of state's top competitive exams, complete disarray in state universities due to delayed academic sessions and below par agriculture growth, which clouded the state's positives like the inauguration of the Ganga water supply project for the vast arid regions of central Bihar and cabinet nod to fill large-scale vacancies in police.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2022-12-31T15:48:52.000Z",
+  "modified_at": "2022-12-31T15:48:53.000Z",
+  "word_count": 1218,
+  "reading_time_minutes": 7,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "Tejashwi Yadav",
+    "Patna High Court",
+    "RJD",
+    "BJP"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/the-year-ahead-political-flux-liquor-flow-in-spotlight-101672501732724.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/the-year-ahead-political-flux-liquor-flow-in-spotlight-101672501732724.html",
+      "original_article_id": "101672501732724",
+      "published_at": "2022-12-31T15:48:52.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/the-year-ahead-political-flux-liquor-flow-in-spotlight-101672501732724.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "4e3dde6167670e8b42404863b07ec2b2fabb6f507e14bd53590fa40ff495f441",
+      "last_verified_at": "2026-08-29T11:29:47.039Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

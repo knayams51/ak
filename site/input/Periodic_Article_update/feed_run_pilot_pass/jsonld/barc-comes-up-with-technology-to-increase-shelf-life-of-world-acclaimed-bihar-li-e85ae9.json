@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "BARC comes up with technology to increase shelf life of world acclaimed Bihar litchis | India News",
+  "description": "BARC has come up with new technology, which will increase the shelf life of litchis from 4-6 days to around two months. This will boost production and export of Bihar's litchis, which are in high demand in the United States, Europe and middle-east. | India News",
+  "datePublished": "2017-05-31T07:25:46.000Z",
+  "dateModified": "2017-05-31T07:25:46.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/barc-comes-up-with-technology-to-increase-shelf-life-of-world-acclaimed-bihar-li-e85ae9"
+  },
+  "articleSection": "State Administration & Vigilance",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 175
+}

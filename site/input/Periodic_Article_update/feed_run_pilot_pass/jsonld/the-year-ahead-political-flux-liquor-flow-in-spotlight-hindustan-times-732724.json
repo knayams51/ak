@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "The year ahead: Political flux, liquor flow in spotlight | Hindustan Times",
+  "description": "In 2022, Bihar saw a sudden change in government that stripped BJP of power, a number of hooch tragedies, frequent protests by job aspirants, embarrassing leak of question papers of state's top competitive exams, complete disarray in state universities due to delayed academic sessions and below par agriculture growth, which clouded the state's positives like the inauguration of the Ganga water supply project for the vast arid regions of central Bihar and cabinet nod to fill large-scale vacancies in police.",
+  "datePublished": "2022-12-31T15:48:52.000Z",
+  "dateModified": "2022-12-31T15:48:53.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/the-year-ahead-political-flux-liquor-flow-in-spotlight-hindustan-times-732724"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Tejashwi Yadav",
+    "Patna High Court",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 1218
+}

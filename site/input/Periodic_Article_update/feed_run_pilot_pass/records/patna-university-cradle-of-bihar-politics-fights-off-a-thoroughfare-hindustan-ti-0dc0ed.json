@@ -1,0 +1,54 @@
+{
+  "id": "37a14ad10b0dc0ed",
+  "slug": "patna-university-cradle-of-bihar-politics-fights-off-a-thoroughfare-hindustan-ti-0dc0ed",
+  "title": "Patna University, cradle of Bihar politics, fights off a thoroughfare | Hindustan Times",
+  "summary": "The issue relates to the development of Krishnaghat road to connect with upcoming Ganga Path along the Ganga river for which PU has been asked to transfer land.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2019-03-30T10:36:15.000Z",
+  "modified_at": "2019-03-30T10:36:15.000Z",
+  "word_count": 683,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "patna-university-development",
+    "slug": "patna-university-development",
+    "title": "Patna University & Heritage Campuses"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "Patna University",
+    "Congress"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/patna-university-cradle-of-bihar-politics-fights-off-a-thoroughfare/story-Tq251W0MGwfFlFmDXgSJLL.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/patna-university-cradle-of-bihar-politics-fights-off-a-thoroughfare/story-Tq251W0MGwfFlFmDXgSJLL.html",
+      "original_article_id": "37a14ad10b0dc0ed",
+      "published_at": "2019-03-30T10:36:15.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/patna-university-cradle-of-bihar-politics-fights-off-a-thoroughfare/story-Tq251W0MGwfFlFmDXgSJLL.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "dcf26b1053fa7be309385e2e9fc3894f10067cceb4fb3ac4a85867680da368b7",
+      "last_verified_at": "2026-08-29T11:29:47.079Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

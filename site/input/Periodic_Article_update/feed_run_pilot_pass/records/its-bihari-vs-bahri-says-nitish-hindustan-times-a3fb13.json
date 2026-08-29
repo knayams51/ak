@@ -1,0 +1,54 @@
+{
+  "id": "6f192367c8a3fb13",
+  "slug": "its-bihari-vs-bahri-says-nitish-hindustan-times-a3fb13",
+  "title": "It's 'Bihari' vs 'Bahri', says Nitish | Hindustan Times",
+  "summary": "Chief minister Nitish Kumar tried to win over the youth and women, while raising the 'Outsider vs Bihari' (Bihari vs Bahri) issue, to seek people's support for the Grand Alliance candidates in the forthcoming assembly elections.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2015-09-29T11:21:27.000Z",
+  "modified_at": "2015-09-29T11:21:27.000Z",
+  "word_count": 445,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP",
+    "Congress"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/it-s-bihari-vs-bahri-says-nitish/story-PnT1xJ40EifZwt9r702o0K.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/it-s-bihari-vs-bahri-says-nitish/story-PnT1xJ40EifZwt9r702o0K.html",
+      "original_article_id": "6f192367c8a3fb13",
+      "published_at": "2015-09-29T11:21:27.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/it-s-bihari-vs-bahri-says-nitish/story-PnT1xJ40EifZwt9r702o0K.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "8e5330a67b953d779579eb72a7347e81bab4b838555fc9886c967b455aa8b7df",
+      "last_verified_at": "2026-08-29T11:29:47.114Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

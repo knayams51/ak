@@ -1,0 +1,37 @@
+# The year ahead: Political flux, liquor flow in spotlight | Hindustan Times
+
+**Patna** — Bihar can only hope for a turnaround in 2023 after a challenging 2022, which saw a sudden change in government that stripped BJP of power, a number of hooch tragedies, frequent protests by job aspirants, embarrassing leak of question papers of state's top competitive exams, complete disarray in state universities due to delayed academic sessions and below par agriculture growth, which clouded the state's positives like the inauguration of the Ganga water supply project for the vast arid regions of central Bihar and cabinet nod to fill large-scale vacancies in police.
+
+Political landscape
+
+In August 2022, chief minister Nitish Kumar, for a second time in the last 10 years, snapped ties with his party's old ally BJP and joined hands with the grand alliance led by RJD, the party founded by his longstanding rival Lalu Yadav. The ailing RJD supremo's younger son Tejashwi Yadav, who led his party in the 2020 assembly polls into an impressive performance and is currently Bihar's deputy CM, is already being widely seen as Kumar's successor as the CM. Nitish Kumar, who is eyeing a national role in an anti-BJP coalition ahead of the 2024 parliamentary polls, has himself made amply clear that the 2025 state assembly polls would be fought under Yadav's leadership. It remains to be seen how patient RJD rank and file could be on the question of transition of power. Kumar himself has planned a statewide tour from January 5. The year 2023 is set to be keenly watched for political play in Bihar with possible larger national ramifications as Kumar's yatras are never without a purpose.
+
+Prohibition
+
+Despite a stringent law, liquor prohibition has been a major challenge for the government from day one, and it has remained so to date. A number of hooch tragedies, the worst being recently in Saran, has raised a question mark over the efficacy of prohibition, which was imposed in the state in April 2016. The government has tweaked the prohibition and excise law several times, but has failed to find an answer to continued smuggling and manufacturing of licit liquor. While the easy blame is on the already bogged down police, the judiciary has questioned the legislation and the Opposition points fingers at faulty implementation. However, despite intense pressure, Nitish Kumar remains firmly against easing the ban, citing Mahatma Gandhi's principles, directive principles of state policy, health concerns and women's welfare. But for the first time, BJP in opposition has been equally strong in dubbing the law an abject failure, citing a parallel economy of black money it has developed and suffering of poor people. The matter is already pending before the Supreme Court. How the government deals with it will be keenly awaited in 2023, as it has the potential to become a big poll issue.
+
+Clean exams
+
+In a state where lakhs of students prepare for competitive exams for jobs in the government sector, leakage of question papers twice in two big exams in 2022 led to an uproar. The government faces an increasing pressure to find a way to keep the exam system sacrosanct. Bihar will wait for future exams lined up from the start of the New Year to see a cleaner and smoother system in place to reward the deserving. The state has huge demographic dividend, but in the absence of quality education and employment opportunities, it threatens to become a demographic disaster that only abets migration.
+
+Growing pollution
+
+For a state devoid of big industries, the pollution level in Bihar assumed surprisingly alarming proportions in 2022, with several cities reporting dangerous levels. Cities and towns from the state often crowded the list of top 10 worst polluted places in the country. While experts debate the underlying reasons, construction without following the laid down norms seems to be only plausible explanation, besides vehicular pollution. Clearly, air pollution has emerged as a major challenge for the state in 2023.
+
+Growth story
+
+While Bihar has showed conspicuous signs of growth in certain fields, other states have also moved ahead, resulting in its position at the bottom of the development ladder remaining unchanged largely due to the period of developmental stagnation it witnessed for a long time when basic 21st century needs like roads and power were a luxury. Having achieved the basics, Bihar will need to move beyond to take the state's growth story to the next level. Bihar's real per capita income (constant price) was ₹31,522 in 2020-21 and ₹34,465 in 2021-22, which is around 36% of the national average. The per capita income of Bihar compared to its neighbouring states in 2020-21 was: 71.4% of UP, 54.8% of Jharkhand and 39.0% of West Bengal. To even reach the national average in the coming decade, the state needs to work out a strategy to grow at a rate much higher than the rest of the states.
+
+Agriculture concern
+
+More than half of Bihar's population is dependent on agriculture and allied sector for livelihood, but the state economy's share of agriculture and allied sectors has come down to 20%. Within the primary sector, the contribution of crop sector in the state economy came down over the years to just 10% in 2020-21, but the share of the population dependent on it for livelihood remains high. This indicates that the nature of cultivation is primarily subsistence. In addition, agriculture is prone to climate change in the state as it faces floods and droughts at the same time of the year, which results in a higher risk to the people engaged in it. On the other hand, the contribution of livestock to the state economy increased recently. The challenge before the state is to reduce the risk of those engaged in agriculture and make it economically profitable. The other challenge is to make it climate resilient. The agriculture road maps developed by the states have been under criticism by some as it has yet to lead the crop-related activities on the sustainable growth path.
+
+Covid scare
+
+While 2021 exposed Bihar's health infrastructure, 2022 did not see any alarm and things started getting back to normal. However, the year 2023 now begins with another alarm. The state has maintained that it has been doing regular screening and is prepared. One only hopes the state and the country is not again tested.
+
+Educational scenario
+
+Bihar did well in the school education sector in the beginning to improve access and virtually end gender disparity at the secondary well with the much talked about cycle scheme for girls. School infrastructure also improved. But quality of education remains a concern. The situation of state universities and colleges is alarming, with academic sessions running late by up to 2-3 years, defeating the very purpose of degrees. Bihar now has a number of premier national institutions of higher learning, but the state needs to have its own colleges and universities in order. The biggest challenge in 2023 for the Raj Bhawan and the government would be to streamline the academic sessions. The year should also see much needed appointments materialise without controversies, as the Patna High Court has already stayed appointments over quota ambiguity. The selection process, however, goes on. Bihar's universities are seriously understaffed.
+
+Arun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues.

@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar: Teachers fume after edu dept's latest order, MLC threatens privilege motion | Hindustan Times",
+  "description": "The matter escalated after the education department issued orders on Wednesday to stop the salary and pension of Federation of University Teachers' Association of Bihar (FUTAB) working president Kanhaiya Bahadur and general secretary Sanjay Kumar, also an MLC (member of the Legislative Council), for their remarks against the order that college and university teachers should also mandatorily take five classes each day and strike off names of students remaining absent for more than three days.",
+  "datePublished": "2023-11-30T15:48:02.000Z",
+  "dateModified": "2023-11-30T15:48:02.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-teachers-fume-after-edu-depts-latest-order-mlc-threatens-privilege-motion--282689"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar",
+    "BPSC",
+    "BJP"
+  ],
+  "wordCount": 944
+}

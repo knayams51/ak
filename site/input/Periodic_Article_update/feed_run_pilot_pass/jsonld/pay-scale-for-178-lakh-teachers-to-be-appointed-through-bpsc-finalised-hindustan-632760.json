@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Pay scale for 1.78 lakh teachers to be appointed through BPSC finalised | Hindustan Times",
+  "description": "Under the new recruitment process, primary teachers (class 1-5) will have a basic salary of Rs.25,000 and the gross with dearness, house rent and medical allowances will come to around Rs.38,000, while for middle schools (class 6-8) the gross salary with Rs.28,000 basic will be around Rs.42,000",
+  "datePublished": "2023-04-29T15:03:52.000Z",
+  "dateModified": "2023-04-29T15:03:55.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/pay-scale-for-178-lakh-teachers-to-be-appointed-through-bpsc-finalised-hindustan-632760"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Patna High Court",
+    "BPSC"
+  ],
+  "wordCount": 496
+}

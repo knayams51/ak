@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar: Row over teachers' exam rages ahead of 'job letter' fair | Hindustan Times",
+  "description": "On November 2, chief minister Nitish Kumar will distribute provisional appointment letters to the newly recruited teachers at a mega function at Patna's Gandhi Maidan",
+  "datePublished": "2023-10-31T15:59:13.000Z",
+  "dateModified": "2023-10-31T15:59:13.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-row-over-teachers-exam-rages-ahead-of-job-letter-fair-hindustan-times-954266"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar",
+    "BPSC",
+    "BJP"
+  ],
+  "wordCount": 755
+}

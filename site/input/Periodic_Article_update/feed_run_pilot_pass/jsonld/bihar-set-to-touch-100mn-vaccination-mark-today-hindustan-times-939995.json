@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar set to touch 100mn vaccination mark today | Hindustan Times",
+  "description": "PATNA: Even as the government is gearing up to tackle the looming threat of a third wave and the new Omicron variant, the state is set to touch the 100 million mark in vaccination against Covid-19, said health officials",
+  "datePublished": "2021-12-30T16:15:39.000Z",
+  "dateModified": "2021-12-30T16:15:39.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-set-to-touch-100mn-vaccination-mark-today-hindustan-times-939995"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 549
+}

@@ -1,0 +1,51 @@
+{
+  "id": "e068f40b365c51fd",
+  "slug": "dry-bihar-records-highest-indian-made-foreign-liquor-recovery-in-august-hindusta-5c51fd",
+  "title": "Dry Bihar records highest Indian made foreign liquor recovery in August | Hindustan Times",
+  "summary": "In April this year, 1,281 persons were sent to jail under Bihar's amended excise law. It was the first month after total prohibition was enforced in the state (on April 5) by the Nitish Kumar government.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2016-08-30T09:25:04.000Z",
+  "modified_at": "2016-08-30T09:25:04.000Z",
+  "word_count": 540,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "judiciary-law-patna-high-court",
+    "slug": "judiciary-law-patna-high-court",
+    "title": "Judiciary, Law & Patna High Court"
+  },
+  "subtopic": {
+    "id": "prohibition-seizure-jurisprudence",
+    "slug": "prohibition-seizure-jurisprudence",
+    "title": "Prohibition & Law Enforcement Rulings"
+  },
+  "tags": [
+    "Nitish Kumar"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/dry-bihar-records-highest-indian-made-foreign-liquor-recovery-in-august/story-TLzub1nuBTj1gzoputSy8H.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/dry-bihar-records-highest-indian-made-foreign-liquor-recovery-in-august/story-TLzub1nuBTj1gzoputSy8H.html",
+      "original_article_id": "e068f40b365c51fd",
+      "published_at": "2016-08-30T09:25:04.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/dry-bihar-records-highest-indian-made-foreign-liquor-recovery-in-august/story-TLzub1nuBTj1gzoputSy8H.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "52e39397ef563dfb2ccb8afe73b2a0d0c92155cefaa1af53335d00fced02fa0c",
+      "last_verified_at": "2026-08-29T11:29:47.110Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

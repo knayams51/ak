@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Dry Bihar risks lives for its daily fix | India News",
+  "description": "The death of four people in the state's Rohtas district on Saturday after drinking illicit alcohol highlights the challenge the Nitish Kumar government faces in stemming the flow of liquor. | India News",
+  "datePublished": "2017-10-31T02:04:46.000Z",
+  "dateModified": "2017-10-31T04:05:35.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/dry-bihar-risks-lives-for-its-daily-fix-india-news-7465fa"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "Patna High Court",
+    "BJP"
+  ],
+  "wordCount": 1261
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "George Yeo to take over as Nalanda Chancellor | India News",
+  "description": "Former foreign minister of Singapore, George Yeo has been made the new Chancellor of Nalanda University. He succeeds the first chancellor, Nobel laureate Prof Amartya Sen. | India News",
+  "datePublished": "2015-05-30T12:56:28.000Z",
+  "dateModified": "2015-05-30T13:09:56.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/george-yeo-to-take-over-as-nalanda-chancellor-india-news-100425"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 398
+}

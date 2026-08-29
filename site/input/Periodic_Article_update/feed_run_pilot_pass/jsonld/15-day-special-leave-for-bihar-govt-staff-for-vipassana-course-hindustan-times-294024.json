@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "15-day special leave for Bihar govt staff for Vipassana course | Hindustan Times",
+  "description": "The special leave will be granted to employees joining the residential meditation programme from outside Patna and only upon confirmation of their registration.",
+  "datePublished": "2021-10-29T16:34:53.000Z",
+  "dateModified": "2021-10-29T16:34:53.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/15-day-special-leave-for-bihar-govt-staff-for-vipassana-course-hindustan-times-294024"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 232
+}

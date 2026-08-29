@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "In Bihar, V-Cs issued show cause notices for skipping bureaucrat's meeting | Hindustan Times",
+  "description": "The meeting notice from Bihar's Raj Bhavan was sent hours after the education department criticised top university officials for skipping a meeting",
+  "datePublished": "2024-02-29T12:33:11.000Z",
+  "dateModified": "2024-02-29T12:33:11.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/in-bihar-v-cs-issued-show-cause-notices-for-skipping-bureaucrats-meeting-hindust-991770"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Chanakya National Law University"
+  ],
+  "wordCount": 601
+}

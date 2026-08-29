@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Proxy attendance for mid-day meal funds: Headmasters' salary to be deducted to recover penalty of ₹8 crore | Hindustan Times",
+  "description": "The government has ordered the recovery of a Rs8.68-crore penalty from HMs. Of which, ₹4.21-crore (48%) has been recovered. More than 1,000 HMs have allegedly fudged the data since 2013, when the idea of penalty was first mooted by the state education department.",
+  "datePublished": "2018-12-29T08:58:40.000Z",
+  "dateModified": "2018-12-29T08:58:40.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/proxy-attendance-for-mid-day-meal-funds-headmasters-salary-to-be-deducted-to-rec-169278"
+  },
+  "articleSection": "State Administration & Vigilance",
+  "keywords": [
+    "Nitish Kumar",
+    "Patna High Court",
+    "Mid-Day Meal"
+  ],
+  "wordCount": 530
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Season of shifting political loyalties on in Bihar as 2019 Lok Sabha polls near | India News",
+  "description": "With a number of sulking leaders looking for opportunities to change loyalties on all sides, there are ample hints of more churning in the days to come, depending upon individual ambitions and requirements. | India News",
+  "datePublished": "2018-12-31T04:49:41.000Z",
+  "dateModified": "2018-12-31T10:12:02.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/season-of-shifting-political-loyalties-on-in-bihar-as-2019-lok-sabha-polls-near--ee7ac9"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Lalu Prasad",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 597
+}

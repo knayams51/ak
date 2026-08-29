@@ -1,0 +1,52 @@
+{
+  "id": "101767034363747",
+  "slug": "bihar-edu-dept-seeks-clarity-on-ministers-selection-as-asst-prof-india-news-363747",
+  "title": "Bihar edu dept seeks clarity on minister's selection as asst prof | India News",
+  "summary": "Bihar education department seeks clarification on appointing minister Ashok Chaudhary as Assistant Professor due to scrutiny of his PhD degree. | India News",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2025-12-29T23:16:06.000Z",
+  "modified_at": "2025-12-29T23:16:06.000Z",
+  "word_count": 527,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "faculty-recruitment-controversies",
+    "slug": "faculty-recruitment-controversies",
+    "title": "Faculty Recruitment & BPSC Exams"
+  },
+  "tags": [
+    "BSUSC",
+    "Congress"
+  ],
+  "source_url": "https://www.hindustantimes.com/india-news/bihar-edu-dept-seeks-clarity-on-minister-s-selection-as-asst-prof-101767034363747.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india-news/bihar-edu-dept-seeks-clarity-on-minister-s-selection-as-asst-prof-101767034363747.html",
+      "original_article_id": "101767034363747",
+      "published_at": "2025-12-29T23:16:06.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india-news/bihar-edu-dept-seeks-clarity-on-minister-s-selection-as-asst-prof-101767034363747.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "c718c106aaf0c6170fe319558b519bbca0b783e1afaaa35f79be24f2ad23f93c",
+      "last_verified_at": "2026-08-29T11:29:46.995Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

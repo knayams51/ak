@@ -1,0 +1,51 @@
+{
+  "id": "101680282865225",
+  "slug": "governor-calls-vcs-meet-on-april-3-vests-financial-power-in-acting-registrars-hi-865225",
+  "title": "Governor calls VCs meet on April 3, vests financial power in acting registrars | Hindustan Times",
+  "summary": "This will the first meeting of VCs with the Governor, who is the Chancellor of the state universities.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2023-03-31T17:14:24.000Z",
+  "modified_at": "2023-03-31T17:14:36.000Z",
+  "word_count": 396,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Patna University"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/bihar-governor-calls-meeting-of-vice-chancellors-to-discuss-roadmap-for-higher-education-and-financial-powers-vested-in-acting-registrars-of-8-state-universities-101680282865225.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/bihar-governor-calls-meeting-of-vice-chancellors-to-discuss-roadmap-for-higher-education-and-financial-powers-vested-in-acting-registrars-of-8-state-universities-101680282865225.html",
+      "original_article_id": "101680282865225",
+      "published_at": "2023-03-31T17:14:24.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/bihar-governor-calls-meeting-of-vice-chancellors-to-discuss-roadmap-for-higher-education-and-financial-powers-vested-in-acting-registrars-of-8-state-universities-101680282865225.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "2f71df63fe7dd93ef8faa8cab0afd9d5d40cd6301a383be3a646372dd25ae555",
+      "last_verified_at": "2026-08-29T11:29:47.030Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

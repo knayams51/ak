@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar: Governor calls university vice chancellors meet on April 3 | Hindustan Times",
+  "description": "The move is necessitated due to the start of the financial year 2023-24 in which the universities will receive a budgetary allocation for payment of salary, pension and other requirements. In the state budget for fiscal 2023-24 with a total outlay of about ₹2.62 lakh crore, the highest allocation is for education with a total outlay of ₹40,450 crore",
+  "datePublished": "2023-03-31T07:59:22.000Z",
+  "dateModified": "2023-03-31T07:59:31.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-governor-calls-university-vice-chancellors-meet-on-april-3-hindustan-times-563322"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna High Court"
+  ],
+  "wordCount": 707
+}

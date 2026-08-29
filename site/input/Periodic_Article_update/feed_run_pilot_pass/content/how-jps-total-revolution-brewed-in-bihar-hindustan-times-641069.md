@@ -1,0 +1,47 @@
+# How JP's 'Total Revolution' brewed in Bihar | Hindustan Times
+
+**Patna** — Sinhasan Khali Karo Ki Janata Aati Hai! When Lok Nayak Jai Prakash Narayan roared with these lines of legendary Hindi poet Ramdhari Singh 'Dinkar' from the stage of Delhi's iconic Ram Leela Maidan, the janata (public) of the country rose with their echo. It however unnerved Prime Minister Indira Gandhi who was facing salvos of public anger. Out of despair, she imposed what historians now recall as the dark chapter in Indian history - the Emergency, declared on June 25, 1975.
+
+It was a paradox that Dinkar, who was revered and exalted to Rashtrakavi (national poet) status by Indira's father, Pt Jawaharlal Nehru, India's first prime minister, for his poetry of rebellion, turned out to be a weapon in the hands of Indira's bete noire.
+
+JP was a political honcho who was moulded in the grind of Bihar. Dinkar was a bard of Bihar. So, the embers of political pirouette in the leadership of JP had to be most glowing in Bihar. The state in fact soon turned into the epicentre of anti-Congress and anti-Indira temblor. JP evolved into a principal of all those clamouring "Total Revolution" - total change of system. Patna university would be its seminary, its students its knights and Bihar its hothouse. And Dinkar's poetry will be its song. Till it was lifted in 1977, many acts of the Emergency unfolded in Bihar.
+
+Early build-up in Bihar
+
+It was on June 5, 1974 that JP gave a call for 'Total Revolution' against the "corrupt Congress regime, price rise and other forms of misgovernance from Patna's historic Gandhi Maidan, and gradually his movement became pan-India, seeking resignation of Indira Gandhi. Indira was enduring but as the Allahabad high Court annulled her election from Rae Bareli, she went draconian. And the country was introduced to the Emergency.
+
+Actually it was an incident in Bihar that is believed to have seeded the idea of Emergency in Indira's mind. It was the assassination of then Union minister Lalit Narayan Mishra that took place in a blast in Samastipur in January 1974.
+
+Once the Emergency was in place, the state turned into a battle ground and both the Indira machinery and the Opposition leaders tested each other's guts. In Bihar, the main action was in Patna, the State Capital, where the proclamation of Emergency suddenly put the onus of compliance of everything on the administration.
+
+Vijay Shankar Dubey, a 1966 batch IAS officer and then district magistrate of Patna, recalls a chain of events that unveils how events shaped the history of that pivotal time. He says the roots of the emergency had been laid long before Indira Gandhi made the big announcement. He lists a number of factors, including the poor financial condition of the country after the 1971 war, rising prices, shortage and black marketing of essential commodities like sugar and kerosene and the students' agitations in various parts of the country.
+
+He says that as soon as students mobilised all over, a large-scale arson and violence broke out. In Patna alone, 13 lives were lost in police firing. In order to rein in chaos and streamline the agitation, JP took over the leadership in his hands.
+
+"It was March 18, 1974 when the. Then Patna University Students' Union (PUSU), comprising the likes of Lalu Prasad Yadav as president, Sushil Kumar Modi as general secretary and many others, announced to gherao the Bihar Assembly during the session, seeking resignation of CM Abdul Ghafoor and his cabinet over price rise and corruption. It led to stone pelting and violence. Many important buildings were set on fire, including the Searchlight and Pradeep newspaper office on Buddha Marg, which now houses Hindustan Times and Hindustan, Kotwali police station, Assembly secretary's house, Circuit House, education minister's residence, fire station, etc. Had I not ordered firing, things would have spiralled out of control and the entire city would have burnt," he recalls.
+
+Students' agitation
+
+Dubey's tenure as DM of Patna was from March 1974 to June 1977. He was witness to all - from student agitation, large-scale arrests, imposition of myriad kinds of restrictions, suspension of fundamental rights and all other "excesses" that define the Emergency era.
+
+He recollected that JP was in Patna those days after having witnessed another students' movement in Gujarat,and saw in it an opportunity to take it forward under his leadership in a different way. "On April 2, 1974, he led a silent procession from Kadamkuan in Patna with barely around 500-600 persons -- all with hands and mouth cuffed, against police action, price rise and for seeking resignation of CM and his cabinet, etc. but swelled into 50,000 plus by the time it reached the then Bailey Road. It further boosted JP's confidence that the people were desperate for change. CM Ghafoor was, however, not ready to resign nor did Indira Gandhi want an elected government to go under pressure," he reminisces.
+
+However, he said that April 2, 1974 onwards, agitation in Bihar became a routine affair and spread across the state. "Be it rendition of poems, speeches on the roadside, pamphlet distribution or dharna, something or the other was always on, with youth and students always at the top of JP's scheme of things.
+
+JP appealed to the people to send postcards and inland letters voicing their opinions on the government and with widely guessed 50-lakh of them loaded on a truck marched towards the Raj Bhawan on June 5, 1974 to submit it and later hundreds of thousands people gathered at the Gandhi Maidan, where he gave the call for Total Revolution and shifted his target from Bihar government to Central government for systemic change to end corruption, political and administrative reforms, right to recall and eradication of the caste system. As the long procession moved, there was firing at the tail end at a point on Bailey Road allegedly by activists of an organisation called Indira Brigade, but it was soon controlled and the accused were arrested," he says.
+
+On November 4, 1974, JP again took the agitation route, under which the activists were to gherao Assembly and force ministers and MLAs to resign, though the administration did not allow the procession to swell by dispersing them through use of "mild force", Dubey says, adding that he contemplates writing a book reflecting the exact turn of events during his eventful tenure as Patna DM when the country witnessed the biggest political churning.
+
+"The procession was stopped near Revenue Building with barricades. There was also lathicharge there, in which it was alleged that JP was also hit and a picture went viral, but it was wrong. I still have two medical reports - one from JP's family doctor - indicating that he was not injured in lathicharge, though some other leaders did receive some blows. When some people later asked JP if he was hit that day, the socialist leader said that the question was not about being hit, but the larger question was why there was lathicharge. I will elaborate this in my upcoming book why there was lathicharge that day," Dubey says, adding that after November 4, 1974, JP shifted his focus entirely on Delhi to seek the ouster of Indira Gandhi, as the discontent had spread across the country by then.
+
+Roar from Delhi and Sudden Enforcement
+
+"I was around 35 kms away from Patna camping in Masaurhi in connection with some land settlement issue for the landless. Those days, the only means of communication was landline phone or wireless system available to senior officials. As the Emergency was imposed at midnight, I had no idea immediately. Next morning, my then PA sent a messenger to inform me about it so that I could immediately return. I reached the next morning to understand that emergency had been imposed under Article 352 and the Maintenance of Internal Security Act, 1971 and the British era Defence of India Rules had been invoked, which gave powers to the administration to detain any person/persons for up to two years without FIR or trial if there was convincing evidence against them about indulgence in unlawful activities, participating in agitation or violence," he said.
+
+The Allahabad High Court's June 12, 1975 verdict setting aside the election of Indira Gandhi as MP, even though she was given 15 days time to move the Supreme Court, gave further fillip to the movement against her and when the Apex Court also upheld the order on June 24, 1974, refusing to interfere with the HC order, JP pressed the peddle to seek her resignation, as she would have remained the PM for six months even without being a member of either House.
+
+On June 25, 1975 in his historic speech at Delhi's Ramleela Maidan, he exhorted the police and government officials not to obey illegal and immoral orders, which became another trigger for Indira Gandhi, who was already grappling with the surcharged atmosphere.
+
+And from Ram Leela Maidan, JP roared with Dinkar's 'Sinhasan Khali Karo…' The throne shook. But it was not vacated until 1977 when janata voted out its occupant.
+
+Arun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues.

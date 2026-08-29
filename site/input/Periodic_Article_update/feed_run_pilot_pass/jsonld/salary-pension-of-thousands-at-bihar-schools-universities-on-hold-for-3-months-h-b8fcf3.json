@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Salary, pension of thousands at Bihar schools, universities on hold for 3 months | Hindustan Times",
+  "description": "Officials in the department of education admitted to the delay in payment of salary, but said that efforts were on to resolve the matter.",
+  "datePublished": "2019-06-10T08:30:59.000Z",
+  "dateModified": "2019-06-10T08:30:59.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/salary-pension-of-thousands-at-bihar-schools-universities-on-hold-for-3-months-h-b8fcf3"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna High Court"
+  ],
+  "wordCount": 749
+}

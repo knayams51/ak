@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Back dated retirement of principals: Chancellor seeks report from Bihar VCs | Hindustan Times",
+  "description": "A letter from Brajesh Mehrotra, principal secretary to the chancellor, asked VCs to show.how college principals who attained the age of 62 years between 2012 and 2017, continued to hold the post even after that.",
+  "datePublished": "2017-09-27T13:07:32.000Z",
+  "dateModified": "2017-09-27T13:07:32.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/back-dated-retirement-of-principals-chancellor-seeks-report-from-bihar-vcs-hindu-5a8af7"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 517
+}

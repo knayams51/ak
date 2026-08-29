@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "As Nitish, BJP join hands, poll strategist Prashant Kishor makes quiet exit | India News",
+  "description": "Kishor had been made advisor to CM, in the rank of a cabinet minister, soon after the formation of the GA government in November 2015, 'to give wings to the development of Bihar', through Bihar Vikas Mission.. | India News",
+  "datePublished": "2017-07-31T13:38:19.000Z",
+  "dateModified": "2017-08-01T07:53:05.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/as-nitish-bjp-join-hands-poll-strategist-prashant-kishor-makes-quiet-exit-india--7f142f"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 488
+}

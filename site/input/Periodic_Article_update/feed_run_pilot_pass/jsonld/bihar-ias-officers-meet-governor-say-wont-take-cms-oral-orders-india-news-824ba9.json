@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar IAS officers meet governor, say won't take CM's oral orders | India News",
+  "description": "Administrative machinery in Bihar cut up over action against officers in BSSC question paper leak and boat tragedy, leading to death of 24 persons | India News",
+  "datePublished": "2017-02-27T07:27:21.000Z",
+  "dateModified": "2017-03-23T06:19:54.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-ias-officers-meet-governor-say-wont-take-cms-oral-orders-india-news-824ba9"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 441
+}

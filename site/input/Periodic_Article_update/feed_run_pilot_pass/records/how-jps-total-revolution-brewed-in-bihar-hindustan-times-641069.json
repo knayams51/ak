@@ -1,0 +1,53 @@
+{
+  "id": "101751291641069",
+  "slug": "how-jps-total-revolution-brewed-in-bihar-hindustan-times-641069",
+  "title": "How JP's 'Total Revolution' brewed in Bihar | Hindustan Times",
+  "summary": "Bihar is considered the cradle of political movement that culminated in the imposition of Emergency in India on June 25, 1975.&nbsp;",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2025-06-30T13:54:00.000Z",
+  "modified_at": "2025-06-30T13:54:00.000Z",
+  "word_count": 1530,
+  "reading_time_minutes": 8,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "assembly-cabinet-decisions",
+    "slug": "assembly-cabinet-decisions",
+    "title": "Assembly Proceedings & Cabinet Decisions"
+  },
+  "tags": [
+    "Lalu Prasad",
+    "Patna University",
+    "Congress"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/how-emergency-brewed-in-bihar-101751291641069.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/how-emergency-brewed-in-bihar-101751291641069.html",
+      "original_article_id": "101751291641069",
+      "published_at": "2025-06-30T13:54:00.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/how-emergency-brewed-in-bihar-101751291641069.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "dea12fa9d2eaa6428edf3a34f0ed067cdb0d6b75017782e32ac55eb154846517",
+      "last_verified_at": "2026-08-29T11:29:47.006Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

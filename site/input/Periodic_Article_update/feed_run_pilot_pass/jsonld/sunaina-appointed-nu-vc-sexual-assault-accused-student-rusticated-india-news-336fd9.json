@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Sunaina appointed NU VC; sexual assault accused student rusticated | India News",
+  "description": "President, who is also the visitor of NU, signed the letter appointing Sunaina Singh, at present vice chancellor of the English and Foreign Language University (EFLU), Hyderabad, on Tuesday. | India News",
+  "datePublished": "2017-03-30T05:39:27.000Z",
+  "dateModified": "2017-04-28T09:18:33.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/sunaina-appointed-nu-vc-sexual-assault-accused-student-rusticated-india-news-336fd9"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna University"
+  ],
+  "wordCount": 571
+}

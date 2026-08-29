@@ -1,0 +1,53 @@
+{
+  "id": "7617de0f043d9ed6",
+  "slug": "bihar-polls-oppn-accuses-govt-of-trying-to-brainwash-students-india-news-3d9ed6",
+  "title": "Bihar polls: Oppn accuses govt of trying to 'brainwash' students | India News",
+  "summary": "Opposition parties in poll-bound Bihar have questioned the ruling JD(U) for an alleged \"misuse\" of the state's education network for electoral benefit after a footage of government school teachers \"educating\" students about the \"welfare schemes\" undertaken by the Nitish Kumar government was aired. | India News",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2015-08-28T10:22:08.000Z",
+  "modified_at": "2015-08-31T06:40:14.000Z",
+  "word_count": 678,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "student-affairs-protests",
+    "slug": "student-affairs-protests",
+    "title": "Student Affairs, Exams & Protests"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "source_url": "https://www.hindustantimes.com/india/bihar-polls-oppn-accuses-govt-of-trying-to-brainwash-students/story-QjrbTGDOEqFZGbH74bUpTI.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india/bihar-polls-oppn-accuses-govt-of-trying-to-brainwash-students/story-QjrbTGDOEqFZGbH74bUpTI.html",
+      "original_article_id": "7617de0f043d9ed6",
+      "published_at": "2015-08-28T10:22:08.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india/bihar-polls-oppn-accuses-govt-of-trying-to-brainwash-students/story-QjrbTGDOEqFZGbH74bUpTI.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "9fae4bf8b31a5d00b2993066fa030057cdf314c87759baeeb5fc61912e7ab2c1",
+      "last_verified_at": "2026-08-29T11:29:47.116Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

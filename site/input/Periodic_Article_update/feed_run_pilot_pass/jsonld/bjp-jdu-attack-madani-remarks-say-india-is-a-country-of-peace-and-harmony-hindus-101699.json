@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "BJP, JD(U) attack Madani remarks, say India is a country of peace and harmony | Hindustan Times",
+  "description": "JD(U) spokesman Neeraj Kumar said that Madani's remarks may be useful to find relevance within the organisation, but they would remain totally irrelevant for the country",
+  "datePublished": "2025-11-30T13:08:21.000Z",
+  "dateModified": "2025-11-30T13:08:21.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bjp-jdu-attack-madani-remarks-say-india-is-a-country-of-peace-and-harmony-hindus-101699"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "JD(U)",
+    "BJP",
+    "Chanakya National Law University"
+  ],
+  "wordCount": 501
+}

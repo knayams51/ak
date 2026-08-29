@@ -1,0 +1,54 @@
+{
+  "id": "67162e65406be061",
+  "slug": "fatwa-issued-against-muslim-minister-in-bihar-for-chanting-jai-shri-ram-india-ne-6be061",
+  "title": "'Fatwa' issued against Muslim minister in Bihar for chanting 'Jai Shri Ram' | India News",
+  "summary": "Minister Khurshid alias Firoz Ahmad chanted the slogan outside the Bihar assembly after chief minister Nitish Kumar won the trust vote he faced after breaking ties with the RJD-Congress alliance. | India News",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2017-07-30T10:48:04.000Z",
+  "modified_at": "2017-07-30T11:33:50.000Z",
+  "word_count": 666,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "source_url": "https://www.hindustantimes.com/india-news/fatwa-issued-against-muslim-minister-in-bihar-for-chanting-jai-shri-ram/story-1OQuYhtPhLMtTlZE411VJI.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india-news/fatwa-issued-against-muslim-minister-in-bihar-for-chanting-jai-shri-ram/story-1OQuYhtPhLMtTlZE411VJI.html",
+      "original_article_id": "67162e65406be061",
+      "published_at": "2017-07-30T10:48:04.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india-news/fatwa-issued-against-muslim-minister-in-bihar-for-chanting-jai-shri-ram/story-1OQuYhtPhLMtTlZE411VJI.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "01915756835cd423c6cb4227c2a639aeed9e3af9403b8ff501785322c8e61bf3",
+      "last_verified_at": "2026-08-29T11:29:47.094Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

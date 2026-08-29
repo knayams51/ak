@@ -49,7 +49,7 @@
     },
     "verification": {
       "content_sha256": "9a4735d02001d3a33eb7cf9d70b7fe41174ec743475efa9242894a8f7258619b",
-      "last_verified_at": "2026-08-29T10:18:12.289Z",
+      "last_verified_at": "2026-08-29T11:29:46.880Z",
       "integrity_status": "tamper_proof"
     }
   }

@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "As students protest poor inter results, Nitish promises early compartmental exams | Hindustan Times",
+  "description": "With a pass percentage of just 35, the Bihar school examination board intermediate results, declared on Tuesday, have triggered a series of suicides by examinees who failed the test.",
+  "datePublished": "2017-05-31T15:32:38.000Z",
+  "dateModified": "2017-05-31T15:32:38.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/as-students-protest-poor-inter-results-nitish-promises-early-compartmental-exams-ce9fbf"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 603
+}

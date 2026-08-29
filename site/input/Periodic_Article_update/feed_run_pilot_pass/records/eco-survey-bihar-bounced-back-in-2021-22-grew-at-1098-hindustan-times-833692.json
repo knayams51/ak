@@ -1,0 +1,51 @@
+{
+  "id": "101677517833692",
+  "slug": "eco-survey-bihar-bounced-back-in-2021-22-grew-at-1098-hindustan-times-833692",
+  "title": "Eco Survey: Bihar bounced back in 2021-22, grew at 10.98% | Hindustan Times",
+  "summary": "This was the 17th report of the Bihar Economic Survey, a practice started by the Nitish Kumar government in 2006-07.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2023-02-27T17:10:33.000Z",
+  "modified_at": "2023-02-27T17:10:33.000Z",
+  "word_count": 745,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "assembly-cabinet-decisions",
+    "slug": "assembly-cabinet-decisions",
+    "title": "Assembly Proceedings & Cabinet Decisions"
+  },
+  "tags": [
+    "Nitish Kumar"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/eco-survey-bihar-bounced-back-in-2021-22-grew-at-1098-101677517833692.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/eco-survey-bihar-bounced-back-in-2021-22-grew-at-1098-101677517833692.html",
+      "original_article_id": "101677517833692",
+      "published_at": "2023-02-27T17:10:33.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/eco-survey-bihar-bounced-back-in-2021-22-grew-at-1098-101677517833692.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "6847c3357f8d6b3660167f864b3a835f37a414c9e2deb746c1514e45b9816327",
+      "last_verified_at": "2026-08-29T11:29:47.035Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

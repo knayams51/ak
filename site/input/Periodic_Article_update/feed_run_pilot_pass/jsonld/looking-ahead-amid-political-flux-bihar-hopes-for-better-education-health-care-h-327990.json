@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Looking ahead: Amid political flux, Bihar hopes for better education, health care | Hindustan Times",
+  "description": "Though Bihar's progress over the last 16 years cannot be dismissed - it has far better road connectivity, round-the-clock power supply and significantly higher per capita power consumption and infrastructure growth - but it is mostly in the context of where the state stood prior to 2005.",
+  "datePublished": "2021-12-31T15:08:47.000Z",
+  "dateModified": "2021-12-31T15:08:47.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/looking-ahead-amid-political-flux-bihar-hopes-for-better-education-health-care-h-327990"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Patna High Court",
+    "JD(U)",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 1261
+}

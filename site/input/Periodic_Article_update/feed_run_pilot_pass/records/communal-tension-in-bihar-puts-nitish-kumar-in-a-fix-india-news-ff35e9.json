@@ -1,0 +1,56 @@
+{
+  "id": "3b6655a3b7ff35e9",
+  "slug": "communal-tension-in-bihar-puts-nitish-kumar-in-a-fix-india-news-ff35e9",
+  "title": "Communal tension in Bihar puts Nitish Kumar in a fix | India News",
+  "summary": "The JD(U)'s defeat in the bypolls and a series of post-Ram Navami clashes across Bihar have dented Kumar's \"pro-development\" image in recent times. | India News",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2018-03-30T18:30:26.000Z",
+  "modified_at": "2018-03-30T18:30:55.000Z",
+  "word_count": 397,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "Tejashwi Yadav",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "source_url": "https://www.hindustantimes.com/india-news/communal-tension-in-bihar-puts-nitish-kumar-in-a-fix/story-OoyN6jVpMVmUTmVd1P9VoL.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india-news/communal-tension-in-bihar-puts-nitish-kumar-in-a-fix/story-OoyN6jVpMVmUTmVd1P9VoL.html",
+      "original_article_id": "3b6655a3b7ff35e9",
+      "published_at": "2018-03-30T18:30:26.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india-news/communal-tension-in-bihar-puts-nitish-kumar-in-a-fix/story-OoyN6jVpMVmUTmVd1P9VoL.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "8b948487e1f69b5f0e568bcf4fc554fd66003e05b2f8692e7c8d3b8bcc6bb0d5",
+      "last_verified_at": "2026-08-29T11:29:47.087Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

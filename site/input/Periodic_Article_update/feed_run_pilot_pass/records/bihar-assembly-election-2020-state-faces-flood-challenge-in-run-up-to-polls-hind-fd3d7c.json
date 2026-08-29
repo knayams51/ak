@@ -1,0 +1,53 @@
+{
+  "id": "4159cb4f68fd3d7c",
+  "slug": "bihar-assembly-election-2020-state-faces-flood-challenge-in-run-up-to-polls-hind-fd3d7c",
+  "title": "Bihar Assembly Election 2020: State faces flood challenge in run-up to polls | Hindustan Times",
+  "summary": "Several rivers are flowing above or around the danger mark, as per the data of the state government's water resources department",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2020-09-30T11:03:29.000Z",
+  "modified_at": "2020-09-30T11:03:29.000Z",
+  "word_count": 488,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "social-issues-health-culture",
+    "slug": "social-issues-health-culture",
+    "title": "Social Issues, Health & Heritage"
+  },
+  "subtopic": {
+    "id": "floods-disaster-management",
+    "slug": "floods-disaster-management",
+    "title": "Floods & Disaster Management"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/bihar-election/bihar-assembly-election-2020-state-faces-flood-challenge-in-run-up-to-polls/story-Z64wZAOJUSFSmZXjSKSyxH.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/bihar-election/bihar-assembly-election-2020-state-faces-flood-challenge-in-run-up-to-polls/story-Z64wZAOJUSFSmZXjSKSyxH.html",
+      "original_article_id": "4159cb4f68fd3d7c",
+      "published_at": "2020-09-30T11:03:29.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/bihar-election/bihar-assembly-election-2020-state-faces-flood-challenge-in-run-up-to-polls/story-Z64wZAOJUSFSmZXjSKSyxH.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "66dfb7f27be43ad3baf6f7bddb5098eb372d25838f93b9c40ece880865f7138d",
+      "last_verified_at": "2026-08-29T11:29:47.074Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

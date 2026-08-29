@@ -1,0 +1,54 @@
+{
+  "id": "101619691762740",
+  "slug": "bihar-oxygen-crisis-hospitals-lack-cryogenic-tanks-not-enough-tankers-to-lift-ce-762740",
+  "title": "Bihar oxygen crisis: Hospitals lack cryogenic tanks, not enough tankers to lift Central allotment | Hindustan Times",
+  "summary": "Even old and big hospitals like PMCH, IGIMS and the state's first dedicated Covid-19 hospital NMCH don't have the facility.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2021-04-29T10:22:42.000Z",
+  "modified_at": "2021-04-29T10:22:42.000Z",
+  "word_count": 463,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "social-issues-health-culture",
+    "slug": "social-issues-health-culture",
+    "title": "Social Issues, Health & Heritage"
+  },
+  "subtopic": {
+    "id": "public-health-hospitals",
+    "slug": "public-health-hospitals",
+    "title": "Public Health & Hospital Infrastructure"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "Patna High Court",
+    "PMCH",
+    "NMCH"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/bihar-oxygen-crisis-hospitals-lack-cryogenic-tanks-not-enough-tankers-to-lift-central-allotment-101619691762740.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/bihar-oxygen-crisis-hospitals-lack-cryogenic-tanks-not-enough-tankers-to-lift-central-allotment-101619691762740.html",
+      "original_article_id": "101619691762740",
+      "published_at": "2021-04-29T10:22:42.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/bihar-oxygen-crisis-hospitals-lack-cryogenic-tanks-not-enough-tankers-to-lift-central-allotment-101619691762740.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "a0ad85a506eedc69360fa9518f8735beb94e2c22dba13cb6127e652d6a1f5815",
+      "last_verified_at": "2026-08-29T11:29:47.068Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Eco Survey: Bihar bounced back in 2021-22, grew at 10.98% | Hindustan Times",
+  "description": "This was the 17th report of the Bihar Economic Survey, a practice started by the Nitish Kumar government in 2006-07.",
+  "datePublished": "2023-02-27T17:10:33.000Z",
+  "dateModified": "2023-02-27T17:10:33.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/eco-survey-bihar-bounced-back-in-2021-22-grew-at-1098-hindustan-times-833692"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 745
+}

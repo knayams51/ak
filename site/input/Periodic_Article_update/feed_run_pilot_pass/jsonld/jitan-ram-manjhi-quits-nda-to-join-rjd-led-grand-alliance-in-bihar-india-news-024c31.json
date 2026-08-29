@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Jitan Ram Manjhi quits NDA, to join RJD-led Grand Alliance in Bihar | India News",
+  "description": "The Grand Alliance in Bihar now comprises the RJD, Congress and HAM-S and also has a strong backing of the Janata Dal(United) faction led by Sharad Yadav. | India News",
+  "datePublished": "2018-02-28T08:14:29.000Z",
+  "dateModified": "2018-02-28T08:23:41.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/jitan-ram-manjhi-quits-nda-to-join-rjd-led-grand-alliance-in-bihar-india-news-024c31"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Lalu Prasad",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 633
+}

@@ -1,0 +1,53 @@
+{
+  "id": "1108a4c7e740c9aa",
+  "slug": "accused-of-sexual-harassment-nalanda-university-student-suspended-india-news-40c9aa",
+  "title": "Accused of sexual harassment, Nalanda University student suspended | India News",
+  "summary": "Upon approval from NU chancellor Dr Vijay Bhatkar, the accused student was put under suspension, confirmed NU communications director Smita Polite. | India News",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2017-03-29T16:15:06.000Z",
+  "modified_at": "2017-03-29T17:07:34.000Z",
+  "word_count": 326,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/india-news/accused-of-sexual-harassment-nalanda-university-student-suspended/story-Hjt4kq32IPNQoRFSf2bObJ.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india-news/accused-of-sexual-harassment-nalanda-university-student-suspended/story-Hjt4kq32IPNQoRFSf2bObJ.html",
+      "original_article_id": "1108a4c7e740c9aa",
+      "published_at": "2017-03-29T16:15:06.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india-news/accused-of-sexual-harassment-nalanda-university-student-suspended/story-Hjt4kq32IPNQoRFSf2bObJ.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "87e6a644fa323d184052a4f34fd3e4c23890f52d9f23cd2856344fc06d45ef66",
+      "last_verified_at": "2026-08-29T11:29:47.104Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

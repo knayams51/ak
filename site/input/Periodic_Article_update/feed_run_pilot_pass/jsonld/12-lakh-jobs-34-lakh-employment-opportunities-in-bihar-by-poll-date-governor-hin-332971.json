@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "12 lakh jobs, 34 lakh employment opportunities in Bihar by poll date: Governor | Hindustan Times",
+  "description": "During the Budget session, Bihar Governor Arif Mohammad Khan praised the state's Seven Resolves programme for its commitment to development and job creation.&nbsp;",
+  "datePublished": "2025-02-28T10:06:21.000Z",
+  "dateModified": "2025-02-28T10:06:35.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/12-lakh-jobs-34-lakh-employment-opportunities-in-bihar-by-poll-date-governor-hin-332971"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 471
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Teachers in 'dry' Bihar protest order to tip off govt on tipplers | Hindustan Times",
+  "description": "Opposition also up in arms, RJD says it could endanger the lives of teachers by bringing them in direct conflict with powerful \"liquor mafia\".",
+  "datePublished": "2022-01-29T16:14:08.000Z",
+  "dateModified": "2022-01-29T16:14:08.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/teachers-in-dry-bihar-protest-order-to-tip-off-govt-on-tipplers-hindustan-times-848496"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "RJD",
+    "Congress",
+    "Mid-Day Meal"
+  ],
+  "wordCount": 499
+}

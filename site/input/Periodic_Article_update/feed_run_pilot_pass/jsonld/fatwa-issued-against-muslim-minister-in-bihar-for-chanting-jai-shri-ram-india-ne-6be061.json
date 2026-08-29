@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "'Fatwa' issued against Muslim minister in Bihar for chanting 'Jai Shri Ram' | India News",
+  "description": "Minister Khurshid alias Firoz Ahmad chanted the slogan outside the Bihar assembly after chief minister Nitish Kumar won the trust vote he faced after breaking ties with the RJD-Congress alliance. | India News",
+  "datePublished": "2017-07-30T10:48:04.000Z",
+  "dateModified": "2017-07-30T11:33:50.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/fatwa-issued-against-muslim-minister-in-bihar-for-chanting-jai-shri-ram-india-ne-6be061"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 666
+}

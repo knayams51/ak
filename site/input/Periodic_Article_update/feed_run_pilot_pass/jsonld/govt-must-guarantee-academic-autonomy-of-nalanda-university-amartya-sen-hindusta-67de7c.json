@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Govt must guarantee academic autonomy of Nalanda University: Amartya Sen | Hindustan Times",
+  "description": "Chancellor of Nalanda University, Prof Amartya Sen, has withdrawn his candidature for a second term as head of the transnational Nalanda University in Bihar citing political interference. Here he speaks to ARUN KUMAR in an exclusive interview about the need to restrain political interference and greater academic autonomy. He has also cleared the mist over university spendings",
+  "datePublished": "2015-02-27T17:28:44.000Z",
+  "dateModified": "2015-02-28T16:58:19.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/govt-must-guarantee-academic-autonomy-of-nalanda-university-amartya-sen-hindusta-67de7c"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 621
+}

@@ -1,0 +1,53 @@
+{
+  "id": "4a3aaf0ae35a8af7",
+  "slug": "back-dated-retirement-of-principals-chancellor-seeks-report-from-bihar-vcs-hindu-5a8af7",
+  "title": "Back dated retirement of principals: Chancellor seeks report from Bihar VCs | Hindustan Times",
+  "summary": "A letter from Brajesh Mehrotra, principal secretary to the chancellor, asked VCs to show.how college principals who attained the age of 62 years between 2012 and 2017, continued to hold the post even after that.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2017-09-27T13:07:32.000Z",
+  "modified_at": "2017-09-27T13:07:32.000Z",
+  "word_count": 517,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/back-dated-retirement-of-principals-chancellor-seeks-report-from-bihar-vcs/story-p1kyWZUmBp7Pp5vpvZG9cJ.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/back-dated-retirement-of-principals-chancellor-seeks-report-from-bihar-vcs/story-p1kyWZUmBp7Pp5vpvZG9cJ.html",
+      "original_article_id": "4a3aaf0ae35a8af7",
+      "published_at": "2017-09-27T13:07:32.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/back-dated-retirement-of-principals-chancellor-seeks-report-from-bihar-vcs/story-p1kyWZUmBp7Pp5vpvZG9cJ.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "46c1dfedd8bd8c233464c3d40e1df0081645b0d568e011b95e30bb09ef2db1ca",
+      "last_verified_at": "2026-08-29T11:29:47.092Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}
