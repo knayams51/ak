@@ -1,0 +1,99 @@
+{
+  "package_name": "feed_run_pilot_pass",
+  "generated_at": "2026-08-29T09:56:16.412Z",
+  "article_count": 15,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101787967847961",
+      "slug": "no-student-will-fail-in-class-10-12-bihar-govt-to-replace-it-with-eligible-for-s-847961",
+      "title": "No student will 'fail' in Class 10, 12: Bihar govt to replace it with 'Eligible for Skill Training' | Hindustan Times",
+      "sha256": "f20b2d56aaa21af6fbefae8b88350fd4759131e76dc0decbaa71d7309c455e3e"
+    },
+    {
+      "id": "101787967847961",
+      "slug": "no-student-will-fail-in-class-10-12-bihar-govt-to-replace-it-with-eligible-for-s-847961",
+      "title": "No student will 'fail' in Class 10, 12: Bihar govt to replace it with 'Eligible for Skill Training' | Hindustan Times",
+      "sha256": "f20b2d56aaa21af6fbefae8b88350fd4759131e76dc0decbaa71d7309c455e3e"
+    },
+    {
+      "id": "101783258616987",
+      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
+      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20 | Hindustan Times",
+      "sha256": "989ef7aebc126c31ec31a9bd0635a8888cedd57499ba8923ac0c516370d5dc5c"
+    },
+    {
+      "id": "101783252796953",
+      "slug": "pk-to-contest-bankipur-bypoll-hindustan-times-796953",
+      "title": "PK to contest Bankipur bypoll | Hindustan Times",
+      "sha256": "864667e9f5b3cac868fd1efafbebb7ebaa818c6c506e4df09f70e2dbe67670d5"
+    },
+    {
+      "id": "101782994766682",
+      "slug": "crucial-bankipur-bypoll-on-july-30-to-be-test-for-bjp-chief-nabin-bihar-cm-samra-766682",
+      "title": "Crucial Bankipur bypoll on July 30; to be test for BJP chief Nabin, Bihar CM Samrat on BJP home turf | Hindustan Times",
+      "sha256": "70972b05d6cefff340a0a737d3c096061a7d11c455554b45635345ff73a54fd0"
+    },
+    {
+      "id": "101782993768269",
+      "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
+      "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool | Hindustan Times",
+      "sha256": "4a67d9d8817308a68cfa912fe2f831b84e5b1d91e4dd84631b7ffa8986661492"
+    },
+    {
+      "id": "101782925219628",
+      "slug": "sc-judge-inaugurates-interdisciplinary-research-unit-at-cnlu-hindustan-times-219628",
+      "title": "SC judge inaugurates interdisciplinary research unit at CNLU | Hindustan Times",
+      "sha256": "7f1d4cf5847b9856ee065b6b52acb4efeb301e78a3188ef5b24356fd40ea7639"
+    },
+    {
+      "id": "101782908532126",
+      "slug": "bihar-misses-july-1-deadline-for-211-new-colleges-hindustan-times-532126",
+      "title": "Bihar misses July 1 deadline for 211 new colleges | Hindustan Times",
+      "sha256": "d3412342de6a4ca20787d457a3f81018a381bed8b895cd02169db5edf781655f"
+    },
+    {
+      "id": "101782837931525",
+      "slug": "bihar-starts-training-for-state-officials-at-istm-to-tone-up-administration-hind-931525",
+      "title": "Bihar starts training for state officials at ISTM to tone up administration | Hindustan Times",
+      "sha256": "43c8a21f839f62185d514536ed12896a5bef14dc500a3fa24af6365289ee3994"
+    },
+    {
+      "id": "101782820943518",
+      "slug": "rjd-mp-accuses-bihar-polices-svu-of-shielding-8-ias-officers-in-multi-crore-tend-943518",
+      "title": "RJD MP accuses Bihar Police's SVU of shielding 8 IAS officers in multi-crore tender fraud | Hindustan Times",
+      "sha256": "4d551790a26e3c4e71c75c17c9fb4fe0d459c5429c3c79785959fe83e0b6cc83"
+    },
+    {
+      "id": "101782653547429",
+      "slug": "pm-lauds-nalanda-universitys-initiative-to-protect-ancient-tradition-in-line-wit-547429",
+      "title": "PM lauds Nalanda University's initiative to protect ancient tradition in line with tech era | Hindustan Times",
+      "sha256": "13841204a0d058be7baf8f9149a93aa5e7d90b189350bd9e799377f7752a1d45"
+    },
+    {
+      "id": "101782475948097",
+      "slug": "bihar-to-have-new-act-to-govern-state-varsities-hindustan-times-948097",
+      "title": "Bihar to have new Act to govern state varsities | Hindustan Times",
+      "sha256": "6397776ea4d012d2784ba7aa6a31c714f6ba89377d8ccc9e0b89dc5715cde288"
+    },
+    {
+      "id": "101782470726381",
+      "slug": "patna-hc-criticises-autocratic-action-of-state-on-decades-old-land-ownership-hin-726381",
+      "title": "Patna HC criticises 'autocratic action' of state on decades old land ownership | Hindustan Times",
+      "sha256": "4d24a7df2dbeb28ad55baeec96b656e4bc17e98a5619afacf42a41b2a22c00dc"
+    },
+    {
+      "id": "101782236499301",
+      "slug": "teachers-shortage-prompts-bihar-govt-to-widen-hiring-ambit-for-degree-colleges-h-499301",
+      "title": "Teachers' shortage prompts Bihar govt to widen hiring ambit for degree colleges | Hindustan Times",
+      "sha256": "1562b674db97c3db161c3611f54270b593fc42b2371876f65526cc2ac858a431"
+    },
+    {
+      "id": "101782150373572",
+      "slug": "jdu-wont-disintegrate-like-tmc-ubt-sanjay-jha-hindustan-times-373572",
+      "title": "JD(U) won't disintegrate like TMC, UBT: Sanjay Jha | Hindustan Times",
+      "sha256": "000a63953afe473f31cc9c4a1168353e8167a6e7074788da1ca20ed24e68021b"
+    }
+  ]
+}

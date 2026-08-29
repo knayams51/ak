@@ -61,8 +61,8 @@ module.exports = {
 
   // Discovery seed endpoints
   seeds: {
-    author_page: "https://www.hindustantimes.com/authors/arun-kumar",
-    author_page_paged: "https://www.hindustantimes.com/authors/arun-kumar/page-",
+    author_page: "https://www.hindustantimes.com/author/arun-kumar-101608310583746",
+    author_page_paged: "https://www.hindustantimes.com/author/arun-kumar-101608310583746/page-",
     section_patna: "https://www.hindustantimes.com/cities/patna-news",
     section_education: "https://www.hindustantimes.com/education",
     wayback_cdx_api: "https://web.archive.org/cdx/search/cdx?url=hindustantimes.com/*&matchType=prefix&filter=statuscode:200&output=json&collapse=urlkey"

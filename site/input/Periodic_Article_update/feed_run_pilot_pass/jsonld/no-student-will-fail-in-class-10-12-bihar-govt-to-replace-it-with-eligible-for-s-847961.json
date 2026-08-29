@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "No student will 'fail' in Class 10, 12: Bihar govt to replace it with 'Eligible for Skill Training' | Hindustan Times",
+  "description": "Bihar will replace 'Fail' on Class 10 and 12 marksheets with 'Eligible for Skill Training', allowing students to pursue vocational training",
+  "datePublished": "2026-08-29T02:13:07.000Z",
+  "dateModified": "2026-08-29T02:13:07.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/no-student-will-fail-in-class-10-12-bihar-govt-to-replace-it-with-eligible-for-s-847961"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 296
+}

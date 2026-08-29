@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Teachers' shortage prompts Bihar govt to widen hiring ambit for degree colleges | Hindustan Times",
+  "description": "Education department secretary Rajiv Raushan wrote to all the district education officers (DEOs) for details of eligible Class 9-10 school teachers after verification for deputation in degree colleges. Earlier, it was only for Class 11-12.",
+  "datePublished": "2026-06-23T21:44:09.000Z",
+  "dateModified": "2026-06-23T21:44:09.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/teachers-shortage-prompts-bihar-govt-to-widen-hiring-ambit-for-degree-colleges-h-499301"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 646
+}

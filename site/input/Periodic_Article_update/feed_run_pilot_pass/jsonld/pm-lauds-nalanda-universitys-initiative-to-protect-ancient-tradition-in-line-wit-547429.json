@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "PM lauds Nalanda University's initiative to protect ancient tradition in line with tech era | Hindustan Times",
+  "description": "Prime Minister remarked that Nalanda's knowledge tradition, which flourished thousands of years ago, is once again guiding India's future in a renewed form",
+  "datePublished": "2026-06-28T13:32:26.000Z",
+  "dateModified": "2026-06-28T13:32:27.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/pm-lauds-nalanda-universitys-initiative-to-protect-ancient-tradition-in-line-wit-547429"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 480
+}

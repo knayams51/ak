@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "PK to contest Bankipur bypoll | Hindustan Times",
+  "description": "Jan Suraaj Party announced Prashant Kishor as its candidate for Bankipur bypoll on July 30, aiming for political change in Bihar post-2025 elections.",
+  "datePublished": "2026-07-05T11:59:56.000Z",
+  "dateModified": "2026-07-05T11:59:57.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/pk-to-contest-bankipur-bypoll-hindustan-times-796953"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 861
+}

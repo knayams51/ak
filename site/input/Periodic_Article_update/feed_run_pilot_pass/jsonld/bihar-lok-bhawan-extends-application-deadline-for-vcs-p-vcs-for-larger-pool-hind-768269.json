@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool | Hindustan Times",
+  "description": "Bihar Governor's secretariat extends application deadline for vice chancellors and pro-vice chancellors to July 21, aiming for significant reforms in higher education.",
+  "datePublished": "2026-07-02T12:02:47.000Z",
+  "dateModified": "2026-07-02T12:02:49.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 493
+}

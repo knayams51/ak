@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "JD(U) won't disintegrate like TMC, UBT: Sanjay Jha | Hindustan Times",
+  "description": "Jha said that at the National Council meeting on Sunday, Nitish Kumar himself indicated that he would devote more time to the organisation to ensure even better performance in the future and facilitate a smooth generational transition.",
+  "datePublished": "2026-06-22T21:32:08.000Z",
+  "dateModified": "2026-06-22T21:32:08.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/jdu-wont-disintegrate-like-tmc-ubt-sanjay-jha-hindustan-times-373572"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 605
+}
