@@ -1,0 +1,53 @@
+{
+  "id": "06ca21e2510dd3ef",
+  "slug": "fir-against-magadh-university-vice-chancellor-for-corruption-hindustan-times-0dd3ef",
+  "title": "FIR against Magadh University Vice Chancellor for corruption | Hindustan Times",
+  "summary": "Acting on the directives of the Human Resource Development Department, the Regional Deputy Director, Magadh Division, on Saturday, lodged an FIR against Magadh University Vice Chancellor BN Pandey and others under various sections of Prevention of Corruption Act, reports Arun Kumar.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2009-08-29T15:15:56.000Z",
+  "modified_at": "2009-08-29T15:23:23.000Z",
+  "word_count": 506,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/fir-against-magadh-university-vice-chancellor-for-corruption/story-2CtEqrOME7mH3aYI99WetJ.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/fir-against-magadh-university-vice-chancellor-for-corruption/story-2CtEqrOME7mH3aYI99WetJ.html",
+      "original_article_id": "06ca21e2510dd3ef",
+      "published_at": "2009-08-29T15:15:56.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/fir-against-magadh-university-vice-chancellor-for-corruption/story-2CtEqrOME7mH3aYI99WetJ.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "b05c7e6d37169d119f13236bcfe50f7b912163444f782b6cc5f4ca23fce22a4f",
+      "last_verified_at": "2026-08-29T12:46:16.551Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

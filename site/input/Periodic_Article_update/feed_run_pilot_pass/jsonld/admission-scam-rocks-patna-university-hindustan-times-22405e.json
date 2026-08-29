@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Admission scam rocks Patna University | Hindustan Times",
+  "description": "In a major development, Patna University suspended former Coordinator of the Department of BBA PC Verma and replaced prof-in-charge of Patna College Ran Bijay Kumar for serious lapses in the admission process.",
+  "datePublished": "2008-11-22T14:56:22.000Z",
+  "dateModified": "2008-11-22T15:04:36.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/admission-scam-rocks-patna-university-hindustan-times-22405e"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna University"
+  ],
+  "wordCount": 386
+}

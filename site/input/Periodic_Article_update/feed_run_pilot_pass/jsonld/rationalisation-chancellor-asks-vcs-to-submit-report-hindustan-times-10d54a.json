@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Rationalisation: Chancellor asks VCs to submit report | Hindustan Times",
+  "description": "Governor-cum-Chancellor of universities Devanand Konwar on Tuesday asked all vice chancellors to submit detailed reports ratified by the respective statutory bodies to the government and himself on the practical problems they faced in implementing rationalisation.",
+  "datePublished": "2012-10-31T09:34:23.000Z",
+  "dateModified": "2012-10-31T09:35:32.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/rationalisation-chancellor-asks-vcs-to-submit-report-hindustan-times-10d54a"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 206
+}

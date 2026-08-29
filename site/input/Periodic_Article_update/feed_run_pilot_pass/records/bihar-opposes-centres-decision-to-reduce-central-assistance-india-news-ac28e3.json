@@ -1,0 +1,53 @@
+{
+  "id": "a11b5a9bd7ac28e3",
+  "slug": "bihar-opposes-centres-decision-to-reduce-central-assistance-india-news-ac28e3",
+  "title": "Bihar opposes centre's decision to reduce central assistance | India News",
+  "summary": "The Centre's move to reduce assistance under the Sarva Shiksha Abhiyaan (SSA) from the existing 75 per cent to 50 per cent will deal a serious blow to the ongoing teachers' recruitment drive in the State, reports Arun Kumar. | India News",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2007-04-26T14:12:52.000Z",
+  "modified_at": "2007-04-26T14:15:09.000Z",
+  "word_count": 494,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "faculty-recruitment-controversies",
+    "slug": "faculty-recruitment-controversies",
+    "title": "Faculty Recruitment & BPSC Exams"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/india/bihar-opposes-centre-s-decision-to-reduce-central-assistance/story-aGAFYx7zwEOsiZx0BbuwML.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india/bihar-opposes-centre-s-decision-to-reduce-central-assistance/story-aGAFYx7zwEOsiZx0BbuwML.html",
+      "original_article_id": "a11b5a9bd7ac28e3",
+      "published_at": "2007-04-26T14:12:52.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india/bihar-opposes-centre-s-decision-to-reduce-central-assistance/story-aGAFYx7zwEOsiZx0BbuwML.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "5ebd53a235d31be4003d431d3a9380641e627eb3030a2c9d9e79085ec1e823cc",
+      "last_verified_at": "2026-08-29T12:46:16.577Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

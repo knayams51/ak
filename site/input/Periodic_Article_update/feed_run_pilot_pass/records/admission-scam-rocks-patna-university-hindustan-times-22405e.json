@@ -1,0 +1,51 @@
+{
+  "id": "ea08c8781f22405e",
+  "slug": "admission-scam-rocks-patna-university-hindustan-times-22405e",
+  "title": "Admission scam rocks Patna University | Hindustan Times",
+  "summary": "In a major development, Patna University suspended former Coordinator of the Department of BBA PC Verma and replaced prof-in-charge of Patna College Ran Bijay Kumar for serious lapses in the admission process.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2008-11-22T14:56:22.000Z",
+  "modified_at": "2008-11-22T15:04:36.000Z",
+  "word_count": 386,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Patna University"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/admission-scam-rocks-patna-university/story-4VwFmAdhbUxkXTXJDbboZL.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/admission-scam-rocks-patna-university/story-4VwFmAdhbUxkXTXJDbboZL.html",
+      "original_article_id": "ea08c8781f22405e",
+      "published_at": "2008-11-22T14:56:22.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/admission-scam-rocks-patna-university/story-4VwFmAdhbUxkXTXJDbboZL.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "38777af249ad87a3943be0b80bc91ea496b543295c0493037c4f28b98dd835a2",
+      "last_verified_at": "2026-08-29T12:46:16.556Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

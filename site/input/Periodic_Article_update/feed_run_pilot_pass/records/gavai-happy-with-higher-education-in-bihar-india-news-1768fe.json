@@ -1,0 +1,53 @@
+{
+  "id": "80833a9b281768fe",
+  "slug": "gavai-happy-with-higher-education-in-bihar-india-news-1768fe",
+  "title": "Gavai happy with higher education in Bihar | India News",
+  "summary": "The Chancellor-cum-Governor admits there is a long journey ahead to bring the system 'back on track', reports Arun Kumar. | India News",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2007-01-31T16:14:00.000Z",
+  "modified_at": "2007-01-31T16:14:00.000Z",
+  "word_count": 432,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/india/gavai-happy-with-higher-education-in-bihar/story-ui34UOGPXSgBEITYjkPTiN.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india/gavai-happy-with-higher-education-in-bihar/story-ui34UOGPXSgBEITYjkPTiN.html",
+      "original_article_id": "80833a9b281768fe",
+      "published_at": "2007-01-31T16:14:00.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india/gavai-happy-with-higher-education-in-bihar/story-ui34UOGPXSgBEITYjkPTiN.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "65666403d577bd76967cb0e34a47d3907119b8ccfb68441f0272e52650087770",
+      "last_verified_at": "2026-08-29T12:46:16.583Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

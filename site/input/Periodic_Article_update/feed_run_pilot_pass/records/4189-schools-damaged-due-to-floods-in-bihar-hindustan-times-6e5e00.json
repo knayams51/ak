@@ -1,0 +1,53 @@
+{
+  "id": "d2e27683966e5e00",
+  "slug": "4189-schools-damaged-due-to-floods-in-bihar-hindustan-times-6e5e00",
+  "title": "4,189 schools damaged due to floods in Bihar | Hindustan Times",
+  "summary": "The worst affected are the primary and secondary schools, which are located in the interiors and have a small infrastructure compared to high schools, reports Arun Kumar.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2007-08-08T15:12:35.000Z",
+  "modified_at": "2007-08-08T16:18:42.000Z",
+  "word_count": 370,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "social-issues-health-culture",
+    "slug": "social-issues-health-culture",
+    "title": "Social Issues, Health & Heritage"
+  },
+  "subtopic": {
+    "id": "floods-disaster-management",
+    "slug": "floods-disaster-management",
+    "title": "Floods & Disaster Management"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/4-189-schools-damaged-due-to-floods-in-bihar/story-wjhrLsIs8R1Sswf4LHeHNO.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/4-189-schools-damaged-due-to-floods-in-bihar/story-wjhrLsIs8R1Sswf4LHeHNO.html",
+      "original_article_id": "d2e27683966e5e00",
+      "published_at": "2007-08-08T15:12:35.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/4-189-schools-damaged-due-to-floods-in-bihar/story-wjhrLsIs8R1Sswf4LHeHNO.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "6f4ad8bd7ec452a9daa4503da057cdf1d3c88f383ef4e9408f86c8483057c6af",
+      "last_verified_at": "2026-08-29T12:46:16.568Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

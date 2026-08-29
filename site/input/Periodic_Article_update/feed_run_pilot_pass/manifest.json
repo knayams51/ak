@@ -1,7 +1,7 @@
 {
   "package_name": "feed_run_pilot_pass",
-  "generated_at": "2026-08-29T11:29:47.127Z",
-  "article_count": 211,
+  "generated_at": "2026-08-29T12:46:16.585Z",
+  "article_count": 246,
   "status": "ready_for_ingestion",
   "checksum_algorithm": "SHA-256",
   "articles": [
@@ -1270,6 +1270,216 @@
       "slug": "bihar-judge-accused-of-malpractices-asked-to-retire-india-news-f82783",
       "title": "Bihar judge accused of malpractices asked to retire | India News",
       "sha256": "bd37c791dee02ed2dc3ee049225b61d7d470aa64e80efc31af1343b5f066c990"
+    },
+    {
+      "id": "b2ff363edff9a3dd",
+      "slug": "bihar-treated-bhatkal-as-damaad-bjp-hindustan-times-f9a3dd",
+      "title": "Bihar treated Bhatkal as 'damaad': BJP | Hindustan Times",
+      "sha256": "4e2a5a97f4989c6e74ea7e20990feadef6781c1b83b1a558c2805c3f3e964947"
+    },
+    {
+      "id": "bacc993d5f7b7897",
+      "slug": "bihar-cops-suddenly-went-cold-on-yasin-bhatkal-hindustan-times-7b7897",
+      "title": "Bihar cops suddenly went cold on Yasin Bhatkal | Hindustan Times",
+      "sha256": "e08e8c76e5f948021785f6e34523fee5a86e1fb8c3b90b873bdd64b3ac49f9e7"
+    },
+    {
+      "id": "090792846519ef63",
+      "slug": "more-mid-day-meal-scare-in-bihar-77-kids-take-ill-hindustan-times-19ef63",
+      "title": "More mid-day meal scare in Bihar: 77 kids take ill | Hindustan Times",
+      "sha256": "bf57ed371a15a9eaecbd1c129cb786941bb20cdbce79854643240423e3c347fa"
+    },
+    {
+      "id": "8e045060bcaf823d",
+      "slug": "shatrughan-praises-nitish-may-get-notice-hindustan-times-af823d",
+      "title": "Shatrughan praises Nitish, may get notice | Hindustan Times",
+      "sha256": "4da6639065b85ec2119bd577b90304f6f5dcc588b07884f8972cb55b95e6d274"
+    },
+    {
+      "id": "e8daca9fc1e12495",
+      "slug": "state-council-to-streamline-higher-education-soon-hindustan-times-e12495",
+      "title": "State council to streamline higher education soon | Hindustan Times",
+      "sha256": "b9cbb446387238e84b80a04dda7e701b9d88cb990fb44312489a0432dde4aef0"
+    },
+    {
+      "id": "c37e59b34f10d54a",
+      "slug": "rationalisation-chancellor-asks-vcs-to-submit-report-hindustan-times-10d54a",
+      "title": "Rationalisation: Chancellor asks VCs to submit report | Hindustan Times",
+      "sha256": "608873d3698d4b08ea712550b5546622fefa152e88a8b8c535d0500105bc80f4"
+    },
+    {
+      "id": "acc451bc61176759",
+      "slug": "bihar-moots-proposal-for-womens-university-hindustan-times-176759",
+      "title": "Bihar moots proposal for women's university | Hindustan Times",
+      "sha256": "110a9d74fb4a5aef484fd6dc9fd820cf39bf2598f6e7ff658195776f72236e00"
+    },
+    {
+      "id": "0b3d7ec6bebe234a",
+      "slug": "dad-denies-phd-scholars-abduction-hindustan-times-be234a",
+      "title": "Dad denies Phd scholar's abduction | Hindustan Times",
+      "sha256": "54af907fd5b8195a7d3938fd4d3bb64fd81368d19bab5169eb007a20a7936b49"
+    },
+    {
+      "id": "7ae6c38b0bef9e2c",
+      "slug": "15-colleges-in-bihar-fail-to-renew-naac-accreditation-hindustan-times-ef9e2c",
+      "title": "15 colleges in Bihar fail to renew NAAC accreditation | Hindustan Times",
+      "sha256": "86662b57331a7354c6483ae6172179e2d2467874301e3476906bf193815e8c05"
+    },
+    {
+      "id": "bcabfdaf01e0b236",
+      "slug": "the-super-3-hindustan-times-e0b236",
+      "title": "The Super 3+ | Hindustan Times",
+      "sha256": "4388d77cb17034837e3d06074ed2ad0b0404aebb07246dce78f84a69d79d67a1"
+    },
+    {
+      "id": "d9900f30fa423389",
+      "slug": "hrd-goes-to-raj-bhawan-for-jurisdiction-over-academic-matters-hindustan-times-423389",
+      "title": "HRD goes to Raj Bhawan for jurisdiction over academic matters | Hindustan Times",
+      "sha256": "24ad0514d9f524da78be5b48b6fa96be3b9a12cffce72fa1d0f74d6af2bbcab4"
+    },
+    {
+      "id": "06ca21e2510dd3ef",
+      "slug": "fir-against-magadh-university-vice-chancellor-for-corruption-hindustan-times-0dd3ef",
+      "title": "FIR against Magadh University Vice Chancellor for corruption | Hindustan Times",
+      "sha256": "b05c7e6d37169d119f13236bcfe50f7b912163444f782b6cc5f4ca23fce22a4f"
+    },
+    {
+      "id": "891b1d57c1338fb7",
+      "slug": "cbi-to-probe-death-of-bihar-engineer-hindustan-times-338fb7",
+      "title": "CBI to probe death of Bihar engineer | Hindustan Times",
+      "sha256": "f81baaef160739de5f8b7dbf74aa627e5b555b9f4c7815e9af87ce242ba926fa"
+    },
+    {
+      "id": "5a72c64cc2fe7388",
+      "slug": "cbi-to-probe-death-of-bihar-engineer-hindustan-times-fe7388",
+      "title": "CBI to probe death of Bihar engineer | Hindustan Times",
+      "sha256": "f251a4333168d1a90e9e02a8fbd9ec29c776ddb6ccd772bd24e1fba49a8c9ecf"
+    },
+    {
+      "id": "7b89d01f84307cbf",
+      "slug": "indian-artists-featured-at-yale-universitys-new-art-gallery-hindustan-times-307cbf",
+      "title": "Indian artists featured at Yale University's new art gallery | Hindustan Times",
+      "sha256": "0f61dccbb0d6078aecda0387d05ba1d5e0ef54e9ca44930e9c7ccf73dc55d63a"
+    },
+    {
+      "id": "ea08c8781f22405e",
+      "slug": "admission-scam-rocks-patna-university-hindustan-times-22405e",
+      "title": "Admission scam rocks Patna University | Hindustan Times",
+      "sha256": "38777af249ad87a3943be0b80bc91ea496b543295c0493037c4f28b98dd835a2"
+    },
+    {
+      "id": "a230cbf98c565a9c",
+      "slug": "most-bihar-teachers-cant-do-their-math-india-news-565a9c",
+      "title": "Most Bihar teachers can't do their math | India News",
+      "sha256": "d21aa75561c9a975fba79a52cf78e2856053bd0547049746f26404d887bf6fe2"
+    },
+    {
+      "id": "f274d7ed063244c2",
+      "slug": "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2",
+      "title": "Patna jail erupts in inmates' anger | Hindustan Times",
+      "sha256": "fedb703e6a3bd3c21f63e28b9529c4130bc42855eb15d85acfc0dd3bae5a6636"
+    },
+    {
+      "id": "3570a3b0037f6f7a",
+      "slug": "mla-had-a-penchant-for-guns-and-goons-hindustan-times-7f6f7a",
+      "title": "MLA had a penchant for guns and goons | Hindustan Times",
+      "sha256": "6f91d7e9e64508bfdc45cda2e737f4e1d2466900e6ef2d5dba0ab3b86e88703d"
+    },
+    {
+      "id": "b9f133e0e3545048",
+      "slug": "bihar-mla-assaults-journalists-arrested-hindustan-times-545048",
+      "title": "Bihar MLA assaults journalists, arrested | Hindustan Times",
+      "sha256": "48f255ba44b88b44a0e94c474902779fdbb65e352072d1cf709b2165c467ac4a"
+    },
+    {
+      "id": "2099ec98cfbb2b43",
+      "slug": "lalu-sounds-warning-bell-hindustan-times-bb2b43",
+      "title": "Lalu sounds warning bell | Hindustan Times",
+      "sha256": "b881a088a46cd39d5cbaf49a8d4c5a65b8b700334d871177880b7547d55e49e0"
+    },
+    {
+      "id": "248f55df0af1b312",
+      "slug": "mobs-punishing-criminals-administration-experts-hindustan-times-f1b312",
+      "title": "Mobs punishing criminals, administration: experts | Hindustan Times",
+      "sha256": "98f64f33c1a6532033246dd879373bf4c203bc693620da699698092ec3bcaef5"
+    },
+    {
+      "id": "df24512775d84c39",
+      "slug": "crank-call-from-cm-lands-official-in-soup-hindustan-times-d84c39",
+      "title": "'Crank call' from CM lands official in soup | Hindustan Times",
+      "sha256": "234f86b0f0fe1c1569791d5b807877b603b2ba40058e1cd233d5e1281053a4fa"
+    },
+    {
+      "id": "d2e27683966e5e00",
+      "slug": "4189-schools-damaged-due-to-floods-in-bihar-hindustan-times-6e5e00",
+      "title": "4,189 schools damaged due to floods in Bihar | Hindustan Times",
+      "sha256": "6f4ad8bd7ec452a9daa4503da057cdf1d3c88f383ef4e9408f86c8483057c6af"
+    },
+    {
+      "id": "ef0b0cad196cd174",
+      "slug": "bihar-govt-to-de-link-intermediate-education-from-colleges-hindustan-times-6cd174",
+      "title": "Bihar Govt to de-link intermediate education from colleges | Hindustan Times",
+      "sha256": "1cccebdbca72aaebdcc5ed445d52d7a55093af8c0a7d9ac7eec185efd88d10c2"
+    },
+    {
+      "id": "7e92fa67278be17a",
+      "slug": "maoists-economic-blockade-derails-life-hindustan-times-8be17a",
+      "title": "Maoists' economic blockade derails life | Hindustan Times",
+      "sha256": "837153e4efc2d4144f97ca00a2bf09a025ec1a4affbd7cbc56e134791a8d55f7"
+    },
+    {
+      "id": "8aa4c04cffdc44bb",
+      "slug": "alert-sounded-in-bihar-hindustan-times-dc44bb",
+      "title": "Alert sounded in Bihar | Hindustan Times",
+      "sha256": "5e1337c6ba22366fe225d2dbb96b147e0229d525dbf67f049563cd067a52f893"
+    },
+    {
+      "id": "d8a1c051ade4b44e",
+      "slug": "warrant-against-3-yr-old-for-rioting-hindustan-times-e4b44e",
+      "title": "Warrant against 3-yr-old for rioting | Hindustan Times",
+      "sha256": "b672beaafc49e757c8ba4cde9e077b95a300182a785257cc82da38b770e73fc0"
+    },
+    {
+      "id": "86665192ef3835d2",
+      "slug": "centre-approves-rs-3300-cr-for-implementation-of-sarva-shiksha-abhiyaan-in-bihar-3835d2",
+      "title": "Centre approves Rs 3,300-cr for implementation of Sarva Shiksha Abhiyaan in Bihar | India News",
+      "sha256": "05f5d6a3311594a6ead7cd663a7bc62c561c6ef14dc709922ef4a1f9e3a4e97d"
+    },
+    {
+      "id": "a11b5a9bd7ac28e3",
+      "slug": "bihar-opposes-centres-decision-to-reduce-central-assistance-india-news-ac28e3",
+      "title": "Bihar opposes centre's decision to reduce central assistance | India News",
+      "sha256": "5ebd53a235d31be4003d431d3a9380641e627eb3030a2c9d9e79085ec1e823cc"
+    },
+    {
+      "id": "c46300d66dafa906",
+      "slug": "bihar-lands-on-cape-of-good-hope-india-news-afa906",
+      "title": "Bihar lands on ?Cape of Good Hope' | India News",
+      "sha256": "bd3272eb1231399d0cd911b8c51136e5cd13ac1ce320c48d6ae1b35a26b40aba"
+    },
+    {
+      "id": "3911a54bfb5f5a3c",
+      "slug": "vigilance-nabs-fake-court-employee-in-patna-india-news-5f5a3c",
+      "title": "Vigilance nabs fake court employee in Patna | India News",
+      "sha256": "4e887e0fb73c5c65703cd7042d63bf109807132c0780507045ae3ab645490427"
+    },
+    {
+      "id": "ded94208e483cd99",
+      "slug": "governor-for-uniform-fee-syllabii-in-bihar-univs-india-news-83cd99",
+      "title": "Governor for uniform fee, syllabii in Bihar Univs | India News",
+      "sha256": "f20b92cc1a4da3bab1f88397dbf930a32a633255507fbe4061cf24159f7ec14d"
+    },
+    {
+      "id": "80833a9b281768fe",
+      "slug": "gavai-happy-with-higher-education-in-bihar-india-news-1768fe",
+      "title": "Gavai happy with higher education in Bihar | India News",
+      "sha256": "65666403d577bd76967cb0e34a47d3907119b8ccfb68441f0272e52650087770"
+    },
+    {
+      "id": "c15eb5d17e48de21",
+      "slug": "bihar-completes-board-exam-in-7-days-india-news-48de21",
+      "title": "Bihar completes Board exam in 7 days | India News",
+      "sha256": "89346ea5772dfd27f5902873cfddba97ace61e03e21ee8960b93281a5de87fc5"
     }
   ]
 }

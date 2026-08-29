@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "CBI to probe death of Bihar engineer | Hindustan Times",
+  "description": "Bihar Chief Minister Nitish Kumar on Wednesday consented to a Central Bureau of Investigation (CBI) probe into the mysterious death of Yogendra Pandey, a state public works department engineer on June 18.",
+  "datePublished": "2009-06-24T18:02:42.000Z",
+  "dateModified": "2009-06-24T18:04:32.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/cbi-to-probe-death-of-bihar-engineer-hindustan-times-338fb7"
+  },
+  "articleSection": "State Administration & Vigilance",
+  "keywords": [
+    "Nitish Kumar"
+  ],
+  "wordCount": 351
+}

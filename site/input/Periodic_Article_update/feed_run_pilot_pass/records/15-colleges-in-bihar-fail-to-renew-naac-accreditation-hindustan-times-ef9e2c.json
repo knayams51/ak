@@ -1,0 +1,51 @@
+{
+  "id": "7ae6c38b0bef9e2c",
+  "slug": "15-colleges-in-bihar-fail-to-renew-naac-accreditation-hindustan-times-ef9e2c",
+  "title": "15 colleges in Bihar fail to renew NAAC accreditation | Hindustan Times",
+  "summary": "Fifteen Bihar colleges lost their accreditation as they failed to renew it before the expiry of its five-year validity, the National Assessment and Accreditation Council (NAAC) said on Wednesday.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2010-12-22T18:59:36.000Z",
+  "modified_at": "2010-12-22T19:01:10.000Z",
+  "word_count": 288,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Patna University"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/15-colleges-in-bihar-fail-to-renew-naac-accreditation/story-aUxuU4eexIZkVlffn4Xq8H.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/15-colleges-in-bihar-fail-to-renew-naac-accreditation/story-aUxuU4eexIZkVlffn4Xq8H.html",
+      "original_article_id": "7ae6c38b0bef9e2c",
+      "published_at": "2010-12-22T18:59:36.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/15-colleges-in-bihar-fail-to-renew-naac-accreditation/story-aUxuU4eexIZkVlffn4Xq8H.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "86662b57331a7354c6483ae6172179e2d2467874301e3476906bf193815e8c05",
+      "last_verified_at": "2026-08-29T12:46:16.546Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

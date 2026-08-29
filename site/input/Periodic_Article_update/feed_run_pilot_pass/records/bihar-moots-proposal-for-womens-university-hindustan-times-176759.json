@@ -1,0 +1,53 @@
+{
+  "id": "acc451bc61176759",
+  "slug": "bihar-moots-proposal-for-womens-university-hindustan-times-176759",
+  "title": "Bihar moots proposal for women's university | Hindustan Times",
+  "summary": "Buoyed by the highest growth in female literacy in the decade and significant increase in the number of girls passing class 10 and 12 board examinations, the human resource development department has mooted a proposal for setting up a women's university - only the second of its kind in the country.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2011-10-28T12:11:13.000Z",
+  "modified_at": "2011-10-28T12:14:18.000Z",
+  "word_count": 489,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/bihar-moots-proposal-for-women-s-university/story-GaHZ2gIKld9K4VqTheBDiL.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/bihar-moots-proposal-for-women-s-university/story-GaHZ2gIKld9K4VqTheBDiL.html",
+      "original_article_id": "acc451bc61176759",
+      "published_at": "2011-10-28T12:11:13.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/bihar-moots-proposal-for-women-s-university/story-GaHZ2gIKld9K4VqTheBDiL.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "110a9d74fb4a5aef484fd6dc9fd820cf39bf2598f6e7ff658195776f72236e00",
+      "last_verified_at": "2026-08-29T12:46:16.543Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

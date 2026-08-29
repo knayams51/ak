@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "The Super 3+ | Hindustan Times",
+  "description": "hey are the alumni of a remarkable coaching school in Patna that annually sends poor youngsters to the IITs. What are some of these Old Boys up to now? reports Arun Kumar",
+  "datePublished": "2010-05-29T18:25:29.000Z",
+  "dateModified": "2010-05-29T18:29:26.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/the-super-3-hindustan-times-e0b236"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 1112
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "FIR against Magadh University Vice Chancellor for corruption | Hindustan Times",
+  "description": "Acting on the directives of the Human Resource Development Department, the Regional Deputy Director, Magadh Division, on Saturday, lodged an FIR against Magadh University Vice Chancellor BN Pandey and others under various sections of Prevention of Corruption Act, reports Arun Kumar.",
+  "datePublished": "2009-08-29T15:15:56.000Z",
+  "dateModified": "2009-08-29T15:23:23.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/fir-against-magadh-university-vice-chancellor-for-corruption-hindustan-times-0dd3ef"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 506
+}

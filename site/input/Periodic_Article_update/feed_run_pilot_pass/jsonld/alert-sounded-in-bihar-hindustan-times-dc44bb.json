@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Alert sounded in Bihar | Hindustan Times",
+  "description": "The government sounds an alert in view of the two-days economic blockade called by Maoists against the Centre's economic policies and creation of SEZs, reports Arun Kumar.",
+  "datePublished": "2007-06-25T12:34:55.000Z",
+  "dateModified": "2007-06-25T12:47:58.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/alert-sounded-in-bihar-hindustan-times-dc44bb"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 221
+}

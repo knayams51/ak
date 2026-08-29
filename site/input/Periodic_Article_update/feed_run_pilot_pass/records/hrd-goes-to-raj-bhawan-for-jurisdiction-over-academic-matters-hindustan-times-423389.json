@@ -1,0 +1,53 @@
+{
+  "id": "d9900f30fa423389",
+  "slug": "hrd-goes-to-raj-bhawan-for-jurisdiction-over-academic-matters-hindustan-times-423389",
+  "title": "HRD goes to Raj Bhawan for jurisdiction over academic matters | Hindustan Times",
+  "summary": "The Chancellor's office and the Human Resource Development Department seem to be firmly set on a collision course, Arun Kumar.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2009-10-30T14:43:59.000Z",
+  "modified_at": "2009-10-30T14:46:51.000Z",
+  "word_count": 425,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/hrd-goes-to-raj-bhawan-for-jurisdiction-over-academic-matters/story-2IyJwvX7izV5LG6mhWCqYJ.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/hrd-goes-to-raj-bhawan-for-jurisdiction-over-academic-matters/story-2IyJwvX7izV5LG6mhWCqYJ.html",
+      "original_article_id": "d9900f30fa423389",
+      "published_at": "2009-10-30T14:43:59.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/hrd-goes-to-raj-bhawan-for-jurisdiction-over-academic-matters/story-2IyJwvX7izV5LG6mhWCqYJ.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "24ad0514d9f524da78be5b48b6fa96be3b9a12cffce72fa1d0f74d6af2bbcab4",
+      "last_verified_at": "2026-08-29T12:46:16.549Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

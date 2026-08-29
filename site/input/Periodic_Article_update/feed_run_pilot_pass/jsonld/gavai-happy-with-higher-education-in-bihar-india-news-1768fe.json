@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Gavai happy with higher education in Bihar | India News",
+  "description": "The Chancellor-cum-Governor admits there is a long journey ahead to bring the system 'back on track', reports Arun Kumar. | India News",
+  "datePublished": "2007-01-31T16:14:00.000Z",
+  "dateModified": "2007-01-31T16:14:00.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/gavai-happy-with-higher-education-in-bihar-india-news-1768fe"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 432
+}

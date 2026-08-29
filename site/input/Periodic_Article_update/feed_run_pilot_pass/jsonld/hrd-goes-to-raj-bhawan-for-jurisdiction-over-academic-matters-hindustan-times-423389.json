@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "HRD goes to Raj Bhawan for jurisdiction over academic matters | Hindustan Times",
+  "description": "The Chancellor's office and the Human Resource Development Department seem to be firmly set on a collision course, Arun Kumar.",
+  "datePublished": "2009-10-30T14:43:59.000Z",
+  "dateModified": "2009-10-30T14:46:51.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/hrd-goes-to-raj-bhawan-for-jurisdiction-over-academic-matters-hindustan-times-423389"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 425
+}

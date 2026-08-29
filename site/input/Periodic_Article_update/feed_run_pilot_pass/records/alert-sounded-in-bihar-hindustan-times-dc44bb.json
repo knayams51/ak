@@ -1,0 +1,53 @@
+{
+  "id": "8aa4c04cffdc44bb",
+  "slug": "alert-sounded-in-bihar-hindustan-times-dc44bb",
+  "title": "Alert sounded in Bihar | Hindustan Times",
+  "summary": "The government sounds an alert in view of the two-days economic blockade called by Maoists against the Centre's economic policies and creation of SEZs, reports Arun Kumar.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2007-06-25T12:34:55.000Z",
+  "modified_at": "2007-06-25T12:47:58.000Z",
+  "word_count": 221,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "judiciary-law-patna-high-court",
+    "slug": "judiciary-law-patna-high-court",
+    "title": "Judiciary, Law & Patna High Court"
+  },
+  "subtopic": {
+    "id": "legal-bar-affairs",
+    "slug": "legal-bar-affairs",
+    "title": "Legal Profession & Bar Affairs"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/alert-sounded-in-bihar/story-6m0ZZ2j2KzMXJXjfWuvweN.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/alert-sounded-in-bihar/story-6m0ZZ2j2KzMXJXjfWuvweN.html",
+      "original_article_id": "8aa4c04cffdc44bb",
+      "published_at": "2007-06-25T12:34:55.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/alert-sounded-in-bihar/story-6m0ZZ2j2KzMXJXjfWuvweN.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "5e1337c6ba22366fe225d2dbb96b147e0229d525dbf67f049563cd067a52f893",
+      "last_verified_at": "2026-08-29T12:46:16.572Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

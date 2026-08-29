@@ -1,0 +1,53 @@
+{
+  "id": "0b3d7ec6bebe234a",
+  "slug": "dad-denies-phd-scholars-abduction-hindustan-times-be234a",
+  "title": "Dad denies Phd scholar's abduction | Hindustan Times",
+  "summary": "A day after news about the abduction of an American university researcher, Juhi Tyagi, by Naxalites in the extremist-affected Jamui district of Bihar flashed in the media, it turned out to be a false alarm. Arun Kumar reports.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2011-06-30T10:04:50.000Z",
+  "modified_at": "2011-06-30T12:41:03.000Z",
+  "word_count": 432,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/patna/dad-denies-phd-scholar-s-abduction/story-yOISgRQKJosxHy23nGB2VJ.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/patna/dad-denies-phd-scholar-s-abduction/story-yOISgRQKJosxHy23nGB2VJ.html",
+      "original_article_id": "0b3d7ec6bebe234a",
+      "published_at": "2011-06-30T10:04:50.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/patna/dad-denies-phd-scholar-s-abduction/story-yOISgRQKJosxHy23nGB2VJ.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "54af907fd5b8195a7d3938fd4d3bb64fd81368d19bab5169eb007a20a7936b49",
+      "last_verified_at": "2026-08-29T12:46:16.544Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

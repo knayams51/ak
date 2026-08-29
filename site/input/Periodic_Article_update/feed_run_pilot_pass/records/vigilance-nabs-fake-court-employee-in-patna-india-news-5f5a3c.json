@@ -1,0 +1,53 @@
+{
+  "id": "3911a54bfb5f5a3c",
+  "slug": "vigilance-nabs-fake-court-employee-in-patna-india-news-5f5a3c",
+  "title": "Vigilance nabs fake court employee in Patna | India News",
+  "summary": "State Vigilance Investigation Department caught a fake peshkar, Ravindra Sinha, red handed while accepting bribe of Rs 3000 from a journalist, reports Arun Kumar. | India News",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2007-02-15T17:38:00.000Z",
+  "modified_at": "2007-02-15T17:38:00.000Z",
+  "word_count": 282,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "state-administration-vigilance",
+    "slug": "state-administration-vigilance",
+    "title": "State Administration & Vigilance"
+  },
+  "subtopic": {
+    "id": "vigilance-anti-corruption",
+    "slug": "vigilance-anti-corruption",
+    "title": "Vigilance & Anti-Corruption Inquiries"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/india/vigilance-nabs-fake-court-employee-in-patna/story-Il0vhToI0f3ljzSOtuNH4O.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india/vigilance-nabs-fake-court-employee-in-patna/story-Il0vhToI0f3ljzSOtuNH4O.html",
+      "original_article_id": "3911a54bfb5f5a3c",
+      "published_at": "2007-02-15T17:38:00.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india/vigilance-nabs-fake-court-employee-in-patna/story-Il0vhToI0f3ljzSOtuNH4O.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "4e887e0fb73c5c65703cd7042d63bf109807132c0780507045ae3ab645490427",
+      "last_verified_at": "2026-08-29T12:46:16.580Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

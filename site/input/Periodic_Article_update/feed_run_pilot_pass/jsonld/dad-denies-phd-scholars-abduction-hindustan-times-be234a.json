@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Dad denies Phd scholar's abduction | Hindustan Times",
+  "description": "A day after news about the abduction of an American university researcher, Juhi Tyagi, by Naxalites in the extremist-affected Jamui district of Bihar flashed in the media, it turned out to be a false alarm. Arun Kumar reports.",
+  "datePublished": "2011-06-30T10:04:50.000Z",
+  "dateModified": "2011-06-30T12:41:03.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/dad-denies-phd-scholars-abduction-hindustan-times-be234a"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 432
+}

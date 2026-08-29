@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Warrant against 3-yr-old for rioting | Hindustan Times",
+  "description": "In a bizarre incident in Bihar, a three-year-old boy has been accused of rioting and attacking policemen during a clash between two communities, reports Arun Kumar.",
+  "datePublished": "2007-06-21T21:17:51.000Z",
+  "dateModified": "2007-06-21T21:20:26.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/warrant-against-3-yr-old-for-rioting-hindustan-times-e4b44e"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 329
+}

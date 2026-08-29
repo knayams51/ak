@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Mobs punishing criminals, administration: experts | Hindustan Times",
+  "description": "Mob violence in Bihar has developed a disconcerting pattern of late, reports Arun Kumar.",
+  "datePublished": "2007-09-13T19:59:58.000Z",
+  "dateModified": "2007-09-13T20:52:52.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/mobs-punishing-criminals-administration-experts-hindustan-times-f1b312"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna University"
+  ],
+  "wordCount": 289
+}
