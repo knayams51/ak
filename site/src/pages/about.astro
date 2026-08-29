@@ -100,6 +100,18 @@ import authorConfig from '../config/author.config.json';
       <h2 class="channels-heading">Verified Channels & Portfolios</h2>
       <ul class="channels-list">
         <li>
+          <strong>WhatsApp Channel & Direct:</strong>{' '}
+          <a href={authorConfig.social_links.whatsapp?.url || 'https://api.whatsapp.com/send?text=Connecting%20with%20Arun%20Kumar%20(HT%20Patna%20Bureau)'} target="_blank" rel="noopener noreferrer">
+            Direct Messaging & Dispatch Channel
+          </a>
+        </li>
+        <li>
+          <strong>Facebook Profile:</strong>{' '}
+          <a href={authorConfig.social_links.facebook?.url || 'https://www.facebook.com/share/1B8w1Bv52r/'} target="_blank" rel="noopener noreferrer">
+            Arun Kumar on Facebook
+          </a>
+        </li>
+        <li>
           <strong>X (Twitter):</strong>{' '}
           <a href={authorConfig.social_links.twitter?.url} target="_blank" rel="noopener noreferrer">
             @ArunkrHt ({authorConfig.social_links.twitter?.url})
@@ -112,15 +124,15 @@ import authorConfig from '../config/author.config.json';
           </a>
         </li>
         <li>
-          <strong>Muck Rack Portfolio:</strong>{' '}
-          <a href={authorConfig.social_links.muckrack?.url} target="_blank" rel="noopener noreferrer">
-            muckrack.com/arun-kumar-1
-          </a>
-        </li>
-        <li>
           <strong>Direct Email:</strong>{' '}
           <a href={`mailto:${authorConfig.social_links.email?.address}`}>
             {authorConfig.social_links.email?.address}
+          </a>
+        </li>
+        <li>
+          <strong>RSS Syndication:</strong>{' '}
+          <a href="/rss.xml">
+            /rss.xml (Instant Reader & Feed Ingestion)
           </a>
         </li>
       </ul>

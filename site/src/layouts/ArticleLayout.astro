@@ -32,9 +32,10 @@ const newsArticleSchema = {
     "jobTitle": "Associate Editor",
     "sameAs": [
       authorConfig.social_links.twitter?.url,
-      authorConfig.social_links.muckrack?.url,
+      authorConfig.social_links.facebook?.url,
+      authorConfig.social_links.whatsapp?.url,
       authorConfig.social_links.hindustantimes?.url
-    ]
+    ].filter(Boolean)
   },
   "publisher": {
     "@type": "NewsMediaOrganization",

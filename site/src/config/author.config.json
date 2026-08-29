@@ -21,23 +21,35 @@
       "handle": "@ArunkrHt",
       "url": "https://x.com/ArunkrHt",
       "label": "Follow @ArunkrHt on X",
-      "verified": true
+      "verified": true,
+      "enabled": true
     },
-    "muckrack": {
-      "handle": "arun-kumar-1",
-      "url": "https://muckrack.com/arun-kumar-1",
-      "label": "Muck Rack Portfolio",
-      "verified": true
+    "facebook": {
+      "handle": "Arun Kumar",
+      "url": "https://www.facebook.com/share/1B8w1Bv52r/",
+      "label": "Connect on Facebook",
+      "verified": true,
+      "enabled": true
+    },
+    "whatsapp": {
+      "handle": "WhatsApp Channel",
+      "url": "https://api.whatsapp.com/send?text=Connecting%20with%20Arun%20Kumar%20(HT%20Patna%20Bureau)",
+      "label": "Connect on WhatsApp",
+      "verified": true,
+      "enabled": true
     },
     "hindustantimes": {
       "handle": "arun-kumar-101608310583746",
       "url": "https://www.hindustantimes.com/author/arun-kumar-101608310583746",
       "label": "HT Author Archive",
-      "verified": true
+      "verified": true,
+      "enabled": true
     },
-    "facebook": {
-      "url": "",
-      "label": "Facebook",
+    "muckrack": {
+      "handle": "arun-kumar-1",
+      "url": "https://muckrack.com/arun-kumar-1",
+      "label": "Muck Rack Portfolio",
+      "verified": true,
       "enabled": false
     },
     "linkedin": {

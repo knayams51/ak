@@ -13,21 +13,21 @@ const { links = authorConfig.social_links, showLabels = false } = Astro.props;
     </a>
   )}
 
-  {links.muckrack && (
-    <a href={links.muckrack.url} target="_blank" rel="noopener noreferrer" class="social-icon-btn" title={links.muckrack.label} aria-label="Muck Rack Portfolio">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/>
-        <path d="M6 6h10"/>
-        <path d="M6 10h10"/>
+  {links.facebook && links.facebook.enabled !== false && (
+    <a href={links.facebook.url || 'https://www.facebook.com/share/1B8w1Bv52r/'} target="_blank" rel="noopener noreferrer" class="social-icon-btn facebook-btn" title={links.facebook.label || "Connect on Facebook"} aria-label="Facebook Profile">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
       </svg>
-      {showLabels && <span>Muck Rack</span>}
+      {showLabels && <span>Facebook</span>}
     </a>
   )}
 
-  {links.hindustantimes && (
-    <a href={links.hindustantimes.url} target="_blank" rel="noopener noreferrer" class="social-icon-btn" title={links.hindustantimes.label} aria-label="Hindustan Times Author Feed">
-      <span style="font-weight: 800; font-size: 0.8rem; font-family: var(--font-serif);">HT</span>
-      {showLabels && <span>Hindustan Times</span>}
+  {links.whatsapp && links.whatsapp.enabled !== false && (
+    <a href={links.whatsapp.url || 'https://api.whatsapp.com/send?text=Connecting%20with%20Arun%20Kumar%20(HT%20Patna%20Bureau)'} target="_blank" rel="noopener noreferrer" class="social-icon-btn whatsapp-btn" title={links.whatsapp.label || "Connect on WhatsApp"} aria-label="WhatsApp Channel">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M17.472 14.382c-.301-.15-1.781-.878-2.057-.978-.276-.1-.476-.15-.677.15-.201.301-.778.978-.953 1.178-.175.2-.351.226-.652.075-.301-.15-1.272-.469-2.424-1.496-.895-.798-1.5-1.784-1.675-2.085-.175-.301-.019-.464.132-.614.136-.135.301-.351.451-.527.151-.175.201-.301.301-.501.101-.2.05-.376-.025-.526-.075-.15-.677-1.631-.928-2.235-.244-.588-.492-.508-.677-.518-.175-.008-.376-.01-.577-.01-.201 0-.527.075-.802.376-.276.301-1.054 1.03-1.054 2.513 0 1.482 1.079 2.913 1.23 3.114.15.2 2.124 3.243 5.145 4.549.719.311 1.281.497 1.719.636.723.23 1.381.197 1.901.12.58-.087 1.781-.728 2.032-1.431.251-.703.251-1.305.176-1.431-.075-.126-.276-.201-.577-.351zm-5.467 7.618c-2.03 0-3.92-.619-5.5-1.685l-.394-.265-4.106 1.077 1.096-4.004-.258-.411C2.087 15.111 1.4 13.125 1.4 11c0-5.845 4.755-10.6 10.605-10.6 5.845 0 10.595 4.755 10.595 10.6 0 5.845-4.75 10.6-10.595 10.6zm0-23c-6.848 0-12.4 5.552-12.4 12.4 0 2.19.57 4.328 1.656 6.208l-1.761 6.432 6.58-1.725c1.815 1.018 3.882 1.553 5.925 1.553 6.848 0 12.4-5.552 12.4-12.4 0-6.848-5.552-12.4-12.4-12.4z"/>
+      </svg>
+      {showLabels && <span>WhatsApp</span>}
     </a>
   )}
 
