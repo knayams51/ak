@@ -6,9 +6,13 @@
   "scripts": {
     "build": "node build-root.js",
     "dev": "npm --prefix site run dev",
-    "preview": "npm --prefix site run preview"
+    "preview": "npm --prefix site run preview",
+    "sync:daily": "node crawler/sync-daily.js",
+    "validate": "node site/scripts/validate-site.js"
   },
   "dependencies": {
-    "astro": "^5.18.2"
+    "astro": "^5.18.2",
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0"
   }
 }

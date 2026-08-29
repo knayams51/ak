@@ -97448,6 +97448,66 @@
       "error_message": "Rejected due to missing byline match",
       "discovered_at": "2026-08-29T12:38:59.755Z",
       "updated_at": "2026-08-29T12:46:03.871Z"
+    },
+    {
+      "id": 8860,
+      "url": "https://www.hindustantimes.com/world-news/cia-had-multiple-clues-linking-ksm-to-terror-plot-before-9-11-but-failed-to-connect-the-dots-khalid-sheikh-mohammed-101788010304233.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-08-29T15:00:50.643Z"
+    },
+    {
+      "id": 8861,
+      "url": "https://www.hindustantimes.com/cricket/after-javed-miandad-another-former-pakistan-cricketer-moin-khan-expresses-concerns-over-health-of-the-jailed-imran-khan-101788014037740.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-08-29T15:00:52.732Z"
+    },
+    {
+      "id": 8862,
+      "url": "https://www.hindustantimes.com/cities/lucknow-news/nepal-flood-impact-household-items-carcasses-sweep-into-up-s-kushinagar-101788014934283.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-08-29T15:00:54.720Z"
+    },
+    {
+      "id": 8863,
+      "url": "https://www.hindustantimes.com/sports/hockey/world-cup-show-must-motivate-us-at-asian-games-savita-punia-101788014754078.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-08-29T15:00:56.421Z"
+    },
+    {
+      "id": 8864,
+      "url": "https://www.hindustantimes.com/cities/chandigarh-news/guest-column-a-tree-a-life-saved-the-green-signal-we-ignored-101788014639816.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-08-29T15:00:58.354Z"
+    },
+    {
+      "id": 8865,
+      "url": "https://www.hindustantimes.com/education/news/druze-factions-block-students-from-sitting-exams-in-row-with-syria-govt-101788000354341.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-08-29T15:01:32.080Z"
     }
   ],
   "articles": [

@@ -1,0 +1,102 @@
+name: Arun Kumar Living Archive — Daily Sync & Deploy
+
+on:
+  schedule:
+    # Runs twice daily: 00:30 UTC (06:00 IST) and 12:30 UTC (18:00 IST)
+    - cron: '30 0,12 * * *'
+  workflow_dispatch:
+    inputs:
+      pages:
+        description: 'Number of author pages to discover'
+        required: false
+        default: '3'
+      limit:
+        description: 'Maximum candidate articles to crawl'
+        required: false
+        default: '25'
+      force_rebuild:
+        description: 'Force site data rebuild even if no new articles'
+        type: boolean
+        required: false
+        default: false
+
+# Concurrency to prevent overlapping sync runs
+concurrency:
+  group: living-archive-sync
+  cancel-in-progress: false
+
+jobs:
+  sync-archive:
+    name: Crawl, Filter & Rebuild Archive
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ⚙️ Setup Node.js (v20)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 📦 Install Dependencies
+        run: |
+          npm install
+          npm --prefix site install
+
+      - name: 🕷️ Execute Daily Sync Engine
+        id: sync_engine
+        run: |
+          PAGES="${{ github.event.inputs.pages || '3' }}"
+          LIMIT="${{ github.event.inputs.limit || '25' }}"
+          FORCE="${{ github.event.inputs.force_rebuild == 'true' && '--force-rebuild' || '' }}"
+          
+          echo "Running daily sync with: --pages=$PAGES --limit=$LIMIT $FORCE"
+          node crawler/sync-daily.js --pages=$PAGES --limit=$LIMIT $FORCE
+
+      - name: 🛡️ Validate Site Integrity & Provenance
+        run: |
+          node site/scripts/validate-site.js
+
+      - name: 🔍 Detect Repository Changes
+        id: change_check
+        run: |
+          git status --porcelain
+          if [ -n "$(git status --porcelain site/input/Periodic_Article_update site/src/data site/public crawler/data reports)" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "✅ Changes detected in archive data packages."
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "ℹ️ No changes detected. Archive is up-to-date."
+          fi
+
+      - name: 🚀 Commit & Push Updates to Main
+        if: steps.change_check.outputs.has_changes == 'true'
+        run: |
+          git config user.name "Arun Kumar Living Archive Bot"
+          git config user.email "archive-bot@ak-89y.pages.dev"
+          
+          git add site/input/Periodic_Article_update/ site/src/data/ site/public/ crawler/data/ reports/ package-lock.json
+          
+          DATE_STR=$(date -u +'%Y-%m-%d %H:%M UTC')
+          git commit -m "chore(sync): automated daily harvest & archive update [$DATE_STR] [skip ci]"
+          
+          # Pull latest in case of concurrent changes and push
+          git pull --rebase origin main
+          git push origin main
+
+      - name: 📋 Post GitHub Step Summary
+        if: always()
+        run: |
+          if [ -f reports/daily_sync_report.md ]; then
+            cat reports/daily_sync_report.md >> $GITHUB_STEP_SUMMARY
+          else
+            echo "### ℹ️ Sync Run Finished" >> $GITHUB_STEP_SUMMARY
+            echo "Daily sync executed without creating a report file." >> $GITHUB_STEP_SUMMARY
+          fi
