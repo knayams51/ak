@@ -6,15 +6,17 @@ interface Props {
 }
 
 const { variant = 'hero', size = 88, class: className = '' } = Astro.props;
+const photoUrl = '/images/author/arun_kumar_portrait.jpg';
 ---
 
 {variant === 'circle' && (
   <div class={`author-portrait-circle ${className}`} style={`width: ${size}px; height: ${size}px;`}>
     <img 
-      src="/images/author/arun_kumar_portrait.svg" 
+      src={photoUrl} 
       alt="Arun Kumar, Associate Editor, Hindustan Times Patna" 
       class="circle-img"
       loading="eager"
+      onerror="this.src='/images/author/arun_kumar_portrait.svg'"
     />
     <span class="status-indicator" title="Active Journalist & Living Archive"></span>
   </div>
@@ -22,26 +24,45 @@ const { variant = 'hero', size = 88, class: className = '' } = Astro.props;
 
 {variant === 'hero' && (
   <div class={`author-poster-card ${className}`}>
-    <div class="poster-inner">
+    <div class="poster-media">
       <img 
-        src="/images/author/arun_kumar_portrait.svg" 
+        src={photoUrl} 
         alt="Arun Kumar, Associate Editor, Hindustan Times" 
-        class="poster-img"
+        class="poster-photo"
         loading="eager"
+        onerror="this.src='/images/author/arun_kumar_portrait.svg'"
       />
+      <div class="poster-bureau-badge">
+        <span class="badge-dot"></span>
+        HINDUSTAN TIMES • PATNA
+      </div>
+    </div>
+    <div class="poster-details">
+      <h3 class="poster-name">Arun Kumar</h3>
+      <p class="poster-role">Associate Editor</p>
+      <span class="poster-tag">35+ YEARS BIHAR JOURNALISM</span>
     </div>
   </div>
 )}
 
 {variant === 'about' && (
   <div class={`author-about-card ${className}`}>
-    <div class="about-poster-inner">
+    <div class="about-poster-media">
       <img 
-        src="/images/author/arun_kumar_portrait.svg" 
+        src={photoUrl} 
         alt="Arun Kumar - Associate Editor, Hindustan Times Patna" 
-        class="about-img"
+        class="about-photo"
         loading="eager"
+        onerror="this.src='/images/author/arun_kumar_portrait.svg'"
       />
+      <div class="poster-bureau-badge">
+        <span class="badge-dot"></span>
+        HINDUSTAN TIMES • PATNA BUREAU
+      </div>
+    </div>
+    <div class="poster-details">
+      <h3 class="poster-name">Arun Kumar</h3>
+      <p class="poster-role">Associate Editor, Hindustan Times</p>
     </div>
   </div>
 )}
@@ -53,7 +74,7 @@ const { variant = 'hero', size = 88, class: className = '' } = Astro.props;
     border-radius: 50%;
     overflow: visible;
     flex-shrink: 0;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   }
 
   .circle-img {
@@ -61,6 +82,7 @@ const { variant = 'hero', size = 88, class: className = '' } = Astro.props;
     height: 100%;
     border-radius: 50%;
     object-fit: cover;
+    object-position: top center;
     border: 3px solid var(--accent-color);
     background: var(--bg-surface);
     display: block;
@@ -68,14 +90,14 @@ const { variant = 'hero', size = 88, class: className = '' } = Astro.props;
 
   .status-indicator {
     position: absolute;
-    bottom: 4px;
-    right: 4px;
+    bottom: 2px;
+    right: 2px;
     width: 14px;
     height: 14px;
     border-radius: 50%;
     background-color: #16a34a;
     border: 2px solid var(--bg-surface);
-    box-shadow: 0 0 0 2px rgba(22, 163, 74, 0.3);
+    box-shadow: 0 0 0 2px rgba(22, 163, 74, 0.4);
   }
 
   /* Framed Vertical Poster (Desktop Hero) */
@@ -85,47 +107,102 @@ const { variant = 'hero', size = 88, class: className = '' } = Astro.props;
     border-radius: 12px;
     background: var(--bg-card);
     border: 1px solid var(--border-color);
-    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.12), 0 8px 10px -6px rgba(0, 0, 0, 0.06);
     overflow: hidden;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
   }
 
   .author-poster-card:hover {
     transform: translateY(-3px);
-    box-shadow: 0 16px 32px -6px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 16px 32px -6px rgba(0, 0, 0, 0.18);
   }
 
-  .poster-inner {
+  .poster-media,
+  .about-poster-media {
+    position: relative;
     width: 100%;
-    aspect-ratio: 4 / 4.8;
+    aspect-ratio: 4 / 4.4;
+    overflow: hidden;
+    background-color: #1e293b;
   }
 
-  .poster-img {
+  .poster-photo,
+  .about-photo {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: center 20%;
     display: block;
+  }
+
+  .poster-bureau-badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 8px;
+    background: rgba(15, 23, 42, 0.85);
+    backdrop-filter: blur(4px);
+    border-radius: 9999px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    color: #f8fafc;
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+  }
+
+  .badge-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #16a34a;
+  }
+
+  .poster-details {
+    padding: 1rem 1.25rem 1.15rem;
+    text-align: center;
+    background: var(--bg-surface);
+    border-top: 1px solid var(--border-color);
+  }
+
+  .poster-name {
+    font-family: 'Merriweather', Georgia, serif;
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0 0 0.25rem;
+    color: var(--text-primary);
+  }
+
+  .poster-role {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    margin: 0 0 0.5rem;
+    letter-spacing: 0.02em;
+  }
+
+  .poster-tag {
+    display: inline-block;
+    font-size: 0.68rem;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    color: var(--accent-color);
+    background: rgba(185, 28, 28, 0.08);
+    padding: 2px 8px;
+    border-radius: 4px;
+    border: 1px solid rgba(185, 28, 28, 0.2);
   }
 
   /* About Page Poster */
   .author-about-card {
     width: 100%;
-    max-width: 320px;
+    max-width: 300px;
     border-radius: 12px;
     overflow: hidden;
     border: 1px solid var(--border-color);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
-  }
-
-  .about-poster-inner {
-    width: 100%;
-    aspect-ratio: 4 / 4.8;
-  }
-
-  .about-img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
+    background: var(--bg-card);
   }
 </style>
