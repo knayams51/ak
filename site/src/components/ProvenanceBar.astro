@@ -5,7 +5,7 @@ if (!provenance) return null;
 const { primary_source, archival_source, document_provenance } = provenance;
 ---
 
-<div class="provenance-action-bar" aria-label="Journalistic Archival Provenance">
+<div class="provenance-action-bar" aria-label="Article source and archival records">
   <div style="display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;">
     {primary_source?.canonical_url ? (
       <a 

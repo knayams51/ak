@@ -50,7 +50,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       try {
         const res = await fetch('/search-index.json');
         searchIndex = await res.json();
-        searchMeta.textContent = `Search index loaded with ${searchIndex.length} living dispatches. Start typing to filter.`;
+        searchMeta.textContent = `Showing ${searchIndex.length} dispatches. Start typing to search.`;
         renderResults(searchIndex);
       } catch (err) {
         searchMeta.textContent = 'Failed to load search index.';

@@ -148,6 +148,7 @@ h1, h2, h3, h4, .serif-font {
 .card:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
+  border-color: var(--gold-badge-border);
 }
 
 /* Buttons */
