@@ -97508,6 +97508,256 @@
       "retry_count": 0,
       "error_message": null,
       "discovered_at": "2026-08-29T15:01:32.080Z"
+    },
+    {
+      "id": 8866,
+      "url": "https://www.hindustantimes.com/india-news/bihar-appoints-patna-hc-judge-to-head-exams-reforms-committee-101788323662170.html",
+      "source_type": "daily_sync",
+      "priority": 20,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:12.846Z"
+    },
+    {
+      "id": 8867,
+      "url": "https://www.hindustantimes.com/india-news/trump-official-reacts-to-modi-meeting-pezeshkian-don-t-think-india-iran-are-making-deal-marco-rubio-101788399704327.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:14.391Z"
+    },
+    {
+      "id": 8868,
+      "url": "https://www.hindustantimes.com/india-news/raghav-chadha-dropped-from-punjab-sir-list-smells-revenge-aap-govt-says-no-role-101788404256278.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:15.820Z"
+    },
+    {
+      "id": 8869,
+      "url": "https://www.hindustantimes.com/india-news/fighter-pilot-abhinandan-varthaman-who-crashed-in-pakistan-shot-down-f-16-quits-iaf-joins-private-airline-101788396217857.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:17.868Z"
+    },
+    {
+      "id": 8870,
+      "url": "https://www.hindustantimes.com/india-news/whatsapp-launches-bill-payments-in-india-how-to-pay-electricity-gas-water-bills-on-messaging-app-101788445676043.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:19.816Z"
+    },
+    {
+      "id": 8871,
+      "url": "https://www.hindustantimes.com/education/features/beyond-enrolment-are-indias-universities-preparing-youth-for-the-economy-of-2047-101788423157202.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:21.718Z"
+    },
+    {
+      "id": 8872,
+      "url": "https://www.hindustantimes.com/education/news/nirf-rankings-2026-when-will-india-rankings-for-medical-engineering-others-release-check-past-trends-here-101788421735150.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:23.652Z"
+    },
+    {
+      "id": 8873,
+      "url": "https://www.hindustantimes.com/education/competitive-exams/neet-pg-admit-card-2026-for-re-exam-releasing-today-at-natboard-edu-in-exam-on-september-5-101788419226913.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:25.297Z"
+    },
+    {
+      "id": 8874,
+      "url": "https://www.hindustantimes.com/education/employment-news/ssc-je-exam-2026-registration-begins-for-1748-vacancies-apply-at-sscgovin-101788416556789.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:27.055Z"
+    },
+    {
+      "id": 8875,
+      "url": "https://www.hindustantimes.com/education/news/delhi-schools-asked-to-verify-ews-freeship-vacancies-admissions-to-follow-computerised-draw-101788413942269.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:28.696Z"
+    },
+    {
+      "id": 8876,
+      "url": "https://www.hindustantimes.com/education/competitive-exams/sbi-po-mains-admit-card-2026-released-at-sbi-co-in-download-link-here-101788411153406.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:30.645Z"
+    },
+    {
+      "id": 8877,
+      "url": "https://www.hindustantimes.com/education/board-exams/up-extends-registration-deadline-for-class-9-to-12-students-101788247863265.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:32.551Z"
+    },
+    {
+      "id": 8878,
+      "url": "https://www.hindustantimes.com/education/board-exams/cbse-class-12-supply-result-2026-application-process-for-photocopy-of-answerbook-begins-direct-link-here-101788155777209.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:34.696Z"
+    },
+    {
+      "id": 8879,
+      "url": "https://www.hindustantimes.com/education/competitive-exams/iit-gate-2027-revised-registration-date-announced-to-begin-today-at-gate2027iitmacin-101788348221371.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:36.528Z"
+    },
+    {
+      "id": 8880,
+      "url": "https://www.hindustantimes.com/education/competitive-exams/neet-pg-exam-2026-nbems-warns-aspirants-coaching-institutes-against-sharing-recall-memory-based-questions-101788333456130.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:38.194Z"
+    },
+    {
+      "id": 8881,
+      "url": "https://www.hindustantimes.com/education/competitive-exams/no-one-should-rush-this-process-bihar-bpsc-exam-postponed-to-ensure-single-test-format-says-state-education-minister-101788328689389.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:39.848Z"
+    },
+    {
+      "id": 8882,
+      "url": "https://www.hindustantimes.com/education/competitive-exams/bpsc-tre-4-0-revised-registration-date-announced-to-begin-on-september-21-at-bpscbihnicin-101788327548683.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:41.418Z"
+    },
+    {
+      "id": 8883,
+      "url": "https://www.hindustantimes.com/education/features/loop-engineering-the-new-skill-indian-students-cant-afford-to-ignore-101788340845678.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:43.116Z"
+    },
+    {
+      "id": 8884,
+      "url": "https://www.hindustantimes.com/education/features/from-data-analysts-to-decision-makers-the-new-skills-businesses-need-101788256534078.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:44.628Z"
+    },
+    {
+      "id": 8885,
+      "url": "https://www.hindustantimes.com/education/features/from-engineer-to-executive-why-an-emba-could-be-the-next-career-move-101788166342992.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:46.238Z"
+    },
+    {
+      "id": 8886,
+      "url": "https://www.hindustantimes.com/education/study-abroad/canada-study-permit-rules-proof-of-funds-requirement-changes-on-september-1-what-indian-students-need-to-know-101788174157920.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:47.896Z"
+    },
+    {
+      "id": 8887,
+      "url": "https://www.hindustantimes.com/education/admissions/mcc-neet-ug-counselling-2026-round-2-registration-to-begin-at-mcc-nic-in-heres-how-to-apply-101788409632245.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:49.458Z"
+    },
+    {
+      "id": 8888,
+      "url": "https://www.hindustantimes.com/education/admissions/aaccc-ayush-neet-ug-counselling-2026-round-1-registration-begins-at-aaccc-gov-in-direct-link-here-101788249744269.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:51.113Z"
+    },
+    {
+      "id": 8889,
+      "url": "https://www.hindustantimes.com/education/employment-news/southern-railway-apprentice-recruitment-2026-apply-for-4308-posts-at-srindianrailwaysgovin-101788339155044.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:52.649Z"
+    },
+    {
+      "id": 8890,
+      "url": "https://www.hindustantimes.com/education/employment-news/sbi-po-prelims-result-2026-declared-at-sbi-co-in-direct-link-to-check-scorecard-here-101788322596412.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:31:53.986Z"
     }
   ],
   "articles": [
@@ -119066,6 +119316,91 @@
         "Byline matched target author name 'arun kumar'",
         "Dateline matched positive Bihar location 'Patna'",
         "Found 2 Bihar topic/entity markers in content"
+      ]
+    },
+    {
+      "article_id": "101788323662170",
+      "url": "https://www.hindustantimes.com/india-news/bihar-appoints-patna-hc-judge-to-head-exams-reforms-committee-101788323662170.html",
+      "headline": "Bihar appoints Patna HC judge to head exams reforms committee | India News",
+      "sub_headline": "The state government had announced to set up an expert committee to improve various competitive and recruitment examinations following several instances of irregularities, cancellation | India News",
+      "byline": "Arun Kumar",
+      "dateline": "Patna",
+      "published_at": "2026-09-02T10:04:21+05:30",
+      "modified_at": "2026-09-02T10:04:21+05:30",
+      "body_text": "The Bihar government has appointed Patna High Court judge Justice Harish Kumar as chairman of the Bihar Examination Reforms Expert Committee, an official notification issued on Tuesday stated.\n\nThe state government had announced to set up an expert committee to improve various competitive and recruitment examinations following several instances of irregularities, cancellation and question leak, which led to protests.\n\nAccording to the notification of the General Administration Department, Justice Harish Kumar of the Patna High Court has been made the chairman of the committee while other members of the committee will be announced soon.\n\nThe committee will submit its recommendations for restoring the sanctity of examinations at various levels, including secondary, higher secondary, university, professional, technical and recruitment, to the Bihar government within three months of its formation.\n\nThe Bihar government had on August 23 last notified the formation of a five-member committee for examination reforms to look into the entire examination system and suggest measures to prevent leak of question papers, cheating, impersonation, tampering of answer sheets, manipulation of results, management of exam centres and delays.\n\nThe committee will recommend comprehensive reforms for examinations conducted by state government boards, commissions, universities and recruitment agencies.\n\nThe panel will also recommend a state-level examination calendar with fixed timelines for various types of competitive examinations right from the advertisement stage.\n\nThe move comes amid growing need to make examinations more transparent, efficient and reliable, particularly for students and job aspirants appearing for competitive and recruitment tests.\n\nThe committee is expected to examine existing procedures and suggest measures aimed at strengthening the overall examination framework across Bihar and restore its credibility.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues.",
+      "body_sha256": "57329d8f56ec603c761683b34e2546e48795ca4e57ef8a574ee2f383ee671d51",
+      "paragraphs": [
+        "The Bihar government has appointed Patna High Court judge Justice Harish Kumar as chairman of the Bihar Examination Reforms Expert Committee, an official notification issued on Tuesday stated.",
+        "The state government had announced to set up an expert committee to improve various competitive and recruitment examinations following several instances of irregularities, cancellation and question leak, which led to protests.",
+        "According to the notification of the General Administration Department, Justice Harish Kumar of the Patna High Court has been made the chairman of the committee while other members of the committee will be announced soon.",
+        "The committee will submit its recommendations for restoring the sanctity of examinations at various levels, including secondary, higher secondary, university, professional, technical and recruitment, to the Bihar government within three months of its formation.",
+        "The Bihar government had on August 23 last notified the formation of a five-member committee for examination reforms to look into the entire examination system and suggest measures to prevent leak of question papers, cheating, impersonation, tampering of answer sheets, manipulation of results, management of exam centres and delays.",
+        "The committee will recommend comprehensive reforms for examinations conducted by state government boards, commissions, universities and recruitment agencies.",
+        "The panel will also recommend a state-level examination calendar with fixed timelines for various types of competitive examinations right from the advertisement stage.",
+        "The move comes amid growing need to make examinations more transparent, efficient and reliable, particularly for students and job aspirants appearing for competitive and recruitment tests.",
+        "The committee is expected to examine existing procedures and suggest measures aimed at strengthening the overall examination framework across Bihar and restore its credibility.",
+        "Arun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+      ],
+      "jsonld_data": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.hindustantimes.com/india-news/bihar-appoints-patna-hc-judge-to-head-exams-reforms-committee-101788323662170.html",
+          "name": "Bihar appoints Patna HC judge to head exams reforms committee | India News",
+          "description": "The state government had announced to set up an expert committee to improve various competitive and recruitment examinations following several instances of irregularities, cancellation | India News",
+          "keywords": "Bihar Government,Patna High Court Judge,Justice Harish Kumar,Bihar Examination Reforms Expert Committee,Bihar government,Patna High Court",
+          "inLanguage": "en"
+        },
+        "inLanguage": "en",
+        "headline": "Bihar appoints Patna HC judge to head exams reforms committee | India News",
+        "description": "The state government had announced to set up an expert committee to improve various competitive and recruitment examinations following several instances of irregularities, cancellation | India News",
+        "keywords": "Bihar Government,Patna High Court Judge,Justice Harish Kumar,Bihar Examination Reforms Expert Committee,Bihar government,Patna High Court",
+        "articleSection": "india news",
+        "url": "https://www.hindustantimes.com/india-news/bihar-appoints-patna-hc-judge-to-head-exams-reforms-committee-101788323662170.html",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.hindustantimes.com/ht-img/img/2026/09/02/1600x900/logo/The-committee-will-recommend-comprehensive-reforms_1788323656171.jpg",
+          "height": 900,
+          "width": 1600
+        },
+        "datePublished": "2026-09-02T10:04:21+05:30",
+        "dateModified": "2026-09-02T10:04:21+05:30",
+        "articleBody": "The Bihar government has appointed Patna High Court judge Justice Harish Kumar as chairman of the Bihar Examination Reforms Expert Committee, an official notification issued on Tuesday stated.The state government had announced to set up an expert committee to improve various competitive and recruitment examinations following several instances of irregularities, cancellation and question leak, which led to protests.According to the notification of the General Administration Department, Justice Harish Kumar of the Patna High Court has been made the chairman of the committee while other members of the committee will be announced soon.The committee will submit its recommendations for restoring the sanctity of examinations at various levels, including secondary, higher secondary, university, professional, technical and recruitment, to the Bihar government within three months of its formation.Also Read:Rutuja Patil held in MPSC exam leakThe Bihar government had on August 23 last notified the formation of a five-member committee for examination reforms to look into the entire examination system and suggest measures to prevent leak of question papers, cheating, impersonation, tampering of answer sheets, manipulation of results, management of exam centres and delays.The committee will recommend comprehensive reforms for examinations conducted by state government boards, commissions, universities and recruitment agencies.The panel will also recommend a state-level examination calendar with fixed timelines for various types of competitive examinations right from the advertisement stage.The move comes amid growing need to make examinations more transparent, efficient and reliable, particularly for students and job aspirants appearing for competitive and recruitment tests.The committee is expected to examine existing procedures and suggest measures aimed at strengthening the overall examination framework across Bihar and restore its credibility.",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.hindustantimes.com/res/images/htlogo-v1.png",
+            "width": 600,
+            "height": 60
+          }
+        },
+        "associatedMedia": {
+          "@type": "ImageObject",
+          "url": "https://www.hindustantimes.com/ht-img/img/2026/09/02/1600x900/logo/The-committee-will-recommend-comprehensive-reforms_1788323656171.jpg",
+          "caption": "The committee will recommend comprehensive reforms for examinations conducted by state government boards. (Representative file photo)",
+          "description": "The committee will recommend comprehensive reforms for examinations conducted by state government boards. (Representative file photo)",
+          "height": "900",
+          "width": "1600"
+        },
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Arun Kumar",
+            "url": "https://www.hindustantimes.com/author/arun-kumar-101608310583746",
+            "sameAs": "https://twitter.com/ArunkrHt"
+          }
+        ]
+      },
+      "is_disambiguated": true,
+      "disambiguation_score": 100,
+      "disambiguation_reasons": [
+        "Byline matched target author name 'arun kumar'",
+        "Dateline matched positive Bihar location 'Patna'",
+        "Found 4 Bihar topic/entity markers in content"
       ]
     }
   ]

@@ -164,9 +164,13 @@ class DailySyncEngine {
       await new Promise(r => setTimeout(r, 1000));
     }
 
-    // 2. Section Feeds (Patna News, Education)
+    // 2. Section Feeds (Patna News, Education, India News)
     if (this.options.includeSections) {
-      const sectionUrls = [config.seeds.section_patna, config.seeds.section_education];
+      const sectionUrls = [
+        config.seeds.section_patna,
+        config.seeds.section_education,
+        config.seeds.section_india
+      ].filter(Boolean);
       for (const sectionUrl of sectionUrls) {
         try {
           console.log(`[Discovery] Scanning Section: ${sectionUrl}`);
@@ -179,7 +183,7 @@ class DailySyncEngine {
               const href = $(el).attr('href');
               if (!href) return;
 
-              if (href.match(/-(\d+)\.html$/) && (href.includes('/patna-news/') || href.includes('/education/'))) {
+              if (href.match(/-(\d+)\.html$/) && (href.includes('/patna-news/') || href.includes('/education/') || href.includes('/india-news/'))) {
                 const fullUrl = href.startsWith('http') ? href : `https://www.hindustantimes.com${href}`;
                 const normalized = fullUrl.toLowerCase().trim();
 

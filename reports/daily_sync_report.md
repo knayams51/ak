@@ -1,27 +1,28 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-08-29  
-**Execution Timestamp**: 2026-08-29T15:01:33.762Z  
-**Duration**: 6 seconds  
-**Archive Total Articles**: **245 articles**
+**Execution Date**: 2026-09-03  
+**Execution Timestamp**: 2026-09-03T15:31:55.920Z  
+**Duration**: 48 seconds  
+**Archive Total Articles**: **246 articles**
 
 ---
 
 ## 📊 Summary Metrics
 | Metric | Value |
 |---|---|
-| **Discovered New Candidate URLs** | 1 |
-| **Already Known / Indexed URLs** | 333 |
-| **Candidate URLs Crawled** | 1 |
-| **Accepted Arun Kumar Articles** | **0** |
-| **Filtered Out (Namesakes / Non-Patna)** | 1 |
+| **Discovered New Candidate URLs** | 62 |
+| **Already Known / Indexed URLs** | 239 |
+| **Candidate URLs Crawled** | 25 |
+| **Accepted Arun Kumar Articles** | **1** |
+| **Filtered Out (Namesakes / Non-Patna)** | 24 |
 | **Failed Requests** | 0 |
-| **New Package Created** | `None (Up-to-date)` |
+| **New Package Created** | `feed_run_20260903_2101` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-_No new articles discovered in this run. Archive is fully synchronized with Hindustan Times._
+- **[ACCEPTED]** [Bihar appoints Patna HC judge to head exams reforms committee  India News](https://www.hindustantimes.com/india-news/bihar-appoints-patna-hc-judge-to-head-exams-reforms-committee-101788323662170.html)  
+  *Dateline: Patna | Byline: Arun Kumar | SHA-256: `57329d8f56...`*
 
 ---
 

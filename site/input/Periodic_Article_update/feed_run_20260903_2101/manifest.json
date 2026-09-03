@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20260903_2101",
+  "generated_at": "2026-09-03T15:31:55.245Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101788323662170",
+      "slug": "bihar-appoints-patna-hc-judge-to-head-exams-reforms-committee-india-news-662170",
+      "title": "Bihar appoints Patna HC judge to head exams reforms committee | India News",
+      "sha256": "57329d8f56ec603c761683b34e2546e48795ca4e57ef8a574ee2f383ee671d51"
+    }
+  ]
+}

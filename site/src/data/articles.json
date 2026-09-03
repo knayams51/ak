@@ -1,5 +1,57 @@
 [
   {
+    "id": "101788323662170",
+    "slug": "bihar-appoints-patna-hc-judge-to-head-exams-reforms-committee-india-news-662170",
+    "title": "Bihar appoints Patna HC judge to head exams reforms committee",
+    "summary": "The state government had announced to set up an expert committee to improve various competitive and recruitment examinations following several instances of irregularities, cancellation | India News",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-09-02T04:34:21.000Z",
+    "modified_at": "2026-09-02T04:34:21.000Z",
+    "word_count": 290,
+    "reading_time_minutes": 2,
+    "topic": {
+      "id": "higher-education-reforms",
+      "slug": "higher-education-reforms",
+      "title": "Higher Education & Academic Reforms"
+    },
+    "subtopic": {
+      "id": "student-affairs-protests",
+      "slug": "student-affairs-protests",
+      "title": "Student Affairs, Exams & Protests"
+    },
+    "tags": [
+      "Patna High Court"
+    ],
+    "source_url": "https://www.hindustantimes.com/india-news/bihar-appoints-patna-hc-judge-to-head-exams-reforms-committee-101788323662170.html",
+    "provenance": {
+      "primary_source": {
+        "publication": "Hindustan Times",
+        "edition": "Patna / National",
+        "canonical_url": "https://www.hindustantimes.com/india-news/bihar-appoints-patna-hc-judge-to-head-exams-reforms-committee-101788323662170.html",
+        "original_article_id": "101788323662170",
+        "published_at": "2026-09-02T04:34:21.000Z",
+        "dateline": "Patna"
+      },
+      "archival_source": {
+        "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india-news/bihar-appoints-patna-hc-judge-to-head-exams-reforms-committee-101788323662170.html",
+        "wayback_timestamp": null,
+        "archive_status": "pending_snapshot"
+      },
+      "document_provenance": {
+        "has_pdf_scan": false,
+        "pdf_asset_path": null,
+        "pdf_public_url": null
+      },
+      "verification": {
+        "content_sha256": "57329d8f56ec603c761683b34e2546e48795ca4e57ef8a574ee2f383ee671d51",
+        "last_verified_at": "2026-09-03T15:31:55.243Z",
+        "integrity_status": "tamper_proof"
+      }
+    },
+    "body_markdown": "# Bihar appoints Patna HC judge to head exams reforms committee | India News\n\n**Patna** — The Bihar government has appointed Patna High Court judge Justice Harish Kumar as chairman of the Bihar Examination Reforms Expert Committee, an official notification issued on Tuesday stated.\n\nThe state government had announced to set up an expert committee to improve various competitive and recruitment examinations following several instances of irregularities, cancellation and question leak, which led to protests.\n\nAccording to the notification of the General Administration Department, Justice Harish Kumar of the Patna High Court has been made the chairman of the committee while other members of the committee will be announced soon.\n\nThe committee will submit its recommendations for restoring the sanctity of examinations at various levels, including secondary, higher secondary, university, professional, technical and recruitment, to the Bihar government within three months of its formation.\n\nThe Bihar government had on August 23 last notified the formation of a five-member committee for examination reforms to look into the entire examination system and suggest measures to prevent leak of question papers, cheating, impersonation, tampering of answer sheets, manipulation of results, management of exam centres and delays.\n\nThe committee will recommend comprehensive reforms for examinations conducted by state government boards, commissions, universities and recruitment agencies.\n\nThe panel will also recommend a state-level examination calendar with fixed timelines for various types of competitive examinations right from the advertisement stage.\n\nThe move comes amid growing need to make examinations more transparent, efficient and reliable, particularly for students and job aspirants appearing for competitive and recruitment tests.\n\nThe committee is expected to examine existing procedures and suggest measures aimed at strengthening the overall examination framework across Bihar and restore its credibility.\n\nArun Kumar is Senior Assistant Editor with Hindustan Times. He has spent two-and-half decades covering Bihar, including politics, educational and social issues."
+  },
+  {
     "id": "101787967847961",
     "slug": "no-student-will-fail-in-class-10-12-bihar-govt-to-replace-it-with-eligible-for-s-847961",
     "title": "No student will 'fail' in Class 10, 12: Bihar govt to replace it with 'Eligible for Skill Training'",
