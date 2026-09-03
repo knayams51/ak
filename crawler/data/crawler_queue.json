@@ -97758,6 +97758,16 @@
       "retry_count": 0,
       "error_message": null,
       "discovered_at": "2026-09-03T15:31:53.986Z"
+    },
+    {
+      "id": 8891,
+      "url": "https://www.hindustantimes.com/education/employment-news/boi-officers-recruitment-2026-registration-for-249-posts-begins-on-september-10-details-here-101788261391067.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T15:36:26.682Z"
     }
   ],
   "articles": [
