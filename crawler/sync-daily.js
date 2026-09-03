@@ -106,6 +106,10 @@ class DailySyncEngine {
     // 6. Generate Daily Sync QA Report
     this.generateDailyReport();
 
+    if (this.queue && typeof this.queue.flush === 'function') {
+      this.queue.flush();
+    }
+
     return this.stats;
   }
 
@@ -234,6 +238,8 @@ class DailySyncEngine {
    * Process and disambiguate candidate URLs
    */
   async processCandidates(urls) {
+    let consecutiveWafErrors = 0;
+
     for (let i = 0; i < urls.length; i++) {
       const targetUrl = urls[i];
       console.log(`\n[Process] [${i + 1}/${urls.length}] Fetching candidate: ${targetUrl}`);
@@ -246,7 +252,16 @@ class DailySyncEngine {
           validateStatus: (status) => status < 400
         });
 
-        if (response.status !== 200) {
+        if (response.status === 200) {
+          consecutiveWafErrors = 0;
+        } else {
+          if (response.status === 403 || response.status === 429) {
+            consecutiveWafErrors++;
+            if (consecutiveWafErrors >= 3) {
+              console.warn('[Sync] ⚠️ Circuit breaker tripped: 3 consecutive 403/429 responses from Hindustan Times. Aborting candidate scan gracefully to prevent IP blacklisting.');
+              break;
+            }
+          }
           throw new Error(`HTTP status ${response.status}`);
         }
 
@@ -274,6 +289,7 @@ class DailySyncEngine {
           fs.appendFileSync(config.paths.raw_output_jsonl, JSON.stringify(articleData) + '\n', 'utf8');
 
           this.queue.enqueue(targetUrl, 'daily_sync', 20);
+          this.queue.markCompleted(targetUrl);
           this.queue.saveArticle(articleData);
 
           this.stats.acceptedArticles.push(articleData);
@@ -282,12 +298,22 @@ class DailySyncEngine {
           const reason = evalResult.warnings.join('; ') || 'Disambiguation score below threshold';
           console.log(`[Process] [FILTERED OUT] ❌ Score: ${evalResult.score} | Reason: ${reason}`);
           this.queue.enqueue(targetUrl, 'daily_sync', 10);
+          this.queue.markFilteredOut(targetUrl, reason);
           this.stats.filteredCount++;
         }
 
       } catch (err) {
         console.error(`[Process] [ERROR] Failed crawling ${targetUrl}: ${err.message}`);
         this.stats.failedCount++;
+
+        const status = err.response ? err.response.status : (err.status || null);
+        if (status === 403 || status === 429) {
+          consecutiveWafErrors++;
+          if (consecutiveWafErrors >= 3) {
+            console.warn('[Sync] ⚠️ Circuit breaker tripped: 3 consecutive 403/429 responses from Hindustan Times. Aborting candidate scan gracefully to prevent IP blacklisting.');
+            break;
+          }
+        }
       }
 
       // Politeness delay
@@ -344,9 +370,18 @@ class DailySyncEngine {
       } catch (e) {}
     }
 
-    const acceptedRows = this.stats.acceptedArticles.map(a => 
+    const digitalRows = (this.stats.acceptedArticles || []).map(a => 
       `- **[ACCEPTED]** [${a.headline.replace(/[\|\[\]]/g, '')}](${a.url})  \n  *Dateline: ${a.dateline} | Byline: ${a.byline} | SHA-256: \`${a.body_sha256.substring(0, 10)}...\`*`
-    ).join('\n');
+    );
+
+    const printRows = (this.stats.xStats && this.stats.xStats.acceptedArticles && this.stats.xStats.acceptedArticles.length > 0)
+      ? this.stats.xStats.acceptedArticles.map(a =>
+          `- **[PRINT BROADSHEET EXCLUSIVE]** [${(a.headline || 'Print Dispatch').replace(/[\|\[\]]/g, '')}](${a.url || a.x_status_url})  \n  *Dateline: ${a.dateline || 'Patna'} | Byline: ${a.byline || 'Arun Kumar'} | SHA-256: \`${(a.body_sha256 || '').substring(0, 10)}...\`*`
+        )
+      : [];
+
+    const allAcceptedRows = [...digitalRows, ...printRows].join('\n');
+    const totalAcceptedInRun = (this.stats.acceptedCount || 0) + (this.stats.xStats?.acceptedArticles?.length || 0);
 
     const reportContent = `# Daily Sync & Living Archive QA Report
 
@@ -364,6 +399,7 @@ class DailySyncEngine {
 | **Already Known / Indexed URLs** | ${this.stats.alreadyKnownCount} |
 | **Candidate URLs Crawled** | ${this.stats.candidatesCrawled} |
 | **Accepted Arun Kumar Articles** | **${this.stats.acceptedCount}** |
+| **X Print Broadsheet Clippings Accepted** | **${this.stats.xStats?.acceptedArticles?.length || 0}** |
 | **Filtered Out (Namesakes / Non-Patna)** | ${this.stats.filteredCount} |
 | **Failed Requests** | ${this.stats.failedCount} |
 | **New Package Created** | \`${this.stats.newPackage ? this.stats.newPackage.runName : 'None (Up-to-date)'}\` |
@@ -371,7 +407,7 @@ class DailySyncEngine {
 ---
 
 ## 📰 Ingested Articles in this Run
-${this.stats.acceptedCount > 0 ? acceptedRows : '_No new articles discovered in this run. Archive is fully synchronized with Hindustan Times._'}
+${totalAcceptedInRun > 0 ? allAcceptedRows : '_No new articles discovered in this run. Archive is fully synchronized with Hindustan Times._'}
 
 ---
 
@@ -413,9 +449,15 @@ if (require.main === module) {
   const engine = new DailySyncEngine({ pages, limit, includeX, xLimit, forceRebuild });
   engine.run().then(stats => {
     console.log(`\n🎉 Daily sync completed successfully! Accepted: ${stats.acceptedCount}, Filtered: ${stats.filteredCount}`);
+    if (engine.queue && typeof engine.queue.flush === 'function') {
+      engine.queue.flush();
+    }
     process.exit(0);
   }).catch(err => {
     console.error('\n❌ Fatal daily sync error:', err);
+    if (engine && engine.queue && typeof engine.queue.flush === 'function') {
+      engine.queue.flush();
+    }
     process.exit(1);
   });
 }

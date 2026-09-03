@@ -66,10 +66,33 @@ class NewspaperLayoutAnalyzer:
 
         # 2. Detect Byline position (Arun Kumar / email)
         byline_y = None
-        for item in words:
-            if any(k in item['text'].lower() for k in ['arun', 'kumar', 'arunkr', 'hindustantimes']):
+        byline_found = False
+        top_zone_words = [w for w in words if w['y'] < 0.35 * h]
+        for i, item in enumerate(top_zone_words):
+            raw_t = item['text'].lower()
+            clean_token = re.sub(r'[^\w\-@]', '', raw_t)
+
+            # Single token matches: 'arunkr', 'arun-kumar', 'arunkumar', 'arun kr'
+            if any(k in clean_token for k in ['arunkr', 'arun-kumar', 'arunkumar']) or 'arun kr' in raw_t or 'arun kumar' in raw_t:
                 byline_y = item['y']
+                byline_found = True
                 break
+
+            # Adjacent word matches: 'arun' followed by 'kumar' or 'kr'
+            norm_token = re.sub(r'[^\w]', '', raw_t)
+            if norm_token == 'arun':
+                # Check next 1-2 tokens on roughly the same line
+                for offset in [1, 2]:
+                    if i + offset < len(top_zone_words):
+                        next_item = top_zone_words[i + offset]
+                        next_norm = re.sub(r'[^\w]', '', next_item['text'].lower())
+                        if next_norm in ['kumar', 'kr'] and abs(next_item['y'] - item['y']) < max(25, item['h'] * 2):
+                            byline_y = item['y']
+                            byline_found = True
+                            break
+                if byline_found:
+                    break
+
         if not byline_y:
             byline_y = int(0.18 * h)
 
@@ -210,14 +233,14 @@ class NewspaperLayoutAnalyzer:
                 cleaned_p = re.sub(r'\s+', ' ', cleaned_p).strip()
 
                 # Skip byline and email paragraphs before the story starts
-                if not paragraphs and any(k in cleaned_p.lower() for k in ['arun kumar', '@hindustantimes', 'arunkr']):
+                if not paragraphs and any(k in cleaned_p.lower() for k in ['arun kumar', '@hindustantimes', 'arunkr', 'arun kr']):
                     continue
 
                 # Clean dateline and smudges from the story-opening paragraph
                 if not paragraphs or ('PATNA' in cleaned_p.upper() and len(paragraphs) <= 1):
                     if re.search(r'(?:PATNA|Patna)\s*[:—\-]', cleaned_p):
                         cleaned_p = re.sub(r'^.*?(?:PATNA|Patna)\s*[:—\-]\s*', '', cleaned_p)
-                        cleaned_p = re.sub(r'^[a-zA-Z]{1,3}\s+', '', cleaned_p)
+                        cleaned_p = re.sub(r'^\(?\s*(?:htc|ht|pti|ani)\b\s*\)?\s*[:—\-]?\s*', '', cleaned_p, flags=re.IGNORECASE)
 
                 if cleaned_p and len(cleaned_p) > 15:
                     paragraphs.append(cleaned_p)
@@ -238,7 +261,9 @@ class NewspaperLayoutAnalyzer:
             'headline': headline,
             'layout_classification': layout_classification,
             'paragraphs': paragraphs,
-            'column_count': len(column_slices)
+            'column_count': len(column_slices),
+            'byline_found': byline_found,
+            'byline_y': byline_y
         }
 
 
@@ -278,17 +303,28 @@ class ClippingOCRExtractor:
         reasons = []
         warnings = []
 
-        # Check raw image text for author byline
+        # Check raw image text and layout analysis for author byline
         raw_full = pytesseract.image_to_string(img)
-        if "arun kumar" in raw_full.lower() or "arunkr" in raw_full.lower():
+        raw_full_lower = raw_full.lower()
+        has_author = bool(
+            analysis.get('byline_found', False)
+            or re.search(r'\barun[\s\-_]+(?:kumar|kr)\b|\barunkr\b', raw_full, re.IGNORECASE)
+            or "arun kumar" in raw_full_lower
+            or "arunkr" in raw_full_lower
+            or "arun-kumar" in raw_full_lower
+            or "arun kr" in raw_full_lower
+        )
+        has_byline = has_author
+
+        if has_author:
             score += 40
             reasons.append("Byline matched Arun Kumar")
             byline = "Arun Kumar"
         else:
-            byline = "Arun Kumar"
+            byline = "Unknown / Uncredited"
             warnings.append("No explicit Arun Kumar byline found")
 
-        if any(loc.lower() in raw_full.lower() for loc in self.positive_locations):
+        if any(loc.lower() in raw_full_lower for loc in self.positive_locations):
             score += 30
             reasons.append("Dateline matched positive Bihar location (Patna)")
             dateline = "Patna"
@@ -296,16 +332,18 @@ class ClippingOCRExtractor:
             dateline = "Patna"
             warnings.append("No Bihar location found")
 
-        keyword_hits = sum(1 for kw in self.positive_keywords if kw.lower() in raw_full.lower())
+        keyword_hits = sum(1 for kw in self.positive_keywords if kw.lower() in raw_full_lower)
         if keyword_hits > 0:
             score += min(30, keyword_hits * 10)
             reasons.append(f"Found {keyword_hits} Bihar news entities")
 
-        is_valid = score >= 50
+        is_valid = has_byline and score >= 50
         sha256_hash = hashlib.sha256(full_body_text.encode('utf-8')).hexdigest()
 
         result = {
             "is_valid": is_valid,
+            "has_author": has_author,
+            "has_byline": has_byline,
             "disambiguation_score": score,
             "disambiguation_reasons": reasons,
             "disambiguation_warnings": warnings,

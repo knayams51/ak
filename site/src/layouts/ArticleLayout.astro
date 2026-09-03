@@ -4,6 +4,7 @@ import TaxonomyBadge from '../components/TaxonomyBadge.astro';
 import SocialShareModal from '../components/SocialShareModal.astro';
 import AuthorPortrait from '../components/AuthorPortrait.astro';
 import authorConfig from '../config/author.config.json';
+import siteConfig from '../config/site.config.json';
 
 const { article, related = [] } = Astro.props;
 
@@ -55,6 +56,8 @@ const newsArticleSchema = {
   title={`${article.title} | Arun Kumar (Hindustan Times)`}
   description={article.summary}
   canonicalUrl={Astro.url.href}
+  ogImage={docProvenance?.clipping_public_url || siteConfig.default_og_image}
+  ogType="article"
 >
   <script type="application/ld+json" set:html={JSON.stringify(newsArticleSchema)} />
 

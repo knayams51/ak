@@ -50,8 +50,23 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       try {
         const res = await fetch('/search-index.json');
         searchIndex = await res.json();
-        searchMeta.textContent = `Showing ${searchIndex.length} dispatches. Start typing to search.`;
-        renderResults(searchIndex);
+
+        // Check for URL query parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        const initialQ = urlParams.get('q');
+        if (initialQ && searchInput) {
+          searchInput.value = initialQ;
+          const q = initialQ.toLowerCase().trim();
+          const filtered = searchIndex.filter(item => {
+            const combined = `${item.title} ${item.summary} ${item.topic} ${item.subtopic} ${(item.tags || []).join(' ')} ${item.dateline}`.toLowerCase();
+            return combined.includes(q);
+          });
+          searchMeta.textContent = `Found ${filtered.length} matching dispatches for "${initialQ}"`;
+          renderResults(filtered);
+        } else {
+          searchMeta.textContent = `Showing ${searchIndex.length} dispatches. Start typing to search.`;
+          renderResults(searchIndex);
+        }
       } catch (err) {
         searchMeta.textContent = 'Failed to load search index.';
       }

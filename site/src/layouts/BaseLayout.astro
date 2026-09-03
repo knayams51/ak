@@ -9,8 +9,19 @@ const {
   title = siteConfig.site_title,
   description = siteConfig.site_description,
   ogImage = siteConfig.default_og_image,
+  ogType = "website",
   canonicalUrl = Astro.url.href
 } = Astro.props;
+
+const siteUrl = Astro.site ? Astro.site.href : siteConfig.site_url;
+
+const absoluteOgImage = (ogImage && (ogImage.startsWith('http://') || ogImage.startsWith('https://')))
+  ? ogImage
+  : new URL(ogImage || siteConfig.default_og_image, siteUrl).href;
+
+const formattedCanonicalUrl = (canonicalUrl && (canonicalUrl.startsWith('http://') || canonicalUrl.startsWith('https://')))
+  ? canonicalUrl
+  : new URL(canonicalUrl, siteUrl).href;
 
 const personSchema = {
   "@context": "https://schema.org",
@@ -39,7 +50,7 @@ const personSchema = {
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title}</title>
   <meta name="description" content={description} />
-  <link rel="canonical" href={canonicalUrl} />
+  <link rel="canonical" href={formattedCanonicalUrl} />
   <link rel="alternate" type="application/rss+xml" title="Arun Kumar RSS Feed" href="/rss.xml" />
 
   {/* Anti-flash theme script */}
@@ -55,16 +66,17 @@ const personSchema = {
   </script>
 
   {/* OpenGraph & Twitter Cards */}
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content={ogType} />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
-  <meta property="og:url" content={canonicalUrl} />
-  <meta property="og:image" content={ogImage} />
+  <meta property="og:url" content={formattedCanonicalUrl} />
+  <meta property="og:image" content={absoluteOgImage} />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@ArunkrHt" />
   <meta name="twitter:creator" content="@ArunkrHt" />
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={absoluteOgImage} />
 
   {/* Structured Data */}
   <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />

@@ -155,7 +155,9 @@ class XSyncEngine {
         continue;
       }
 
-      for (const imgUrl of tweet.images) {
+      const currentTweetTitles = new Set();
+      for (let imgIdx = 0; imgIdx < tweet.images.length; imgIdx++) {
+        const imgUrl = tweet.images[imgIdx];
         console.log(`[XSync] Running OCR on image: ${imgUrl}`);
         const ocrData = await this.runOcr(imgUrl);
 
@@ -172,7 +174,7 @@ class XSyncEngine {
 
         // Check if title already known
         const normTitle = this.normalizeTitle(ocrData.headline);
-        if (knownTitles.has(normTitle)) {
+        if (knownTitles.has(normTitle) && !currentTweetTitles.has(normTitle)) {
           console.log(`[XSync] ℹ️ Article with similar title already exists in archive.`);
           this.stats.alreadyIngested++;
           continue;
@@ -191,7 +193,10 @@ class XSyncEngine {
         }
 
         // Generate Slug & Save Clipping Image
-        const slug = this.generateSlug(ocrData.headline, tweet.tweet_id);
+        const baseSlug = this.generateSlug(ocrData.headline, tweet.tweet_id);
+        const imageSuffix = tweet.images.length > 1 ? `-p${imgIdx + 1}` : '';
+        const slug = `${baseSlug}${imageSuffix}`;
+        const articleId = tweet.tweet_id ? `x_${tweet.tweet_id}${imageSuffix}` : `clipping_${Date.now()}_${imgIdx + 1}`;
         const clippingFilename = `${slug}.jpg`;
         const clippingLocalPath = path.join(this.clippingsDir, clippingFilename);
         const clippingPublicUrl = `/documents/clippings/${clippingFilename}`;
@@ -211,7 +216,8 @@ class XSyncEngine {
         });
 
         const articleData = {
-          article_id: tweet.tweet_id ? `x_${tweet.tweet_id}` : `clipping_${Date.now()}`,
+          article_id: articleId,
+          slug: slug,
           url: tweet.status_url,
           headline: ocrData.headline,
           sub_headline: tweet.text || 'Print broadsheet report published in Hindustan Times (Patna)',
@@ -223,7 +229,7 @@ class XSyncEngine {
           body_sha256: ocrData.body_sha256,
           is_print_exclusive: isPrintExclusive,
           clipping_public_url: clippingPublicUrl,
-          clipping_asset_path: clippingLocalPath,
+          clipping_asset_path: `documents/clippings/${clippingFilename}`,
           x_status_url: tweet.status_url,
           tweet_text: tweet.text,
           topic: tax.topic,
@@ -232,8 +238,10 @@ class XSyncEngine {
         };
 
         this.stats.acceptedArticles.push(articleData);
+        currentTweetTitles.add(normTitle);
         knownTitles.add(normTitle);
         if (tweet.tweet_id) knownIds.add(tweet.tweet_id);
+        knownIds.add(articleId);
       }
     }
 
@@ -273,7 +281,7 @@ class XSyncEngine {
     const processed = [];
 
     for (const art of articles) {
-      const slug = this.generateSlug(art.headline, art.article_id.replace(/^x_/, ''));
+      const slug = art.slug || this.generateSlug(art.headline, art.article_id.replace(/^x_/, ''));
       const words = art.body_text.split(/\s+/).length;
       const readMins = Math.max(1, Math.ceil(words / 200));
 

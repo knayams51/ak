@@ -96,7 +96,11 @@ class ArticleNormalizer {
   parseDate(dateStr) {
     if (!dateStr) return new Date().toISOString();
     try {
-      const d = new Date(dateStr);
+      const sanitized = String(dateStr)
+        .replace(/\bIST\b/gi, '+0530')
+        .replace(/\s+/g, ' ')
+        .trim();
+      const d = new Date(sanitized);
       if (!isNaN(d.getTime())) {
         return d.toISOString();
       }

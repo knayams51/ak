@@ -50,25 +50,29 @@ class AuthorDisambiguator {
     }
 
     // 2. Dateline & Location Verification
-    let datelinePositive = false;
-    for (const posDateline of this.config.positive_datelines) {
-      const lowerPos = posDateline.toLowerCase();
-      if (dateline.includes(lowerPos) || body.startsWith(lowerPos) || headline.includes(lowerPos)) {
-        datelinePositive = true;
-        score += 30;
-        reasons.push(`Dateline matched positive Bihar location '${posDateline}'`);
+    const openingDatelineMatch = body.match(/^([a-z\s]{3,20}):/);
+    const openingDateline = openingDatelineMatch ? openingDatelineMatch[1].trim() : '';
+
+    // Check for negative locations FIRST (Namesakes in Delhi, Mumbai, Lucknow, etc.)
+    let datelineNegative = false;
+    for (const negDateline of this.config.negative_datelines) {
+      const lowerNeg = negDateline.toLowerCase();
+      if (dateline.includes(lowerNeg) || (openingDateline && openingDateline.includes(lowerNeg))) {
+        datelineNegative = true;
+        score -= 50;
+        warnings.push(`Dateline matched negative location '${negDateline}'`);
         break;
       }
     }
 
-    // Check for negative locations (Namesakes in Delhi, Mumbai, etc.)
-    let datelineNegative = false;
-    for (const negDateline of this.config.negative_datelines) {
-      const lowerNeg = negDateline.toLowerCase();
-      if (dateline.includes(lowerNeg) && !datelinePositive) {
-        datelineNegative = true;
-        score -= 50;
-        warnings.push(`Dateline matched negative location '${negDateline}'`);
+    // Check for positive locations (Bihar locations)
+    let datelinePositive = false;
+    for (const posDateline of this.config.positive_datelines) {
+      const lowerPos = posDateline.toLowerCase().replace(/:$/, '');
+      if (dateline.includes(lowerPos) || (openingDateline && openingDateline.includes(lowerPos))) {
+        datelinePositive = true;
+        score += 30;
+        reasons.push(`Dateline matched positive Bihar location '${posDateline}'`);
         break;
       }
     }
@@ -147,6 +151,17 @@ if (require.main === module) {
         headline: 'Delhi Metro phase 4 construction pace increases',
         body_text: 'NEW DELHI: The Delhi Metro Rail Corporation announced new tenders for phase 4...',
         url: 'https://www.hindustantimes.com/cities/delhi-news/delhi-metro-phase-4-101619999.html'
+      },
+      expected: false
+    },
+    {
+      name: 'Invalid HT Delhi Namesake Article with Bihar in Headline',
+      data: {
+        byline: 'Arun Kumar',
+        dateline: 'New Delhi',
+        headline: 'Centre discusses Bihar flood relief package in New Delhi',
+        body_text: 'NEW DELHI: Union officials met on Friday to discuss Bihar flood relief funds...',
+        url: 'https://www.hindustantimes.com/cities/delhi-news/delhi-bihar-meeting-101619998.html'
       },
       expected: false
     }

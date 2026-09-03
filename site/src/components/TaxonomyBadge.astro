@@ -2,23 +2,132 @@
 const { topic, subtopic, size = 'normal' } = Astro.props;
 if (!topic) return null;
 
-const colorMap = {
-  'politics-elections-governance': { bg: '#fef3c7', text: '#92400e', border: '#fcd34d' },
-  'higher-education-reforms': { bg: '#e0e7ff', text: '#3730a3', border: '#a5b4fc' },
-  'judiciary-law-patna-high-court': { bg: '#d1fae5', text: '#065f46', border: '#6ee7b7' },
-  'state-administration-vigilance': { bg: '#f3e8ff', text: '#6b21a8', border: '#d8b4fe' },
-  'social-issues-health-culture': { bg: '#ffe4e6', text: '#9f1239', border: '#fda4af' }
-};
-
-const colors = colorMap[topic.slug || topic.id] || { bg: '#f3f4f6', text: '#374151', border: '#d1d5db' };
-const padding = size === 'small' ? '0.15rem 0.45rem' : '0.25rem 0.65rem';
-const fontSize = size === 'small' ? '0.7rem' : '0.75rem';
+const topicSlug = topic.slug || topic.id || 'default';
+const isSmall = size === 'small';
 ---
 
 <a 
-  href={`/topics/${topic.slug || topic.id}`} 
-  style={`display: inline-flex; align-items: center; gap: 0.35rem; background-color: ${colors.bg}; color: ${colors.text}; border: 1px solid ${colors.border}; padding: ${padding}; font-size: ${fontSize}; font-weight: 700; border-radius: 9999px; text-decoration: none; text-transform: uppercase; letter-spacing: 0.03em;`}
+  href={`/topics/${topicSlug}`} 
+  class={`taxonomy-badge badge-${topicSlug} ${isSmall ? 'badge-sm' : ''}`}
 >
-  <span style={`width: 6px; height: 6px; border-radius: 50%; background-color: ${colors.text};`}></span>
-  {topic.title}
+  <span class="badge-dot"></span>
+  <span class="badge-label">{topic.title}</span>
 </a>
+
+<style>
+.taxonomy-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem 0.65rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  border-radius: 9999px;
+  text-decoration: none !important;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  transition: transform 0.15s ease, filter 0.15s ease, border-color 0.15s ease;
+  border: 1px solid var(--badge-border, #d1d5db);
+  background-color: var(--badge-bg, #f3f4f6);
+  color: var(--badge-text, #374151);
+  line-height: 1.2;
+}
+
+.taxonomy-badge:hover {
+  filter: brightness(0.95);
+  transform: translateY(-1px);
+}
+
+:global([data-theme="dark"]) .taxonomy-badge:hover {
+  filter: brightness(1.15);
+}
+
+.taxonomy-badge.badge-sm {
+  padding: 0.15rem 0.45rem;
+  font-size: 0.7rem;
+}
+
+.badge-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: currentColor;
+  flex-shrink: 0;
+}
+
+.badge-label {
+  white-space: nowrap;
+}
+
+/* Default / Fallback */
+.badge-default {
+  --badge-bg: #f3f4f6;
+  --badge-text: #374151;
+  --badge-border: #d1d5db;
+}
+:global([data-theme="dark"]) .badge-default {
+  --badge-bg: rgba(156, 163, 175, 0.16);
+  --badge-text: #e5e7eb;
+  --badge-border: rgba(156, 163, 175, 0.35);
+}
+
+/* Politics, Elections & Governance */
+.badge-politics-elections-governance {
+  --badge-bg: #fef3c7;
+  --badge-text: #92400e;
+  --badge-border: #fcd34d;
+}
+:global([data-theme="dark"]) .badge-politics-elections-governance {
+  --badge-bg: rgba(245, 158, 11, 0.16);
+  --badge-text: #fbbf24;
+  --badge-border: rgba(245, 158, 11, 0.4);
+}
+
+/* Higher Education Reforms */
+.badge-higher-education-reforms {
+  --badge-bg: #e0e7ff;
+  --badge-text: #3730a3;
+  --badge-border: #a5b4fc;
+}
+:global([data-theme="dark"]) .badge-higher-education-reforms {
+  --badge-bg: rgba(99, 102, 241, 0.16);
+  --badge-text: #a5b4fc;
+  --badge-border: rgba(99, 102, 241, 0.4);
+}
+
+/* Judiciary & Law (Patna High Court) */
+.badge-judiciary-law-patna-high-court {
+  --badge-bg: #d1fae5;
+  --badge-text: #065f46;
+  --badge-border: #6ee7b7;
+}
+:global([data-theme="dark"]) .badge-judiciary-law-patna-high-court {
+  --badge-bg: rgba(16, 185, 129, 0.16);
+  --badge-text: #6ee7b7;
+  --badge-border: rgba(16, 185, 129, 0.4);
+}
+
+/* State Administration & Vigilance */
+.badge-state-administration-vigilance {
+  --badge-bg: #f3e8ff;
+  --badge-text: #6b21a8;
+  --badge-border: #d8b4fe;
+}
+:global([data-theme="dark"]) .badge-state-administration-vigilance {
+  --badge-bg: rgba(168, 85, 247, 0.16);
+  --badge-text: #d8b4fe;
+  --badge-border: rgba(168, 85, 247, 0.4);
+}
+
+/* Social Issues, Health & Culture */
+.badge-social-issues-health-culture {
+  --badge-bg: #ffe4e6;
+  --badge-text: #9f1239;
+  --badge-border: #fda4af;
+}
+:global([data-theme="dark"]) .badge-social-issues-health-culture {
+  --badge-bg: rgba(244, 63, 94, 0.16);
+  --badge-text: #fda4af;
+  --badge-border: rgba(244, 63, 94, 0.4);
+}
+</style>

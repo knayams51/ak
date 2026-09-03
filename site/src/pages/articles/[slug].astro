@@ -14,15 +14,20 @@ const { article } = Astro.props;
 const related = (relatedContent as Record<string, any>)[article.slug] || [];
 
 // Render paragraphs
-const paragraphs = article.body_markdown
-  ? article.body_markdown.replace(/^#\s+[^\n]+\n+/, '').split(/\n\s*\n/)
-  : [article.summary];
+const cleanBody = article.body_markdown
+  ? article.body_markdown.replace(/\r\n/g, '\n').replace(/^#\s+[^\n]+\n+/, '')
+  : (article.summary || '');
+
+const paragraphs = cleanBody ? cleanBody.split(/\n\s*\n/) : [];
 ---
 
 <ArticleLayout article={article} related={related}>
   {paragraphs.map((p: string) => {
     const trimmed = p.trim();
     if (!trimmed) return null;
-    return <p>{trimmed}</p>;
+    const htmlFormatted = trimmed
+      .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+      .replace(/(?<!\*)\*([^*]+)\*(?!\*)/g, '<em>$1</em>');
+    return <p set:html={htmlFormatted} />;
   })}
 </ArticleLayout>

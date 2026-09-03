@@ -6,6 +6,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const dataPath = path.join(__dirname, '..', 'src', 'data', 'articles.json');
+const taxonomyPath = path.join(__dirname, '..', 'src', 'config', 'taxonomy.config.json');
 const publicDir = path.join(__dirname, '..', 'public');
 const baseUrl = process.env.SITE_URL || 'https://ak-89y.pages.dev';
 
@@ -15,6 +16,9 @@ if (!fs.existsSync(dataPath)) {
 }
 
 const articles = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+const taxonomy = JSON.parse(fs.readFileSync(taxonomyPath, 'utf8'));
+
+const today = new Date().toISOString().split('T')[0];
 
 const staticRoutes = [
   '',
@@ -38,17 +42,31 @@ for (const route of staticRoutes) {
 `;
 }
 
+if (taxonomy.topics && Array.isArray(taxonomy.topics)) {
+  for (const topic of taxonomy.topics) {
+    sitemapXml += `  <url>
+    <loc>${baseUrl}/topics/${topic.slug}</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>\n`;
+  }
+}
+
 for (const art of articles) {
+  const artDate = String(art.modified_at || art.published_at || today);
+  const lastmod = artDate.split('T')[0];
   sitemapXml += `  <url>
     <loc>${baseUrl}/articles/${art.slug}</loc>
-    <lastmod>${art.modified_at || art.published_at}</lastmod>
+    <lastmod>${lastmod}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 `;
 }
 
-sitemapXml += `</urlset>`;
+sitemapXml += `</urlset>\n`;
 
 fs.writeFileSync(path.join(publicDir, 'sitemap.xml'), sitemapXml, 'utf8');
-console.log(`[GenerateSitemap] Generated sitemap.xml with ${staticRoutes.length + articles.length} URLs.`);
+const topicsCount = taxonomy.topics && Array.isArray(taxonomy.topics) ? taxonomy.topics.length : 0;
+console.log(`[GenerateSitemap] Generated sitemap.xml with ${staticRoutes.length + topicsCount + articles.length} URLs.`);

@@ -12,6 +12,7 @@ build/
 .cache/
 
 # Crawler temp & runtime data
+crawler/data/
 crawler/data/*.db-journal
 crawler/data/*.db-wal
 crawler/data/*.db-shm
@@ -19,6 +20,8 @@ crawler/data/*.db-shm
 puppeteer_downloads/
 crawler_cache/
 *.log
+__pycache__/
+*.py[cod]
 
 # OS generated
 .DS_Store

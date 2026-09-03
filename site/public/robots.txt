@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ak-89y.pages.dev/sitemap.xml

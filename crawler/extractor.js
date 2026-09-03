@@ -38,8 +38,18 @@ class HTArticleExtractor {
         const text = $(elem).html();
         if (!text) return;
         const parsed = JSON.parse(text);
-        if (parsed['@type'] === 'NewsArticle' || parsed['@type'] === 'Article' || (Array.isArray(parsed['@graph']) && parsed['@graph'].some(g => g['@type'] === 'NewsArticle'))) {
+        if (parsed['@type'] === 'NewsArticle' || parsed['@type'] === 'Article') {
           jsonldData = parsed;
+        } else if (Array.isArray(parsed['@graph'])) {
+          const articleNode = parsed['@graph'].find(g => g && (g['@type'] === 'NewsArticle' || g['@type'] === 'Article'));
+          if (articleNode) {
+            jsonldData = articleNode;
+          }
+        } else if (Array.isArray(parsed)) {
+          const articleNode = parsed.find(g => g && (g['@type'] === 'NewsArticle' || g['@type'] === 'Article'));
+          if (articleNode) {
+            jsonldData = articleNode;
+          }
         }
       } catch (e) {
         // Continue searching
@@ -77,7 +87,7 @@ class HTArticleExtractor {
       byline = $('.storyBy, .byLine, .author-name, .story-byline, .author').first().text().replace(/^By:?\s*/i, '').trim();
     }
     if (!byline) {
-      byline = 'Arun Kumar'; // Default fallback if crawled from author profile
+      byline = '';
     }
 
     // 5. Timestamps
@@ -130,11 +140,16 @@ class HTArticleExtractor {
     const bodyText = paragraphs.join('\n\n');
 
     // 7. Dateline Extraction
-    let dateline = 'Patna';
+    let dateline = '';
     const firstP = paragraphs[0] || '';
     const datelineMatch = firstP.match(/^([A-Z\s]{3,20}):\s*/);
     if (datelineMatch) {
       dateline = datelineMatch[1].trim();
+    } else if (jsonldData && jsonldData.dateline) {
+      dateline = (typeof jsonldData.dateline === 'string' ? jsonldData.dateline : (jsonldData.dateline.name || '')).trim();
+    } else if (jsonldData && jsonldData.contentLocation) {
+      const loc = jsonldData.contentLocation;
+      dateline = (typeof loc === 'string' ? loc : (loc.name || '')).trim();
     }
 
     // 8. Article ID & URL

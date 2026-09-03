@@ -21,6 +21,7 @@ execSync(`node "${path.join(siteScripts, 'build-site-data.js')}"`, { stdio: 'inh
 execSync(`node "${path.join(siteScripts, 'generate-related-content.js')}"`, { stdio: 'inherit' });
 execSync(`node "${path.join(siteScripts, 'generate-sitemap.js')}"`, { stdio: 'inherit' });
 execSync(`node "${path.join(siteScripts, 'generate-rss.js')}"`, { stdio: 'inherit' });
+execSync(`node "${path.join(siteScripts, 'validate-site.js')}"`, { stdio: 'inherit' });
 
 // Step 2: Compile with Astro
 console.log('[Build] Step 2: Compiling static site with Astro SSG...');

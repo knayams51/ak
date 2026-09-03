@@ -49,6 +49,17 @@ for (const art of articles.slice(0, 30)) {
     }
   });
 
+  const rawCategory = (art.topic && art.topic.title) || 'Bihar News';
+  const cleanCategory = rawCategory.replace(/[<>&"']/g, (c) => {
+    switch (c) {
+      case '<': return '&lt;';
+      case '>': return '&gt;';
+      case '&': return '&amp;';
+      case '"': return '&quot;';
+      case "'": return '&apos;';
+    }
+  });
+
   rssXml += `    <item>
       <title>${cleanTitle}</title>
       <link>${baseUrl}/articles/${art.slug}</link>
@@ -56,7 +67,7 @@ for (const art of articles.slice(0, 30)) {
       <pubDate>${pubDate}</pubDate>
       <description>${cleanSummary}</description>
       <author>arunkumar.htpatna@gmail.com (Arun Kumar)</author>
-      <category>${(art.topic && art.topic.title) || 'Bihar News'}</category>
+      <category>${cleanCategory}</category>
     </item>
 `;
 }

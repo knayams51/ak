@@ -83,6 +83,7 @@ class QueueManager {
   }
 
   saveFallback(immediate = false) {
+    if (!this.useFallback || !this.fallbackPath) return;
     if (immediate) {
       if (this._saveTimeout) clearTimeout(this._saveTimeout);
       this._saveTimeout = null;
@@ -98,6 +99,10 @@ class QueueManager {
         fs.writeFileSync(this.fallbackPath, JSON.stringify(this.fallbackState, null, 2), 'utf8');
       } catch (e) {}
     }, 400);
+  }
+
+  flush() {
+    this.saveFallback(true);
   }
 
   enqueue(url, sourceType = 'seed', priority = 10) {
@@ -164,16 +169,26 @@ class QueueManager {
     }
   }
 
-  markProcessing(id) {
+  _resolveTarget(urlOrId) {
+    const isId = typeof urlOrId === 'number' || (typeof urlOrId === 'string' && /^\d+$/.test(urlOrId.trim()));
+    if (isId) {
+      return { isId: true, value: typeof urlOrId === 'number' ? urlOrId : parseInt(urlOrId.trim(), 10) };
+    }
+    const cleanUrl = typeof urlOrId === 'string' ? urlOrId.split('#')[0].trim() : String(urlOrId);
+    return { isId: false, value: cleanUrl };
+  }
+
+  markProcessing(urlOrId) {
+    const { isId, value } = this._resolveTarget(urlOrId);
     if (!this.useFallback) {
       const stmt = this.db.prepare(`
         UPDATE request_queue
         SET status = 'processing', updated_at = CURRENT_TIMESTAMP
-        WHERE id = ?
+        WHERE ${isId ? 'id = ?' : 'url = ?'}
       `);
-      stmt.run(id);
+      stmt.run(value);
     } else {
-      const item = this.fallbackState.queue.find(q => q.id === id);
+      const item = this.fallbackState.queue.find(q => isId ? q.id === value : q.url === value);
       if (item) {
         item.status = 'processing';
         item.updated_at = new Date().toISOString();
@@ -182,16 +197,17 @@ class QueueManager {
     }
   }
 
-  markCompleted(id) {
+  markCompleted(urlOrId) {
+    const { isId, value } = this._resolveTarget(urlOrId);
     if (!this.useFallback) {
       const stmt = this.db.prepare(`
         UPDATE request_queue
         SET status = 'completed', updated_at = CURRENT_TIMESTAMP
-        WHERE id = ?
+        WHERE ${isId ? 'id = ?' : 'url = ?'}
       `);
-      stmt.run(id);
+      stmt.run(value);
     } else {
-      const item = this.fallbackState.queue.find(q => q.id === id);
+      const item = this.fallbackState.queue.find(q => isId ? q.id === value : q.url === value);
       if (item) {
         item.status = 'completed';
         item.updated_at = new Date().toISOString();
@@ -200,16 +216,17 @@ class QueueManager {
     }
   }
 
-  markFilteredOut(id, reason) {
+  markFilteredOut(urlOrId, reason) {
+    const { isId, value } = this._resolveTarget(urlOrId);
     if (!this.useFallback) {
       const stmt = this.db.prepare(`
         UPDATE request_queue
         SET status = 'filtered_out', error_message = ?, updated_at = CURRENT_TIMESTAMP
-        WHERE id = ?
+        WHERE ${isId ? 'id = ?' : 'url = ?'}
       `);
-      stmt.run(reason, id);
+      stmt.run(reason, value);
     } else {
-      const item = this.fallbackState.queue.find(q => q.id === id);
+      const item = this.fallbackState.queue.find(q => isId ? q.id === value : q.url === value);
       if (item) {
         item.status = 'filtered_out';
         item.error_message = reason;
@@ -219,7 +236,8 @@ class QueueManager {
     }
   }
 
-  markFailed(id, errorMessage, maxRetries = 3) {
+  markFailed(urlOrId, errorMessage, maxRetries = 3) {
+    const { isId, value } = this._resolveTarget(urlOrId);
     if (!this.useFallback) {
       const stmt = this.db.prepare(`
         UPDATE request_queue
@@ -227,11 +245,11 @@ class QueueManager {
             retry_count = retry_count + 1,
             error_message = ?,
             updated_at = CURRENT_TIMESTAMP
-        WHERE id = ?
+        WHERE ${isId ? 'id = ?' : 'url = ?'}
       `);
-      stmt.run(maxRetries, errorMessage, id);
+      stmt.run(maxRetries, errorMessage, value);
     } else {
-      const item = this.fallbackState.queue.find(q => q.id === id);
+      const item = this.fallbackState.queue.find(q => isId ? q.id === value : q.url === value);
       if (item) {
         item.retry_count = (item.retry_count || 0) + 1;
         item.error_message = errorMessage;
@@ -300,6 +318,7 @@ class QueueManager {
   }
 
   close() {
+    this.flush();
     if (this.db) {
       this.db.close();
     }
