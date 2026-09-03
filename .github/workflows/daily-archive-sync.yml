@@ -82,14 +82,18 @@ jobs:
           git config user.name "Arun Kumar Living Archive Bot"
           git config user.email "archive-bot@ak-89y.pages.dev"
           
-          git add site/input/Periodic_Article_update/ site/src/data/ site/public/ crawler/data/ reports/ package-lock.json
+          git add site/input/Periodic_Article_update/ site/src/data/ site/public/ crawler/data/ reports/
+          # Discard any unstaged modifications in other files so rebase is never blocked
+          git checkout -- .
           
           DATE_STR=$(date -u +'%Y-%m-%d %H:%M UTC')
-          git commit -m "chore(sync): automated daily harvest & archive update [$DATE_STR] [skip ci]"
-          
-          # Pull latest in case of concurrent changes and push
-          git pull --rebase origin main
-          git push origin main
+          if git commit -m "chore(sync): automated daily harvest & archive update [$DATE_STR] [skip ci]"; then
+            # Pull latest in case of concurrent changes and push
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "ℹ️ No staged changes to commit."
+          fi
 
       - name: 📋 Post GitHub Step Summary
         if: always()
