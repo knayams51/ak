@@ -9,10 +9,18 @@ from io import BytesIO
 from PIL import Image, ImageEnhance, ImageFilter
 import pytesseract
 
-# Configure Tesseract path on Windows
-TESSERACT_CMD = os.environ.get('TESSERACT_PATH', r'C:\Program Files\Tesseract-OCR\tesseract.exe')
-if os.path.exists(TESSERACT_CMD):
-    pytesseract.pytesseract.tesseract_cmd = TESSERACT_CMD
+# Configure Tesseract path across Windows and Linux
+candidates = [
+    os.environ.get('TESSERACT_PATH', ''),
+    r'C:\Program Files\Tesseract-OCR\tesseract.exe',
+    r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe',
+    '/usr/bin/tesseract',
+    '/usr/local/bin/tesseract'
+]
+for cmd in candidates:
+    if cmd and os.path.exists(cmd):
+        pytesseract.pytesseract.tesseract_cmd = cmd
+        break
 
 class ClippingOCRExtractor:
     def __init__(self):

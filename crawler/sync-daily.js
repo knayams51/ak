@@ -8,6 +8,7 @@ const QueueManager = require('./queue-manager');
 const HTArticleExtractor = require('./extractor');
 const AuthorDisambiguator = require('./author-filter');
 const PackageBuilder = require('../pipeline/package-builder');
+const XSyncEngine = require('./x-sync');
 
 class DailySyncEngine {
   constructor(options = {}) {
@@ -15,6 +16,8 @@ class DailySyncEngine {
       pages: 3,
       limit: 25,
       includeSections: true,
+      includeX: true,
+      xLimit: 15,
       forceRebuild: false
     }, options);
 
@@ -61,25 +64,43 @@ class DailySyncEngine {
     this.stats.discoveredCount = candidateUrls.length;
     console.log(`[Sync] Discovered ${candidateUrls.length} new candidate URLs to inspect.`);
 
-    // 3. Process candidate URLs
+    // 3. Process candidate URLs from Hindustan Times Digital
     if (candidateUrls.length > 0) {
-      console.log(`\n[Sync] Processing up to ${Math.min(candidateUrls.length, this.options.limit)} candidates...`);
+      console.log(`\n[Sync] Processing up to ${Math.min(candidateUrls.length, this.options.limit)} HT digital candidates...`);
       await this.processCandidates(candidateUrls.slice(0, this.options.limit));
     }
 
-    // 4. Package newly accepted articles
+    // 4. Package newly accepted digital articles
     if (this.stats.acceptedCount > 0) {
-      console.log(`\n[Sync] 🎯 Accepted ${this.stats.acceptedCount} new article(s) by Arun Kumar!`);
+      console.log(`\n[Sync] 🎯 Accepted ${this.stats.acceptedCount} new digital article(s) by Arun Kumar!`);
       const packageResult = this.packageBuilder.buildPackage(this.stats.acceptedArticles);
       this.stats.newPackage = packageResult;
+    }
 
-      // 5. Rebuild site data and search index
+    // 5. Stream 2: X (Twitter) Print Broadsheet Harvester & OCR
+    if (this.options.includeX) {
+      console.log('\n===============================================================');
+      console.log('   📰 Stream 2: X (@ArunkrHt) Print Broadsheet Harvester & OCR ');
+      console.log('===============================================================');
+      try {
+        const xEngine = new XSyncEngine({
+          screenName: 'ArunkrHt',
+          limit: this.options.xLimit,
+          forceRebuild: false
+        });
+        const xStats = await xEngine.run();
+        this.stats.xStats = xStats;
+      } catch (err) {
+        console.warn(`[Sync] ⚠️ Warning during X print sync: ${err.message}. Continuing...`);
+      }
+    }
+
+    // 6. Rebuild site data and search index once if any stream accepted articles
+    const totalNew = this.stats.acceptedCount + (this.stats.xStats?.acceptedArticles?.length || 0);
+    if (totalNew > 0 || this.options.forceRebuild) {
       this.rebuildSiteData();
     } else {
-      console.log('\n[Sync] ✅ Archive is completely up to date. No new articles needed packaging.');
-      if (this.options.forceRebuild) {
-        this.rebuildSiteData();
-      }
+      console.log('\n[Sync] ✅ Living Archive is completely up to date.');
     }
 
     // 6. Generate Daily Sync QA Report
@@ -376,15 +397,20 @@ if (require.main === module) {
   const args = process.argv.slice(2);
   let pages = 3;
   let limit = 25;
+  let includeX = true;
+  let xLimit = 15;
   let forceRebuild = false;
 
   for (const arg of args) {
     if (arg.startsWith('--pages=')) pages = parseInt(arg.split('=')[1], 10);
     if (arg.startsWith('--limit=')) limit = parseInt(arg.split('=')[1], 10);
+    if (arg.startsWith('--x-limit=')) xLimit = parseInt(arg.split('=')[1], 10);
+    if (arg === '--skip-x' || arg === '--include-x=false') includeX = false;
+    if (arg === '--include-x') includeX = true;
     if (arg === '--force-rebuild') forceRebuild = true;
   }
 
-  const engine = new DailySyncEngine({ pages, limit, forceRebuild });
+  const engine = new DailySyncEngine({ pages, limit, includeX, xLimit, forceRebuild });
   engine.run().then(stats => {
     console.log(`\n🎉 Daily sync completed successfully! Accepted: ${stats.acceptedCount}, Filtered: ${stats.filteredCount}`);
     process.exit(0);

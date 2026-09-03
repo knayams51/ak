@@ -23,7 +23,9 @@ class XCrawler {
       'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
       'C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe',
       '/usr/bin/google-chrome',
+      '/usr/bin/google-chrome-stable',
       '/usr/bin/chromium-browser',
+      '/usr/bin/chromium',
       '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
     ];
     for (const c of candidates) {
@@ -61,6 +63,19 @@ class XCrawler {
       const page = await browser.newPage();
       await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36');
       await page.setViewport({ width: 1280, height: 900 });
+
+      // Inject auth_token cookie if provided
+      if (process.env.X_AUTH_TOKEN) {
+        console.log(`[XCrawler] Authenticating session via X_AUTH_TOKEN secret...`);
+        await page.setCookie({
+          name: 'auth_token',
+          value: process.env.X_AUTH_TOKEN.trim(),
+          domain: '.x.com',
+          path: '/',
+          httpOnly: true,
+          secure: true
+        });
+      }
 
       // Block unnecessary heavy resources
       await page.setRequestInterception(true);

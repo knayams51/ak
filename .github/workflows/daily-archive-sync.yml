@@ -45,19 +45,33 @@ jobs:
           node-version: '20'
           cache: 'npm'
 
-      - name: 📦 Install Dependencies
+      - name: 🐍 Setup Python (v3.11)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install Tesseract OCR & Python Libraries
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-eng
+          pip install pytesseract pillow requests
+
+      - name: 📦 Install Node Dependencies
         run: |
           npm install
           npm --prefix site install
+          npm --prefix crawler install
 
-      - name: 🕷️ Execute Daily Sync Engine
+      - name: 🕷️ Execute Daily Sync Engine (HT Digital + X Print Broadsheets)
         id: sync_engine
+        env:
+          X_AUTH_TOKEN: ${{ secrets.X_AUTH_TOKEN }}
         run: |
           PAGES="${{ github.event.inputs.pages || '3' }}"
           LIMIT="${{ github.event.inputs.limit || '25' }}"
           FORCE="${{ github.event.inputs.force_rebuild == 'true' && '--force-rebuild' || '' }}"
           
-          echo "Running daily sync with: --pages=$PAGES --limit=$LIMIT $FORCE"
+          echo "Running daily dual-source sync with: --pages=$PAGES --limit=$LIMIT $FORCE"
           node crawler/sync-daily.js --pages=$PAGES --limit=$LIMIT $FORCE
 
       - name: 🛡️ Validate Site Integrity & Provenance

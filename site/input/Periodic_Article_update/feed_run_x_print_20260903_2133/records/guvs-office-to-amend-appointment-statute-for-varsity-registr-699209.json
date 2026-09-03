@@ -1,0 +1,58 @@
+{
+  "id": "x_2094346199050699209",
+  "slug": "guvs-office-to-amend-appointment-statute-for-varsity-registr-699209",
+  "title": "Guv’s office to amend appointment statute for varsity registrars",
+  "summary": "Print broadsheet report published in Hindustan Times (Patna)",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-03T16:03:16.322Z",
+  "modified_at": "2026-09-03T16:03:16.322Z",
+  "word_count": 348,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2094346199050699209",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2094346199050699209",
+      "original_article_id": "x_2094346199050699209",
+      "published_at": "2026-09-03T16:03:16.322Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2094346199050699209",
+      "tweet_commentary": "",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/guvs-office-to-amend-appointment-statute-for-varsity-registr-699209.jpg",
+      "clipping_asset_path": "C:\\Users\\Mayank Shekhar\\Downloads\\Arun_Kumar\\site\\public\\documents\\clippings\\guvs-office-to-amend-appointment-statute-for-varsity-registr-699209.jpg"
+    },
+    "verification": {
+      "content_sha256": "4b2f1389f362fc5a56ecd8685a7e4b89c0113636f5807f5592265525ed9959a1",
+      "last_verified_at": "2026-09-03T16:03:16.326Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

@@ -97768,6 +97768,26 @@
       "retry_count": 0,
       "error_message": null,
       "discovered_at": "2026-09-03T15:36:26.682Z"
+    },
+    {
+      "id": 8892,
+      "url": "https://www.hindustantimes.com/india-news/in-supreme-court-centre-offers-to-return-unfilled-neet-super-speciality-seats-to-tamil-nadu-101788449767907.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T16:02:50.734Z"
+    },
+    {
+      "id": 8893,
+      "url": "https://www.hindustantimes.com/india-news/bihar-education-department-suspends-two-teachers-in-buxar-over-molestation-video-allegations-101788447379916.html",
+      "source_type": "daily_sync",
+      "priority": 10,
+      "status": "pending",
+      "retry_count": 0,
+      "error_message": null,
+      "discovered_at": "2026-09-03T16:02:52.175Z"
     }
   ],
   "articles": [
