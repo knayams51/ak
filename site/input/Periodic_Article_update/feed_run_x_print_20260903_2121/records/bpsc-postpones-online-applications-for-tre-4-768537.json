@@ -1,0 +1,56 @@
+{
+  "id": "x_2094617782524768537",
+  "slug": "bpsc-postpones-online-applications-for-tre-4-768537",
+  "title": "BPSC postpones online applications for TRE-4",
+  "summary": "TRE-4: Now candidates to wait for new notification to apply in keeping with major changes",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-01T06:30:00.000Z",
+  "modified_at": "2026-09-01T06:30:00.000Z",
+  "word_count": 342,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "faculty-recruitment-controversies",
+    "slug": "faculty-recruitment-controversies",
+    "title": "Faculty Recruitment & BPSC Exams"
+  },
+  "tags": [
+    "BPSC"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2094617782524768537",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2094617782524768537",
+      "original_article_id": "x_2094617782524768537",
+      "published_at": "2026-09-01T06:30:00.000Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2094617782524768537",
+      "tweet_commentary": "TRE-4: Now candidates to wait for new notification to apply in keeping with major changes",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/bpsc-postpones-online-applications-for-tre-4-768537.jpg",
+      "clipping_asset_path": "C:\\Users\\Mayank Shekhar\\Downloads\\Arun_Kumar\\site\\public\\documents\\clippings\\bpsc-postpones-online-applications-for-tre-4-768537.jpg"
+    },
+    "verification": {
+      "content_sha256": "b9ebb40921646495df8720fa1ecdc83b2b63ffd8cdaa920be71a784c101a0811",
+      "last_verified_at": "2026-09-03T15:51:52.511Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

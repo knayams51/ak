@@ -1,4 +1,50 @@
 {
+  "ex-envoy-to-pak-dwells-on-mecca-accord-indo-pak-ties-in-vola-756667": [
+    {
+      "slug": "in-bihar-v-cs-issued-show-cause-notices-for-skipping-bureaucrats-meeting-hindust-991770",
+      "title": "In Bihar, V-Cs issued show cause notices for skipping bureaucrat's meeting",
+      "published_at": "2024-02-29T12:33:11.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
+      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20",
+      "published_at": "2026-07-05T13:36:56.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
+      "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool",
+      "published_at": "2026-07-02T12:02:47.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "bihar-misses-july-1-deadline-for-211-new-colleges-hindustan-times-532126",
+      "title": "Bihar misses July 1 deadline for 211 new colleges",
+      "published_at": "2026-07-01T12:22:11.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    }
+  ],
   "bihar-appoints-patna-hc-judge-to-head-exams-reforms-committee-india-news-662170": [
     {
       "slug": "once-vibrant-students-politics-takes-backseat-in-bihars-caste-driven-campuses-hi-c29e38",
@@ -43,6 +89,52 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 10
+    }
+  ],
+  "bpsc-postpones-online-applications-for-tre-4-768537": [
+    {
+      "slug": "lathicharge-on-aspirants-protesting-tre-4-delay-in-patna-hindustan-times-845041",
+      "title": "Lathicharge on aspirants protesting TRE-4 delay in Patna",
+      "published_at": "2026-05-08T12:20:44.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "ahead-of-joining-of-asst-profs-fake-teaching-experience-stumps-bbabu-hindustan-t-670972",
+      "title": "Ahead of joining of Asst Profs, fake teaching experience stumps BBABU",
+      "published_at": "2026-04-06T06:41:10.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "nitish-govt-allocates-highest-ever-60k-cr-for-education-budget-hindustan-times-922195",
+      "title": "Nitish govt allocates highest ever ₹60K-cr for education budget",
+      "published_at": "2026-02-20T03:08:15.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "decks-cleared-for-tre-4-for-46k-vacancies-bpsc-to-issue-advertisement-hindustan--594130",
+      "title": "Decks cleared for TRE-4 for 46k vacancies, BPSC to issue advertisement",
+      "published_at": "2026-02-13T00:16:16.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
     }
   ],
   "no-student-will-fail-in-class-10-12-bihar-govt-to-replace-it-with-eligible-for-s-847961": [
@@ -1495,9 +1587,9 @@
       "score": 13
     },
     {
-      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
-      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20",
-      "published_at": "2026-07-05T13:36:56.000Z",
+      "slug": "ex-envoy-to-pak-dwells-on-mecca-accord-indo-pak-ties-in-vola-756667",
+      "title": "Ex-envoy to Pak dwells on Mecca Accord, Indo-Pak ties in volatile situation",
+      "published_at": "2026-09-03T15:51:52.507Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1506,9 +1598,9 @@
       "score": 10
     },
     {
-      "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
-      "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool",
-      "published_at": "2026-07-02T12:02:47.000Z",
+      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
+      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20",
+      "published_at": "2026-07-05T13:36:56.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1782,9 +1874,9 @@
       "score": 16
     },
     {
-      "slug": "ahead-of-joining-of-asst-profs-fake-teaching-experience-stumps-bbabu-hindustan-t-670972",
-      "title": "Ahead of joining of Asst Profs, fake teaching experience stumps BBABU",
-      "published_at": "2026-04-06T06:41:10.000Z",
+      "slug": "bpsc-postpones-online-applications-for-tre-4-768537",
+      "title": "BPSC postpones online applications for TRE-4",
+      "published_at": "2026-09-01T06:30:00.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -4831,6 +4923,17 @@
   ],
   "nitish-govt-allocates-highest-ever-60k-cr-for-education-budget-hindustan-times-922195": [
     {
+      "slug": "bpsc-postpones-online-applications-for-tre-4-768537",
+      "title": "BPSC postpones online applications for TRE-4",
+      "published_at": "2026-09-01T06:30:00.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "lathicharge-on-aspirants-protesting-tre-4-delay-in-patna-hindustan-times-845041",
       "title": "Lathicharge on aspirants protesting TRE-4 delay in Patna",
       "published_at": "2026-05-08T12:20:44.000Z",
@@ -4856,17 +4959,6 @@
       "slug": "decks-cleared-for-tre-4-for-46k-vacancies-bpsc-to-issue-advertisement-hindustan--594130",
       "title": "Decks cleared for TRE-4 for 46k vacancies, BPSC to issue advertisement",
       "published_at": "2026-02-13T00:16:16.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-row-over-teachers-exam-rages-ahead-of-job-letter-fair-hindustan-times-954266",
-      "title": "Bihar: Row over teachers' exam rages ahead of 'job letter' fair",
-      "published_at": "2023-10-31T15:59:13.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -5232,9 +5324,9 @@
       "score": 16
     },
     {
-      "slug": "ahead-of-joining-of-asst-profs-fake-teaching-experience-stumps-bbabu-hindustan-t-670972",
-      "title": "Ahead of joining of Asst Profs, fake teaching experience stumps BBABU",
-      "published_at": "2026-04-06T06:41:10.000Z",
+      "slug": "bpsc-postpones-online-applications-for-tre-4-768537",
+      "title": "BPSC postpones online applications for TRE-4",
+      "published_at": "2026-09-01T06:30:00.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -5635,9 +5727,9 @@
       "score": 13
     },
     {
-      "slug": "lathicharge-on-aspirants-protesting-tre-4-delay-in-patna-hindustan-times-845041",
-      "title": "Lathicharge on aspirants protesting TRE-4 delay in Patna",
-      "published_at": "2026-05-08T12:20:44.000Z",
+      "slug": "bpsc-postpones-online-applications-for-tre-4-768537",
+      "title": "BPSC postpones online applications for TRE-4",
+      "published_at": "2026-09-01T06:30:00.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -5646,9 +5738,9 @@
       "score": 10
     },
     {
-      "slug": "nitish-govt-allocates-highest-ever-60k-cr-for-education-budget-hindustan-times-922195",
-      "title": "Nitish govt allocates highest ever ₹60K-cr for education budget",
-      "published_at": "2026-02-20T03:08:15.000Z",
+      "slug": "lathicharge-on-aspirants-protesting-tre-4-delay-in-patna-hindustan-times-845041",
+      "title": "Lathicharge on aspirants protesting TRE-4 delay in Patna",
+      "published_at": "2026-05-08T12:20:44.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -5681,9 +5773,9 @@
       "score": 13
     },
     {
-      "slug": "lathicharge-on-aspirants-protesting-tre-4-delay-in-patna-hindustan-times-845041",
-      "title": "Lathicharge on aspirants protesting TRE-4 delay in Patna",
-      "published_at": "2026-05-08T12:20:44.000Z",
+      "slug": "bpsc-postpones-online-applications-for-tre-4-768537",
+      "title": "BPSC postpones online applications for TRE-4",
+      "published_at": "2026-09-01T06:30:00.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -5692,9 +5784,9 @@
       "score": 10
     },
     {
-      "slug": "nitish-govt-allocates-highest-ever-60k-cr-for-education-budget-hindustan-times-922195",
-      "title": "Nitish govt allocates highest ever ₹60K-cr for education budget",
-      "published_at": "2026-02-20T03:08:15.000Z",
+      "slug": "lathicharge-on-aspirants-protesting-tre-4-delay-in-patna-hindustan-times-845041",
+      "title": "Lathicharge on aspirants protesting TRE-4 delay in Patna",
+      "published_at": "2026-05-08T12:20:44.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -6257,6 +6349,17 @@
   ],
   "in-bihar-v-cs-issued-show-cause-notices-for-skipping-bureaucrats-meeting-hindust-991770": [
     {
+      "slug": "ex-envoy-to-pak-dwells-on-mecca-accord-indo-pak-ties-in-vola-756667",
+      "title": "Ex-envoy to Pak dwells on Mecca Accord, Indo-Pak ties in volatile situation",
+      "published_at": "2026-09-03T15:51:52.507Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
       "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20",
       "published_at": "2026-07-05T13:36:56.000Z",
@@ -6282,17 +6385,6 @@
       "slug": "bihar-misses-july-1-deadline-for-211-new-colleges-hindustan-times-532126",
       "title": "Bihar misses July 1 deadline for 211 new colleges",
       "published_at": "2026-07-01T12:22:11.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "pm-lauds-nalanda-universitys-initiative-to-protect-ancient-tradition-in-line-wit-547429",
-      "title": "PM lauds Nalanda University's initiative to protect ancient tradition in line with tech era",
-      "published_at": "2026-06-28T13:32:26.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -6474,9 +6566,9 @@
       "score": 16
     },
     {
-      "slug": "lathicharge-on-aspirants-protesting-tre-4-delay-in-patna-hindustan-times-845041",
-      "title": "Lathicharge on aspirants protesting TRE-4 delay in Patna",
-      "published_at": "2026-05-08T12:20:44.000Z",
+      "slug": "bpsc-postpones-online-applications-for-tre-4-768537",
+      "title": "BPSC postpones online applications for TRE-4",
+      "published_at": "2026-09-01T06:30:00.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",

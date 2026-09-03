@@ -1,0 +1,56 @@
+{
+  "id": "x_2094617200493756667",
+  "slug": "ex-envoy-to-pak-dwells-on-mecca-accord-indo-pak-ties-in-vola-756667",
+  "title": "Ex-envoy to Pak dwells on Mecca Accord, Indo-Pak ties in volatile situation",
+  "summary": "Print broadsheet report published in Hindustan Times (Patna)",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-03T15:51:52.507Z",
+  "modified_at": "2026-09-03T15:51:52.507Z",
+  "word_count": 394,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Chanakya National Law University"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2094617200493756667",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2094617200493756667",
+      "original_article_id": "x_2094617200493756667",
+      "published_at": "2026-09-03T15:51:52.507Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2094617200493756667",
+      "tweet_commentary": "",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/ex-envoy-to-pak-dwells-on-mecca-accord-indo-pak-ties-in-vola-756667.jpg",
+      "clipping_asset_path": "C:\\Users\\Mayank Shekhar\\Downloads\\Arun_Kumar\\site\\public\\documents\\clippings\\ex-envoy-to-pak-dwells-on-mecca-accord-indo-pak-ties-in-vola-756667.jpg"
+    },
+    "verification": {
+      "content_sha256": "bc21d32b91f0280b7735e32011a11810fc0188b835da11029c7a097021adcc69",
+      "last_verified_at": "2026-09-03T15:51:52.512Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

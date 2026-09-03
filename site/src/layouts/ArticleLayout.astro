@@ -136,6 +136,21 @@ const newsArticleSchema = {
                   </a>
                 </>
               )}
+              {docProvenance?.clipping_public_url && (
+                <>
+                  <span class="meta-sep">•</span>
+                  <a 
+                    href={docProvenance.clipping_public_url} 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    class="clipping-link"
+                    style="color: var(--accent-color); font-weight: 700;"
+                    title="View original print newspaper broadsheet scan"
+                  >
+                    📰 Print Clipping ↗
+                  </a>
+                </>
+              )}
             </div>
           </div>
 
@@ -145,6 +160,30 @@ const newsArticleSchema = {
             <div class="read-stats">{article.reading_time_minutes || 2} min read • {article.word_count || 400} words</div>
           </div>
         </div>
+
+        {/* Print Broadsheet Clipping Showcase Card */}
+        {docProvenance?.clipping_public_url && (
+          <div class="print-clipping-showcase card" style="margin-bottom: 2rem; padding: 1.25rem; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 8px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem; flex-wrap: wrap; gap: 0.5rem;">
+              <div style="display: flex; align-items: center; gap: 0.5rem;">
+                <span style="font-size: 1.2rem;">📰</span>
+                <strong style="font-size: 0.95rem;">Hindustan Times Print Broadsheet Scan</strong>
+                <span style="font-size: 0.75rem; padding: 0.15rem 0.5rem; background: #fee2e2; color: #991b1b; border-radius: 4px; font-weight: 700;">Print Exclusive</span>
+              </div>
+              <a href={docProvenance.clipping_public_url} target="_blank" rel="noopener noreferrer" class="btn btn-outline" style="font-size: 0.8rem; padding: 0.25rem 0.65rem;">
+                Open Full Clipping ↗
+              </a>
+            </div>
+            <div style="text-align: center; background: #111; border-radius: 6px; overflow: hidden; max-height: 480px; display: flex; justify-content: center; align-items: center;">
+              <a href={docProvenance.clipping_public_url} target="_blank" rel="noopener noreferrer" title="Click to view full-resolution scan">
+                <img src={docProvenance.clipping_public_url} alt={`Hindustan Times print clipping: ${article.title}`} style="max-height: 480px; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+              </a>
+            </div>
+            <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.5rem; text-align: center;">
+              Archived from author dispatch via X (@ArunkrHt). Full text transcribed below with 100% word-for-word fidelity.
+            </p>
+          </div>
+        )}
 
         {/* Article Body Content (Strict 100% Word-for-Word Preservation) */}
         <div class="article-body">
