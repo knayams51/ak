@@ -103,18 +103,31 @@ class XCrawler {
           const articles = document.querySelectorAll('article');
 
           articles.forEach(art => {
-            const textEl = art.querySelector('div[data-testid="tweetText"]');
-            const text = textEl ? textEl.innerText.trim() : '';
-
-            const timeEl = art.querySelector('time');
-            const time = timeEl ? timeEl.getAttribute('datetime') : '';
-
+            let tweetId = '';
             const linkEl = art.querySelector('a[href*="/status/"]');
             const statusUrl = linkEl ? linkEl.href : '';
-
-            let tweetId = '';
             const idMatch = statusUrl.match(/\/status\/(\d+)/);
             if (idMatch) tweetId = idMatch[1];
+
+            // Modern text selector fallback (supports legacy tweetText and modern Chirp containers)
+            const textEl = art.querySelector('div[data-testid="tweetText"]')
+                        || art.querySelector('div[dir="auto"].font-chirp')
+                        || art.querySelector('div[dir="auto"]');
+            const text = textEl ? textEl.innerText.trim() : '';
+
+            // Extract timestamp: prefer <time> tag, otherwise mathematically decode Twitter Snowflake ID
+            let time = '';
+            const timeEl = art.querySelector('time');
+            if (timeEl && timeEl.getAttribute('datetime')) {
+              time = timeEl.getAttribute('datetime');
+            } else if (tweetId) {
+              try {
+                const ms = Number((BigInt(tweetId) >> 22n) + 1288834974657n);
+                time = new Date(ms).toISOString();
+              } catch (e) {
+                time = new Date().toISOString();
+              }
+            }
 
             // Extract attached images (skipping avatars and emojis)
             const images = [];

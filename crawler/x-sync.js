@@ -192,8 +192,13 @@ class XSyncEngine {
           console.log(`[XSync] 🌐 Article also identified on HT digital edition.`);
         }
 
+        // Sanitize headline with fallback to tweet commentary
+        const headline = (ocrData.headline && ocrData.headline.trim().length >= 5)
+          ? ocrData.headline.trim()
+          : (tweet.text ? tweet.text.split('\n')[0].substring(0, 80) : 'Print Broadsheet Report');
+
         // Generate Slug & Save Clipping Image
-        const baseSlug = this.generateSlug(ocrData.headline, tweet.tweet_id);
+        const baseSlug = this.generateSlug(headline, tweet.tweet_id);
         const imageSuffix = tweet.images.length > 1 ? `-p${imgIdx + 1}` : '';
         const slug = `${baseSlug}${imageSuffix}`;
         const articleId = tweet.tweet_id ? `x_${tweet.tweet_id}${imageSuffix}` : `clipping_${Date.now()}_${imgIdx + 1}`;
@@ -219,7 +224,7 @@ class XSyncEngine {
           article_id: articleId,
           slug: slug,
           url: tweet.status_url,
-          headline: ocrData.headline,
+          headline: headline,
           sub_headline: tweet.text || 'Print broadsheet report published in Hindustan Times (Patna)',
           byline: 'Arun Kumar',
           dateline: ocrData.dateline || 'Patna',

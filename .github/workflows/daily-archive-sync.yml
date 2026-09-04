@@ -2,8 +2,8 @@ name: Arun Kumar Living Archive — Daily Sync & Deploy
 
 on:
   schedule:
-    # Runs regularly every day: 06:00 AM IST (00:30 UTC) and 06:00 PM IST (12:30 UTC)
-    - cron: '30 0,12 * * *'
+    # Runs once daily at 07:15 AM IST (01:45 UTC) to reliably harvest morning print dispatches
+    - cron: '45 1 * * *'
   workflow_dispatch:
     inputs:
       pages:
