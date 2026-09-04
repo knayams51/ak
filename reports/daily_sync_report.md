@@ -1,28 +1,29 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-09-03  
-**Execution Timestamp**: 2026-09-03T16:54:55.949Z  
-**Duration**: 0 seconds  
-**Archive Total Articles**: **249 articles**
+**Execution Date**: 2026-09-04  
+**Execution Timestamp**: 2026-09-04T05:14:28.105Z  
+**Duration**: 106 seconds  
+**Archive Total Articles**: **250 articles**
 
 ---
 
 ## 📊 Summary Metrics
 | Metric | Value |
 |---|---|
-| **Discovered New Candidate URLs** | 0 |
-| **Already Known / Indexed URLs** | 0 |
-| **Candidate URLs Crawled** | 0 |
+| **Discovered New Candidate URLs** | 112 |
+| **Already Known / Indexed URLs** | 122 |
+| **Candidate URLs Crawled** | 25 |
 | **Accepted Arun Kumar Articles** | **0** |
-| **X Print Broadsheet Clippings Accepted** | **0** |
-| **Filtered Out (Namesakes / Non-Patna)** | 0 |
+| **X Print Broadsheet Clippings Accepted** | **1** |
+| **Filtered Out (Namesakes / Non-Patna)** | 25 |
 | **Failed Requests** | 0 |
 | **New Package Created** | `None (Up-to-date)` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-_No new articles discovered in this run. Archive is fully synchronized with Hindustan Times._
+- **[PRINT BROADSHEET EXCLUSIVE]** [Bihar steps towards exam reforms](https://x.com/ArunkrHt/status/2095316516824842658)  
+  *Dateline: Patna | Byline: Arun Kumar | SHA-256: `10f29c4f58...`*
 
 ---
 

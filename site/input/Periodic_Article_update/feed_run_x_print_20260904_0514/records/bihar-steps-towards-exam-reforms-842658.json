@@ -1,0 +1,58 @@
+{
+  "id": "x_2095316516824842658",
+  "slug": "bihar-steps-towards-exam-reforms-842658",
+  "title": "Bihar steps towards exam reforms",
+  "summary": "Print broadsheet report published in Hindustan Times (Patna)",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-04T05:14:27.353Z",
+  "modified_at": "2026-09-04T05:14:27.353Z",
+  "word_count": 739,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "assembly-elections-bypolls",
+    "slug": "assembly-elections-bypolls",
+    "title": "Assembly Elections & Bypolls"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2095316516824842658",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2095316516824842658",
+      "original_article_id": "x_2095316516824842658",
+      "published_at": "2026-09-04T05:14:27.353Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2095316516824842658",
+      "tweet_commentary": "",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/bihar-steps-towards-exam-reforms-842658.jpg",
+      "clipping_asset_path": "documents/clippings/bihar-steps-towards-exam-reforms-842658.jpg"
+    },
+    "verification": {
+      "content_sha256": "10f29c4f58b31cfa636f73c031ebffe03a587d4f9454976b632ee118d63739be",
+      "last_verified_at": "2026-09-04T05:14:27.357Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
