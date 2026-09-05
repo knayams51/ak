@@ -1,0 +1,58 @@
+{
+  "id": "x_2096046007561945580",
+  "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+  "title": "SC upholds EBC profs preferred univ posting",
+  "summary": "Apex court dismisses BSUSC SLP, asks it to comply with HC Division Bench order on teachers’ posting",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-05T01:21:25.511Z",
+  "modified_at": "2026-09-05T01:21:25.511Z",
+  "word_count": 490,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Patna High Court",
+    "BSUSC",
+    "Patna University"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2096046007561945580",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2096046007561945580",
+      "original_article_id": "x_2096046007561945580",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2096046007561945580",
+      "tweet_commentary": "Apex court dismisses BSUSC SLP, asks it to comply with HC Division Bench order on teachers’ posting",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/sc-upholds-ebc-profs-preferred-univ-posting-945580.jpg",
+      "clipping_asset_path": "documents/clippings/sc-upholds-ebc-profs-preferred-univ-posting-945580.jpg"
+    },
+    "verification": {
+      "content_sha256": "e611fde332f68db7a702b3f7131c3c2ea80db8792dda523583c8f4340e64f099",
+      "last_verified_at": "2026-09-05T03:55:31.784Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

@@ -1,4 +1,50 @@
 {
+  "sc-upholds-ebc-profs-preferred-univ-posting-945580": [
+    {
+      "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
+      "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
+      "published_at": "2026-04-16T21:34:13.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "bihar-min-appointed-asst-prof-after-bsusc-clean-chit-hindustan-times-276873",
+      "title": "Bihar min appointed Asst Prof after BSUSC clean chit",
+      "published_at": "2026-02-16T21:42:15.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "asst-profs-appointment-lnmu-seeks-supporting-documents-of-experience-hindustan-t-360876",
+      "title": "Asst Profs appointment: LNMU seeks supporting documents of experience",
+      "published_at": "2026-02-04T22:36:01.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
+      "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process",
+      "published_at": "2026-05-28T14:01:20.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 16
+    }
+  ],
   "bihar-steps-towards-exam-reforms-842658": [
     {
       "slug": "forged-land-documents-could-lead-to-fir-7-year-jail-says-deputy-cm-hindustan-tim-743126",
@@ -43,6 +89,98 @@
         "title": "Politics, Elections & Governance"
       },
       "score": 19
+    }
+  ],
+  "jdu-launches-nitish-samvad-on-water-treaty-256479": [
+    {
+      "slug": "jdu-wont-disintegrate-like-tmc-ubt-sanjay-jha-hindustan-times-373572",
+      "title": "JD(U) won't disintegrate like TMC, UBT: Sanjay Jha",
+      "published_at": "2026-06-22T21:32:08.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
+      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
+      "title": "JD(U) pledges to follow Nitish, promote Nishant",
+      "published_at": "2026-06-21T21:58:08.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
+      "slug": "setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766",
+      "title": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll",
+      "published_at": "2026-05-14T13:15:58.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
+      "slug": "nitishs-son-likely-to-ministerial-berth-as-bihar-cabinet-set-for-grand-expansion-224380",
+      "title": "Nitish's son likely to ministerial berth as Bihar cabinet set for grand expansion on Thursday",
+      "published_at": "2026-05-06T17:23:43.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    }
+  ],
+  "hc-bars-teachers-principal-postings-004492": [
+    {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
+      "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process",
+      "published_at": "2026-05-28T14:01:20.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
+      "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
+      "published_at": "2026-04-16T21:34:13.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
+      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
+      "published_at": "2026-03-28T12:13:56.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
     }
   ],
   "guvs-office-to-amend-appointment-statute-for-varsity-registr-699209": [
@@ -104,31 +242,31 @@
       "score": 13
     },
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "hc-bars-teachers-principal-postings-004492",
+      "title": "HC bars teachers’ principal postings",
+      "published_at": "2026-09-04T00:41:47.051Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
       "slug": "guvs-office-to-amend-appointment-statute-for-varsity-registr-699209",
       "title": "Guv’s office to amend appointment statute for varsity registrars",
       "published_at": "2026-09-03T16:03:16.322Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
-      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20",
-      "published_at": "2026-07-05T13:36:56.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
-      "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool",
-      "published_at": "2026-07-02T12:02:47.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1381,6 +1519,17 @@
   ],
   "after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bih-443972": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "bihar-governor-initiates-process-to-appoint-vcs-of-six-universities-hindustan-ti-167908",
       "title": "Bihar governor initiates process to appoint VCs of six universities",
       "published_at": "2026-05-20T17:29:27.000Z",
@@ -1406,17 +1555,6 @@
       "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
       "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
       "published_at": "2026-03-28T12:13:56.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "new-bihar-guv-to-review-higher-education-with-vcs-edu-deptt-on-march-30-hindusta-580566",
-      "title": "New Bihar Guv to review higher education with VCs, edu deptt on March 30",
-      "published_at": "2026-03-22T23:08:00.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1519,6 +1657,17 @@
   ],
   "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 16
+    },
+    {
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
@@ -1550,20 +1699,20 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 16
-    },
+    }
+  ],
+  "samrat-discusses-higher-education-issues-with-governor-ahead-of-new-deptt-review-828492": [
     {
-      "slug": "samrat-discusses-higher-education-issues-with-governor-ahead-of-new-deptt-review-828492",
-      "title": "Samrat discusses higher education issues with Governor ahead of new deptt review",
-      "published_at": "2026-05-26T03:57:07.000Z",
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
         "title": "Higher Education & Academic Reforms"
       },
       "score": 13
-    }
-  ],
-  "samrat-discusses-higher-education-issues-with-governor-ahead-of-new-deptt-review-828492": [
+    },
     {
       "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
       "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process",
@@ -1590,17 +1739,6 @@
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-asst-profs-appointment-one-process-yet-to-finish-draft-statute-for-2nd-spa-672445",
-      "title": "Bihar asst profs' appointment: One process yet to finish, draft statute for 2nd sparks debate",
-      "published_at": "2026-03-12T21:46:09.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1679,9 +1817,9 @@
       "score": 13
     },
     {
-      "slug": "guvs-office-to-amend-appointment-statute-for-varsity-registr-699209",
-      "title": "Guv’s office to amend appointment statute for varsity registrars",
-      "published_at": "2026-09-03T16:03:16.322Z",
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1690,9 +1828,9 @@
       "score": 10
     },
     {
-      "slug": "ex-envoy-to-pak-dwells-on-mecca-accord-indo-pak-ties-in-vola-756667",
-      "title": "Ex-envoy to Pak dwells on Mecca Accord, Indo-Pak ties in volatile situation",
-      "published_at": "2026-09-03T15:51:52.507Z",
+      "slug": "hc-bars-teachers-principal-postings-004492",
+      "title": "HC bars teachers’ principal postings",
+      "published_at": "2026-09-04T00:41:47.051Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2301,6 +2439,17 @@
   ],
   "encroachment-of-govt-land-wont-be-allowed-samrat-warns-from-tarapur-hindustan-ti-310978": [
     {
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "pk-to-contest-bankipur-bypoll-hindustan-times-796953",
       "title": "PK to contest Bankipur bypoll",
       "published_at": "2026-07-05T11:59:56.000Z",
@@ -2326,17 +2475,6 @@
       "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
       "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha",
       "published_at": "2026-06-22T09:36:03.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
-      "title": "JD(U) pledges to follow Nitish, promote Nishant",
-      "published_at": "2026-06-21T21:58:08.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -2439,6 +2577,17 @@
   ],
   "nitish-retains-sanjay-jha-as-working-chief-in-jdu-rejig-son-nishant-absent-hindu-721797": [
     {
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "jdu-wont-disintegrate-like-tmc-ubt-sanjay-jha-hindustan-times-373572",
       "title": "JD(U) won't disintegrate like TMC, UBT: Sanjay Jha",
       "published_at": "2026-06-22T21:32:08.000Z",
@@ -2464,17 +2613,6 @@
       "slug": "setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766",
       "title": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll",
       "published_at": "2026-05-14T13:15:58.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "nitishs-son-likely-to-ministerial-berth-as-bihar-cabinet-set-for-grand-expansion-224380",
-      "title": "Nitish's son likely to ministerial berth as Bihar cabinet set for grand expansion on Thursday",
-      "published_at": "2026-05-06T17:23:43.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -2485,6 +2623,17 @@
   ],
   "nitish-picks-close-aide-shravan-kumar-as-jdu-lp-leader-hindustan-times-996756": [
     {
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "jdu-wont-disintegrate-like-tmc-ubt-sanjay-jha-hindustan-times-373572",
       "title": "JD(U) won't disintegrate like TMC, UBT: Sanjay Jha",
       "published_at": "2026-06-22T21:32:08.000Z",
@@ -2510,17 +2659,6 @@
       "slug": "setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766",
       "title": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll",
       "published_at": "2026-05-14T13:15:58.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "nitishs-son-likely-to-ministerial-berth-as-bihar-cabinet-set-for-grand-expansion-224380",
-      "title": "Nitish's son likely to ministerial berth as Bihar cabinet set for grand expansion on Thursday",
-      "published_at": "2026-05-06T17:23:43.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -2531,6 +2669,17 @@
   ],
   "nitish-to-pick-jdu-legislative-party-leader-hindustan-times-626882": [
     {
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "jdu-wont-disintegrate-like-tmc-ubt-sanjay-jha-hindustan-times-373572",
       "title": "JD(U) won't disintegrate like TMC, UBT: Sanjay Jha",
       "published_at": "2026-06-22T21:32:08.000Z",
@@ -2556,17 +2705,6 @@
       "slug": "setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766",
       "title": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll",
       "published_at": "2026-05-14T13:15:58.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "nitishs-son-likely-to-ministerial-berth-as-bihar-cabinet-set-for-grand-expansion-224380",
-      "title": "Nitish's son likely to ministerial berth as Bihar cabinet set for grand expansion on Thursday",
-      "published_at": "2026-05-06T17:23:43.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -2715,6 +2853,17 @@
   ],
   "chancellor-sets-up-panel-to-work-out-modalities-for-inter-varsity-transfers-hind-715481": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
       "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process",
       "published_at": "2026-05-28T14:01:20.000Z",
@@ -2746,20 +2895,20 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 13
-    },
+    }
+  ],
+  "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789": [
     {
-      "slug": "bihar-asst-profs-appointment-one-process-yet-to-finish-draft-statute-for-2nd-spa-672445",
-      "title": "Bihar asst profs' appointment: One process yet to finish, draft statute for 2nd sparks debate",
-      "published_at": "2026-03-12T21:46:09.000Z",
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
         "title": "Higher Education & Academic Reforms"
       },
-      "score": 13
-    }
-  ],
-  "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789": [
+      "score": 19
+    },
     {
       "slug": "bihar-min-appointed-asst-prof-after-bsusc-clean-chit-hindustan-times-276873",
       "title": "Bihar min appointed Asst Prof after BSUSC clean chit",
@@ -2786,17 +2935,6 @@
       "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
       "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process",
       "published_at": "2026-05-28T14:01:20.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3197,9 +3335,9 @@
       "score": 16
     },
     {
-      "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
-      "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
-      "published_at": "2026-04-16T21:34:13.000Z",
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3208,9 +3346,9 @@
       "score": 14
     },
     {
-      "slug": "asst-profs-recruitment-jdu-mlc-writes-to-guv-seeking-new-draft-statute-hindustan-730018",
-      "title": "Asst Profs' recruitment: JD()U MLC writes to guv seeking new draft statute",
-      "published_at": "2026-03-20T12:28:49.000Z",
+      "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
+      "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
+      "published_at": "2026-04-16T21:34:13.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3543,6 +3681,17 @@
   ],
   "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 16
+    },
+    {
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
@@ -3568,17 +3717,6 @@
       "slug": "asst-profs-recruitment-jdu-mlc-writes-to-guv-seeking-new-draft-statute-hindustan-730018",
       "title": "Asst Profs' recruitment: JD()U MLC writes to guv seeking new draft statute",
       "published_at": "2026-03-20T12:28:49.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-min-appointed-asst-prof-after-bsusc-clean-chit-hindustan-times-276873",
-      "title": "Bihar min appointed Asst Prof after BSUSC clean chit",
-      "published_at": "2026-02-16T21:42:15.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3933,9 +4071,9 @@
       "score": 17
     },
     {
-      "slug": "bihar-governor-initiates-process-to-appoint-vcs-of-six-universities-hindustan-ti-167908",
-      "title": "Bihar governor initiates process to appoint VCs of six universities",
-      "published_at": "2026-05-20T17:29:27.000Z",
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3944,9 +4082,9 @@
       "score": 16
     },
     {
-      "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
-      "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
-      "published_at": "2026-04-16T21:34:13.000Z",
+      "slug": "bihar-governor-initiates-process-to-appoint-vcs-of-six-universities-hindustan-ti-167908",
+      "title": "Bihar governor initiates process to appoint VCs of six universities",
+      "published_at": "2026-05-20T17:29:27.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -4025,9 +4163,9 @@
       "score": 19
     },
     {
-      "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
-      "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
-      "published_at": "2026-04-16T21:34:13.000Z",
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -4036,9 +4174,9 @@
       "score": 16
     },
     {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
+      "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
+      "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
+      "published_at": "2026-04-16T21:34:13.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -4233,6 +4371,17 @@
   ],
   "bihar-asst-profs-appointment-one-process-yet-to-finish-draft-statute-for-2nd-spa-672445": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 16
+    },
+    {
       "slug": "bihar-governor-initiates-process-to-appoint-vcs-of-six-universities-hindustan-ti-167908",
       "title": "Bihar governor initiates process to appoint VCs of six universities",
       "published_at": "2026-05-20T17:29:27.000Z",
@@ -4258,17 +4407,6 @@
       "slug": "new-bihar-guv-to-review-higher-education-with-vcs-edu-deptt-on-march-30-hindusta-580566",
       "title": "New Bihar Guv to review higher education with VCs, edu deptt on March 30",
       "published_at": "2026-03-22T23:08:00.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 16
-    },
-    {
-      "slug": "asst-profs-recruitment-jdu-mlc-writes-to-guv-seeking-new-draft-statute-hindustan-730018",
-      "title": "Asst Profs' recruitment: JD()U MLC writes to guv seeking new draft statute",
-      "published_at": "2026-03-20T12:28:49.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -4371,6 +4509,17 @@
   ],
   "nishant-joins-jdu-vows-to-carry-father-nitishs-legacy-forward-hindustan-times-521314": [
     {
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "jdu-wont-disintegrate-like-tmc-ubt-sanjay-jha-hindustan-times-373572",
       "title": "JD(U) won't disintegrate like TMC, UBT: Sanjay Jha",
       "published_at": "2026-06-22T21:32:08.000Z",
@@ -4396,17 +4545,6 @@
       "slug": "setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766",
       "title": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll",
       "published_at": "2026-05-14T13:15:58.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "nitishs-son-likely-to-ministerial-berth-as-bihar-cabinet-set-for-grand-expansion-224380",
-      "title": "Nitish's son likely to ministerial berth as Bihar cabinet set for grand expansion on Thursday",
-      "published_at": "2026-05-06T17:23:43.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4417,6 +4555,17 @@
   ],
   "nishant-joins-jdu-vows-to-take-father-nitishs-work-forward-strengthen-party-hind-658090": [
     {
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "jdu-wont-disintegrate-like-tmc-ubt-sanjay-jha-hindustan-times-373572",
       "title": "JD(U) won't disintegrate like TMC, UBT: Sanjay Jha",
       "published_at": "2026-06-22T21:32:08.000Z",
@@ -4442,17 +4591,6 @@
       "slug": "setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766",
       "title": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll",
       "published_at": "2026-05-14T13:15:58.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "nitishs-son-likely-to-ministerial-berth-as-bihar-cabinet-set-for-grand-expansion-224380",
-      "title": "Nitish's son likely to ministerial berth as Bihar cabinet set for grand expansion on Thursday",
-      "published_at": "2026-05-06T17:23:43.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4877,6 +5015,17 @@
   ],
   "univ-admin-to-decide-on-patna-university-student-union-polls-today-hindustan-tim-944460": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bih-443972",
       "title": "After a long gap, Governor initiates process for appointment of 14 Pro-VCs in Bihar",
       "published_at": "2026-06-01T21:36:10.000Z",
@@ -4908,20 +5057,31 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 13
-    },
+    }
+  ],
+  "as-missing-file-delays-constituent-status-hc-asks-bihar-govt-to-take-a-call-on-4-598170": [
     {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
         "title": "Higher Education & Academic Reforms"
       },
       "score": 13
-    }
-  ],
-  "as-missing-file-delays-constituent-status-hc-asks-bihar-govt-to-take-a-call-on-4-598170": [
+    },
+    {
+      "slug": "hc-bars-teachers-principal-postings-004492",
+      "title": "HC bars teachers’ principal postings",
+      "published_at": "2026-09-04T00:41:47.051Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
     {
       "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
       "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process",
@@ -4937,28 +5097,6 @@
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "new-bihar-guv-to-review-higher-education-with-vcs-edu-deptt-on-march-30-hindusta-580566",
-      "title": "New Bihar Guv to review higher education with VCs, edu deptt on March 30",
-      "published_at": "2026-03-22T23:08:00.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -5245,6 +5383,17 @@
   ],
   "bihar-min-appointed-asst-prof-after-bsusc-clean-chit-hindustan-times-276873": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
@@ -5276,20 +5425,20 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 16
-    },
+    }
+  ],
+  "governor-house-set-to-search-vcs-as-3-univs-slip-under-ad-hoc-arrangement-hindus-320772": [
     {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
         "title": "Higher Education & Academic Reforms"
       },
-      "score": 16
-    }
-  ],
-  "governor-house-set-to-search-vcs-as-3-univs-slip-under-ad-hoc-arrangement-hindus-320772": [
+      "score": 13
+    },
     {
       "slug": "after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bih-443972",
       "title": "After a long gap, Governor initiates process for appointment of 14 Pro-VCs in Bihar",
@@ -5316,17 +5465,6 @@
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -5613,6 +5751,17 @@
   ],
   "asst-profs-appointment-lnmu-seeks-supporting-documents-of-experience-hindustan-t-360876": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
@@ -5638,17 +5787,6 @@
       "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
       "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process",
       "published_at": "2026-05-28T14:01:20.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -6452,31 +6590,31 @@
       "score": 13
     },
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
+      "slug": "hc-bars-teachers-principal-postings-004492",
+      "title": "HC bars teachers’ principal postings",
+      "published_at": "2026-09-04T00:41:47.051Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
       "slug": "guvs-office-to-amend-appointment-statute-for-varsity-registr-699209",
       "title": "Guv’s office to amend appointment statute for varsity registrars",
       "published_at": "2026-09-03T16:03:16.322Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987",
-      "title": "Chancellor's secretariat asks varsities to clear salary/pension backlogs by July 20",
-      "published_at": "2026-07-05T13:36:56.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269",
-      "title": "Bihar Lok Bhawan extends application deadline for VCs, P-VCs for larger pool",
-      "published_at": "2026-07-02T12:02:47.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -6855,6 +6993,17 @@
   ],
   "governor-calls-vcs-meet-on-april-3-vests-financial-power-in-acting-registrars-hi-865225": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bih-443972",
       "title": "After a long gap, Governor initiates process for appointment of 14 Pro-VCs in Bihar",
       "published_at": "2026-06-01T21:36:10.000Z",
@@ -6886,20 +7035,31 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 13
-    },
+    }
+  ],
+  "bihar-governor-calls-university-vice-chancellors-meet-on-april-3-hindustan-times-563322": [
     {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
         "title": "Higher Education & Academic Reforms"
       },
       "score": 13
-    }
-  ],
-  "bihar-governor-calls-university-vice-chancellors-meet-on-april-3-hindustan-times-563322": [
+    },
+    {
+      "slug": "hc-bars-teachers-principal-postings-004492",
+      "title": "HC bars teachers’ principal postings",
+      "published_at": "2026-09-04T00:41:47.051Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
     {
       "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
       "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process",
@@ -6915,28 +7075,6 @@
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "new-bihar-guv-to-review-higher-education-with-vcs-edu-deptt-on-march-30-hindusta-580566",
-      "title": "New Bihar Guv to review higher education with VCs, edu deptt on March 30",
-      "published_at": "2026-03-22T23:08:00.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -7085,6 +7223,17 @@
   ],
   "kushwaha-says-nitish-kumar-gave-him-position-without-power-ignored-suggestions-h-561407": [
     {
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "jdu-wont-disintegrate-like-tmc-ubt-sanjay-jha-hindustan-times-373572",
       "title": "JD(U) won't disintegrate like TMC, UBT: Sanjay Jha",
       "published_at": "2026-06-22T21:32:08.000Z",
@@ -7110,17 +7259,6 @@
       "slug": "setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766",
       "title": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll",
       "published_at": "2026-05-14T13:15:58.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "nitishs-son-likely-to-ministerial-berth-as-bihar-cabinet-set-for-grand-expansion-224380",
-      "title": "Nitish's son likely to ministerial berth as Bihar cabinet set for grand expansion on Thursday",
-      "published_at": "2026-05-06T17:23:43.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -7269,6 +7407,17 @@
   ],
   "nitish-hails-kcr-role-in-telangana-creation-hindustan-times-128049": [
     {
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "pk-to-contest-bankipur-bypoll-hindustan-times-796953",
       "title": "PK to contest Bankipur bypoll",
       "published_at": "2026-07-05T11:59:56.000Z",
@@ -7294,17 +7443,6 @@
       "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
       "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha",
       "published_at": "2026-06-22T09:36:03.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
-      "title": "JD(U) pledges to follow Nitish, promote Nishant",
-      "published_at": "2026-06-21T21:58:08.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -7867,6 +8005,17 @@
   ],
   "15-day-special-leave-for-bihar-govt-staff-for-vipassana-course-hindustan-times-294024": [
     {
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "pk-to-contest-bankipur-bypoll-hindustan-times-796953",
       "title": "PK to contest Bankipur bypoll",
       "published_at": "2026-07-05T11:59:56.000Z",
@@ -7892,17 +8041,6 @@
       "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
       "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha",
       "published_at": "2026-06-22T09:36:03.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
-      "title": "JD(U) pledges to follow Nitish, promote Nishant",
-      "published_at": "2026-06-21T21:58:08.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -7913,6 +8051,17 @@
   ],
   "bihar-to-begin-appointment-of-assistant-professors-to-varsities-from-july-15-hin-585764": [
     {
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 8
+    },
+    {
       "slug": "pk-to-contest-bankipur-bypoll-hindustan-times-796953",
       "title": "PK to contest Bankipur bypoll",
       "published_at": "2026-07-05T11:59:56.000Z",
@@ -7938,17 +8087,6 @@
       "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
       "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha",
       "published_at": "2026-06-22T09:36:03.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 8
-    },
-    {
-      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
-      "title": "JD(U) pledges to follow Nitish, promote Nishant",
-      "published_at": "2026-06-21T21:58:08.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -8143,6 +8281,17 @@
   ],
   "cm-nitish-kumar-bats-for-judiciarys-role-in-establishing-rule-of-law-in-bihar-hi-397720": [
     {
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "pk-to-contest-bankipur-bypoll-hindustan-times-796953",
       "title": "PK to contest Bankipur bypoll",
       "published_at": "2026-07-05T11:59:56.000Z",
@@ -8168,17 +8317,6 @@
       "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
       "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha",
       "published_at": "2026-06-22T09:36:03.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
-      "title": "JD(U) pledges to follow Nitish, promote Nishant",
-      "published_at": "2026-06-21T21:58:08.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -8327,6 +8465,28 @@
   ],
   "salary-pension-of-thousands-at-bihar-schools-universities-on-hold-for-3-months-h-b8fcf3": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "hc-bars-teachers-principal-postings-004492",
+      "title": "HC bars teachers’ principal postings",
+      "published_at": "2026-09-04T00:41:47.051Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
       "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process",
       "published_at": "2026-05-28T14:01:20.000Z",
@@ -8341,28 +8501,6 @@
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "new-bihar-guv-to-review-higher-education-with-vcs-edu-deptt-on-march-30-hindusta-580566",
-      "title": "New Bihar Guv to review higher education with VCs, edu deptt on March 30",
-      "published_at": "2026-03-22T23:08:00.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -9063,6 +9201,17 @@
   ],
   "sunaina-appointed-nu-vc-sexual-assault-accused-student-rusticated-india-news-336fd9": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bih-443972",
       "title": "After a long gap, Governor initiates process for appointment of 14 Pro-VCs in Bihar",
       "published_at": "2026-06-01T21:36:10.000Z",
@@ -9088,17 +9237,6 @@
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -9247,6 +9385,17 @@
   ],
   "acting-vcs-for-eight-bihar-universities-hindustan-times-9b91e4": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 16
+    },
+    {
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
@@ -9272,17 +9421,6 @@
       "slug": "new-bihar-guv-to-review-higher-education-with-vcs-edu-deptt-on-march-30-hindusta-580566",
       "title": "New Bihar Guv to review higher education with VCs, edu deptt on March 30",
       "published_at": "2026-03-22T23:08:00.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 16
-    },
-    {
-      "slug": "asst-profs-recruitment-jdu-mlc-writes-to-guv-seeking-new-draft-statute-hindustan-730018",
-      "title": "Asst Profs' recruitment: JD()U MLC writes to guv seeking new draft statute",
-      "published_at": "2026-03-20T12:28:49.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -9799,6 +9937,17 @@
   ],
   "bihars-revolutionary-matuk-falls-in-love-with-aap-india-news-74f7d9": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 16
+    },
+    {
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
@@ -9824,17 +9973,6 @@
       "slug": "new-bihar-guv-to-review-higher-education-with-vcs-edu-deptt-on-march-30-hindusta-580566",
       "title": "New Bihar Guv to review higher education with VCs, edu deptt on March 30",
       "published_at": "2026-03-22T23:08:00.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 16
-    },
-    {
-      "slug": "asst-profs-recruitment-jdu-mlc-writes-to-guv-seeking-new-draft-statute-hindustan-730018",
-      "title": "Asst Profs' recruitment: JD()U MLC writes to guv seeking new draft statute",
-      "published_at": "2026-03-20T12:28:49.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -9937,6 +10075,17 @@
   ],
   "bihar-cops-suddenly-went-cold-on-yasin-bhatkal-hindustan-times-7b7897": [
     {
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "pk-to-contest-bankipur-bypoll-hindustan-times-796953",
       "title": "PK to contest Bankipur bypoll",
       "published_at": "2026-07-05T11:59:56.000Z",
@@ -9962,17 +10111,6 @@
       "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
       "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha",
       "published_at": "2026-06-22T09:36:03.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
-      "title": "JD(U) pledges to follow Nitish, promote Nishant",
-      "published_at": "2026-06-21T21:58:08.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -10259,6 +10397,17 @@
   ],
   "15-colleges-in-bihar-fail-to-renew-naac-accreditation-hindustan-times-ef9e2c": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bih-443972",
       "title": "After a long gap, Governor initiates process for appointment of 14 Pro-VCs in Bihar",
       "published_at": "2026-06-01T21:36:10.000Z",
@@ -10284,17 +10433,6 @@
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -10581,6 +10719,17 @@
   ],
   "admission-scam-rocks-patna-university-hindustan-times-22405e": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bih-443972",
       "title": "After a long gap, Governor initiates process for appointment of 14 Pro-VCs in Bihar",
       "published_at": "2026-06-01T21:36:10.000Z",
@@ -10606,17 +10755,6 @@
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -10995,6 +11133,17 @@
   ],
   "bihar-govt-to-de-link-intermediate-education-from-colleges-hindustan-times-6cd174": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bih-443972",
       "title": "After a long gap, Governor initiates process for appointment of 14 Pro-VCs in Bihar",
       "published_at": "2026-06-01T21:36:10.000Z",
@@ -11020,17 +11169,6 @@
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11271,6 +11409,17 @@
   ],
   "bihar-lands-on-cape-of-good-hope-india-news-afa906": [
     {
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "pk-to-contest-bankipur-bypoll-hindustan-times-796953",
       "title": "PK to contest Bankipur bypoll",
       "published_at": "2026-07-05T11:59:56.000Z",
@@ -11296,17 +11445,6 @@
       "slug": "with-nitish-legacy-jd-u-has-no-challenges-to-contest-up-polls-sanjay-kumar-jha-h-964304",
       "title": "With Nitish legacy, JD-U has no challenges, to contest UP polls: Sanjay Kumar Jha",
       "published_at": "2026-06-22T09:36:03.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
-      "title": "JD(U) pledges to follow Nitish, promote Nishant",
-      "published_at": "2026-06-21T21:58:08.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -11363,6 +11501,17 @@
   ],
   "governor-for-uniform-fee-syllabii-in-bihar-univs-india-news-83cd99": [
     {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "after-a-long-gap-governor-initiates-process-for-appointment-of-14-pro-vcs-in-bih-443972",
       "title": "After a long gap, Governor initiates process for appointment of 14 Pro-VCs in Bihar",
       "published_at": "2026-06-01T21:36:10.000Z",
@@ -11388,17 +11537,6 @@
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",

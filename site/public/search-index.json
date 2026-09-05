@@ -1,5 +1,23 @@
 [
   {
+    "id": "x_2096046007561945580",
+    "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+    "title": "SC upholds EBC profs preferred univ posting",
+    "summary": "Apex court dismisses BSUSC SLP, asks it to comply with HC Division Bench order on teachers’ posting",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-09-05T01:21:25.511Z",
+    "topic": "Higher Education & Academic Reforms",
+    "topic_slug": "higher-education-reforms",
+    "subtopic": "University Reforms & Governance",
+    "tags": [
+      "Patna High Court",
+      "BSUSC",
+      "Patna University"
+    ],
+    "word_count": 490
+  },
+  {
     "id": "x_2095316516824842658",
     "slug": "bihar-steps-towards-exam-reforms-842658",
     "title": "Bihar steps towards exam reforms",
@@ -15,7 +33,40 @@
       "Patna News",
       "Hindustan Times"
     ],
-    "word_count": 739
+    "word_count": 1481
+  },
+  {
+    "id": "x_2095674341493256479",
+    "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+    "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+    "summary": "JD-U outreach with ‘Nitish Samvad’ on Farakka issue, as Centre assures to address Bihar concerns",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-09-04T00:44:33.415Z",
+    "topic": "Politics, Elections & Governance",
+    "topic_slug": "politics-elections-governance",
+    "subtopic": "Coalition Politics & Party Dynamics",
+    "tags": [
+      "Nitish Kumar",
+      "JD(U)"
+    ],
+    "word_count": 553
+  },
+  {
+    "id": "x_2095673643712004492",
+    "slug": "hc-bars-teachers-principal-postings-004492",
+    "title": "HC bars teachers’ principal postings",
+    "summary": "Patna HC sets aside deputation of teachers as principals in new govt degree colleges  of Bihar",
+    "byline": "Arun Kumar",
+    "dateline": "Patna",
+    "published_at": "2026-09-04T00:41:47.051Z",
+    "topic": "Higher Education & Academic Reforms",
+    "topic_slug": "higher-education-reforms",
+    "subtopic": "University Reforms & Governance",
+    "tags": [
+      "Patna High Court"
+    ],
+    "word_count": 507
   },
   {
     "id": "x_2094346199050699209",

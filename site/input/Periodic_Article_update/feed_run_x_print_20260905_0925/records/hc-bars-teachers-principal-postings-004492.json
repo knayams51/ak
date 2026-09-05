@@ -1,0 +1,56 @@
+{
+  "id": "x_2095673643712004492",
+  "slug": "hc-bars-teachers-principal-postings-004492",
+  "title": "HC bars teachers’ principal postings",
+  "summary": "Patna HC sets aside deputation of teachers as principals in new govt degree colleges  of Bihar",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-04T00:41:47.051Z",
+  "modified_at": "2026-09-04T00:41:47.051Z",
+  "word_count": 507,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Patna High Court"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2095673643712004492",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2095673643712004492",
+      "original_article_id": "x_2095673643712004492",
+      "published_at": "2026-09-04T00:41:47.051Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2095673643712004492",
+      "tweet_commentary": "Patna HC sets aside deputation of teachers as principals in new govt degree colleges  of Bihar",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/hc-bars-teachers-principal-postings-004492.jpg",
+      "clipping_asset_path": "documents/clippings/hc-bars-teachers-principal-postings-004492.jpg"
+    },
+    "verification": {
+      "content_sha256": "7cbb3f7025d1aa6fea2d442366213f7efd362c7f9f65d84c4d45e2eeb1b0b3b5",
+      "last_verified_at": "2026-09-05T03:55:31.791Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

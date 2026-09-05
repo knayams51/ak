@@ -1,0 +1,26 @@
+{
+  "package_name": "feed_run_x_print_20260905_0925",
+  "generated_at": "2026-09-05T03:55:31.827Z",
+  "article_count": 3,
+  "source_type": "x_print_clippings",
+  "articles": [
+    {
+      "id": "x_2096046007561945580",
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "sha256": "e611fde332f68db7a702b3f7131c3c2ea80db8792dda523583c8f4340e64f099"
+    },
+    {
+      "id": "x_2095674341493256479",
+      "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+      "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+      "sha256": "d8b7d02889e5ac65c1d898de208bc41aac784c822b0ba5b2163fd6d6e196a465"
+    },
+    {
+      "id": "x_2095673643712004492",
+      "slug": "hc-bars-teachers-principal-postings-004492",
+      "title": "HC bars teachers’ principal postings",
+      "sha256": "7cbb3f7025d1aa6fea2d442366213f7efd362c7f9f65d84c4d45e2eeb1b0b3b5"
+    }
+  ]
+}

@@ -7,8 +7,8 @@
   "dateline": "Patna",
   "published_at": "2026-09-04T05:14:27.353Z",
   "modified_at": "2026-09-04T05:14:27.353Z",
-  "word_count": 739,
-  "reading_time_minutes": 4,
+  "word_count": 1481,
+  "reading_time_minutes": 8,
   "topic": {
     "id": "politics-elections-governance",
     "slug": "politics-elections-governance",
@@ -49,8 +49,8 @@
       "clipping_asset_path": "documents/clippings/bihar-steps-towards-exam-reforms-842658.jpg"
     },
     "verification": {
-      "content_sha256": "10f29c4f58b31cfa636f73c031ebffe03a587d4f9454976b632ee118d63739be",
-      "last_verified_at": "2026-09-04T05:14:27.357Z",
+      "content_sha256": "e6c30045c66b2e7bb7be889a3f73f74e6c8d158539d491b42a3f98a5d78f62e2",
+      "last_verified_at": "2026-09-05T03:53:25.984Z",
       "integrity_status": "tamper_proof",
       "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
     }

@@ -1,0 +1,57 @@
+{
+  "id": "x_2095674341493256479",
+  "slug": "jdu-launches-nitish-samvad-on-water-treaty-256479",
+  "title": "JD(U) launches ‘Nitish Samvad’ on water treaty",
+  "summary": "JD-U outreach with ‘Nitish Samvad’ on Farakka issue, as Centre assures to address Bihar concerns",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-04T00:44:33.415Z",
+  "modified_at": "2026-09-04T00:44:33.415Z",
+  "word_count": 553,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2095674341493256479",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2095674341493256479",
+      "original_article_id": "x_2095674341493256479",
+      "published_at": "2026-09-04T00:44:33.415Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2095674341493256479",
+      "tweet_commentary": "JD-U outreach with ‘Nitish Samvad’ on Farakka issue, as Centre assures to address Bihar concerns",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/jdu-launches-nitish-samvad-on-water-treaty-256479.jpg",
+      "clipping_asset_path": "documents/clippings/jdu-launches-nitish-samvad-on-water-treaty-256479.jpg"
+    },
+    "verification": {
+      "content_sha256": "d8b7d02889e5ac65c1d898de208bc41aac784c822b0ba5b2163fd6d6e196a465",
+      "last_verified_at": "2026-09-05T03:55:31.788Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
