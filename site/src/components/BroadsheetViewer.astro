@@ -1,0 +1,914 @@
+---
+interface Props {
+  clippingUrl: string;
+  title: string;
+  dateline?: string;
+  date?: string;
+  isPrintExclusive?: boolean;
+  canonicalUrl?: string;
+}
+
+const {
+  clippingUrl,
+  title,
+  dateline = "Patna",
+  date = "",
+  isPrintExclusive = true,
+  canonicalUrl = ""
+} = Astro.props;
+
+// Unique ID for scoped instance
+const instanceId = `bv-${Math.random().toString(36).substring(2, 9)}`;
+---
+
+<div class="broadsheet-viewer-card card" id={`${instanceId}-card`}>
+  {/* Card Header */}
+  <div class="viewer-card-header">
+    <div class="header-left">
+      <span class="icon-newspaper" aria-hidden="true">📰</span>
+      <div class="header-titles">
+        <strong class="header-main-title">Hindustan Times Print Broadsheet Scan</strong>
+        <span class="header-sub-title">Original Print Edition • {dateline}</span>
+      </div>
+      {isPrintExclusive && (
+        <span class="badge-print-exclusive">Print Exclusive</span>
+      )}
+    </div>
+
+    <div class="header-actions">
+      <button 
+        type="button" 
+        class="btn-expand-modal" 
+        id={`${instanceId}-btn-trigger`}
+        aria-label="Open fullscreen broadsheet reader"
+      >
+        <span class="icon-zoom">🔍</span>
+        <span class="btn-text">Read Broadsheet</span>
+      </button>
+    </div>
+  </div>
+
+  {/* Embedded Interactive Preview */}
+  <div class="preview-stage" id={`${instanceId}-preview-stage`}>
+    <div class="preview-frame" id={`${instanceId}-preview-trigger`}>
+      <img 
+        src={clippingUrl} 
+        alt={`Hindustan Times print clipping: ${title}`} 
+        class="preview-img" 
+        loading="lazy"
+      />
+      <div class="preview-hover-overlay">
+        <div class="overlay-pill">
+          <span class="pill-icon">🔍</span>
+          <span class="pill-text">Tap / Click to Read Fullscreen</span>
+        </div>
+        <div class="overlay-hint">
+          <span>🔄 Rotate phone to landscape for full newspaper broadsheet view</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {/* Card Footer Bar */}
+  <div class="viewer-card-footer">
+    <div class="footer-hint">
+      <span class="hint-dot" aria-hidden="true"></span>
+      <span>Authentic physical newspaper clipping. Tap above to open the pan & zoom reader.</span>
+    </div>
+    <div class="footer-links">
+      <a 
+        href={clippingUrl} 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="direct-scan-link"
+        title="Open original high-resolution JPG directly"
+      >
+        Raw Scan ↗
+      </a>
+    </div>
+  </div>
+</div>
+
+{/* ========================================================================= */}
+{/* FULLSCREEN LIGHTBOX MODAL DIALOG                                          */}
+{/* ========================================================================= */}
+<div 
+  id={`${instanceId}-modal`} 
+  class="broadsheet-modal" 
+  role="dialog" 
+  aria-modal="true" 
+  aria-label={`Broadsheet Reader: ${title}`}
+  tabindex="-1"
+  style="display: none;"
+>
+  {/* Top Control Bar */}
+  <div class="modal-top-bar">
+    <div class="modal-meta">
+      <span class="modal-badge-ht">HINDUSTAN TIMES</span>
+      <h2 class="modal-article-title">{title}</h2>
+      <span class="modal-article-date">{dateline} • {date}</span>
+    </div>
+
+    <div class="modal-center-pill" id={`${instanceId}-orientation-hint`}>
+      <span class="rotate-icon">🔄</span>
+      <span class="hint-text">Rotate for full landscape view</span>
+    </div>
+
+    <div class="modal-toolbar">
+      <button 
+        type="button" 
+        class="tb-btn" 
+        id={`${instanceId}-btn-zoom-out`} 
+        title="Zoom Out (-)"
+        aria-label="Zoom Out"
+      >
+        <span>−</span>
+      </button>
+
+      <span class="zoom-level-indicator" id={`${instanceId}-zoom-pct`}>100%</span>
+
+      <button 
+        type="button" 
+        class="tb-btn" 
+        id={`${instanceId}-btn-zoom-in`} 
+        title="Zoom In (+)"
+        aria-label="Zoom In"
+      >
+        <span>+</span>
+      </button>
+
+      <button 
+        type="button" 
+        class="tb-btn" 
+        id={`${instanceId}-btn-reset`} 
+        title="Reset Zoom (1:1)"
+        aria-label="Reset Zoom"
+      >
+        <span>Fit</span>
+      </button>
+
+      <button 
+        type="button" 
+        class="tb-btn" 
+        id={`${instanceId}-btn-rotate`} 
+        title="Rotate 90° (R)"
+        aria-label="Rotate"
+      >
+        <span>↺</span>
+      </button>
+
+      <button 
+        type="button" 
+        class="tb-btn btn-close" 
+        id={`${instanceId}-btn-close`} 
+        title="Close Reader (Esc)"
+        aria-label="Close Reader"
+      >
+        <span>✕</span>
+      </button>
+    </div>
+  </div>
+
+  {/* Main Gesture Canvas Viewport */}
+  <div class="modal-canvas" id={`${instanceId}-canvas`}>
+    <div class="image-wrapper" id={`${instanceId}-wrapper`}>
+      <img 
+        src={clippingUrl} 
+        alt={`Hindustan Times broadsheet: ${title}`} 
+        class="broadsheet-full-img" 
+        id={`${instanceId}-img`}
+        draggable="false"
+      />
+    </div>
+  </div>
+
+  {/* Floating Mobile Bottom Control Bar */}
+  <div class="modal-mobile-bar" id={`${instanceId}-mobile-bar`}>
+    <button type="button" class="mob-btn" id={`${instanceId}-mob-zoom-out`} aria-label="Zoom Out">− Zoom</button>
+    <button type="button" class="mob-btn mob-fit" id={`${instanceId}-mob-reset`} aria-label="Fit View">Fit</button>
+    <button type="button" class="mob-btn" id={`${instanceId}-mob-zoom-in`} aria-label="Zoom In">+ Zoom</button>
+    <button type="button" class="mob-btn" id={`${instanceId}-mob-rotate`} aria-label="Rotate">↺ Rotate</button>
+    <button type="button" class="mob-btn mob-close" id={`${instanceId}-mob-close`} aria-label="Close">✕ Close</button>
+  </div>
+</div>
+
+<style>
+/* ========================================================================= */
+/* PREVIEW CARD STYLES                                                       */
+/* ========================================================================= */
+.broadsheet-viewer-card {
+  margin-bottom: 2rem;
+  padding: 1.25rem;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.broadsheet-viewer-card:hover {
+  border-color: var(--accent-color);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+}
+
+.viewer-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.icon-newspaper {
+  font-size: 1.4rem;
+  line-height: 1;
+}
+
+.header-titles {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.header-main-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+}
+
+.header-sub-title {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.badge-print-exclusive {
+  font-size: 0.72rem;
+  padding: 0.2rem 0.6rem;
+  background: #fee2e2;
+  color: #991b1b;
+  border-radius: 9999px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  border: 1px solid rgba(185, 28, 28, 0.2);
+}
+
+[data-theme="dark"] .badge-print-exclusive {
+  background: rgba(185, 28, 28, 0.25);
+  color: #fca5a5;
+  border-color: rgba(239, 68, 68, 0.4);
+}
+
+.btn-expand-modal {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.45rem 0.95rem;
+  background: var(--accent-color);
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.15s ease, filter 0.15s ease, background 0.15s ease;
+}
+
+.btn-expand-modal:hover {
+  filter: brightness(1.1);
+  transform: translateY(-1px);
+}
+
+/* Embedded Preview Stage */
+.preview-stage {
+  position: relative;
+  background: #0f1115;
+  border-radius: 8px;
+  overflow: hidden;
+  max-height: 480px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.preview-frame {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.preview-img {
+  max-height: 480px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  display: block;
+  transition: transform 0.25s ease, filter 0.25s ease;
+}
+
+.preview-frame:hover .preview-img {
+  transform: scale(1.015);
+  filter: brightness(0.92);
+}
+
+.preview-hover-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.6rem;
+  background: rgba(15, 17, 21, 0.45);
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  padding: 1rem;
+  text-align: center;
+  pointer-events: none;
+}
+
+.preview-frame:hover .preview-hover-overlay {
+  opacity: 1;
+}
+
+.overlay-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(185, 28, 28, 0.95);
+  color: #ffffff;
+  padding: 0.5rem 1.15rem;
+  border-radius: 9999px;
+  font-size: 0.88rem;
+  font-weight: 700;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.35);
+  transform: translateY(4px);
+  transition: transform 0.2s ease;
+}
+
+.preview-frame:hover .overlay-pill {
+  transform: translateY(0);
+}
+
+.overlay-hint {
+  font-size: 0.78rem;
+  color: #f1f5f9;
+  font-weight: 500;
+  background: rgba(0, 0, 0, 0.65);
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+}
+
+/* Card Footer */
+.viewer-card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.85rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--border-light);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.footer-hint {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.hint-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #16a34a;
+}
+
+.direct-scan-link {
+  color: var(--link-color);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.direct-scan-link:hover {
+  text-decoration: underline;
+}
+
+/* ========================================================================= */
+/* FULLSCREEN MODAL LIGHTBOX STYLES                                          */
+/* ========================================================================= */
+.broadsheet-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 999999;
+  background: rgba(8, 9, 12, 0.96);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Top Modal Bar */
+.modal-top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.6rem 1.25rem;
+  background: rgba(18, 20, 26, 0.9);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  color: #f8fafc;
+  z-index: 10;
+  flex-shrink: 0;
+  gap: 1rem;
+}
+
+.modal-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  min-width: 0;
+}
+
+.modal-badge-ht {
+  font-size: 0.65rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  padding: 0.15rem 0.45rem;
+  background: var(--accent-color);
+  color: #ffffff;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+.modal-article-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #f1f5f9;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 320px;
+}
+
+.modal-article-date {
+  font-size: 0.75rem;
+  color: #94a3b8;
+  white-space: nowrap;
+}
+
+/* Landscape Hint Pill */
+.modal-center-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 0.25rem 0.65rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  color: #cbd5e1;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  animation: pulseHint 2.5s infinite ease-in-out;
+}
+
+@keyframes pulseHint {
+  0%, 100% { opacity: 0.8; }
+  50% { opacity: 1; border-color: rgba(239, 68, 68, 0.6); }
+}
+
+/* Desktop Modal Toolbar */
+.modal-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.tb-btn {
+  background: rgba(255, 255, 255, 0.12);
+  color: #f8fafc;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 5px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  padding: 0.35rem 0.7rem;
+  cursor: pointer;
+  transition: background 0.15s ease, transform 0.1s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 34px;
+  height: 32px;
+}
+
+.tb-btn:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: scale(1.05);
+}
+
+.tb-btn:active {
+  transform: scale(0.95);
+}
+
+.tb-btn.btn-close {
+  background: rgba(239, 68, 68, 0.8);
+  border-color: rgba(239, 68, 68, 0.9);
+  color: #ffffff;
+  margin-left: 0.5rem;
+}
+
+.tb-btn.btn-close:hover {
+  background: #dc2626;
+}
+
+.zoom-level-indicator {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #94a3b8;
+  min-width: 44px;
+  text-align: center;
+  font-family: var(--font-mono);
+}
+
+/* Canvas Viewport */
+.modal-canvas {
+  position: relative;
+  flex: 1;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  cursor: grab;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-canvas:active {
+  cursor: grabbing;
+}
+
+.image-wrapper {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform-origin: center center;
+  will-change: transform;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.broadsheet-full-img {
+  max-width: 96vw;
+  max-height: 90vh;
+  object-fit: contain;
+  display: block;
+  pointer-events: none;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.75);
+}
+
+/* Mobile Floating Bottom Bar */
+.modal-mobile-bar {
+  display: none;
+  position: absolute;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(15, 17, 23, 0.92);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 0.35rem 0.5rem;
+  border-radius: 9999px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  z-index: 20;
+  gap: 0.35rem;
+  align-items: center;
+}
+
+.mob-btn {
+  background: rgba(255, 255, 255, 0.12);
+  color: #f8fafc;
+  border: none;
+  border-radius: 9999px;
+  padding: 0.4rem 0.75rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.mob-btn:active {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.mob-btn.mob-fit {
+  background: rgba(245, 158, 11, 0.25);
+  color: #fbbf24;
+}
+
+.mob-btn.mob-close {
+  background: rgba(239, 68, 68, 0.85);
+  color: #ffffff;
+}
+
+/* Responsive Breakpoints */
+@media (max-width: 768px) {
+  .modal-top-bar {
+    padding: 0.5rem 0.75rem;
+  }
+  .modal-article-date {
+    display: none;
+  }
+  .modal-center-pill {
+    display: none;
+  }
+  .modal-toolbar {
+    display: none; /* Controlled by mobile bottom bar */
+  }
+  .modal-mobile-bar {
+    display: flex;
+  }
+  .broadsheet-full-img {
+    max-width: 100vw;
+    max-height: 85vh;
+  }
+}
+
+/* Landscape Mode on Phones (The Heavy Landscape Experience) */
+@media (max-width: 932px) and (orientation: landscape) {
+  .modal-top-bar {
+    padding: 0.3rem 0.75rem;
+    gap: 0.5rem;
+  }
+  .modal-article-title {
+    max-width: 240px;
+    font-size: 0.82rem;
+  }
+  .modal-mobile-bar {
+    bottom: 8px;
+    padding: 0.25rem 0.4rem;
+  }
+  .mob-btn {
+    padding: 0.3rem 0.55rem;
+    font-size: 0.72rem;
+  }
+  .broadsheet-full-img {
+    max-height: 94vh;
+    max-width: 98vw;
+  }
+}
+</style>
+
+<script is:inline define:vars={{ instanceId }}>
+(function() {
+  const modal = document.getElementById(`${instanceId}-modal`);
+  const triggerBtn = document.getElementById(`${instanceId}-btn-trigger`);
+  const previewTrigger = document.getElementById(`${instanceId}-preview-trigger`);
+  const closeBtn = document.getElementById(`${instanceId}-btn-close`);
+  const mobCloseBtn = document.getElementById(`${instanceId}-mob-close`);
+
+  const canvas = document.getElementById(`${instanceId}-canvas`);
+  const wrapper = document.getElementById(`${instanceId}-wrapper`);
+  const img = document.getElementById(`${instanceId}-img`);
+  const zoomPct = document.getElementById(`${instanceId}-zoom-pct`);
+
+  const zoomInBtn = document.getElementById(`${instanceId}-btn-zoom-in`);
+  const zoomOutBtn = document.getElementById(`${instanceId}-btn-zoom-out`);
+  const resetBtn = document.getElementById(`${instanceId}-btn-reset`);
+  const rotateBtn = document.getElementById(`${instanceId}-btn-rotate`);
+
+  const mobZoomIn = document.getElementById(`${instanceId}-mob-zoom-in`);
+  const mobZoomOut = document.getElementById(`${instanceId}-mob-zoom-out`);
+  const mobReset = document.getElementById(`${instanceId}-mob-reset`);
+  const mobRotate = document.getElementById(`${instanceId}-mob-rotate`);
+
+  if (!modal || !wrapper || !img) return;
+
+  // Transform State
+  let scale = 1.0;
+  let translateX = 0;
+  let translateY = 0;
+  let rotation = 0;
+
+  const MIN_SCALE = 0.8;
+  const MAX_SCALE = 4.5;
+  const ZOOM_STEP = 0.3;
+
+  function updateTransform() {
+    wrapper.style.transform = `translate3d(${translateX}px, ${translateY}px, 0) scale(${scale}) rotate(${rotation}deg)`;
+    if (zoomPct) {
+      zoomPct.textContent = `${Math.round(scale * 100)}%`;
+    }
+  }
+
+  function resetView() {
+    scale = 1.0;
+    translateX = 0;
+    translateY = 0;
+    rotation = 0;
+    updateTransform();
+  }
+
+  function openModal() {
+    modal.style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+    resetView();
+    // In landscape mode, initial scale is optimized to fit screen width
+    if (window.innerWidth > window.innerHeight && window.innerWidth <= 1024) {
+      scale = 1.15;
+      updateTransform();
+    }
+  }
+
+  function closeModal() {
+    modal.style.display = 'none';
+    document.body.style.overflow = '';
+    resetView();
+  }
+
+  // Event Listeners for Open / Close
+  if (triggerBtn) triggerBtn.addEventListener('click', openModal);
+  if (previewTrigger) previewTrigger.addEventListener('click', openModal);
+  if (closeBtn) closeBtn.addEventListener('click', closeModal);
+  if (mobCloseBtn) mobCloseBtn.addEventListener('click', closeModal);
+
+  // Zoom In / Out Handlers
+  function zoomIn() {
+    if (scale < MAX_SCALE) {
+      scale = Math.min(MAX_SCALE, scale + ZOOM_STEP);
+      updateTransform();
+    }
+  }
+
+  function zoomOut() {
+    if (scale > MIN_SCALE) {
+      scale = Math.max(MIN_SCALE, scale - ZOOM_STEP);
+      updateTransform();
+    }
+  }
+
+  function rotate() {
+    rotation = (rotation + 90) % 360;
+    updateTransform();
+  }
+
+  if (zoomInBtn) zoomInBtn.addEventListener('click', zoomIn);
+  if (zoomOutBtn) zoomOutBtn.addEventListener('click', zoomOut);
+  if (resetBtn) resetBtn.addEventListener('click', resetView);
+  if (rotateBtn) rotateBtn.addEventListener('click', rotate);
+
+  if (mobZoomIn) mobZoomIn.addEventListener('click', zoomIn);
+  if (mobZoomOut) mobZoomOut.addEventListener('click', zoomOut);
+  if (mobReset) mobReset.addEventListener('click', resetView);
+  if (mobRotate) mobRotate.addEventListener('click', rotate);
+
+  // Mouse Drag / Pan Engine (Desktop)
+  let isDragging = false;
+  let startX = 0;
+  let startY = 0;
+
+  canvas.addEventListener('mousedown', (e) => {
+    if (e.target.closest('.modal-top-bar') || e.target.closest('.modal-mobile-bar')) return;
+    isDragging = true;
+    startX = e.clientX - translateX;
+    startY = e.clientY - translateY;
+  });
+
+  window.addEventListener('mousemove', (e) => {
+    if (!isDragging) return;
+    translateX = e.clientX - startX;
+    translateY = e.clientY - startY;
+    updateTransform();
+  });
+
+  window.addEventListener('mouseup', () => {
+    isDragging = false;
+  });
+
+  // Mouse Wheel Zoom
+  canvas.addEventListener('wheel', (e) => {
+    e.preventDefault();
+    const delta = e.deltaY < 0 ? ZOOM_STEP : -ZOOM_STEP;
+    scale = Math.min(MAX_SCALE, Math.max(MIN_SCALE, scale + delta));
+    updateTransform();
+  }, { passive: false });
+
+  // Double Click Zoom Toggle (Desktop)
+  canvas.addEventListener('dblclick', (e) => {
+    if (e.target.closest('.modal-top-bar') || e.target.closest('.modal-mobile-bar')) return;
+    if (scale > 1.2) {
+      resetView();
+    } else {
+      scale = 2.2;
+      updateTransform();
+    }
+  });
+
+  // Touch Gesture Engine (Mobile Pinch-to-Zoom & Pan)
+  let initialTouchDistance = 0;
+  let initialScale = 1.0;
+  let touchStartX = 0;
+  let touchStartY = 0;
+  let lastTapTime = 0;
+
+  canvas.addEventListener('touchstart', (e) => {
+    if (e.touches.length === 2) {
+      // Pinch start
+      initialTouchDistance = Math.hypot(
+        e.touches[0].clientX - e.touches[1].clientX,
+        e.touches[0].clientY - e.touches[1].clientY
+      );
+      initialScale = scale;
+    } else if (e.touches.length === 1) {
+      // Single finger drag start
+      touchStartX = e.touches[0].clientX - translateX;
+      touchStartY = e.touches[0].clientY - translateY;
+
+      // Double-tap detection
+      const now = Date.now();
+      if (now - lastTapTime < 300) {
+        if (scale > 1.2) {
+          resetView();
+        } else {
+          scale = 2.4;
+          // Center zoom on tap position
+          translateX = (window.innerWidth / 2 - e.touches[0].clientX) * 0.8;
+          translateY = (window.innerHeight / 2 - e.touches[0].clientY) * 0.8;
+          updateTransform();
+        }
+      }
+      lastTapTime = now;
+    }
+  }, { passive: true });
+
+  canvas.addEventListener('touchmove', (e) => {
+    if (e.touches.length === 2) {
+      // Pinch move
+      const currentDistance = Math.hypot(
+        e.touches[0].clientX - e.touches[1].clientX,
+        e.touches[0].clientY - e.touches[1].clientY
+      );
+      if (initialTouchDistance > 0) {
+        const factor = currentDistance / initialTouchDistance;
+        scale = Math.min(MAX_SCALE, Math.max(MIN_SCALE, initialScale * factor));
+        updateTransform();
+      }
+    } else if (e.touches.length === 1 && scale > 1.0) {
+      // Pan move when zoomed
+      translateX = e.touches[0].clientX - touchStartX;
+      translateY = e.touches[0].clientY - touchStartY;
+      updateTransform();
+    }
+  }, { passive: true });
+
+  canvas.addEventListener('touchend', () => {
+    initialTouchDistance = 0;
+  });
+
+  // Orientation Change Adaptation (Auto-adjust on phone rotation)
+  window.addEventListener('resize', () => {
+    if (modal.style.display !== 'none') {
+      // If phone rotated to landscape, adapt scale nicely
+      if (window.innerWidth > window.innerHeight && scale === 1.0) {
+        scale = 1.1;
+        updateTransform();
+      }
+    }
+  });
+
+  // Keyboard Shortcuts (Esc to close, +/- to zoom)
+  window.addEventListener('keydown', (e) => {
+    if (modal.style.display === 'none') return;
+    if (e.key === 'Escape') {
+      closeModal();
+    } else if (e.key === '+' || e.key === '=') {
+      zoomIn();
+    } else if (e.key === '-' || e.key === '_') {
+      zoomOut();
+    } else if (e.key === '0') {
+      resetView();
+    } else if (e.key === 'r' || e.key === 'R') {
+      rotate();
+    }
+  });
+})();
+</script>
