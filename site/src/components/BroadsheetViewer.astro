@@ -204,6 +204,11 @@ const instanceId = `bv-${Math.random().toString(36).substring(2, 9)}`;
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+  min-width: 0;
 }
 
 .broadsheet-viewer-card:hover {
@@ -218,6 +223,8 @@ const instanceId = `bv-${Math.random().toString(36).substring(2, 9)}`;
   margin-bottom: 1rem;
   flex-wrap: wrap;
   gap: 0.75rem;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .header-left {
@@ -299,21 +306,30 @@ const instanceId = `bv-${Math.random().toString(36).substring(2, 9)}`;
   justify-content: center;
   align-items: center;
   border: 1px solid rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  min-width: 0;
 }
 
 .preview-frame {
   position: relative;
   width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  min-width: 0;
   display: flex;
   justify-content: center;
   align-items: center;
   cursor: pointer;
+  overflow: hidden;
 }
 
 .preview-img {
-  max-height: 480px;
-  width: auto;
+  width: 100%;
   max-width: 100%;
+  height: auto;
+  max-height: 480px;
   object-fit: contain;
   display: block;
   transition: transform 0.25s ease, filter 0.25s ease;
@@ -384,12 +400,18 @@ const instanceId = `bv-${Math.random().toString(36).substring(2, 9)}`;
   color: var(--text-muted);
   flex-wrap: wrap;
   gap: 0.5rem;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .footer-hint {
   display: flex;
   align-items: center;
   gap: 0.45rem;
+  min-width: 0;
+  flex: 1 1 auto;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .hint-dot {
@@ -397,6 +419,7 @@ const instanceId = `bv-${Math.random().toString(36).substring(2, 9)}`;
   height: 6px;
   border-radius: 50%;
   background: #16a34a;
+  flex-shrink: 0;
 }
 
 .direct-scan-link {
@@ -628,6 +651,53 @@ const instanceId = `bv-${Math.random().toString(36).substring(2, 9)}`;
 .mob-btn.mob-close {
   background: rgba(239, 68, 68, 0.85);
   color: #ffffff;
+}
+
+/* In-Page Card Mobile Responsiveness */
+@media (max-width: 640px) {
+  .broadsheet-viewer-card {
+    padding: 0.85rem 0.65rem;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+  }
+
+  .viewer-card-header {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.75rem;
+  }
+
+  .header-left {
+    justify-content: space-between;
+    gap: 0.5rem;
+  }
+
+  .header-main-title {
+    font-size: 0.92rem;
+    line-height: 1.25;
+  }
+
+  .header-sub-title {
+    font-size: 0.75rem;
+  }
+
+  .btn-expand-modal {
+    width: 100%;
+    justify-content: center;
+    padding: 0.65rem 1rem;
+    font-size: 0.92rem;
+  }
+
+  .viewer-card-footer {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+
+  .footer-hint {
+    font-size: 0.76rem;
+    line-height: 1.4;
+  }
 }
 
 /* Responsive Breakpoints */
