@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Lalu attacks Centre, state on Bihar's unending flood woes | Hindustan Times",
+  "description": "Lalu Prasad Yadav criticizes the Bihar government over flooding, demanding solutions while accusing the Centre of neglecting the state's interests.",
+  "datePublished": "2026-09-08T17:29:53.000Z",
+  "dateModified": "2026-09-08T17:29:54.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/lalu-attacks-centre-state-on-bihars-unending-flood-woes-hindustan-times-594121"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Lalu Prasad",
+    "JD(U)",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 478
+}

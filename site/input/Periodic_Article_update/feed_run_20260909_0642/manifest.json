@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20260909_0642",
+  "generated_at": "2026-09-09T06:42:56.958Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101788888594121",
+      "slug": "lalu-attacks-centre-state-on-bihars-unending-flood-woes-hindustan-times-594121",
+      "title": "Lalu attacks Centre, state on Bihar's unending flood woes | Hindustan Times",
+      "sha256": "733103666d0f25c8ec0a8f50e5bdeaf68fe6c918f0f322e7c8d30847bdd62137"
+    }
+  ]
+}
