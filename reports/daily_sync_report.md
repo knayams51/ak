@@ -1,29 +1,31 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-09-09  
-**Execution Timestamp**: 2026-09-09T06:43:22.725Z  
-**Duration**: 76 seconds  
-**Archive Total Articles**: **254 articles**
+**Execution Date**: 2026-09-10  
+**Execution Timestamp**: 2026-09-10T06:40:19.935Z  
+**Duration**: 81 seconds  
+**Archive Total Articles**: **256 articles**
 
 ---
 
 ## 📊 Summary Metrics
 | Metric | Value |
 |---|---|
-| **Discovered New Candidate URLs** | 36 |
-| **Already Known / Indexed URLs** | 311 |
+| **Discovered New Candidate URLs** | 37 |
+| **Already Known / Indexed URLs** | 302 |
 | **Candidate URLs Crawled** | 25 |
-| **Accepted Arun Kumar Articles** | **1** |
+| **Accepted Arun Kumar Articles** | **2** |
 | **X Print Broadsheet Clippings Accepted** | **0** |
-| **Filtered Out (Namesakes / Non-Patna)** | 24 |
+| **Filtered Out (Namesakes / Non-Patna)** | 23 |
 | **Failed Requests** | 0 |
-| **New Package Created** | `feed_run_20260909_0642` |
+| **New Package Created** | `feed_run_20260910_0639` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-- **[ACCEPTED]** [Lalu attacks Centre, state on Bihar’s unending flood woes  Hindustan Times](https://www.hindustantimes.com/cities/patna-news/lalu-attacks-centre-state-on-bihar-s-unending-flood-woes-101788888594121.html)  
-  *Dateline:  | Byline: Arun Kumar | SHA-256: `bb5526a35d...`*
+- **[ACCEPTED]** [Bihar Legislative Council polls: Jan Suraaj, Samrat announcements add zing to battle for 8 seats  Hindustan Times](https://www.hindustantimes.com/cities/patna-news/bihar-legislative-council-polls-jan-suraaj-samrat-announcements-add-zing-to-battle-for-8-seats-101788977111375.html)  
+  *Dateline:  | Byline: Arun Kumar | SHA-256: `9bcad6a39b...`*
+- **[ACCEPTED]** [Liquor case accused gets bail in dry Bihar, asked to pay to beautify court  India News](https://www.hindustantimes.com/india-news/liquor-case-accused-gets-bail-in-dry-bihar-asked-to-pay-to-beautify-court-101788941644627.html)  
+  *Dateline:  | Byline: Arun Kumar | SHA-256: `f79ee94093...`*
 
 ---
 

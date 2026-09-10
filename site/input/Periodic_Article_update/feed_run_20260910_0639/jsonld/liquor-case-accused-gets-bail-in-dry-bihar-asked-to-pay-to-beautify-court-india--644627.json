@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Liquor case accused gets bail in dry Bihar, asked to pay to beautify court | India News",
+  "description": "Uttam Kumar, the accused, was booked under the Bihar Prohibition and Excise Act following an alleged recovery of liquor in June | India News",
+  "datePublished": "2026-09-09T08:14:04.000Z",
+  "dateModified": "2026-09-09T08:14:04.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/liquor-case-accused-gets-bail-in-dry-bihar-asked-to-pay-to-beautify-court-india--644627"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Patna High Court"
+  ],
+  "wordCount": 308
+}

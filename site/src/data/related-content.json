@@ -1,4 +1,96 @@
 {
+  "bihar-legislative-council-polls-jan-suraaj-samrat-announcements-add-zing-to-batt-111375": [
+    {
+      "slug": "setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766",
+      "title": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll",
+      "published_at": "2026-05-14T13:15:58.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 22
+    },
+    {
+      "slug": "bihar-rs-polls-nda-sweeps-all-5-seats-as-4-rjd-cong-mlas-abstain-from-voting-hin-572530",
+      "title": "Bihar RS polls: NDA sweeps all 5 seats as 4 RJD-Cong MLAs abstain from voting",
+      "published_at": "2026-03-16T14:49:32.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 22
+    },
+    {
+      "slug": "5th-rs-seat-up-for-contest-even-as-nda-eyes-clan-sweep-in-bihar-rs-polls-hindust-406945",
+      "title": "5th RS seat up for contest even as NDA eyes clan sweep in Bihar RS polls",
+      "published_at": "2026-03-15T16:00:06.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 22
+    },
+    {
+      "slug": "nitish-on-last-yatra-as-cm-amid-questions-about-fate-of-son-party-and-prohibitio-141221",
+      "title": "Nitish on 'last yatra' as CM amid questions about fate of son, party and prohibition in state",
+      "published_at": "2026-03-10T12:52:20.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 22
+    }
+  ],
+  "liquor-case-accused-gets-bail-in-dry-bihar-asked-to-pay-to-beautify-court-india--644627": [
+    {
+      "slug": "patna-hc-flags-poor-implementation-of-prohibition-spike-in-cases-due-to-rising-i-167055",
+      "title": "Patna HC flags poor implementation of prohibition, spike in cases due to rising illicit liquor trade",
+      "published_at": "2026-02-18T17:19:26.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 13
+    },
+    {
+      "slug": "smooth-passage-for-amended-liquor-ban-law-in-bihar-assembly-hindustan-times-516134",
+      "title": "Smooth passage for amended liquor ban law in Bihar Assembly",
+      "published_at": "2022-03-30T16:41:55.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 13
+    },
+    {
+      "slug": "dry-bihar-risks-lives-for-its-daily-fix-india-news-7465fa",
+      "title": "Dry Bihar risks lives for its daily fix",
+      "published_at": "2017-10-31T02:04:46.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 13
+    },
+    {
+      "slug": "teachers-in-dry-bihar-protest-order-to-tip-off-govt-on-tipplers-hindustan-times-848496",
+      "title": "Teachers in 'dry' Bihar protest order to tip off govt on tipplers",
+      "published_at": "2022-01-29T16:14:08.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 10
+    }
+  ],
   "lalu-attacks-centre-state-on-bihars-unending-flood-woes-hindustan-times-594121": [
     {
       "slug": "nitish-on-last-yatra-as-cm-amid-questions-about-fate-of-son-party-and-prohibitio-141221",
@@ -678,9 +770,9 @@
       "score": 10
     },
     {
-      "slug": "patna-hc-criticises-autocratic-action-of-state-on-decades-old-land-ownership-hin-726381",
-      "title": "Patna HC criticises 'autocratic action' of state on decades old land ownership",
-      "published_at": "2026-06-26T10:45:25.000Z",
+      "slug": "liquor-case-accused-gets-bail-in-dry-bihar-asked-to-pay-to-beautify-court-india--644627",
+      "title": "Liquor case accused gets bail in dry Bihar, asked to pay to beautify court",
+      "published_at": "2026-09-09T08:14:04.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -2829,9 +2921,9 @@
       "score": 19
     },
     {
-      "slug": "setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766",
-      "title": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll",
-      "published_at": "2026-05-14T13:15:58.000Z",
+      "slug": "bihar-legislative-council-polls-jan-suraaj-samrat-announcements-add-zing-to-batt-111375",
+      "title": "Bihar Legislative Council polls: Jan Suraaj, Samrat announcements add zing to battle for 8 seats",
+      "published_at": "2026-09-10T02:02:10.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -2840,9 +2932,9 @@
       "score": 17
     },
     {
-      "slug": "bihar-rs-polls-nda-sweeps-all-5-seats-as-4-rjd-cong-mlas-abstain-from-voting-hin-572530",
-      "title": "Bihar RS polls: NDA sweeps all 5 seats as 4 RJD-Cong MLAs abstain from voting",
-      "published_at": "2026-03-16T14:49:32.000Z",
+      "slug": "setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766",
+      "title": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll",
+      "published_at": "2026-05-14T13:15:58.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -3911,6 +4003,17 @@
   ],
   "jdu-seeks-own-mps-disqualification-over-anti-party-activities-hindustan-times-163642": [
     {
+      "slug": "bihar-legislative-council-polls-jan-suraaj-samrat-announcements-add-zing-to-batt-111375",
+      "title": "Bihar Legislative Council polls: Jan Suraaj, Samrat announcements add zing to battle for 8 seats",
+      "published_at": "2026-09-10T02:02:10.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "lalu-attacks-centre-state-on-bihars-unending-flood-woes-hindustan-times-594121",
       "title": "Lalu attacks Centre, state on Bihar's unending flood woes",
       "published_at": "2026-09-08T17:29:53.000Z",
@@ -3936,17 +4039,6 @@
       "slug": "nitish-kumar-to-take-rajya-sabha-oath-on-april-10-then-resign-as-chief-minister--139068",
       "title": "Nitish Kumar to take Rajya Sabha oath on April 10, then resign as chief minister",
       "published_at": "2026-04-02T11:58:58.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "nitish-to-leave-bihar-house-on-march-30-hindustan-times-107422",
-      "title": "Nitish to leave Bihar House on March 30",
-      "published_at": "2026-03-27T12:38:27.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -5337,6 +5429,17 @@
   ],
   "patna-hc-flags-poor-implementation-of-prohibition-spike-in-cases-due-to-rising-i-167055": [
     {
+      "slug": "liquor-case-accused-gets-bail-in-dry-bihar-asked-to-pay-to-beautify-court-india--644627",
+      "title": "Liquor case accused gets bail in dry Bihar, asked to pay to beautify court",
+      "published_at": "2026-09-09T08:14:04.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 13
+    },
+    {
       "slug": "smooth-passage-for-amended-liquor-ban-law-in-bihar-assembly-hindustan-times-516134",
       "title": "Smooth passage for amended liquor ban law in Bihar Assembly",
       "published_at": "2022-03-30T16:41:55.000Z",
@@ -5362,17 +5465,6 @@
       "slug": "teachers-in-dry-bihar-protest-order-to-tip-off-govt-on-tipplers-hindustan-times-848496",
       "title": "Teachers in 'dry' Bihar protest order to tip off govt on tipplers",
       "published_at": "2022-01-29T16:14:08.000Z",
-      "topic": {
-        "id": "judiciary-law-patna-high-court",
-        "slug": "judiciary-law-patna-high-court",
-        "title": "Judiciary, Law & Patna High Court"
-      },
-      "score": 10
-    },
-    {
-      "slug": "dry-bihar-records-highest-indian-made-foreign-liquor-recovery-in-august-hindusta-5c51fd",
-      "title": "Dry Bihar records highest Indian made foreign liquor recovery in August",
-      "published_at": "2016-08-30T09:25:04.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -6073,6 +6165,17 @@
   ],
   "bjp-jdu-attack-madani-remarks-say-india-is-a-country-of-peace-and-harmony-hindus-101699": [
     {
+      "slug": "bihar-legislative-council-polls-jan-suraaj-samrat-announcements-add-zing-to-batt-111375",
+      "title": "Bihar Legislative Council polls: Jan Suraaj, Samrat announcements add zing to battle for 8 seats",
+      "published_at": "2026-09-10T02:02:10.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "lalu-attacks-centre-state-on-bihars-unending-flood-woes-hindustan-times-594121",
       "title": "Lalu attacks Centre, state on Bihar's unending flood woes",
       "published_at": "2026-09-08T17:29:53.000Z",
@@ -6098,17 +6201,6 @@
       "slug": "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894",
       "title": "JD(U) pledges to follow Nitish, promote Nishant",
       "published_at": "2026-06-21T21:58:08.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766",
-      "title": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll",
-      "published_at": "2026-05-14T13:15:58.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -7797,9 +7889,9 @@
       "score": 16
     },
     {
-      "slug": "patna-hc-flags-poor-implementation-of-prohibition-spike-in-cases-due-to-rising-i-167055",
-      "title": "Patna HC flags poor implementation of prohibition, spike in cases due to rising illicit liquor trade",
-      "published_at": "2026-02-18T17:19:26.000Z",
+      "slug": "liquor-case-accused-gets-bail-in-dry-bihar-asked-to-pay-to-beautify-court-india--644627",
+      "title": "Liquor case accused gets bail in dry Bihar, asked to pay to beautify court",
+      "published_at": "2026-09-09T08:14:04.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -7808,9 +7900,9 @@
       "score": 13
     },
     {
-      "slug": "dry-bihar-records-highest-indian-made-foreign-liquor-recovery-in-august-hindusta-5c51fd",
-      "title": "Dry Bihar records highest Indian made foreign liquor recovery in August",
-      "published_at": "2016-08-30T09:25:04.000Z",
+      "slug": "patna-hc-flags-poor-implementation-of-prohibition-spike-in-cases-due-to-rising-i-167055",
+      "title": "Patna HC flags poor implementation of prohibition, spike in cases due to rising illicit liquor trade",
+      "published_at": "2026-02-18T17:19:26.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -7878,6 +7970,17 @@
       "score": 16
     },
     {
+      "slug": "liquor-case-accused-gets-bail-in-dry-bihar-asked-to-pay-to-beautify-court-india--644627",
+      "title": "Liquor case accused gets bail in dry Bihar, asked to pay to beautify court",
+      "published_at": "2026-09-09T08:14:04.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 10
+    },
+    {
       "slug": "patna-hc-flags-poor-implementation-of-prohibition-spike-in-cases-due-to-rising-i-167055",
       "title": "Patna HC flags poor implementation of prohibition, spike in cases due to rising illicit liquor trade",
       "published_at": "2026-02-18T17:19:26.000Z",
@@ -7892,17 +7995,6 @@
       "slug": "dry-bihar-risks-lives-for-its-daily-fix-india-news-7465fa",
       "title": "Dry Bihar risks lives for its daily fix",
       "published_at": "2017-10-31T02:04:46.000Z",
-      "topic": {
-        "id": "judiciary-law-patna-high-court",
-        "slug": "judiciary-law-patna-high-court",
-        "title": "Judiciary, Law & Patna High Court"
-      },
-      "score": 10
-    },
-    {
-      "slug": "dry-bihar-records-highest-indian-made-foreign-liquor-recovery-in-august-hindusta-5c51fd",
-      "title": "Dry Bihar records highest Indian made foreign liquor recovery in August",
-      "published_at": "2016-08-30T09:25:04.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -8798,6 +8890,17 @@
       "score": 25
     },
     {
+      "slug": "bihar-legislative-council-polls-jan-suraaj-samrat-announcements-add-zing-to-batt-111375",
+      "title": "Bihar Legislative Council polls: Jan Suraaj, Samrat announcements add zing to battle for 8 seats",
+      "published_at": "2026-09-10T02:02:10.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 22
+    },
+    {
       "slug": "lalu-attacks-centre-state-on-bihars-unending-flood-woes-hindustan-times-594121",
       "title": "Lalu attacks Centre, state on Bihar's unending flood woes",
       "published_at": "2026-09-08T17:29:53.000Z",
@@ -8812,17 +8915,6 @@
       "slug": "setback-for-nda-as-rjd-wrests-seat-from-jdu-in-mlc-bypoll-hindustan-times-558766",
       "title": "Setback for NDA as RJD wrests seat from JD(U) in MLC bypoll",
       "published_at": "2026-05-14T13:15:58.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 22
-    },
-    {
-      "slug": "bihar-rs-polls-nda-sweeps-all-5-seats-as-4-rjd-cong-mlas-abstain-from-voting-hin-572530",
-      "title": "Bihar RS polls: NDA sweeps all 5 seats as 4 RJD-Cong MLAs abstain from voting",
-      "published_at": "2026-03-16T14:49:32.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -8855,9 +8947,9 @@
       "score": 16
     },
     {
-      "slug": "patna-hc-flags-poor-implementation-of-prohibition-spike-in-cases-due-to-rising-i-167055",
-      "title": "Patna HC flags poor implementation of prohibition, spike in cases due to rising illicit liquor trade",
-      "published_at": "2026-02-18T17:19:26.000Z",
+      "slug": "liquor-case-accused-gets-bail-in-dry-bihar-asked-to-pay-to-beautify-court-india--644627",
+      "title": "Liquor case accused gets bail in dry Bihar, asked to pay to beautify court",
+      "published_at": "2026-09-09T08:14:04.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -8866,9 +8958,9 @@
       "score": 13
     },
     {
-      "slug": "dry-bihar-records-highest-indian-made-foreign-liquor-recovery-in-august-hindusta-5c51fd",
-      "title": "Dry Bihar records highest Indian made foreign liquor recovery in August",
-      "published_at": "2016-08-30T09:25:04.000Z",
+      "slug": "patna-hc-flags-poor-implementation-of-prohibition-spike-in-cases-due-to-rising-i-167055",
+      "title": "Patna HC flags poor implementation of prohibition, spike in cases due to rising illicit liquor trade",
+      "published_at": "2026-02-18T17:19:26.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -9510,9 +9602,9 @@
       "score": 13
     },
     {
-      "slug": "patna-hc-flags-poor-implementation-of-prohibition-spike-in-cases-due-to-rising-i-167055",
-      "title": "Patna HC flags poor implementation of prohibition, spike in cases due to rising illicit liquor trade",
-      "published_at": "2026-02-18T17:19:26.000Z",
+      "slug": "liquor-case-accused-gets-bail-in-dry-bihar-asked-to-pay-to-beautify-court-india--644627",
+      "title": "Liquor case accused gets bail in dry Bihar, asked to pay to beautify court",
+      "published_at": "2026-09-09T08:14:04.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -9556,9 +9648,9 @@
       "score": 13
     },
     {
-      "slug": "patna-hc-flags-poor-implementation-of-prohibition-spike-in-cases-due-to-rising-i-167055",
-      "title": "Patna HC flags poor implementation of prohibition, spike in cases due to rising illicit liquor trade",
-      "published_at": "2026-02-18T17:19:26.000Z",
+      "slug": "liquor-case-accused-gets-bail-in-dry-bihar-asked-to-pay-to-beautify-court-india--644627",
+      "title": "Liquor case accused gets bail in dry Bihar, asked to pay to beautify court",
+      "published_at": "2026-09-09T08:14:04.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",

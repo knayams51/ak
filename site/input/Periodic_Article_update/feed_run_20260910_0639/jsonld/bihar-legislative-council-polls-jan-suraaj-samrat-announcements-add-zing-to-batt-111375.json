@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar Legislative Council polls: Jan Suraaj, Samrat announcements add zing to battle for 8 seats | Hindustan Times",
+  "description": "The Bihar Legislative Council elections for eight seats - four each from the graduate and teachers' constituencies - scheduled in November has started getting intense even before the formal announcement of date",
+  "datePublished": "2026-09-10T02:02:10.000Z",
+  "dateModified": "2026-09-10T02:02:10.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-legislative-council-polls-jan-suraaj-samrat-announcements-add-zing-to-batt-111375"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 1071
+}

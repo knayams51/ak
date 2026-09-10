@@ -1,0 +1,21 @@
+{
+  "package_name": "feed_run_20260910_0639",
+  "generated_at": "2026-09-10T06:39:46.134Z",
+  "article_count": 2,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101788977111375",
+      "slug": "bihar-legislative-council-polls-jan-suraaj-samrat-announcements-add-zing-to-batt-111375",
+      "title": "Bihar Legislative Council polls: Jan Suraaj, Samrat announcements add zing to battle for 8 seats | Hindustan Times",
+      "sha256": "9a41e032449d72780179b2ea251adeda809ed0c4d8d4f5659a5a5588d0e40de4"
+    },
+    {
+      "id": "101788941644627",
+      "slug": "liquor-case-accused-gets-bail-in-dry-bihar-asked-to-pay-to-beautify-court-india--644627",
+      "title": "Liquor case accused gets bail in dry Bihar, asked to pay to beautify court | India News",
+      "sha256": "383ab461d298e96ee1cdeb79784aa22c9de75b10a4cdbe02c433f6ab5016dfe5"
+    }
+  ]
+}
