@@ -1,0 +1,58 @@
+{
+  "id": "x_2098020830378864682",
+  "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
+  "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
+  "summary": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-10T12:08:39.000Z",
+  "modified_at": "2026-09-10T12:08:39.000Z",
+  "word_count": 360,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2098020830378864682",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2098020830378864682",
+      "original_article_id": "x_2098020830378864682",
+      "published_at": "2026-09-10T12:08:39.000Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2098020830378864682",
+      "tweet_commentary": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682.jpg",
+      "clipping_asset_path": "documents/clippings/iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682.jpg"
+    },
+    "verification": {
+      "content_sha256": "87da572863d2e2ca32bf7885c269c02d13ea29201f0e27edb24fb3533a501e6f",
+      "last_verified_at": "2026-09-13T11:45:33.581Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

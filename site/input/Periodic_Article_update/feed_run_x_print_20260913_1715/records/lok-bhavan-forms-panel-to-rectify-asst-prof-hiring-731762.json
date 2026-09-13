@@ -1,0 +1,58 @@
+{
+  "id": "x_2098934899822731762",
+  "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
+  "title": "Lok Bhavan forms panel to rectify asst prof hiring",
+  "summary": "Chancellor sets up high-level panel to suggest reforms for vexed varsity teachers’ recruitment",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-13T00:40:51.000Z",
+  "modified_at": "2026-09-13T00:40:51.000Z",
+  "word_count": 419,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2098934899822731762",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2098934899822731762",
+      "original_article_id": "x_2098934899822731762",
+      "published_at": "2026-09-13T00:40:51.000Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2098934899822731762",
+      "tweet_commentary": "Chancellor sets up high-level panel to suggest reforms for vexed varsity teachers’ recruitment",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762.jpg",
+      "clipping_asset_path": "documents/clippings/lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762.jpg"
+    },
+    "verification": {
+      "content_sha256": "45beefda7d9b2f73aa20c1b7e265e5c883e7d3bcd75575fc5635006dd6b11f86",
+      "last_verified_at": "2026-09-13T11:45:33.575Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

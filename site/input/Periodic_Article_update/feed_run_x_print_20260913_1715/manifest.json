@@ -1,0 +1,32 @@
+{
+  "package_name": "feed_run_x_print_20260913_1715",
+  "generated_at": "2026-09-13T11:45:33.589Z",
+  "article_count": 4,
+  "source_type": "x_print_clippings",
+  "articles": [
+    {
+      "id": "x_2098934899822731762",
+      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
+      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
+      "sha256": "45beefda7d9b2f73aa20c1b7e265e5c883e7d3bcd75575fc5635006dd6b11f86"
+    },
+    {
+      "id": "x_2098571547648926086",
+      "slug": "suggestion-to-name-jdu-after-nitish-kicks-off-debate-in-biha-926086",
+      "title": "Suggestion to name JD(U) after Nitish kicks off debate in Bihar",
+      "sha256": "f5c2e5ae0d2cea4c254261fe1f3acbb30e4786f68511a7280f8759c228137b0d"
+    },
+    {
+      "id": "x_2098020830378864682",
+      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
+      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
+      "sha256": "87da572863d2e2ca32bf7885c269c02d13ea29201f0e27edb24fb3533a501e6f"
+    },
+    {
+      "id": "x_2096782258141307237",
+      "slug": "rjd-mp-seeks-probe-into-medical-purchase-pricing-fund-oversi-307237",
+      "title": "RJD MP seeks probe into medical purchase pricing, fund oversight",
+      "sha256": "9775a67e459babcdeba79b9122e8f3574cb246966d9e1e5edff5f43ab96e27ba"
+    }
+  ]
+}

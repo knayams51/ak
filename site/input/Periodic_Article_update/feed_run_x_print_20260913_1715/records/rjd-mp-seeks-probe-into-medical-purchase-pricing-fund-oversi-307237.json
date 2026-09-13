@@ -1,0 +1,56 @@
+{
+  "id": "x_2096782258141307237",
+  "slug": "rjd-mp-seeks-probe-into-medical-purchase-pricing-fund-oversi-307237",
+  "title": "RJD MP seeks probe into medical purchase pricing, fund oversight",
+  "summary": "RJD MP seeks independent probe into medical purchases at inflated price",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-07T02:07:01.000Z",
+  "modified_at": "2026-09-07T02:07:01.000Z",
+  "word_count": 409,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "RJD"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2096782258141307237",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2096782258141307237",
+      "original_article_id": "x_2096782258141307237",
+      "published_at": "2026-09-07T02:07:01.000Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2096782258141307237",
+      "tweet_commentary": "RJD MP seeks independent probe into medical purchases at inflated price",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/rjd-mp-seeks-probe-into-medical-purchase-pricing-fund-oversi-307237.jpg",
+      "clipping_asset_path": "documents/clippings/rjd-mp-seeks-probe-into-medical-purchase-pricing-fund-oversi-307237.jpg"
+    },
+    "verification": {
+      "content_sha256": "9775a67e459babcdeba79b9122e8f3574cb246966d9e1e5edff5f43ab96e27ba",
+      "last_verified_at": "2026-09-13T11:45:33.587Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

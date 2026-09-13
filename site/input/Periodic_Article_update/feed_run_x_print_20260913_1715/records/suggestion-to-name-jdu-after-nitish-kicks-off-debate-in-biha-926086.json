@@ -1,0 +1,58 @@
+{
+  "id": "x_2098571547648926086",
+  "slug": "suggestion-to-name-jdu-after-nitish-kicks-off-debate-in-biha-926086",
+  "title": "Suggestion to name JD(U) after Nitish kicks off debate in Bihar",
+  "summary": "Nitish Nagar, Nitishpur and now JD-Nitish, different strokes by different folks; Sanjay Jha says it will be apt to name the party after Nitish Kumar",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-12T00:37:01.000Z",
+  "modified_at": "2026-09-12T00:37:01.000Z",
+  "word_count": 613,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2098571547648926086",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2098571547648926086",
+      "original_article_id": "x_2098571547648926086",
+      "published_at": "2026-09-12T00:37:01.000Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2098571547648926086",
+      "tweet_commentary": "Nitish Nagar, Nitishpur and now JD-Nitish, different strokes by different folks; Sanjay Jha says it will be apt to name the party after Nitish Kumar",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/suggestion-to-name-jdu-after-nitish-kicks-off-debate-in-biha-926086.jpg",
+      "clipping_asset_path": "documents/clippings/suggestion-to-name-jdu-after-nitish-kicks-off-debate-in-biha-926086.jpg"
+    },
+    "verification": {
+      "content_sha256": "f5c2e5ae0d2cea4c254261fe1f3acbb30e4786f68511a7280f8759c228137b0d",
+      "last_verified_at": "2026-09-13T11:45:33.579Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

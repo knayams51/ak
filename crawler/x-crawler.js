@@ -64,17 +64,55 @@ class XCrawler {
       await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36');
       await page.setViewport({ width: 1280, height: 900 });
 
+      // Stealth evasion to bypass Cloudflare / bot heuristics in cloud datacenter runners
+      await page.evaluateOnNewDocument(() => {
+        Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+        window.chrome = { runtime: {} };
+        Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
+        Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
+      });
+
+      await page.setExtraHTTPHeaders({
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Upgrade-Insecure-Requests': '1',
+        'Sec-Ch-Ua': '"Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"',
+        'Sec-Ch-Ua-Mobile': '?0',
+        'Sec-Ch-Ua-Platform': '"Windows"'
+      });
+
       // Inject auth_token cookie if provided
       if (process.env.X_AUTH_TOKEN) {
         console.log(`[XCrawler] Authenticating session via X_AUTH_TOKEN secret...`);
-        await page.setCookie({
-          name: 'auth_token',
-          value: process.env.X_AUTH_TOKEN.trim(),
-          domain: '.x.com',
-          path: '/',
-          httpOnly: true,
-          secure: true
-        });
+        const tokenVal = process.env.X_AUTH_TOKEN.trim();
+        await page.setCookie(
+          {
+            name: 'auth_token',
+            value: tokenVal,
+            domain: '.x.com',
+            path: '/',
+            httpOnly: true,
+            secure: true,
+            sameSite: 'Lax'
+          },
+          {
+            name: 'auth_token',
+            value: tokenVal,
+            domain: 'x.com',
+            path: '/',
+            httpOnly: true,
+            secure: true,
+            sameSite: 'Lax'
+          },
+          {
+            name: 'auth_token',
+            value: tokenVal,
+            domain: '.twitter.com',
+            path: '/',
+            httpOnly: true,
+            secure: true,
+            sameSite: 'Lax'
+          }
+        );
       }
 
       // Block unnecessary heavy resources
