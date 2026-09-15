@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20260915_0644",
+  "generated_at": "2026-09-15T06:44:15.481Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101789400223797",
+      "slug": "jdu-leaders-to-meet-amit-shah-to-discuss-uniform-civil-code-hindustan-times-223797",
+      "title": "JD(U) leaders to meet Amit Shah to discuss Uniform Civil Code | Hindustan Times",
+      "sha256": "a0d883f3bb65b3a623d7bf1c24db286fcbff3af0294803508d0a96bc8a814731"
+    }
+  ]
+}
