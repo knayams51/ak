@@ -109,7 +109,7 @@ jobs:
           git checkout -- .
           
           DATE_STR=$(date -u +'%Y-%m-%d %H:%M UTC')
-          if git commit -m "chore(sync): automated daily harvest & archive update [$DATE_STR] [skip ci]"; then
+          if git commit -m "chore(sync): automated daily harvest & archive update [$DATE_STR]"; then
             # Pull latest in case of concurrent changes and push
             git pull --rebase origin main
             git push origin main

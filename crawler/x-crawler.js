@@ -11,6 +11,7 @@ class XCrawler {
       scrollDelayMs: 2500,
       chromePath: this.findChromePath()
     }, options);
+    this.challengeDetected = false;
   }
 
   findChromePath() {
@@ -132,10 +133,18 @@ class XCrawler {
       // Allow initial client-side hydrate
       await new Promise(r => setTimeout(r, 3500));
 
-      console.log(`[XCrawler] Page title: "${await page.title()}"`);
+      const pageTitle = await page.title();
+      console.log(`[XCrawler] Page title: "${pageTitle}"`);
 
-      // Scroll and harvest loop
-      for (let step = 0; step < this.options.scrollSteps; step++) {
+      // Check for Cloudflare Turnstile or anti-bot challenge
+      if (/just a moment|cloudflare|attention required|challenge|verify you are human|turnstile/i.test(pageTitle)) {
+        console.warn(`[XCrawler] ⚠️ Anti-bot challenge detected (Page title: "${pageTitle}").`);
+        console.warn(`[XCrawler] ⚠️ Cloudflare/X security challenge prevented automated profile hydration.`);
+        console.warn(`[XCrawler] ℹ️ Hint: Verify or refresh the repository secret X_AUTH_TOKEN with a fresh session cookie.`);
+        this.challengeDetected = true;
+      } else {
+        // Scroll and harvest loop
+        for (let step = 0; step < this.options.scrollSteps; step++) {
         const batch = await page.evaluate(() => {
           const results = [];
           const articles = document.querySelectorAll('article');
@@ -216,6 +225,7 @@ class XCrawler {
         // Scroll down
         await page.evaluate(() => window.scrollBy(0, 1200));
         await new Promise(r => setTimeout(r, this.options.scrollDelayMs));
+      }
       }
 
     } catch (err) {

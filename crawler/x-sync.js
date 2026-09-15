@@ -260,7 +260,12 @@ class XSyncEngine {
       // Rebuild site data
       this.rebuildSiteData();
     } else {
-      console.log(`\n[XSync] ✅ Archive is up to date with X print dispatches.`);
+      if (xCrawler.challengeDetected) {
+        console.warn(`\n[XSync] ⚠️ Harvester completed with 0 tweets due to Cloudflare anti-bot challenge on X profile.`);
+        console.warn(`[XSync] ℹ️ Hint: Check if X_AUTH_TOKEN secret in GitHub repository is expired or invalid.`);
+      } else {
+        console.log(`\n[XSync] ✅ Archive is up to date with X print dispatches.`);
+      }
       if (this.options.forceRebuild) {
         this.rebuildSiteData();
       }
