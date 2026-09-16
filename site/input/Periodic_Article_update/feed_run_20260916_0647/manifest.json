@@ -1,0 +1,21 @@
+{
+  "package_name": "feed_run_20260916_0647",
+  "generated_at": "2026-09-16T06:47:14.891Z",
+  "article_count": 2,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101789481119502",
+      "slug": "lok-bhavan-forms-search-panels-for-appointments-of-vcs-in-10-state-varsities-hin-119502",
+      "title": "Lok Bhavan forms search panels for appointments of VCs in 10 state varsities | Hindustan Times",
+      "sha256": "b3005a5a96a84cda8dd13d8cffba713d5b3686a6859953bb7bf5d3081a48d812"
+    },
+    {
+      "id": "101789480819060",
+      "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
+      "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod | Hindustan Times",
+      "sha256": "4e50b00a50fcc35166225c1aa566127f1b060ad6d12a45bbd2bbf0277948d9c3"
+    }
+  ]
+}

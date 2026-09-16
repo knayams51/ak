@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod | Hindustan Times",
+  "description": "The Governor, who is the Chancellor of state universities, also restrained VC Sharad Kumar Yadav from taking any policy or financial decisions",
+  "datePublished": "2026-09-15T14:00:18.000Z",
+  "dateModified": "2026-09-15T14:00:18.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 378
+}

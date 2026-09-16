@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Lok Bhavan forms search panels for appointments of VCs in 10 state varsities | Hindustan Times",
+  "description": "The candidates will face search committees after their credentials are screened and they are shortlisted.",
+  "datePublished": "2026-09-15T14:05:19.000Z",
+  "dateModified": "2026-09-15T14:05:19.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/lok-bhavan-forms-search-panels-for-appointments-of-vcs-in-10-state-varsities-hin-119502"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Patna University"
+  ],
+  "wordCount": 573
+}
