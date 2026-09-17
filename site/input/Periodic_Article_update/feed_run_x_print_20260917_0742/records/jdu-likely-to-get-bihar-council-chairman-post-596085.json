@@ -1,0 +1,60 @@
+{
+  "id": "x_2100397666706596085",
+  "slug": "jdu-likely-to-get-bihar-council-chairman-post-596085",
+  "title": "JD(U) likely to get Bihar Council chairman post",
+  "summary": "JD-U sets its eyes on Legislative Council chairman’s post",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-17T01:33:21.901Z",
+  "modified_at": "2026-09-17T01:33:21.901Z",
+  "word_count": 599,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "Patna University",
+    "JD(U)",
+    "RJD",
+    "BJP"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2100397666706596085",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2100397666706596085",
+      "original_article_id": "x_2100397666706596085",
+      "published_at": "2026-09-17T01:33:21.901Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2100397666706596085",
+      "tweet_commentary": "JD-U sets its eyes on Legislative Council chairman’s post",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/jdu-likely-to-get-bihar-council-chairman-post-596085.jpg",
+      "clipping_asset_path": "documents/clippings/jdu-likely-to-get-bihar-council-chairman-post-596085.jpg"
+    },
+    "verification": {
+      "content_sha256": "176b6ba8bcb967d94fb1b34dd2dd5052af61dfd1369beef9a1d47d49cc485814",
+      "last_verified_at": "2026-09-17T02:12:32.165Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
