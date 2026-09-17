@@ -1,31 +1,29 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-09-16  
-**Execution Timestamp**: 2026-09-16T06:47:33.251Z  
-**Duration**: 75 seconds  
-**Archive Total Articles**: **263 articles**
+**Execution Date**: 2026-09-17  
+**Execution Timestamp**: 2026-09-17T06:40:43.407Z  
+**Duration**: 52 seconds  
+**Archive Total Articles**: **266 articles**
 
 ---
 
 ## 📊 Summary Metrics
 | Metric | Value |
 |---|---|
-| **Discovered New Candidate URLs** | 44 |
-| **Already Known / Indexed URLs** | 283 |
+| **Discovered New Candidate URLs** | 47 |
+| **Already Known / Indexed URLs** | 277 |
 | **Candidate URLs Crawled** | 25 |
-| **Accepted Arun Kumar Articles** | **2** |
+| **Accepted Arun Kumar Articles** | **1** |
 | **X Print Broadsheet Clippings Accepted** | **0** |
-| **Filtered Out (Namesakes / Non-Patna)** | 23 |
+| **Filtered Out (Namesakes / Non-Patna)** | 24 |
 | **Failed Requests** | 0 |
-| **New Package Created** | `feed_run_20260916_0647` |
+| **New Package Created** | `feed_run_20260917_0640` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-- **[ACCEPTED]** [Lok Bhavan forms search panels for appointments of VCs in 10 state varsities  Hindustan Times](https://www.hindustantimes.com/cities/patna-news/lok-bhavan-forms-search-panels-for-appointments-of-vcs-in-10-state-varsities-101789481119502.html)  
-  *Dateline:  | Byline: Arun Kumar | SHA-256: `4e3afe8f1f...`*
-- **[ACCEPTED]** [Chancellor curbs AKU VC’s powers, asked not to leave hqrs sans prior nod  Hindustan Times](https://www.hindustantimes.com/cities/patna-news/chancellor-curbs-aku-vc-s-powers-asked-not-to-leave-hqrs-sans-prior-nod-101789480819060.html)  
-  *Dateline:  | Byline: Arun Kumar | SHA-256: `8839b36292...`*
+- **[ACCEPTED]** [All eyes on JD(U) face for new Council chairman as countdown begins  Hindustan Times](https://www.hindustantimes.com/cities/patna-news/all-eyes-on-jd-u-face-for-new-council-chairman-as-countdown-begins-101789579575991.html)  
+  *Dateline:  | Byline: Arun Kumar | SHA-256: `35d7aedec3...`*
 
 ---
 

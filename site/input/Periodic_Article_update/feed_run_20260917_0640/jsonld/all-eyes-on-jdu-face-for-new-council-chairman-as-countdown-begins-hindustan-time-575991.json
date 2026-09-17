@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "All eyes on JD(U) face for new Council chairman as countdown begins | Hindustan Times",
+  "description": "Speculations rise that JD(U) may regain the Bihar Legislative Council chairman post as it selects candidates amidst BJP's current leadership.",
+  "datePublished": "2026-09-16T17:26:15.000Z",
+  "dateModified": "2026-09-16T17:26:16.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/all-eyes-on-jdu-face-for-new-council-chairman-as-countdown-begins-hindustan-time-575991"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Patna University",
+    "JD(U)",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 580
+}

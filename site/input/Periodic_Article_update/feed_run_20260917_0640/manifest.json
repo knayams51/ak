@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20260917_0640",
+  "generated_at": "2026-09-17T06:40:37.755Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101789579575991",
+      "slug": "all-eyes-on-jdu-face-for-new-council-chairman-as-countdown-begins-hindustan-time-575991",
+      "title": "All eyes on JD(U) face for new Council chairman as countdown begins | Hindustan Times",
+      "sha256": "5faab50c1ae03cd05eac74c3b3c4790c33cba073d26af2824d9ecbe3f090796e"
+    }
+  ]
+}
