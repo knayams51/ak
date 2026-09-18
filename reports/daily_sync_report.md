@@ -1,8 +1,8 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-09-17  
-**Execution Timestamp**: 2026-09-17T06:40:43.407Z  
-**Duration**: 52 seconds  
+**Execution Date**: 2026-09-18  
+**Execution Timestamp**: 2026-09-18T06:41:45.796Z  
+**Duration**: 71 seconds  
 **Archive Total Articles**: **266 articles**
 
 ---
@@ -10,20 +10,19 @@
 ## 📊 Summary Metrics
 | Metric | Value |
 |---|---|
-| **Discovered New Candidate URLs** | 47 |
-| **Already Known / Indexed URLs** | 277 |
+| **Discovered New Candidate URLs** | 41 |
+| **Already Known / Indexed URLs** | 292 |
 | **Candidate URLs Crawled** | 25 |
-| **Accepted Arun Kumar Articles** | **1** |
+| **Accepted Arun Kumar Articles** | **0** |
 | **X Print Broadsheet Clippings Accepted** | **0** |
-| **Filtered Out (Namesakes / Non-Patna)** | 24 |
+| **Filtered Out (Namesakes / Non-Patna)** | 25 |
 | **Failed Requests** | 0 |
-| **New Package Created** | `feed_run_20260917_0640` |
+| **New Package Created** | `None (Up-to-date)` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-- **[ACCEPTED]** [All eyes on JD(U) face for new Council chairman as countdown begins  Hindustan Times](https://www.hindustantimes.com/cities/patna-news/all-eyes-on-jd-u-face-for-new-council-chairman-as-countdown-begins-101789579575991.html)  
-  *Dateline:  | Byline: Arun Kumar | SHA-256: `35d7aedec3...`*
+_No new articles discovered in this run. Archive is fully synchronized with Hindustan Times._
 
 ---
 
