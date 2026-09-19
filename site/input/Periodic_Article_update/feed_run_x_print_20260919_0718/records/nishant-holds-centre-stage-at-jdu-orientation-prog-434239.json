@@ -1,0 +1,60 @@
+{
+  "id": "x_2101107418411434239",
+  "slug": "nishant-holds-centre-stage-at-jdu-orientation-prog-434239",
+  "title": "Nishant holds centre stage at JD(U) orientation prog",
+  "summary": "Nishant holds centrestage at JD-U meet amid gorowing speculations",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-19T00:33:39.894Z",
+  "modified_at": "2026-09-19T00:33:39.894Z",
+  "word_count": 676,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2101107418411434239",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2101107418411434239",
+      "original_article_id": "x_2101107418411434239",
+      "published_at": "2026-09-19T00:33:39.894Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2101107418411434239",
+      "tweet_commentary": "Nishant holds centrestage at JD-U meet amid gorowing speculations",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/nishant-holds-centre-stage-at-jdu-orientation-prog-434239.jpg",
+      "clipping_asset_path": "documents/clippings/nishant-holds-centre-stage-at-jdu-orientation-prog-434239.jpg"
+    },
+    "verification": {
+      "content_sha256": "aaf30065f4e9b672c05a69b44ee71dfe9481edfd0c2b380136dcb24a2425e6e2",
+      "last_verified_at": "2026-09-19T01:48:52.369Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
