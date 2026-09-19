@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20260919_0639",
+  "generated_at": "2026-09-19T06:39:35.320Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101789753130534",
+      "slug": "nishant-holds-centre-stage-at-jdu-meet-amid-speculations-on-political-churning-h-130534",
+      "title": "Nishant holds centre stage at JD(U) meet amid speculations on political churning | Hindustan Times",
+      "sha256": "0f66bba0d73cf8af72019b228793867993f8bb6379e1bba70b0c74894d15080c"
+    }
+  ]
+}

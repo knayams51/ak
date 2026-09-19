@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Nishant holds centre stage at JD(U) meet amid speculations on political churning | Hindustan Times",
+  "description": "The one-day orientation programme of the Janata Dal (United) - the first by the party - was inaugurated by party president and Rajya Sabha member Nitish Kumar at the JD(U) state headquarters on Friday to sensitise the people's representatives about the legislative procedures, the success of state's inclusive growth model and their role",
+  "datePublished": "2026-09-19T02:01:30.000Z",
+  "dateModified": "2026-09-19T02:01:30.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/nishant-holds-centre-stage-at-jdu-meet-amid-speculations-on-political-churning-h-130534"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 683
+}
