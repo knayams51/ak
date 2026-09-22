@@ -1,0 +1,58 @@
+{
+  "id": "x_2102214869978370151",
+  "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
+  "title": "Bihar Council chief may quit, JD(U) eyes post",
+  "summary": "Bihar media agog with speculations over Vidhan Parishad chairman’s resignation to pave way for JD-U stirs politics",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-22T01:54:16.923Z",
+  "modified_at": "2026-09-22T01:54:16.923Z",
+  "word_count": 396,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2102214869978370151",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2102214869978370151",
+      "original_article_id": "x_2102214869978370151",
+      "published_at": "2026-09-22T01:54:16.923Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2102214869978370151",
+      "tweet_commentary": "Bihar media agog with speculations over Vidhan Parishad chairman’s resignation to pave way for JD-U stirs politics",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/bihar-council-chief-may-quit-jdu-eyes-post-370151.jpg",
+      "clipping_asset_path": "documents/clippings/bihar-council-chief-may-quit-jdu-eyes-post-370151.jpg"
+    },
+    "verification": {
+      "content_sha256": "21b88190190715a43fb73bbcf0ebd49a972596c43ec1d2689624762c3f5ee6d3",
+      "last_verified_at": "2026-09-22T02:01:04.167Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
