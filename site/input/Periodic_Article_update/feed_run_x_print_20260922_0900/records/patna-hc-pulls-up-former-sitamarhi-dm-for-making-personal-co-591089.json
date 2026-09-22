@@ -1,0 +1,58 @@
+{
+  "id": "x_2102216981424591089",
+  "slug": "patna-hc-pulls-up-former-sitamarhi-dm-for-making-personal-co-591089",
+  "title": "Patna HC pulls up former Sitamarhi DM for making personal comment against petitioner",
+  "summary": "Be mindful of your language, HC tells official on use of uncharitable remarks",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-22T02:02:40.331Z",
+  "modified_at": "2026-09-22T02:02:40.331Z",
+  "word_count": 350,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "judiciary-law-patna-high-court",
+    "slug": "judiciary-law-patna-high-court",
+    "title": "Judiciary, Law & Patna High Court"
+  },
+  "subtopic": {
+    "id": "administrative-accountability-orders",
+    "slug": "administrative-accountability-orders",
+    "title": "Administrative Accountability Orders"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2102216981424591089",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2102216981424591089",
+      "original_article_id": "x_2102216981424591089",
+      "published_at": "2026-09-22T02:02:40.331Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2102216981424591089",
+      "tweet_commentary": "Be mindful of your language, HC tells official on use of uncharitable remarks",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/patna-hc-pulls-up-former-sitamarhi-dm-for-making-personal-co-591089.jpg",
+      "clipping_asset_path": "documents/clippings/patna-hc-pulls-up-former-sitamarhi-dm-for-making-personal-co-591089.jpg"
+    },
+    "verification": {
+      "content_sha256": "098ba1ca68d8868fd9b9c032d6b04c38b7b6a0cd8a8d75ba03187c40a676623d",
+      "last_verified_at": "2026-09-22T03:30:48.907Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
