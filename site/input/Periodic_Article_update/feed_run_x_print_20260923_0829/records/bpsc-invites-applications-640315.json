@@ -1,0 +1,57 @@
+{
+  "id": "x_2102552537769640315",
+  "slug": "bpsc-invites-applications-640315",
+  "title": "BPSC invites applications",
+  "summary": "TRE-4: BPSC invites online application from Sept 25",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-23T00:16:03.198Z",
+  "modified_at": "2026-09-23T00:16:03.198Z",
+  "word_count": 213,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "faculty-recruitment-controversies",
+    "slug": "faculty-recruitment-controversies",
+    "title": "Faculty Recruitment & BPSC Exams"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "BPSC"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2102552537769640315",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2102552537769640315",
+      "original_article_id": "x_2102552537769640315",
+      "published_at": "2026-09-23T00:16:03.198Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2102552537769640315",
+      "tweet_commentary": "TRE-4: BPSC invites online application from Sept 25",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/bpsc-invites-applications-640315.jpg",
+      "clipping_asset_path": "documents/clippings/bpsc-invites-applications-640315.jpg"
+    },
+    "verification": {
+      "content_sha256": "d971bb0fa9e5566b856c067f2b01947ba94e2a50a138ca084f7b6bbb3a9e9361",
+      "last_verified_at": "2026-09-23T02:59:24.874Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
