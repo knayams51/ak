@@ -1,0 +1,20 @@
+{
+  "package_name": "feed_run_x_print_20260924_0837",
+  "generated_at": "2026-09-24T03:07:43.640Z",
+  "article_count": 2,
+  "source_type": "x_print_clippings",
+  "articles": [
+    {
+      "id": "x_2102931804244353507",
+      "slug": "jdu-announces-candidates-for-4-council-seats-bjp-list-awaite-353507",
+      "title": "JD(U) announces candidates for 4 council seats, BJP list awaited",
+      "sha256": "042b9c815314ca33b3cee97bc65670b64053456cfd2ec2d9184002a4961c4994"
+    },
+    {
+      "id": "x_2102931281466323042",
+      "slug": "bihar-names-all-members-of-committee-for-exam-reforms-323042",
+      "title": "Bihar names all members of committee for exam reforms",
+      "sha256": "cde8f15f196d3a7819bb94b3d5700ecd147afcfbc6383f27baa5c9909c29de56"
+    }
+  ]
+}

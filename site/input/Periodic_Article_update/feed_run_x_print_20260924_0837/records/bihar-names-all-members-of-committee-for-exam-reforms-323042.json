@@ -1,0 +1,57 @@
+{
+  "id": "x_2102931281466323042",
+  "slug": "bihar-names-all-members-of-committee-for-exam-reforms-323042",
+  "title": "Bihar names all members of committee for exam reforms",
+  "summary": "Bihar appoints all members of the expert committee for exam reforms",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-24T01:21:02.732Z",
+  "modified_at": "2026-09-24T01:21:02.732Z",
+  "word_count": 577,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "student-affairs-protests",
+    "slug": "student-affairs-protests",
+    "title": "Student Affairs, Exams & Protests"
+  },
+  "tags": [
+    "Patna High Court",
+    "BPSC"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2102931281466323042",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2102931281466323042",
+      "original_article_id": "x_2102931281466323042",
+      "published_at": "2026-09-24T01:21:02.732Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2102931281466323042",
+      "tweet_commentary": "Bihar appoints all members of the expert committee for exam reforms",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/bihar-names-all-members-of-committee-for-exam-reforms-323042.jpg",
+      "clipping_asset_path": "documents/clippings/bihar-names-all-members-of-committee-for-exam-reforms-323042.jpg"
+    },
+    "verification": {
+      "content_sha256": "cde8f15f196d3a7819bb94b3d5700ecd147afcfbc6383f27baa5c9909c29de56",
+      "last_verified_at": "2026-09-24T03:07:43.639Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

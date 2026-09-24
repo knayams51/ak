@@ -1,0 +1,59 @@
+{
+  "id": "x_2102931804244353507",
+  "slug": "jdu-announces-candidates-for-4-council-seats-bjp-list-awaite-353507",
+  "title": "JD(U) announces candidates for 4 council seats, BJP list awaited",
+  "summary": "JD-U candidates for 4 council seats, BJP list awaited",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-24T01:23:07.372Z",
+  "modified_at": "2026-09-24T01:23:07.372Z",
+  "word_count": 146,
+  "reading_time_minutes": 1,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2102931804244353507",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2102931804244353507",
+      "original_article_id": "x_2102931804244353507",
+      "published_at": "2026-09-24T01:23:07.372Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2102931804244353507",
+      "tweet_commentary": "JD-U candidates for 4 council seats, BJP list awaited",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/jdu-announces-candidates-for-4-council-seats-bjp-list-awaite-353507.jpg",
+      "clipping_asset_path": "documents/clippings/jdu-announces-candidates-for-4-council-seats-bjp-list-awaite-353507.jpg"
+    },
+    "verification": {
+      "content_sha256": "042b9c815314ca33b3cee97bc65670b64053456cfd2ec2d9184002a4961c4994",
+      "last_verified_at": "2026-09-24T03:07:43.636Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
