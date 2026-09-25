@@ -1,0 +1,20 @@
+{
+  "package_name": "feed_run_x_print_20260925_0746",
+  "generated_at": "2026-09-25T02:16:54.790Z",
+  "article_count": 2,
+  "source_type": "x_print_clippings",
+  "articles": [
+    {
+      "id": "x_2103276574825169133",
+      "slug": "jsp-fields-3-remaining-candidates-for-bihar-legislative-coun-169133",
+      "title": "JSP fields 3 remaining candidates for Bihar Legislative Council elections",
+      "sha256": "f16ca34bcd2a16025b0ebfffbe7809d4c555fc99dbef8882af2f79a941f44d5b"
+    },
+    {
+      "id": "x_2103276129050406959",
+      "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
+      "title": "Patna HC reprimands MGCU for expelling whistleblower student",
+      "sha256": "aec7cc7a2989b6617037f3463b690dd98496676c3bc63dd92a114050ce7cc33b"
+    }
+  ]
+}

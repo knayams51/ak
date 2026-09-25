@@ -1,0 +1,56 @@
+{
+  "id": "x_2103276129050406959",
+  "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
+  "title": "Patna HC reprimands MGCU for expelling whistleblower student",
+  "summary": "Patna HC slams MGCU for expelling whistle blower student , asks to induct",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-25T00:11:20.803Z",
+  "modified_at": "2026-09-25T00:11:20.803Z",
+  "word_count": 342,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Patna High Court"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2103276129050406959",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2103276129050406959",
+      "original_article_id": "x_2103276129050406959",
+      "published_at": "2026-09-25T00:11:20.803Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2103276129050406959",
+      "tweet_commentary": "Patna HC slams MGCU for expelling whistle blower student , asks to induct",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959.jpg",
+      "clipping_asset_path": "documents/clippings/patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959.jpg"
+    },
+    "verification": {
+      "content_sha256": "aec7cc7a2989b6617037f3463b690dd98496676c3bc63dd92a114050ce7cc33b",
+      "last_verified_at": "2026-09-25T02:16:54.788Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+# Patna HC reprimands MGCU for expelling whistleblower student
+
+**Patna** — The Patna High Court has quashed an indefinite expulsion order issued by Mahatma Gandhi Central University (MGCU) against Akash Kumar, a PG Ist semester Media Studies student, ordering his immediate reinstatement and permission to sit for examinations.
+
+Kumar was suspended and subsequently expelled after using social media to expose alleged administrative irregularities in the promotion of a non-teaching staff member. Despite flagging the illegalities, no action was taken.
+
+The university expelled him from the University with immediate effect on account of serious indiscipline and recalcitrant disposition, and he was prohibited from entering into
+
+ee nla ule Wi i — Hiatt) <a Patna High Court any of the university's campuses or premises, including all academic and administrative blocks, and also debarred from taking admission into any programme of study in the university. The student did not even get a copy of the inquiry report or a specific show-cause notice regarding expulsion. The order
+
+tainable in law." a Even before inflicting the extreme punishment of expul- . sion for an indefinite period, P which prima facie appears to t= be not even authorised under an = Libagshh} the Act and the Ordinance, the ok be petitioner has not been served aan 4%) ap ih with the specific show-cause a BAe By 4 'iti notice along with the enquiry | V1 eS report... The action of the —_ } emi respondent-authorities, in the es Hi { considered opinion of this Court, does not withstand the HTPHOTO —_ test of fairness, besides clearly violating the principle of natupassed on September 21 was ral justice," the bench said. uploaded in Thursday. Setting aside the OSD Coming down heavily onthe Administration's expulsion university's arbitrary proceorder dated August 14, 2024, dure, the bench of Justice Harthe court directed the univerish Kumar in its judgement _ sity authorities to immediately observed that inflicting an induct Kumar back into his unspecified ban destroysastuprogramme, while noting that dent's future, calling the punthe student is expected to ishment "a civil death of the maintain discipline going foracademic career of a student, — ward.

@@ -1,4 +1,96 @@
 {
+  "jsp-fields-3-remaining-candidates-for-bihar-legislative-coun-169133": [
+    {
+      "slug": "jdu-announces-candidates-for-4-council-seats-bjp-list-awaite-353507",
+      "title": "JD(U) announces candidates for 4 council seats, BJP list awaited",
+      "published_at": "2026-09-24T01:23:07.372Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 14
+    },
+    {
+      "slug": "cm-reiterates-pay-scale-pledge-for-teachers-ahead-of-mlc-pol-661474",
+      "title": "CM reiterates pay-scale pledge for teachers ahead of MLC polls",
+      "published_at": "2026-09-21T00:08:31.994Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 14
+    },
+    {
+      "slug": "nishant-holds-centre-stage-at-jdu-meet-amid-speculations-on-political-churning-h-130534",
+      "title": "Nishant holds centre stage at JD(U) meet amid speculations on political churning",
+      "published_at": "2026-09-19T02:01:30.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 14
+    },
+    {
+      "slug": "nishant-holds-centre-stage-at-jdu-orientation-prog-434239",
+      "title": "Nishant holds centre stage at JD(U) orientation prog",
+      "published_at": "2026-09-19T00:33:39.894Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 14
+    }
+  ],
+  "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959": [
+    {
+      "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
+      "title": "SC upholds EBC profs preferred univ posting",
+      "published_at": "2026-09-05T01:21:25.511Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "hc-bars-teachers-principal-postings-004492",
+      "title": "HC bars teachers’ principal postings",
+      "published_at": "2026-09-04T00:41:47.051Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
+      "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process",
+      "published_at": "2026-05-28T14:01:20.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
+      "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
+      "published_at": "2026-04-16T21:34:13.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    }
+  ],
   "jdu-announces-candidates-for-4-council-seats-bjp-list-awaite-353507": [
     {
       "slug": "cm-reiterates-pay-scale-pledge-for-teachers-ahead-of-mlc-pol-661474",
@@ -1151,6 +1243,17 @@
   ],
   "hc-bars-teachers-principal-postings-004492": [
     {
+      "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
+      "title": "Patna HC reprimands MGCU for expelling whistleblower student",
+      "published_at": "2026-09-25T00:11:20.803Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
       "title": "SC upholds EBC profs preferred univ posting",
       "published_at": "2026-09-05T01:21:25.511Z",
@@ -1176,17 +1279,6 @@
       "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
       "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
       "published_at": "2026-04-16T21:34:13.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-governor-reinstates-patna-university-vc-sent-on-leave-by-predecessor-hindu-037036",
-      "title": "Bihar Governor reinstates Patna University VC sent on leave by predecessor",
-      "published_at": "2026-03-28T12:13:56.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1254,6 +1346,17 @@
       "score": 13
     },
     {
+      "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
+      "title": "Patna HC reprimands MGCU for expelling whistleblower student",
+      "published_at": "2026-09-25T00:11:20.803Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
       "slug": "lok-bhavan-forms-search-panels-for-appointments-of-vcs-in-10-state-varsities-hin-119502",
       "title": "Lok Bhavan forms search panels for appointments of VCs in 10 state varsities",
       "published_at": "2026-09-15T14:05:19.000Z",
@@ -1268,17 +1371,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2829,9 +2921,9 @@
       "score": 13
     },
     {
-      "slug": "lok-bhavan-forms-search-panels-for-appointments-of-vcs-in-10-state-varsities-hin-119502",
-      "title": "Lok Bhavan forms search panels for appointments of VCs in 10 state varsities",
-      "published_at": "2026-09-15T14:05:19.000Z",
+      "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
+      "title": "Patna HC reprimands MGCU for expelling whistleblower student",
+      "published_at": "2026-09-25T00:11:20.803Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2840,9 +2932,9 @@
       "score": 10
     },
     {
-      "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
-      "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
-      "published_at": "2026-09-15T14:00:18.000Z",
+      "slug": "lok-bhavan-forms-search-panels-for-appointments-of-vcs-in-10-state-varsities-hin-119502",
+      "title": "Lok Bhavan forms search panels for appointments of VCs in 10 state varsities",
+      "published_at": "2026-09-15T14:05:19.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -6073,6 +6165,17 @@
   ],
   "as-missing-file-delays-constituent-status-hc-asks-bihar-govt-to-take-a-call-on-4-598170": [
     {
+      "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
+      "title": "Patna HC reprimands MGCU for expelling whistleblower student",
+      "published_at": "2026-09-25T00:11:20.803Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
       "title": "SC upholds EBC profs preferred univ posting",
       "published_at": "2026-09-05T01:21:25.511Z",
@@ -6098,17 +6201,6 @@
       "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
       "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process",
       "published_at": "2026-05-28T14:01:20.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
-      "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
-      "published_at": "2026-04-16T21:34:13.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -7602,6 +7694,17 @@
       "score": 13
     },
     {
+      "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
+      "title": "Patna HC reprimands MGCU for expelling whistleblower student",
+      "published_at": "2026-09-25T00:11:20.803Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
       "slug": "lok-bhavan-forms-search-panels-for-appointments-of-vcs-in-10-state-varsities-hin-119502",
       "title": "Lok Bhavan forms search panels for appointments of VCs in 10 state varsities",
       "published_at": "2026-09-15T14:05:19.000Z",
@@ -7616,17 +7719,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -8051,6 +8143,17 @@
   ],
   "bihar-governor-calls-university-vice-chancellors-meet-on-april-3-hindustan-times-563322": [
     {
+      "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
+      "title": "Patna HC reprimands MGCU for expelling whistleblower student",
+      "published_at": "2026-09-25T00:11:20.803Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
       "title": "SC upholds EBC profs preferred univ posting",
       "published_at": "2026-09-05T01:21:25.511Z",
@@ -8076,17 +8179,6 @@
       "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
       "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process",
       "published_at": "2026-05-28T14:01:20.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
-      "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
-      "published_at": "2026-04-16T21:34:13.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -9477,6 +9569,17 @@
   ],
   "salary-pension-of-thousands-at-bihar-schools-universities-on-hold-for-3-months-h-b8fcf3": [
     {
+      "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
+      "title": "Patna HC reprimands MGCU for expelling whistleblower student",
+      "published_at": "2026-09-25T00:11:20.803Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
       "slug": "sc-upholds-ebc-profs-preferred-univ-posting-945580",
       "title": "SC upholds EBC profs preferred univ posting",
       "published_at": "2026-09-05T01:21:25.511Z",
@@ -9502,17 +9605,6 @@
       "slug": "bihar-guv-cancels-old-advts-for-appointment-of-four-vcs-midway-to-start-fresh-pr-881315",
       "title": "Bihar guv cancels old advts for appointment of four VCs midway, to start fresh process",
       "published_at": "2026-05-28T14:01:20.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 13
-    },
-    {
-      "slug": "asst-profs-appointment-to-be-challenge-for-new-govt-too-pu-reports-new-fraud-hin-970789",
-      "title": "Asst Profs' appointment to be challenge for new govt too; PU reports new 'fraud'",
-      "published_at": "2026-04-16T21:34:13.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
