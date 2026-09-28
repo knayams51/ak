@@ -1,0 +1,59 @@
+{
+  "id": "x_2104392559212769336",
+  "slug": "nda-partners-back-769336",
+  "title": "NDA partners back",
+  "summary": "Quickfix: NDA partners rally behind EC!",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-28T02:07:38.496Z",
+  "modified_at": "2026-09-28T02:07:38.496Z",
+  "word_count": 583,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2104392559212769336",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2104392559212769336",
+      "original_article_id": "x_2104392559212769336",
+      "published_at": "2026-09-28T02:07:38.496Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2104392559212769336",
+      "tweet_commentary": "Quickfix: NDA partners rally behind EC!",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/nda-partners-back-769336.jpg",
+      "clipping_asset_path": "documents/clippings/nda-partners-back-769336.jpg"
+    },
+    "verification": {
+      "content_sha256": "ebf2b9f8877ada7b269827d6ad769472437a12d59d803cfee4944bc0f0688679",
+      "last_verified_at": "2026-09-28T03:07:44.324Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
