@@ -1,8 +1,8 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-09-29  
-**Execution Timestamp**: 2026-09-29T07:32:05.591Z  
-**Duration**: 57 seconds  
+**Execution Date**: 2026-09-30  
+**Execution Timestamp**: 2026-09-30T07:29:14.331Z  
+**Duration**: 54 seconds  
 **Archive Total Articles**: **279 articles**
 
 ---
@@ -10,8 +10,8 @@
 ## 📊 Summary Metrics
 | Metric | Value |
 |---|---|
-| **Discovered New Candidate URLs** | 43 |
-| **Already Known / Indexed URLs** | 294 |
+| **Discovered New Candidate URLs** | 45 |
+| **Already Known / Indexed URLs** | 280 |
 | **Candidate URLs Crawled** | 25 |
 | **Accepted Arun Kumar Articles** | **0** |
 | **X Print Broadsheet Clippings Accepted** | **0** |
