@@ -1,4 +1,96 @@
 {
+  "dy-cm-downplays-feud-within-jdu-132718": [
+    {
+      "slug": "jsp-fields-3-remaining-candidates-for-bihar-legislative-coun-169133",
+      "title": "JSP fields 3 remaining candidates for Bihar Legislative Council elections",
+      "published_at": "2026-09-25T00:13:07.084Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
+      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
+      "title": "Bihar Council chief may quit, JD(U) eyes post",
+      "published_at": "2026-09-22T01:54:16.923Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 11
+    },
+    {
+      "slug": "nishant-holds-centre-stage-at-jdu-meet-amid-speculations-on-political-churning-h-130534",
+      "title": "Nishant holds centre stage at JD(U) meet amid speculations on political churning",
+      "published_at": "2026-09-19T02:01:30.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 11
+    },
+    {
+      "slug": "nishant-holds-centre-stage-at-jdu-orientation-prog-434239",
+      "title": "Nishant holds centre stage at JD(U) orientation prog",
+      "published_at": "2026-09-19T00:33:39.894Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 11
+    }
+  ],
+  "new-lawyers-in-bihar-to-get-5k-monthly-stipend-from-october-880262": [
+    {
+      "slug": "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2",
+      "title": "Patna jail erupts in inmates' anger",
+      "published_at": "2007-12-18T19:06:59.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 19
+    },
+    {
+      "slug": "alert-sounded-in-bihar-hindustan-times-dc44bb",
+      "title": "Alert sounded in Bihar",
+      "published_at": "2007-06-25T12:34:55.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 19
+    },
+    {
+      "slug": "patna-hc-pulls-up-former-sitamarhi-dm-for-making-personal-co-591089",
+      "title": "Patna HC pulls up former Sitamarhi DM for making personal comment against petitioner",
+      "published_at": "2026-09-22T02:02:40.331Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 14
+    },
+    {
+      "slug": "bihar-starts-training-for-state-officials-at-istm-to-tone-up-administration-hind-931525",
+      "title": "Bihar starts training for state officials at ISTM to tone up administration",
+      "published_at": "2026-06-30T16:45:31.000Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 14
+    }
+  ],
   "nda-partners-back-769336": [
     {
       "slug": "jdu-announces-candidates-for-4-council-seats-bjp-list-awaite-353507",
@@ -391,9 +483,9 @@
       "score": 19
     },
     {
-      "slug": "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2",
-      "title": "Patna jail erupts in inmates' anger",
-      "published_at": "2007-12-18T19:06:59.000Z",
+      "slug": "new-lawyers-in-bihar-to-get-5k-monthly-stipend-from-october-880262",
+      "title": "NEW LAWYERS IN BIHAR TO GET %5K MONTHLY STIPEND FROM OCTOBER",
+      "published_at": "2026-09-30T01:59:51.207Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -402,9 +494,9 @@
       "score": 14
     },
     {
-      "slug": "alert-sounded-in-bihar-hindustan-times-dc44bb",
-      "title": "Alert sounded in Bihar",
-      "published_at": "2007-06-25T12:34:55.000Z",
+      "slug": "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2",
+      "title": "Patna jail erupts in inmates' anger",
+      "published_at": "2007-12-18T19:06:59.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -1909,9 +2001,9 @@
       "score": 19
     },
     {
-      "slug": "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2",
-      "title": "Patna jail erupts in inmates' anger",
-      "published_at": "2007-12-18T19:06:59.000Z",
+      "slug": "new-lawyers-in-bihar-to-get-5k-monthly-stipend-from-october-880262",
+      "title": "NEW LAWYERS IN BIHAR TO GET %5K MONTHLY STIPEND FROM OCTOBER",
+      "published_at": "2026-09-30T01:59:51.207Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -1920,9 +2012,9 @@
       "score": 14
     },
     {
-      "slug": "alert-sounded-in-bihar-hindustan-times-dc44bb",
-      "title": "Alert sounded in Bihar",
-      "published_at": "2007-06-25T12:34:55.000Z",
+      "slug": "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2",
+      "title": "Patna jail erupts in inmates' anger",
+      "published_at": "2007-12-18T19:06:59.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -2369,9 +2461,9 @@
       "score": 11
     },
     {
-      "slug": "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2",
-      "title": "Patna jail erupts in inmates' anger",
-      "published_at": "2007-12-18T19:06:59.000Z",
+      "slug": "new-lawyers-in-bihar-to-get-5k-monthly-stipend-from-october-880262",
+      "title": "NEW LAWYERS IN BIHAR TO GET %5K MONTHLY STIPEND FROM OCTOBER",
+      "published_at": "2026-09-30T01:59:51.207Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -2380,9 +2472,9 @@
       "score": 10
     },
     {
-      "slug": "alert-sounded-in-bihar-hindustan-times-dc44bb",
-      "title": "Alert sounded in Bihar",
-      "published_at": "2007-06-25T12:34:55.000Z",
+      "slug": "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2",
+      "title": "Patna jail erupts in inmates' anger",
+      "published_at": "2007-12-18T19:06:59.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -2472,9 +2564,9 @@
       "score": 11
     },
     {
-      "slug": "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2",
-      "title": "Patna jail erupts in inmates' anger",
-      "published_at": "2007-12-18T19:06:59.000Z",
+      "slug": "new-lawyers-in-bihar-to-get-5k-monthly-stipend-from-october-880262",
+      "title": "NEW LAWYERS IN BIHAR TO GET %5K MONTHLY STIPEND FROM OCTOBER",
+      "published_at": "2026-09-30T01:59:51.207Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -7291,9 +7383,9 @@
       "score": 19
     },
     {
-      "slug": "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2",
-      "title": "Patna jail erupts in inmates' anger",
-      "published_at": "2007-12-18T19:06:59.000Z",
+      "slug": "new-lawyers-in-bihar-to-get-5k-monthly-stipend-from-october-880262",
+      "title": "NEW LAWYERS IN BIHAR TO GET %5K MONTHLY STIPEND FROM OCTOBER",
+      "published_at": "2026-09-30T01:59:51.207Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -7302,9 +7394,9 @@
       "score": 14
     },
     {
-      "slug": "alert-sounded-in-bihar-hindustan-times-dc44bb",
-      "title": "Alert sounded in Bihar",
-      "published_at": "2007-06-25T12:34:55.000Z",
+      "slug": "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2",
+      "title": "Patna jail erupts in inmates' anger",
+      "published_at": "2007-12-18T19:06:59.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -9247,6 +9339,17 @@
   ],
   "bihar-to-begin-appointment-of-assistant-professors-to-varsities-from-july-15-hin-585764": [
     {
+      "slug": "dy-cm-downplays-feud-within-jdu-132718",
+      "title": "Dy CM downplays feud’ within JD(U)",
+      "published_at": "2026-09-30T02:22:33.270Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 8
+    },
+    {
       "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
       "title": "Bihar Council chief may quit, JD(U) eyes post",
       "published_at": "2026-09-22T01:54:16.923Z",
@@ -9272,17 +9375,6 @@
       "slug": "nishant-holds-centre-stage-at-jdu-orientation-prog-434239",
       "title": "Nishant holds centre stage at JD(U) orientation prog",
       "published_at": "2026-09-19T00:33:39.894Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 8
-    },
-    {
-      "slug": "jdu-likely-to-get-bihar-council-chairman-post-596085",
-      "title": "JD(U) likely to get Bihar Council chairman post",
-      "published_at": "2026-09-17T01:33:21.901Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -12007,6 +12099,17 @@
   ],
   "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2": [
     {
+      "slug": "new-lawyers-in-bihar-to-get-5k-monthly-stipend-from-october-880262",
+      "title": "NEW LAWYERS IN BIHAR TO GET %5K MONTHLY STIPEND FROM OCTOBER",
+      "published_at": "2026-09-30T01:59:51.207Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 19
+    },
+    {
       "slug": "alert-sounded-in-bihar-hindustan-times-dc44bb",
       "title": "Alert sounded in Bihar",
       "published_at": "2007-06-25T12:34:55.000Z",
@@ -12032,17 +12135,6 @@
       "slug": "bihar-starts-training-for-state-officials-at-istm-to-tone-up-administration-hind-931525",
       "title": "Bihar starts training for state officials at ISTM to tone up administration",
       "published_at": "2026-06-30T16:45:31.000Z",
-      "topic": {
-        "id": "judiciary-law-patna-high-court",
-        "slug": "judiciary-law-patna-high-court",
-        "title": "Judiciary, Law & Patna High Court"
-      },
-      "score": 14
-    },
-    {
-      "slug": "121-fellowships-bihar-govt-to-rope-in-experts-to-improve-governance-hindustan-ti-297342",
-      "title": "121 fellowships: Bihar govt to rope in experts to improve governance",
-      "published_at": "2025-11-28T12:51:37.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",
@@ -12421,6 +12513,17 @@
   ],
   "alert-sounded-in-bihar-hindustan-times-dc44bb": [
     {
+      "slug": "new-lawyers-in-bihar-to-get-5k-monthly-stipend-from-october-880262",
+      "title": "NEW LAWYERS IN BIHAR TO GET %5K MONTHLY STIPEND FROM OCTOBER",
+      "published_at": "2026-09-30T01:59:51.207Z",
+      "topic": {
+        "id": "judiciary-law-patna-high-court",
+        "slug": "judiciary-law-patna-high-court",
+        "title": "Judiciary, Law & Patna High Court"
+      },
+      "score": 19
+    },
+    {
       "slug": "patna-jail-erupts-in-inmates-anger-hindustan-times-3244c2",
       "title": "Patna jail erupts in inmates' anger",
       "published_at": "2007-12-18T19:06:59.000Z",
@@ -12446,17 +12549,6 @@
       "slug": "bihar-starts-training-for-state-officials-at-istm-to-tone-up-administration-hind-931525",
       "title": "Bihar starts training for state officials at ISTM to tone up administration",
       "published_at": "2026-06-30T16:45:31.000Z",
-      "topic": {
-        "id": "judiciary-law-patna-high-court",
-        "slug": "judiciary-law-patna-high-court",
-        "title": "Judiciary, Law & Patna High Court"
-      },
-      "score": 14
-    },
-    {
-      "slug": "121-fellowships-bihar-govt-to-rope-in-experts-to-improve-governance-hindustan-ti-297342",
-      "title": "121 fellowships: Bihar govt to rope in experts to improve governance",
-      "published_at": "2025-11-28T12:51:37.000Z",
       "topic": {
         "id": "judiciary-law-patna-high-court",
         "slug": "judiciary-law-patna-high-court",

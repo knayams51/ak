@@ -1,0 +1,57 @@
+{
+  "id": "x_2105121087898132718",
+  "slug": "dy-cm-downplays-feud-within-jdu-132718",
+  "title": "Dy CM downplays feud’ within JD(U)",
+  "summary": "Deputy CM makes light of JD-U infighting, says Samrat govt following Nitish policy against crime",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-09-30T02:22:33.270Z",
+  "modified_at": "2026-09-30T02:22:33.270Z",
+  "word_count": 675,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "assembly-elections-bypolls",
+    "slug": "assembly-elections-bypolls",
+    "title": "Assembly Elections & Bypolls"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2105121087898132718",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2105121087898132718",
+      "original_article_id": "x_2105121087898132718",
+      "published_at": "2026-09-30T02:22:33.270Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2105121087898132718",
+      "tweet_commentary": "Deputy CM makes light of JD-U infighting, says Samrat govt following Nitish policy against crime",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/dy-cm-downplays-feud-within-jdu-132718.jpg",
+      "clipping_asset_path": "documents/clippings/dy-cm-downplays-feud-within-jdu-132718.jpg"
+    },
+    "verification": {
+      "content_sha256": "59c738ada491b58b71e38a298f8c94e67da6c9a18b037ab79a749d48139a9d15",
+      "last_verified_at": "2026-09-30T08:30:27.962Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
