@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too | India News",
+  "description": "Lalan Singh says Anant Singh-Neeraj Kumar rift stems from past actions; remarks come hours after Nitish Kumar met him before Neeraj filed nomination. | India News",
+  "datePublished": "2026-10-05T12:36:27.000Z",
+  "dateModified": "2026-10-05T12:45:11.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "Tejashwi Yadav",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "wordCount": 638
+}

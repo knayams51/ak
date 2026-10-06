@@ -1,0 +1,56 @@
+{
+  "id": "x_2107098373404913754",
+  "slug": "rjd-mp-seeks-probe-on-embankment-breaches-913754",
+  "title": "RJD MP seeks probe on embankment breaches",
+  "summary": "Water Resources Deptt of Bihar Govt has acted rough again engineers for Gandak breaches",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-10-05T13:19:34.000Z",
+  "modified_at": "2026-10-05T13:19:34.000Z",
+  "word_count": 286,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "social-issues-health-culture",
+    "slug": "social-issues-health-culture",
+    "title": "Social Issues, Health & Heritage"
+  },
+  "subtopic": {
+    "id": "floods-disaster-management",
+    "slug": "floods-disaster-management",
+    "title": "Floods & Disaster Management"
+  },
+  "tags": [
+    "RJD"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2107098373404913754",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2107098373404913754",
+      "original_article_id": "x_2107098373404913754",
+      "published_at": "2026-10-05T13:19:34.000Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2107098373404913754",
+      "tweet_commentary": "Water Resources Deptt of Bihar Govt has acted rough again engineers for Gandak breaches",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/rjd-mp-seeks-probe-on-embankment-breaches-913754.jpg",
+      "clipping_asset_path": "documents/clippings/rjd-mp-seeks-probe-on-embankment-breaches-913754.jpg"
+    },
+    "verification": {
+      "content_sha256": "a07aa7fdcb15ec8137df2775b0fed54bd194672f2a88754bdcc411ed0bc5fefc",
+      "last_verified_at": "2026-10-06T08:10:53.557Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

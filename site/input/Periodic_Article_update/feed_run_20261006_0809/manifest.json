@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20261006_0809",
+  "generated_at": "2026-10-06T08:09:49.000Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101791200899151",
+      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
+      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too | India News",
+      "sha256": "617a9c10fdb816ed807f9cb289c5eb4f9b9b13a80af20e098ad02ed1f62a07c5"
+    }
+  ]
+}
