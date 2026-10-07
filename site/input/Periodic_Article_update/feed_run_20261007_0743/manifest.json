@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20261007_0743",
+  "generated_at": "2026-10-07T07:43:58.254Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101791296483532",
+      "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
+      "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over | India News",
+      "sha256": "e53dc44576c4aff6f250f01e730307d464566abf778e766da1de14fb520b6676"
+    }
+  ]
+}
