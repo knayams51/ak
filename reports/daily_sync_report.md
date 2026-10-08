@@ -1,8 +1,8 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-10-07  
-**Execution Timestamp**: 2026-10-07T07:44:03.989Z  
-**Duration**: 52 seconds  
+**Execution Date**: 2026-10-08  
+**Execution Timestamp**: 2026-10-08T08:00:06.298Z  
+**Duration**: 56 seconds  
 **Archive Total Articles**: **284 articles**
 
 ---
@@ -11,19 +11,18 @@
 | Metric | Value |
 |---|---|
 | **Discovered New Candidate URLs** | 44 |
-| **Already Known / Indexed URLs** | 290 |
+| **Already Known / Indexed URLs** | 288 |
 | **Candidate URLs Crawled** | 25 |
-| **Accepted Arun Kumar Articles** | **1** |
+| **Accepted Arun Kumar Articles** | **0** |
 | **X Print Broadsheet Clippings Accepted** | **0** |
-| **Filtered Out (Namesakes / Non-Patna)** | 24 |
+| **Filtered Out (Namesakes / Non-Patna)** | 25 |
 | **Failed Requests** | 0 |
-| **New Package Created** | `feed_run_20261007_0743` |
+| **New Package Created** | `None (Up-to-date)` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-- **[ACCEPTED]** [RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over  India News](https://www.hindustantimes.com/india-news/rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over-101791296483532.html)  
-  *Dateline:  | Byline: Arun Kumar | SHA-256: `c1d1457f17...`*
+_No new articles discovered in this run. Archive is fully synchronized with Hindustan Times._
 
 ---
 
