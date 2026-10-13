@@ -1,4 +1,50 @@
 {
+  "teacher-student-relationship-integral-to-indian-tradition-926159": [
+    {
+      "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
+      "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
+      "published_at": "2026-09-15T14:00:18.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
+      "title": "Guv summons AKU VCas probe panel ‘prevented’",
+      "published_at": "2026-09-15T00:58:37.200Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
+      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
+      "published_at": "2026-09-13T00:40:51.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
+      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
+      "published_at": "2026-09-10T12:08:39.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    }
+  ],
   "nda-partners-meet-to-press-assert-unity-amid-rifts-a-ie-inte-382196": [
     {
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
@@ -1013,6 +1059,17 @@
   ],
   "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
@@ -1044,20 +1101,20 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 19
-    },
+    }
+  ],
+  "guv-summons-aku-vcas-probe-panel-prevented-583120": [
     {
-      "slug": "guvs-office-to-amend-appointment-statute-for-varsity-registr-699209",
-      "title": "Guv’s office to amend appointment statute for varsity registrars",
-      "published_at": "2026-09-03T16:03:16.322Z",
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
         "title": "Higher Education & Academic Reforms"
       },
       "score": 19
-    }
-  ],
-  "guv-summons-aku-vcas-probe-panel-prevented-583120": [
+    },
     {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
@@ -1084,17 +1141,6 @@
       "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
       "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
       "published_at": "2026-09-10T12:08:39.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guvs-office-to-amend-appointment-statute-for-varsity-registr-699209",
-      "title": "Guv’s office to amend appointment statute for varsity registrars",
-      "published_at": "2026-09-03T16:03:16.322Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1151,6 +1197,17 @@
   ],
   "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -1176,17 +1233,6 @@
       "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
       "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
       "published_at": "2026-09-10T12:08:39.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guvs-office-to-amend-appointment-statute-for-varsity-registr-699209",
-      "title": "Guv’s office to amend appointment statute for varsity registrars",
-      "published_at": "2026-09-03T16:03:16.322Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1243,6 +1289,17 @@
   ],
   "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -1268,17 +1325,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guvs-office-to-amend-appointment-statute-for-varsity-registr-699209",
-      "title": "Guv’s office to amend appointment statute for varsity registrars",
-      "published_at": "2026-09-03T16:03:16.322Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1657,6 +1703,17 @@
   ],
   "guvs-office-to-amend-appointment-statute-for-varsity-registr-699209": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -1688,17 +1745,6 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
     }
   ],
   "ex-envoy-to-pak-dwells-on-mecca-accord-indo-pak-ties-in-vola-756667": [
@@ -1712,6 +1758,17 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 13
+    },
+    {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
     },
     {
       "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
@@ -1728,17 +1785,6 @@
       "slug": "lok-bhavan-forms-search-panels-for-appointments-of-vcs-in-10-state-varsities-hin-119502",
       "title": "Lok Bhavan forms search panels for appointments of VCs in 10 state varsities",
       "published_at": "2026-09-15T14:05:19.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
-      "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
-      "published_at": "2026-09-15T14:00:18.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1887,6 +1933,17 @@
   ],
   "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -1912,17 +1969,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2025,6 +2071,17 @@
   ],
   "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -2050,17 +2107,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2117,6 +2163,17 @@
   ],
   "bihar-misses-july-1-deadline-for-211-new-colleges-hindustan-times-532126": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -2142,17 +2199,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2255,6 +2301,17 @@
   ],
   "pm-lauds-nalanda-universitys-initiative-to-protect-ancient-tradition-in-line-wit-547429": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -2280,17 +2337,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2301,6 +2347,17 @@
   ],
   "bihar-to-have-new-act-to-govern-state-varsities-hindustan-times-948097": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -2326,17 +2383,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2393,6 +2439,17 @@
   ],
   "teachers-shortage-prompts-bihar-govt-to-widen-hiring-ambit-for-degree-colleges-h-499301": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -2418,17 +2475,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2853,6 +2899,17 @@
   ],
   "niti-aayog-meet-bihar-cm-seeks-funds-string-of-institutes-from-centre-hindustan--844215": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -2878,17 +2935,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2945,6 +2991,17 @@
   ],
   "bihar-governor-calls-for-strict-compliance-with-fire-safety-norms-urges-greater--093456": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -2970,17 +3027,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3289,9 +3335,9 @@
       "score": 13
     },
     {
-      "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
-      "title": "Patna HC reprimands MGCU for expelling whistleblower student",
-      "published_at": "2026-09-25T00:11:20.803Z",
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3300,9 +3346,9 @@
       "score": 10
     },
     {
-      "slug": "lok-bhavan-forms-search-panels-for-appointments-of-vcs-in-10-state-varsities-hin-119502",
-      "title": "Lok Bhavan forms search panels for appointments of VCs in 10 state varsities",
-      "published_at": "2026-09-15T14:05:19.000Z",
+      "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
+      "title": "Patna HC reprimands MGCU for expelling whistleblower student",
+      "published_at": "2026-09-25T00:11:20.803Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3405,6 +3451,17 @@
   ],
   "ad-hocism-at-the-top-plagues-bihars-higher-edu-institutions-hindustan-times-951667": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -3430,17 +3487,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -4923,6 +4969,17 @@
   ],
   "nalanda-spirit-of-linking-knowledge-to-well-being-more-relevant-today-president--393335": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -4948,17 +5005,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -4969,6 +5015,17 @@
   ],
   "bihar-show-competence-confident-leadership-guv-to-vcs-hindustan-times-427506": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -4994,17 +5051,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -5889,6 +5935,17 @@
   ],
   "holi-over-eid-nears-but-pension-blues-for-bihar-varsity-staff-continue-hindustan-614295": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -5914,17 +5971,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -7867,6 +7913,17 @@
   ],
   "12-lakh-jobs-34-lakh-employment-opportunities-in-bihar-by-poll-date-governor-hin-332971": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -7892,17 +7949,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -8062,6 +8108,17 @@
       "score": 13
     },
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
       "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
       "title": "Patna HC reprimands MGCU for expelling whistleblower student",
       "published_at": "2026-09-25T00:11:20.803Z",
@@ -8076,17 +8133,6 @@
       "slug": "lok-bhavan-forms-search-panels-for-appointments-of-vcs-in-10-state-varsities-hin-119502",
       "title": "Lok Bhavan forms search panels for appointments of VCs in 10 state varsities",
       "published_at": "2026-09-15T14:05:19.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
-      "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
-      "published_at": "2026-09-15T14:00:18.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -8373,6 +8419,17 @@
   ],
   "noted-economist-appointed-as-nalanda-univ-chancellor-hindustan-times-277291": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -8398,17 +8455,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -9396,6 +9442,17 @@
       "score": 19
     },
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 14
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -9410,17 +9467,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 14
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -10305,6 +10351,17 @@
   ],
   "back-dated-retirement-of-principals-chancellor-seeks-report-from-bihar-vcs-hindu-5a8af7": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -10330,17 +10387,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -10719,6 +10765,17 @@
   ],
   "accused-of-sexual-harassment-nalanda-university-student-suspended-india-news-40c9aa": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -10744,17 +10801,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11179,6 +11225,17 @@
   ],
   "tomar-taint-may-cost-munger-law-college-its-affiliation-hindustan-times-1b0b86": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -11204,17 +11261,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11225,6 +11271,17 @@
   ],
   "george-yeo-to-take-over-as-nalanda-chancellor-india-news-100425": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -11250,17 +11307,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11685,6 +11731,17 @@
   ],
   "state-council-to-streamline-higher-education-soon-hindustan-times-e12495": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -11710,17 +11767,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11731,6 +11777,17 @@
   ],
   "rationalisation-chancellor-asks-vcs-to-submit-report-hindustan-times-10d54a": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -11756,17 +11813,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11777,6 +11823,17 @@
   ],
   "bihar-moots-proposal-for-womens-university-hindustan-times-176759": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -11802,17 +11859,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11823,6 +11869,17 @@
   ],
   "dad-denies-phd-scholars-abduction-hindustan-times-be234a": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -11848,17 +11905,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11961,6 +12007,17 @@
   ],
   "hrd-goes-to-raj-bhawan-for-jurisdiction-over-academic-matters-hindustan-times-423389": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -11986,17 +12043,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12007,6 +12053,17 @@
   ],
   "fir-against-magadh-university-vice-chancellor-for-corruption-hindustan-times-0dd3ef": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -12032,17 +12089,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12145,6 +12191,17 @@
   ],
   "indian-artists-featured-at-yale-universitys-new-art-gallery-hindustan-times-307cbf": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -12170,17 +12227,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12846,6 +12892,17 @@
       "score": 19
     },
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 14
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -12860,17 +12917,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 14
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -13019,6 +13065,17 @@
   ],
   "gavai-happy-with-higher-education-in-bihar-india-news-1768fe": [
     {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
@@ -13044,17 +13101,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
