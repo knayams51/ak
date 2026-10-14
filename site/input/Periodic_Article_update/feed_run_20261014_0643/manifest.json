@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20261014_0643",
+  "generated_at": "2026-10-14T06:43:30.051Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101791895961199",
+      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
+      "title": "MLC polls: RLM suspends rebel candidate for 6 years | Hindustan Times",
+      "sha256": "7d4093dc2ba3f9900858752e9edf6f99e7e4f2039714b2c7a1534f6cb32e703e"
+    }
+  ]
+}

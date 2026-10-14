@@ -1,0 +1,53 @@
+{
+  "id": "101791895961199",
+  "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
+  "title": "MLC polls: RLM suspends rebel candidate for 6 years | Hindustan Times",
+  "summary": "Sinha's candidature had led stirred speculations of \"tussle\" within the NDA in the run up to the legislative council elections",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-10-13T12:52:40.000Z",
+  "modified_at": "2026-10-13T12:52:40.000Z",
+  "word_count": 481,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/mlc-polls-rlm-suspends-rebel-candidate-for-6-years-101791895961199.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/mlc-polls-rlm-suspends-rebel-candidate-for-6-years-101791895961199.html",
+      "original_article_id": "101791895961199",
+      "published_at": "2026-10-13T12:52:40.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/mlc-polls-rlm-suspends-rebel-candidate-for-6-years-101791895961199.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "7d4093dc2ba3f9900858752e9edf6f99e7e4f2039714b2c7a1534f6cb32e703e",
+      "last_verified_at": "2026-10-14T06:43:30.050Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}
