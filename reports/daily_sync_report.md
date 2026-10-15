@@ -1,29 +1,28 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-10-14  
-**Execution Timestamp**: 2026-10-14T06:43:40.860Z  
+**Execution Date**: 2026-10-15  
+**Execution Timestamp**: 2026-10-15T06:28:28.816Z  
 **Duration**: 61 seconds  
-**Archive Total Articles**: **288 articles**
+**Archive Total Articles**: **290 articles**
 
 ---
 
 ## 📊 Summary Metrics
 | Metric | Value |
 |---|---|
-| **Discovered New Candidate URLs** | 35 |
-| **Already Known / Indexed URLs** | 316 |
+| **Discovered New Candidate URLs** | 31 |
+| **Already Known / Indexed URLs** | 331 |
 | **Candidate URLs Crawled** | 25 |
-| **Accepted Arun Kumar Articles** | **1** |
+| **Accepted Arun Kumar Articles** | **0** |
 | **X Print Broadsheet Clippings Accepted** | **0** |
-| **Filtered Out (Namesakes / Non-Patna)** | 24 |
+| **Filtered Out (Namesakes / Non-Patna)** | 25 |
 | **Failed Requests** | 0 |
-| **New Package Created** | `feed_run_20261014_0643` |
+| **New Package Created** | `None (Up-to-date)` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-- **[ACCEPTED]** [MLC polls: RLM suspends rebel candidate for 6 years  Hindustan Times](https://www.hindustantimes.com/cities/patna-news/mlc-polls-rlm-suspends-rebel-candidate-for-6-years-101791895961199.html)  
-  *Dateline:  | Byline: Arun Kumar | SHA-256: `bedc3f2c9e...`*
+_No new articles discovered in this run. Archive is fully synchronized with Hindustan Times._
 
 ---
 
