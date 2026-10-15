@@ -1,0 +1,20 @@
+{
+  "package_name": "feed_run_x_print_20261015_0742",
+  "generated_at": "2026-10-15T02:12:45.905Z",
+  "article_count": 2,
+  "source_type": "x_print_clippings",
+  "articles": [
+    {
+      "id": "x_2110532929978073559",
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "sha256": "eba5fcfcc41dc0c6df7f3b83812f0b60b25bf72e653ddac1de4d5348b27deeb4"
+    },
+    {
+      "id": "x_2110532430117663214",
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "sha256": "4bfb68e5a642d34073cb64949a33429fe07a9c97adcf5144864dbd657c26cca7"
+    }
+  ]
+}

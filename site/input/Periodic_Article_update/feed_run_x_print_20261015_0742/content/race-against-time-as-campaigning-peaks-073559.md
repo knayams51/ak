@@ -1,0 +1,19 @@
+# Race against time as campaigning peaks
+
+**Patna** — With time running out for the Bihar Legislative Council elections, the fight has intensified for the eight seats - four each of graduate and teacher constituencies - with mainstream political parties making last ditch bid to overcome internal dissension and secure winning margin.
+
+After Rashtriya Lok Morcha (RLM) suspended party leader Ram Pukar Sinha, BJP has also acted tough against two rebel candidates Rahul Singh and Ramendra Rai in the fray for Saran teacher seat, where JD(U) has Anand Pushkar as the NDA nominee.
+
+Both the BJP leaders have been suspended for six years and party sources said that another one might get the axe for contesting Darbhanga Graduate seat as an independent to send a stern message across that any action against party line and official nominee would not be tolerated.
+
+To confound the situation, RLM's state president Alok Kumar Singh campaigned in support of independent candiVCTODER
+
+1/7 AND DASHMION 20-21, THERE 1S NOT MUCH TIME LEFI FOR CAMPAIGNING, AS ELECTION IS SCHEDULED ON OCTOBER 23
+
+date Ram Pukar Sinha, who was backed by the party MLAs during nomination. He also met BJP leader Pawan Singh.
+
+However, the JD(U) has refrained from any action against party MLA Anant Singh, whose defiant posturing against party's official nominee Neeraj Kumar has not stopped despite party's attempt to control the situation. This has also pointed to growing fissures within the party, which may come to fore after election results are out.
+
+All the senior leaders of JD(U), including party working president Sanjay Kumar Jha, deputy CM Vijay Kumar Choudhary, health minister Nishant Kumar, state JD(U) president Umesh Kushwaha and others,
+
+ee OE EE EE EOE eee attack from Anant Singh, Neeraj rassment. has been heavily banking on Atthe organisational meeting Nitish Kumar magic and the _ at the Bihar state office. Bihar strides the state made in the last BJP state president Sanjay Sartwo decades through Nishant — aogi and BJP national secretary Kumar to dilute the impact of — and organisation co-in-charge Anant Singh, as it could prove — for Rohan Gupta discussed with costly in case of close finish due others ways to make organisatothe presence of multiple play_ tional activities more effective ers. and the party's preparations in Urging voters to vote for view of the upcoming electoral NDA-supported JD(U) candichallenges. Another meeting is date Neeraj Kumar from the also scheduled under chief minPatna Graduates Constituency _ ister Samrat Choudhary. and BJP candidate Naval Kishor With Durga Puja Saptami Yadav from the Patna Teachers falling on October 17 and Constituency, Nishant has been — Dashmi on October 20-21, there describing the election as vote is not much time left for camfor Bihar's future. paigning. as election is sched- "Dotakea moment toreflect uled on October 23. The candion where Bihar stood two decdates have now stepped up camades ago and where it stands _ paigning to make the most of today. Bihar has made remarka__ the time available and star camble progress and the momen__paigners have taken the reins in tum must continue," he said _ their hands. at Nawada and Nalanda and he Under the Sections 126, 126A is next headed for Barh, before and 135C of the Representation interacting with party workers _ of the People Act, 1951 (RP Act), at JD(U) office on Thursday. all election-related activities, Senior BJP leaders like Union —_ which could influence or affect minister Nityanand Rai, Rajthe results of an election like bhushan Nishad, party state holding public meetings, giving chief Sanjay Sarogi and others — speeches, etc. are prohibited have also been campaigning during the silence period.

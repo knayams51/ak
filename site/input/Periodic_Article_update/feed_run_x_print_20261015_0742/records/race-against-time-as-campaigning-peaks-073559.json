@@ -1,0 +1,58 @@
+{
+  "id": "x_2110532929978073559",
+  "slug": "race-against-time-as-campaigning-peaks-073559",
+  "title": "Race against time as campaigning peaks",
+  "summary": "Puja & poll: Race against time as campaigning picks up momentum",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-10-15T00:47:16.969Z",
+  "modified_at": "2026-10-15T00:47:16.969Z",
+  "word_count": 596,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2110532929978073559",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2110532929978073559",
+      "original_article_id": "x_2110532929978073559",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2110532929978073559",
+      "tweet_commentary": "Puja & poll: Race against time as campaigning picks up momentum",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/race-against-time-as-campaigning-peaks-073559.jpg",
+      "clipping_asset_path": "documents/clippings/race-against-time-as-campaigning-peaks-073559.jpg"
+    },
+    "verification": {
+      "content_sha256": "eba5fcfcc41dc0c6df7f3b83812f0b60b25bf72e653ddac1de4d5348b27deeb4",
+      "last_verified_at": "2026-10-15T02:12:45.901Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

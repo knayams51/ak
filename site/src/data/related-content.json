@@ -1,4 +1,96 @@
 {
+  "race-against-time-as-campaigning-peaks-073559": [
+    {
+      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
+      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
+      "published_at": "2026-10-13T12:52:40.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
+      "slug": "nda-partners-meet-to-press-assert-unity-amid-rifts-a-ie-inte-382196",
+      "title": "NDA partners meet tO press assert unity amid ‘rifts’ a ie inte",
+      "published_at": "2026-10-08T00:50:50.858Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
+      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
+      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
+      "published_at": "2026-10-05T12:36:27.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
+      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
+      "title": "Bihar Council chief may quit, JD(U) eyes post",
+      "published_at": "2026-09-22T01:54:16.923Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    }
+  ],
+  "aku-v-c-gets-guvs-show-cause-for-absence-663214": [
+    {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
+      "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
+      "published_at": "2026-09-15T14:00:18.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
+      "title": "Guv summons AKU VCas probe panel ‘prevented’",
+      "published_at": "2026-09-15T00:58:37.200Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
+      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
+      "published_at": "2026-09-13T00:40:51.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    }
+  ],
   "jehanabad-carnage-accused-acquitted-578260": [
     {
       "slug": "hc-seeks-remission-list-from-bihar-government-768451",
@@ -47,6 +139,17 @@
   ],
   "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
       "slug": "nda-partners-meet-to-press-assert-unity-amid-rifts-a-ie-inte-382196",
       "title": "NDA partners meet tO press assert unity amid ‘rifts’ a ie inte",
       "published_at": "2026-10-08T00:50:50.858Z",
@@ -78,20 +181,20 @@
         "title": "Politics, Elections & Governance"
       },
       "score": 19
-    },
-    {
-      "slug": "nishant-holds-centre-stage-at-jdu-meet-amid-speculations-on-political-churning-h-130534",
-      "title": "Nishant holds centre stage at JD(U) meet amid speculations on political churning",
-      "published_at": "2026-09-19T02:01:30.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 19
     }
   ],
   "teacher-student-relationship-integral-to-indian-tradition-926159": [
+    {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
     {
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
@@ -124,20 +227,20 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
     }
   ],
   "nda-partners-meet-to-press-assert-unity-amid-rifts-a-ie-inte-382196": [
+    {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
     {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
@@ -170,20 +273,20 @@
         "title": "Politics, Elections & Governance"
       },
       "score": 19
-    },
+    }
+  ],
+  "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532": [
     {
-      "slug": "nishant-holds-centre-stage-at-jdu-meet-amid-speculations-on-political-churning-h-130534",
-      "title": "Nishant holds centre stage at JD(U) meet amid speculations on political churning",
-      "published_at": "2026-09-19T02:01:30.000Z",
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
         "title": "Politics, Elections & Governance"
       },
-      "score": 19
-    }
-  ],
-  "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532": [
+      "score": 16
+    },
     {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
@@ -210,17 +313,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -334,6 +426,17 @@
       "score": 13
     },
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 11
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -348,17 +451,6 @@
       "slug": "nda-partners-meet-to-press-assert-unity-amid-rifts-a-ie-inte-382196",
       "title": "NDA partners meet tO press assert unity amid ‘rifts’ a ie inte",
       "published_at": "2026-10-08T00:50:50.858Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 11
-    },
-    {
-      "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
-      "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
-      "published_at": "2026-10-06T14:21:22.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -829,6 +921,17 @@
   ],
   "bihar-council-chief-may-quit-jdu-eyes-post-370151": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -854,17 +957,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 19
-    },
-    {
-      "slug": "nishant-holds-centre-stage-at-jdu-meet-amid-speculations-on-political-churning-h-130534",
-      "title": "Nishant holds centre stage at JD(U) meet amid speculations on political churning",
-      "published_at": "2026-09-19T02:01:30.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -1151,6 +1243,17 @@
   ],
   "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -1182,20 +1285,20 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 19
-    },
+    }
+  ],
+  "guv-summons-aku-vcas-probe-panel-prevented-583120": [
     {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
         "title": "Higher Education & Academic Reforms"
       },
       "score": 19
-    }
-  ],
-  "guv-summons-aku-vcas-probe-panel-prevented-583120": [
+    },
     {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
@@ -1222,17 +1325,6 @@
       "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
       "title": "Lok Bhavan forms panel to rectify asst prof hiring",
       "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1289,6 +1381,17 @@
   ],
   "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -1314,17 +1417,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682",
-      "title": "IIT (BHU) director Amit Patra gets additional charge of IIT, Patna",
-      "published_at": "2026-09-10T12:08:39.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1381,6 +1473,17 @@
   ],
   "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -1406,17 +1509,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1703,6 +1795,17 @@
   ],
   "jdu-launches-nitish-samvad-on-water-treaty-256479": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -1728,17 +1831,6 @@
       "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
       "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
       "published_at": "2026-10-06T14:21:22.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -1795,6 +1887,17 @@
   ],
   "guvs-office-to-amend-appointment-statute-for-varsity-registr-699209": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -1826,17 +1929,6 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
     }
   ],
   "ex-envoy-to-pak-dwells-on-mecca-accord-indo-pak-ties-in-vola-756667": [
@@ -1850,6 +1942,17 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 13
+    },
+    {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
     },
     {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
@@ -1866,17 +1969,6 @@
       "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
       "title": "Patna HC reprimands MGCU for expelling whistleblower student",
       "published_at": "2026-09-25T00:11:20.803Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "lok-bhavan-forms-search-panels-for-appointments-of-vcs-in-10-state-varsities-hin-119502",
-      "title": "Lok Bhavan forms search panels for appointments of VCs in 10 state varsities",
-      "published_at": "2026-09-15T14:05:19.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2025,6 +2117,17 @@
   ],
   "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -2050,17 +2153,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2163,6 +2255,17 @@
   ],
   "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -2188,17 +2291,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2255,6 +2347,17 @@
   ],
   "bihar-misses-july-1-deadline-for-211-new-colleges-hindustan-times-532126": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -2280,17 +2383,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2393,6 +2485,17 @@
   ],
   "pm-lauds-nalanda-universitys-initiative-to-protect-ancient-tradition-in-line-wit-547429": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -2418,17 +2521,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2439,6 +2531,17 @@
   ],
   "bihar-to-have-new-act-to-govern-state-varsities-hindustan-times-948097": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -2464,17 +2567,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2531,6 +2623,17 @@
   ],
   "teachers-shortage-prompts-bihar-govt-to-widen-hiring-ambit-for-degree-colleges-h-499301": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -2556,17 +2659,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2669,6 +2761,17 @@
   ],
   "jdu-pledges-to-follow-nitish-promote-nishant-hindustan-times-071894": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -2694,17 +2797,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 19
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -2991,6 +3083,17 @@
   ],
   "niti-aayog-meet-bihar-cm-seeks-funds-string-of-institutes-from-centre-hindustan--844215": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -3016,17 +3119,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3083,6 +3175,17 @@
   ],
   "bihar-governor-calls-for-strict-compliance-with-fire-safety-norms-urges-greater--093456": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -3108,17 +3211,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3427,9 +3519,9 @@
       "score": 13
     },
     {
-      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
-      "title": "“Teacher-student relationship integral to Indian tradition’",
-      "published_at": "2026-10-13T00:43:48.312Z",
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3438,9 +3530,9 @@
       "score": 10
     },
     {
-      "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
-      "title": "Patna HC reprimands MGCU for expelling whistleblower student",
-      "published_at": "2026-09-25T00:11:20.803Z",
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3543,6 +3635,17 @@
   ],
   "ad-hocism-at-the-top-plagues-bihars-higher-edu-institutions-hindustan-times-951667": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -3568,17 +3671,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3773,6 +3865,17 @@
   ],
   "32-ministers-including-nitishs-son-inducted-in-bihar-cm-samrats-cabinet-hindusta-429520": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -3798,17 +3901,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -3819,6 +3911,17 @@
   ],
   "nitishs-son-likely-to-ministerial-berth-as-bihar-cabinet-set-for-grand-expansion-224380": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -3844,17 +3947,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 19
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -3865,6 +3957,17 @@
   ],
   "bihar-set-for-cabinet-expansion-on-may-7-modi-shah-to-attend-hindustan-times-541916": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -3890,17 +3993,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 19
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4049,6 +4141,17 @@
   ],
   "encroachment-of-govt-land-wont-be-allowed-samrat-warns-from-tarapur-hindustan-ti-310978": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -4074,17 +4177,6 @@
       "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
       "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
       "published_at": "2026-10-06T14:21:22.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4187,6 +4279,17 @@
   ],
   "nitish-retains-sanjay-jha-as-working-chief-in-jdu-rejig-son-nishant-absent-hindu-721797": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -4212,17 +4315,6 @@
       "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
       "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
       "published_at": "2026-10-06T14:21:22.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4233,6 +4325,17 @@
   ],
   "nitish-picks-close-aide-shravan-kumar-as-jdu-lp-leader-hindustan-times-996756": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -4258,17 +4361,6 @@
       "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
       "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
       "published_at": "2026-10-06T14:21:22.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4279,6 +4371,17 @@
   ],
   "nitish-to-pick-jdu-legislative-party-leader-hindustan-times-626882": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -4304,17 +4407,6 @@
       "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
       "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
       "published_at": "2026-10-06T14:21:22.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4555,6 +4647,17 @@
   ],
   "entire-bihar-with-pm-on-33-quota-for-women-samrat-hindustan-times-703906": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -4580,17 +4683,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4647,6 +4739,17 @@
   ],
   "bihar-samrat-choudhary-takes-oath-as-cm-becomes-first-bjp-leader-at-the-helm-hin-512338": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -4672,17 +4775,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 19
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4739,6 +4831,17 @@
   ],
   "bihar-ex-cm-nitish-kumar-says-new-nda-govt-will-have-his-full-cooperation-hindus-049480": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -4764,17 +4867,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4785,6 +4877,17 @@
   ],
   "a-day-before-resignation-business-as-usual-for-nitish-hindustan-times-963903": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -4810,17 +4913,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 19
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4831,6 +4923,17 @@
   ],
   "countdown-for-new-bihar-govt-begins-with-last-cabinet-meet-on-april-14-hindustan-620598": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -4856,17 +4959,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 19
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4969,6 +5061,17 @@
   ],
   "process-for-next-govt-after-nitishs-rs-oath-on-april-10-bihar-bjp-chief-hindusta-348871": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -4994,17 +5097,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -5061,6 +5153,17 @@
   ],
   "nalanda-spirit-of-linking-knowledge-to-well-being-more-relevant-today-president--393335": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -5086,17 +5189,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -5107,6 +5199,17 @@
   ],
   "bihar-show-competence-confident-leadership-guv-to-vcs-hindustan-times-427506": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -5132,17 +5235,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -5199,6 +5291,17 @@
   ],
   "nabins-resignation-from-assembly-held-up-amid-bjp-brainstorming-on-next-cm-hindu-955967": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -5224,17 +5327,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -5797,6 +5889,17 @@
   ],
   "good-work-for-bihar-will-continue-nitish-during-samriddhi-yatra-before-transitio-839702": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 19
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -5822,17 +5925,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 19
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -6027,6 +6119,17 @@
   ],
   "holi-over-eid-nears-but-pension-blues-for-bihar-varsity-staff-continue-hindustan-614295": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -6052,17 +6155,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -6119,6 +6211,17 @@
   ],
   "nishant-joins-jdu-vows-to-carry-father-nitishs-legacy-forward-hindustan-times-521314": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -6144,17 +6247,6 @@
       "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
       "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
       "published_at": "2026-10-06T14:21:22.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -6165,6 +6257,17 @@
   ],
   "nishant-joins-jdu-vows-to-take-father-nitishs-work-forward-strengthen-party-hind-658090": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -6196,20 +6299,20 @@
         "title": "Politics, Elections & Governance"
       },
       "score": 16
-    },
+    }
+  ],
+  "nishant-to-join-jdu-on-sunday-to-undertake-statewide-yatra-hindustan-times-771634": [
     {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
         "title": "Politics, Elections & Governance"
       },
-      "score": 16
-    }
-  ],
-  "nishant-to-join-jdu-on-sunday-to-undertake-statewide-yatra-hindustan-times-771634": [
+      "score": 19
+    },
     {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
@@ -6236,17 +6339,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 19
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -7499,6 +7591,17 @@
   ],
   "after-big-poll-mandate-in-2025-nitish-led-nda-govt-in-bihar-has-to-walk-the-talk-424332": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -7524,17 +7627,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -7637,6 +7729,17 @@
   ],
   "bjp-jdu-attack-madani-remarks-say-india-is-a-country-of-peace-and-harmony-hindus-101699": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -7662,17 +7765,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "nda-partners-back-769336",
-      "title": "NDA partners back",
-      "published_at": "2026-09-28T02:07:38.496Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -8005,6 +8097,17 @@
   ],
   "12-lakh-jobs-34-lakh-employment-opportunities-in-bihar-by-poll-date-governor-hin-332971": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -8030,17 +8133,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -8200,6 +8292,17 @@
       "score": 13
     },
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -8214,17 +8317,6 @@
       "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
       "title": "Patna HC reprimands MGCU for expelling whistleblower student",
       "published_at": "2026-09-25T00:11:20.803Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "lok-bhavan-forms-search-panels-for-appointments-of-vcs-in-10-state-varsities-hin-119502",
-      "title": "Lok Bhavan forms search panels for appointments of VCs in 10 state varsities",
-      "published_at": "2026-09-15T14:05:19.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -8511,6 +8603,17 @@
   ],
   "noted-economist-appointed-as-nalanda-univ-chancellor-hindustan-times-277291": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -8536,17 +8639,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -8833,6 +8925,17 @@
   ],
   "kushwaha-says-nitish-kumar-gave-him-position-without-power-ignored-suggestions-h-561407": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -8858,17 +8961,6 @@
       "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
       "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
       "published_at": "2026-10-06T14:21:22.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -9017,6 +9109,17 @@
   ],
   "nitish-hails-kcr-role-in-telangana-creation-hindustan-times-128049": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -9048,20 +9151,20 @@
         "title": "Politics, Elections & Governance"
       },
       "score": 13
-    },
+    }
+  ],
+  "telanganas-kcr-hands-over-cheques-to-families-of-soldiers-workers-in-bihar-hindu-397555": [
     {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
         "title": "Politics, Elections & Governance"
       },
-      "score": 13
-    }
-  ],
-  "telanganas-kcr-hands-over-cheques-to-families-of-soldiers-workers-in-bihar-hindu-397555": [
+      "score": 16
+    },
     {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
@@ -9088,17 +9191,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -9534,6 +9626,17 @@
       "score": 19
     },
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 14
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -9548,17 +9651,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 14
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -9615,6 +9707,17 @@
   ],
   "15-day-special-leave-for-bihar-govt-staff-for-vipassana-course-hindustan-times-294024": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -9640,17 +9743,6 @@
       "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
       "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
       "published_at": "2026-10-06T14:21:22.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -9661,6 +9753,17 @@
   ],
   "bihar-to-begin-appointment-of-assistant-professors-to-varsities-from-july-15-hin-585764": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 8
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -9686,17 +9789,6 @@
       "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
       "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
       "published_at": "2026-10-06T14:21:22.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 8
-    },
-    {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -9891,6 +9983,17 @@
   ],
   "cm-nitish-kumar-bats-for-judiciarys-role-in-establishing-rule-of-law-in-bihar-hi-397720": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -9916,17 +10019,6 @@
       "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
       "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
       "published_at": "2026-10-06T14:21:22.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -10443,6 +10535,17 @@
   ],
   "back-dated-retirement-of-principals-chancellor-seeks-report-from-bihar-vcs-hindu-5a8af7": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -10468,17 +10571,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -10857,6 +10949,17 @@
   ],
   "accused-of-sexual-harassment-nalanda-university-student-suspended-india-news-40c9aa": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -10882,17 +10985,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11317,6 +11409,17 @@
   ],
   "tomar-taint-may-cost-munger-law-college-its-affiliation-hindustan-times-1b0b86": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -11342,17 +11445,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11363,6 +11455,17 @@
   ],
   "george-yeo-to-take-over-as-nalanda-chancellor-india-news-100425": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -11388,17 +11491,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11639,6 +11731,17 @@
   ],
   "bihar-treated-bhatkal-as-damaad-bjp-hindustan-times-f9a3dd": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -11670,20 +11773,20 @@
         "title": "Politics, Elections & Governance"
       },
       "score": 16
-    },
+    }
+  ],
+  "bihar-cops-suddenly-went-cold-on-yasin-bhatkal-hindustan-times-7b7897": [
     {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
         "title": "Politics, Elections & Governance"
       },
-      "score": 16
-    }
-  ],
-  "bihar-cops-suddenly-went-cold-on-yasin-bhatkal-hindustan-times-7b7897": [
+      "score": 13
+    },
     {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
@@ -11710,17 +11813,6 @@
       "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
       "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
       "published_at": "2026-10-06T14:21:22.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -11777,6 +11869,17 @@
   ],
   "shatrughan-praises-nitish-may-get-notice-hindustan-times-af823d": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -11808,20 +11911,20 @@
         "title": "Politics, Elections & Governance"
       },
       "score": 16
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
     }
   ],
   "state-council-to-streamline-higher-education-soon-hindustan-times-e12495": [
+    {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
     {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
@@ -11848,17 +11951,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11869,6 +11961,17 @@
   ],
   "rationalisation-chancellor-asks-vcs-to-submit-report-hindustan-times-10d54a": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -11894,17 +11997,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11915,6 +12007,17 @@
   ],
   "bihar-moots-proposal-for-womens-university-hindustan-times-176759": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -11940,17 +12043,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11961,6 +12053,17 @@
   ],
   "dad-denies-phd-scholars-abduction-hindustan-times-be234a": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -11986,17 +12089,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12099,6 +12191,17 @@
   ],
   "hrd-goes-to-raj-bhawan-for-jurisdiction-over-academic-matters-hindustan-times-423389": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -12124,17 +12227,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12145,6 +12237,17 @@
   ],
   "fir-against-magadh-university-vice-chancellor-for-corruption-hindustan-times-0dd3ef": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -12170,17 +12273,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12283,6 +12375,17 @@
   ],
   "indian-artists-featured-at-yale-universitys-new-art-gallery-hindustan-times-307cbf": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -12308,17 +12411,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12651,6 +12743,17 @@
   ],
   "crank-call-from-cm-lands-official-in-soup-hindustan-times-d84c39": [
     {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
       "published_at": "2026-10-13T12:52:40.000Z",
@@ -12676,17 +12779,6 @@
       "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
       "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "published_at": "2026-10-05T12:36:27.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "bihar-council-chief-may-quit-jdu-eyes-post-370151",
-      "title": "Bihar Council chief may quit, JD(U) eyes post",
-      "published_at": "2026-09-22T01:54:16.923Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -12984,6 +13076,17 @@
       "score": 19
     },
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 14
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -13004,20 +13107,20 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 14
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 14
     }
   ],
   "bihar-lands-on-cape-of-good-hope-india-news-afa906": [
+    {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
     {
       "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
       "title": "MLC polls: RLM suspends rebel candidate for 6 years",
@@ -13044,17 +13147,6 @@
       "slug": "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532",
       "title": "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
       "published_at": "2026-10-06T14:21:22.000Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "bihar-council-polls-turn-into-nda-unity-test-as-jdu-rlm-face-rebellion-rift-in-o-899151",
-      "title": "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
-      "published_at": "2026-10-05T12:36:27.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -13157,6 +13249,17 @@
   ],
   "gavai-happy-with-higher-education-in-bihar-india-news-1768fe": [
     {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -13182,17 +13285,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
