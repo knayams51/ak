@@ -1,0 +1,56 @@
+{
+  "id": "x_2110892976197271712-p1",
+  "slug": "cop-sends-legal-notice-to-rjd-mp-over-encounter-allegation-271712-p1",
+  "title": "Cop sends legal notice to RJD MP over ‘encounter’ allegation",
+  "summary": "Buxar MP, IPS officer lock horns over suspicious murder, legal notice",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-10-16T00:37:58.677Z",
+  "modified_at": "2026-10-16T00:37:58.677Z",
+  "word_count": 195,
+  "reading_time_minutes": 1,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "RJD"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2110892976197271712",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2110892976197271712",
+      "original_article_id": "x_2110892976197271712-p1",
+      "published_at": "2026-10-16T00:37:58.677Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2110892976197271712",
+      "tweet_commentary": "Buxar MP, IPS officer lock horns over suspicious murder, legal notice",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/cop-sends-legal-notice-to-rjd-mp-over-encounter-allegation-271712-p1.jpg",
+      "clipping_asset_path": "documents/clippings/cop-sends-legal-notice-to-rjd-mp-over-encounter-allegation-271712-p1.jpg"
+    },
+    "verification": {
+      "content_sha256": "9baa936cc5c5a95bca153e8d32e37bb0ce0d7777e87f0cb22882807fb0a4c01a",
+      "last_verified_at": "2026-10-16T02:53:42.351Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

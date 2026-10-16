@@ -1,0 +1,58 @@
+{
+  "id": "x_2110892486193520833",
+  "slug": "n-i-ov-ms-r-j-48-520833",
+  "title": "n = ¥ =\" i) ov. ms r =) j 4,8",
+  "summary": "Samrat inaugurates mega leather cluster, vows to create job opps for youth",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-10-16T00:36:01.851Z",
+  "modified_at": "2026-10-16T00:36:01.851Z",
+  "word_count": 496,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "faculty-recruitment-controversies",
+    "slug": "faculty-recruitment-controversies",
+    "title": "Faculty Recruitment & BPSC Exams"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2110892486193520833",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2110892486193520833",
+      "original_article_id": "x_2110892486193520833",
+      "published_at": "2026-10-16T00:36:01.851Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2110892486193520833",
+      "tweet_commentary": "Samrat inaugurates mega leather cluster, vows to create job opps for youth",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/n-i-ov-ms-r-j-48-520833.jpg",
+      "clipping_asset_path": "documents/clippings/n-i-ov-ms-r-j-48-520833.jpg"
+    },
+    "verification": {
+      "content_sha256": "eb1f9825bbbf1ccee42572b922adcfe06517751d9a61642b2e7fe6736d91e39c",
+      "last_verified_at": "2026-10-16T02:53:42.358Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
