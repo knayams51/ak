@@ -167,7 +167,7 @@ class DailySyncEngine {
             if (!href) return;
 
             if (href.match(/-(\d+)\.html$/) && !href.includes('/photos/') && !href.includes('/videos/')) {
-              const fullUrl = href.startsWith('http') ? href : `https://www.hindustantimes.com${href}`;
+              const fullUrl = href.startsWith('http') ? href : ((href.startsWith('hindustantimes.com') || href.startsWith('www.hindustantimes.com')) ? `https://www.${href.replace(/^www\./, '')}` : `https://www.hindustantimes.com${href.startsWith('/') ? '' : '/'}${href}`);
               const normalized = fullUrl.toLowerCase().trim();
 
               if (!existingIndex.has(normalized) && !candidateUrls.has(fullUrl)) {
@@ -209,7 +209,7 @@ class DailySyncEngine {
               if (!href) return;
 
               if (href.match(/-(\d+)\.html$/) && (href.includes('/patna-news/') || href.includes('/education/') || href.includes('/india-news/'))) {
-                const fullUrl = href.startsWith('http') ? href : `https://www.hindustantimes.com${href}`;
+                const fullUrl = href.startsWith('http') ? href : ((href.startsWith('hindustantimes.com') || href.startsWith('www.hindustantimes.com')) ? `https://www.${href.replace(/^www\./, '')}` : `https://www.hindustantimes.com${href.startsWith('/') ? '' : '/'}${href}`);
                 const normalized = fullUrl.toLowerCase().trim();
 
                 if (!existingIndex.has(normalized)) {

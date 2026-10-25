@@ -1,7 +1,7 @@
 # run-x-sync-background.ps1
 # Arun Kumar Living Archive - Automated Background X Broadsheet Harvester
 
-$ProjectDir = "c:\Users\Mayank Shekhar\Downloads\Arun_Kumar"
+$ProjectDir = if ($PSScriptRoot) { (Resolve-Path (Join-Path $PSScriptRoot "..")).Path } else { "c:\Users\Mayank Shekhar\Documents\Website_repos\Arun_Kumar" }
 Set-Location -Path $ProjectDir
 
 $LogDir = Join-Path $ProjectDir "reports"
