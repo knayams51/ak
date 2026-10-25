@@ -131,7 +131,8 @@ class XSyncEngine {
     // 1. Crawl X Profile
     const xCrawler = new XCrawler({
       screenName: this.options.screenName,
-      limit: this.options.limit
+      limit: this.options.limit,
+      scrollSteps: Math.max(4, Math.ceil(this.options.limit / 3))
     });
 
     const tweets = await xCrawler.crawlProfile();

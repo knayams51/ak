@@ -81,7 +81,18 @@ class XCrawler {
         'Sec-Ch-Ua-Platform': '"Windows"'
       });
 
-      // Inject auth_token cookie if provided
+      // Inject auth_token cookie if provided (via env or .env file)
+      if (!process.env.X_AUTH_TOKEN) {
+        for (const envCandidate of [path.join(__dirname, '..', '.env'), path.join(__dirname, '.env')]) {
+          if (fs.existsSync(envCandidate)) {
+            const m = fs.readFileSync(envCandidate, 'utf8').match(/^\s*X_AUTH_TOKEN\s*=\s*['"]?([^'"\r\n]+)['"]?/m);
+            if (m && m[1]) {
+              process.env.X_AUTH_TOKEN = m[1].trim();
+              break;
+            }
+          }
+        }
+      }
       if (process.env.X_AUTH_TOKEN) {
         console.log(`[XCrawler] Authenticating session via X_AUTH_TOKEN secret...`);
         const tokenVal = process.env.X_AUTH_TOKEN.trim();
