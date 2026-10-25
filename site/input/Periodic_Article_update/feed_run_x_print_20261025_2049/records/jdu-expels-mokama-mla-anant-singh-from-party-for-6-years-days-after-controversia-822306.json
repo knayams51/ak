@@ -1,0 +1,61 @@
+{
+  "id": "101792845822306",
+  "slug": "jdu-expels-mokama-mla-anant-singh-from-party-for-6-years-days-after-controversia-822306",
+  "title": "JDU expels Mokama MLA Anant Singh from party for 6 years, days after controversial remarks spark row",
+  "summary": "A press statement said the party would also recommend to the Speaker of the state assembly to disqualify the Mokama MLA from the house.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-10-24T12:49:03.000Z",
+  "modified_at": "2026-10-25T02:21:38.000Z",
+  "word_count": 686,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "assembly-elections-bypolls",
+    "slug": "assembly-elections-bypolls",
+    "title": "Assembly Elections & Bypolls"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)"
+  ],
+  "source_url": "https://www.hindustantimes.com/india-news/jdu-expels-mokama-mla-anant-singh-from-party-for-6-years-over-controversial-remarks-101792845822306.html",
+  "is_print_edition": false,
+  "is_print_exclusive": false,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/india-news/jdu-expels-mokama-mla-anant-singh-from-party-for-6-years-over-controversial-remarks-101792845822306.html",
+      "original_article_id": "101792845822306",
+      "published_at": "2026-10-24T12:49:03.000Z",
+      "dateline": "Patna",
+      "is_print_exclusive": false
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2113982175670677730",
+      "tweet_commentary": "JDU expels Mokama MLA Anant Singh from party for 6 years, days after controversial remarks spark row\nhindustantimes.com/s/1k7EOH2",
+      "archive_status": "verified_live",
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/india-news/jdu-expels-mokama-mla-anant-singh-from-party-for-6-years-over-controversial-remarks-101792845822306.html"
+    },
+    "document_provenance": {
+      "has_clipping_image": false,
+      "clipping_public_url": null,
+      "clipping_asset_path": null,
+      "has_pdf_scan": true,
+      "pdf_public_url": "/documents/provenance/jdu-expels-mokama-mla-anant-singh-from-party-for-6-years-days-after-controversia-822306-doc.jpg",
+      "pdf_asset_path": "documents/provenance/jdu-expels-mokama-mla-anant-singh-from-party-for-6-years-days-after-controversia-822306-doc.jpg"
+    },
+    "verification": {
+      "content_sha256": "d07f1b53ec7ff09742249c205d23942406d9176295bffc46e206a1c1af05e93f",
+      "last_verified_at": "2026-10-25T15:19:41.384Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "HT Digital JSON-LD & DOM Extraction (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

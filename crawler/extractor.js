@@ -24,7 +24,12 @@ class HTArticleExtractor {
       '.footer-ad',
       '.taboola-container',
       '.outbrain_widget_container',
-      '.live-blog-update-time'
+      '.live-blog-update-time',
+      '.author-bio',
+      '.about-author',
+      '.authorInfo',
+      '.authorDetails',
+      '.authorBio'
     ];
   }
 
@@ -59,7 +64,7 @@ class HTArticleExtractor {
     // 2. Headline
     let headline = '';
     if (jsonldData && jsonldData.headline) {
-      headline = jsonldData.headline;
+      headline = jsonldData.headline.replace(/\s*\|\s*(?:India News|Patna News|Hindustan Times).*$/i, '').trim();
     } else {
       headline = $('h1.hdg1, h1.story-headline, h1.article-title, h1').first().text().trim();
     }
@@ -67,7 +72,7 @@ class HTArticleExtractor {
     // 3. Sub-headline / Summary
     let subHeadline = '';
     if (jsonldData && jsonldData.description) {
-      subHeadline = jsonldData.description;
+      subHeadline = jsonldData.description.replace(/\s*\|\s*(?:India News|Patna News|Hindustan Times).*$/i, '').trim();
     } else {
       subHeadline = $('.story-summary, .article-subtitle, .hdg2, h2.sortHdg').first().text().trim();
     }
@@ -134,6 +139,7 @@ class HTArticleExtractor {
       // Skip empty or ad disclaimer paragraphs
       if (!pText || pText.length < 5) return;
       if (/^(also read|read:|watch:|subscribe to|follow us|advertisement)/i.test(pText)) return;
+      if (/Read More$/i.test(pText) && /journalist|covers|writes regularly|bureau|correspondent/i.test(pText)) return;
       paragraphs.push(pText);
     });
 

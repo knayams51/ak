@@ -5,6 +5,8 @@ const axios = require('axios');
 const XCrawler = require('./x-crawler');
 const PackageBuilder = require('../pipeline/package-builder');
 const TaxonomyClassifier = require('../pipeline/taxonomy-classifier');
+const HTArticleExtractor = require('./extractor');
+const ArticleNormalizer = require('../pipeline/normalizer');
 
 class XSyncEngine {
   constructor(options = {}) {
@@ -16,6 +18,12 @@ class XSyncEngine {
 
     this.packageBuilder = new PackageBuilder();
     this.classifier = new TaxonomyClassifier();
+    this.htExtractor = new HTArticleExtractor();
+    this.normalizer = new ArticleNormalizer();
+    this.provenanceDir = path.join(__dirname, '..', 'site', 'public', 'documents', 'provenance');
+    if (!fs.existsSync(this.provenanceDir)) {
+      fs.mkdirSync(this.provenanceDir, { recursive: true });
+    }
     this.clippingsDir = path.join(__dirname, '..', 'site', 'public', 'documents', 'clippings');
 
     if (!fs.existsSync(this.clippingsDir)) {
@@ -44,6 +52,8 @@ class XSyncEngine {
           if (art.title) knownTitles.add(this.normalizeTitle(art.title));
           if (art.id) knownIds.add(String(art.id).toLowerCase());
           if (art.slug) knownIds.add(art.slug.toLowerCase());
+          if (art.provenance?.primary_source?.canonical_url) knownIds.add(art.provenance.primary_source.canonical_url.toLowerCase());
+          if (art.provenance?.primary_source?.original_article_id) knownIds.add(String(art.provenance.primary_source.original_article_id).toLowerCase());
           if (art.provenance?.archival_source?.x_status_url) {
             knownIds.add(art.provenance.archival_source.x_status_url.toLowerCase());
           }
@@ -251,6 +261,9 @@ class XSyncEngine {
       }
     }
 
+    // 2B. Process HT Digital Links Shared by @ArunkrHt on X
+    await this.processHtLinkTweets(tweets, knownTitles, knownIds);
+
     // 3. Package New Print Dispatches
     if (this.stats.acceptedArticles.length > 0) {
       console.log(`\n===============================================================`);
@@ -276,6 +289,129 @@ class XSyncEngine {
     return this.stats;
   }
 
+  async processHtLinkTweets(tweets, knownTitles, knownIds) {
+    const handlePrefix = `/${this.options.screenName.toLowerCase()}/status/`;
+    const linkTweets = tweets.filter(t =>
+      t.status_url &&
+      t.status_url.toLowerCase().includes(handlePrefix) &&
+      t.text &&
+      /(?:https?:\/\/)?(?:www\.)?hindustantimes\.com\/[^\s)]+/i.test(t.text)
+    );
+
+    if (linkTweets.length === 0) return;
+    console.log(`\n[XSync] Processing ${linkTweets.length} HT digital link tweet(s) shared by @${this.options.screenName}...`);
+
+    for (const tweet of linkTweets) {
+      if (knownIds.has(tweet.status_url.toLowerCase()) || (tweet.tweet_id && knownIds.has(tweet.tweet_id))) {
+        console.log(`[XSync] ℹ️ Link tweet already ingested (${tweet.status_url}). Skipping.`);
+        this.stats.alreadyIngested++;
+        continue;
+      }
+
+      const urlMatch = tweet.text.match(/(?:https?:\/\/)?(?:www\.)?hindustantimes\.com\/[^\s)]+/i);
+      if (!urlMatch) continue;
+      let rawUrl = urlMatch[0].replace(/[.,;!?]+$/, '');
+      if (!/^https?:\/\//i.test(rawUrl)) rawUrl = 'https://' + rawUrl;
+
+      console.log(`[XSync] Resolving HT link from tweet ${tweet.status_url}: ${rawUrl}`);
+      try {
+        const resp = await axios.get(rawUrl, {
+          maxRedirects: 5,
+          headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
+          timeout: 20000
+        });
+        const finalUrl = resp.request?.res?.responseUrl || rawUrl;
+        const extracted = this.htExtractor.extract(resp.data, finalUrl);
+        if (!extracted || !extracted.headline || !extracted.body_text || extracted.body_text.length < 100) {
+          console.warn(`[XSync] ⚠️ Could not extract valid HT article from ${finalUrl}`);
+          continue;
+        }
+
+        const norm = this.normalizer.normalize({
+          ...extracted,
+          byline: 'Arun Kumar',
+          dateline: extracted.dateline || 'Patna',
+          url: finalUrl
+        });
+
+        const normTitle = this.normalizeTitle(norm.title);
+        if (knownTitles.has(normTitle) || knownIds.has(String(norm.id).toLowerCase()) || knownIds.has(finalUrl.toLowerCase())) {
+          console.log(`[XSync] ℹ️ HT article "${norm.title}" already in archive. Skipping.`);
+          this.stats.alreadyIngested++;
+          continue;
+        }
+
+        // Check for companion primary document image in an adjacent tweet by @ArunkrHt within 6 hours
+        let pdfPublicUrl = null;
+        let pdfAssetPath = null;
+        const titleWords = norm.title.toLowerCase().replace(/[^a-z0-9\s]/g, '').split(/\s+/).filter(w => w.length >= 4);
+        const tweetTime = new Date(tweet.created_at || Date.now()).getTime();
+        const companionTweet = tweets.find(other => {
+          if (other.tweet_id === tweet.tweet_id || !other.has_images || !other.images.length) return false;
+          if (!other.status_url || !other.status_url.toLowerCase().includes(handlePrefix)) return false;
+          const otherTime = new Date(other.created_at || Date.now()).getTime();
+          if (Math.abs(otherTime - tweetTime) > 6 * 3600 * 1000) return false;
+          const otherLower = (other.text || '').toLowerCase();
+          const shared = titleWords.filter(w => otherLower.includes(w));
+          return shared.length >= 2;
+        });
+
+        if (companionTweet && companionTweet.images[0]) {
+          const docFilename = `${norm.slug}-doc.jpg`;
+          const docLocalPath = path.join(this.provenanceDir, docFilename);
+          try {
+            console.log(`[XSync] Saving companion primary document from ${companionTweet.status_url} -> ${docLocalPath}`);
+            await this.downloadClippingImage(companionTweet.images[0], docLocalPath);
+            pdfPublicUrl = `/documents/provenance/${docFilename}`;
+            pdfAssetPath = `documents/provenance/${docFilename}`;
+          } catch (err) {
+            console.warn(`[XSync] Warning saving companion document image: ${err.message}`);
+          }
+        }
+
+        const tax = this.classifier.classify({
+          title: norm.title,
+          body_text: norm.body_text
+        });
+
+        const articleData = {
+          article_id: norm.id,
+          slug: norm.slug,
+          url: finalUrl,
+          canonical_url: finalUrl,
+          headline: norm.title,
+          sub_headline: norm.summary,
+          byline: 'Arun Kumar',
+          dateline: norm.dateline || 'Patna',
+          published_at: norm.published_at,
+          modified_at: norm.modified_at,
+          body_text: norm.body_text,
+          body_sha256: norm.content_sha256,
+          is_print_exclusive: false,
+          is_digital_from_x: true,
+          clipping_public_url: null,
+          clipping_asset_path: null,
+          pdf_public_url: pdfPublicUrl,
+          pdf_asset_path: pdfAssetPath,
+          x_status_url: tweet.status_url,
+          tweet_text: tweet.text,
+          topic: tax.topic,
+          subtopic: tax.subtopic,
+          tags: tax.tags
+        };
+
+        console.log(`[XSync] ✅ Accepted HT Digital Dispatch via X: "${norm.title}" (${norm.word_count} words)`);
+        this.stats.acceptedArticles.push(articleData);
+        knownTitles.add(normTitle);
+        knownIds.add(String(norm.id).toLowerCase());
+        knownIds.add(finalUrl.toLowerCase());
+        if (tweet.tweet_id) knownIds.add(tweet.tweet_id);
+      } catch (err) {
+        console.warn(`[XSync] ⚠️ Failed to fetch/extract HT link ${rawUrl}: ${err.message}`);
+      }
+    }
+  }
+
   packagePrintArticles(articles) {
     const timestamp = this.packageBuilder.getRunTimestamp();
     const runName = `feed_run_x_print_${timestamp}`;
@@ -299,8 +435,8 @@ class XSyncEngine {
       const provenance = {
         primary_source: {
           publication: "Hindustan Times",
-          edition: "Patna Print Broadsheet",
-          canonical_url: art.x_status_url,
+          edition: art.is_digital_from_x ? "Patna / National" : "Patna Print Broadsheet",
+          canonical_url: art.canonical_url || art.x_status_url,
           original_article_id: art.article_id,
           published_at: art.published_at,
           dateline: art.dateline,
@@ -310,18 +446,22 @@ class XSyncEngine {
           platform: "X / Twitter",
           x_status_url: art.x_status_url,
           tweet_commentary: art.tweet_text,
-          archive_status: "verified_clipping"
+          archive_status: art.is_digital_from_x ? "verified_live" : "verified_clipping",
+          wayback_url: art.is_digital_from_x && art.canonical_url ? `https://web.archive.org/web/${art.canonical_url}` : undefined
         },
         document_provenance: {
           has_clipping_image: Boolean(art.clipping_public_url),
           clipping_public_url: art.clipping_public_url,
-          clipping_asset_path: art.clipping_asset_path
+          clipping_asset_path: art.clipping_asset_path,
+          has_pdf_scan: Boolean(art.pdf_public_url),
+          pdf_public_url: art.pdf_public_url || null,
+          pdf_asset_path: art.pdf_asset_path || null
         },
         verification: {
           content_sha256: art.body_sha256,
           last_verified_at: new Date().toISOString(),
           integrity_status: "tamper_proof",
-          transcription_method: "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+          transcription_method: art.is_digital_from_x ? "HT Digital JSON-LD & DOM Extraction (Non-Negotiable Body Rule Verified)" : "Tesseract OCR (Non-Negotiable Body Rule Verified)"
         }
       };
 
@@ -339,8 +479,8 @@ class XSyncEngine {
         topic: art.topic,
         subtopic: art.subtopic,
         tags: art.tags,
-        source_url: art.x_status_url,
-        is_print_edition: true,
+        source_url: art.canonical_url || art.x_status_url,
+        is_print_edition: !art.is_digital_from_x,
         is_print_exclusive: art.is_print_exclusive,
         provenance: provenance
       };
