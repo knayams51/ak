@@ -1,0 +1,61 @@
+{
+  "id": "x_2114528225972077041",
+  "slug": "jdv-is-finished-anant-slams-party-leadership-077041",
+  "title": "JD(V) is finished’: Anant Slams party leadership",
+  "summary": "Expelled MLA strikes defiant note; JD(U) defends punishing indiscipline",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-10-26T01:23:09.763Z",
+  "modified_at": "2026-10-26T01:23:09.763Z",
+  "word_count": 640,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2114528225972077041",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2114528225972077041",
+      "original_article_id": "x_2114528225972077041",
+      "published_at": "2026-10-26T01:23:09.763Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2114528225972077041",
+      "tweet_commentary": "Expelled MLA strikes defiant note; JD(U) defends punishing indiscipline",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/jdv-is-finished-anant-slams-party-leadership-077041.jpg",
+      "clipping_asset_path": "documents/clippings/jdv-is-finished-anant-slams-party-leadership-077041.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "21a96a11ecf92f70f3788da57f9bfa5334813080c3d8d39c0cfa49b6aa37705d",
+      "last_verified_at": "2026-10-26T03:01:15.689Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
