@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20261028_0726",
+  "generated_at": "2026-10-28T07:26:25.475Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101793108699758",
+      "slug": "centre-agrees-to-keep-hqrs-of-ganga-flood-control-panel-in-patna-699758",
+      "title": "Centre agrees to keep hqrs of Ganga flood control panel in Patna",
+      "sha256": "f60f3958538e005e292c54c5a56dfd136c9f5dd909bb860017c38e84f63c9561"
+    }
+  ]
+}
