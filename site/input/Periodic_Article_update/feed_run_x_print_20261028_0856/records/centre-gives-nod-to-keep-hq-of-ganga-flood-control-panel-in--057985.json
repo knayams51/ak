@@ -1,0 +1,61 @@
+{
+  "id": "x_2115237694314057985",
+  "slug": "centre-gives-nod-to-keep-hq-of-ganga-flood-control-panel-in--057985",
+  "title": "Centre gives nod to keep HQ of Ganga flood control panel in Patna",
+  "summary": "On Bihar Deputy CM request, Centre’s nod to restore hqrs of Ganga flood control commission to Patna",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-10-28T00:22:20.197Z",
+  "modified_at": "2026-10-28T00:22:20.197Z",
+  "word_count": 626,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "social-issues-health-culture",
+    "slug": "social-issues-health-culture",
+    "title": "Social Issues, Health & Heritage"
+  },
+  "subtopic": {
+    "id": "floods-disaster-management",
+    "slug": "floods-disaster-management",
+    "title": "Floods & Disaster Management"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2115237694314057985",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2115237694314057985",
+      "original_article_id": "x_2115237694314057985",
+      "published_at": "2026-10-28T00:22:20.197Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2115237694314057985",
+      "tweet_commentary": "On Bihar Deputy CM request, Centre’s nod to restore hqrs of Ganga flood control commission to Patna",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/centre-gives-nod-to-keep-hq-of-ganga-flood-control-panel-in--057985.jpg",
+      "clipping_asset_path": "documents/clippings/centre-gives-nod-to-keep-hq-of-ganga-flood-control-panel-in--057985.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "f3dfc1cf99407c9bd8b10202770b1d9ab1f8b05baa8eaefd529c4fb6d5dbf087",
+      "last_verified_at": "2026-10-28T03:26:27.526Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
