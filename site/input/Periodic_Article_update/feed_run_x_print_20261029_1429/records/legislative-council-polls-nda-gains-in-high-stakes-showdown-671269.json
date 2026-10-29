@@ -1,0 +1,63 @@
+{
+  "id": "x_2115605683521671269",
+  "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
+  "title": "Legislative Council polls: NDA gains in high-stakes showdown",
+  "summary": "Bihar MLC polls: NDA gains despite losing BJP bastion to RJD; below par JD-U retains lone seat, Jan Suraj wins 1",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-10-29T00:44:35.661Z",
+  "modified_at": "2026-10-29T00:44:35.661Z",
+  "word_count": 749,
+  "reading_time_minutes": 4,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD",
+    "BJP",
+    "Congress"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2115605683521671269",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2115605683521671269",
+      "original_article_id": "x_2115605683521671269",
+      "published_at": "2026-10-29T00:44:35.661Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2115605683521671269",
+      "tweet_commentary": "Bihar MLC polls: NDA gains despite losing BJP bastion to RJD; below par JD-U retains lone seat, Jan Suraj wins 1",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/legislative-council-polls-nda-gains-in-high-stakes-showdown-671269.jpg",
+      "clipping_asset_path": "documents/clippings/legislative-council-polls-nda-gains-in-high-stakes-showdown-671269.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "98c017a4fae6c467d6f5cb3df2b2e7d8ba6180df27fb734c60819f7b41057d9e",
+      "last_verified_at": "2026-10-29T08:59:36.569Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
