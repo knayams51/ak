@@ -1,8 +1,8 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-10-28  
-**Execution Timestamp**: 2026-10-28T07:26:38.193Z  
-**Duration**: 62 seconds  
+**Execution Date**: 2026-10-29  
+**Execution Timestamp**: 2026-10-29T07:41:24.600Z  
+**Duration**: 73 seconds  
 **Archive Total Articles**: **297 articles**
 
 ---
@@ -10,20 +10,19 @@
 ## 📊 Summary Metrics
 | Metric | Value |
 |---|---|
-| **Discovered New Candidate URLs** | 40 |
-| **Already Known / Indexed URLs** | 309 |
+| **Discovered New Candidate URLs** | 41 |
+| **Already Known / Indexed URLs** | 303 |
 | **Candidate URLs Crawled** | 25 |
-| **Accepted Arun Kumar Articles** | **1** |
+| **Accepted Arun Kumar Articles** | **0** |
 | **X Print Broadsheet Clippings Accepted** | **0** |
-| **Filtered Out (Namesakes / Non-Patna)** | 24 |
+| **Filtered Out (Namesakes / Non-Patna)** | 25 |
 | **Failed Requests** | 0 |
-| **New Package Created** | `feed_run_20261028_0726` |
+| **New Package Created** | `None (Up-to-date)` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-- **[ACCEPTED]** [Centre agrees to keep hqrs of Ganga flood control panel in Patna](https://www.hindustantimes.com/cities/patna-news/centre-agrees-to-keep-hqrs-of-ganga-flood-control-panel-in-patna-101793108699758.html)  
-  *Dateline:  | Byline: Arun Kumar | SHA-256: `ba45b51c61...`*
+_No new articles discovered in this run. Archive is fully synchronized with Hindustan Times._
 
 ---
 
