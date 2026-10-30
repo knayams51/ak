@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20261030_0744",
+  "generated_at": "2026-10-30T07:44:38.325Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101793259718322",
+      "slug": "legal-opinion-just-advisory-not-binding-cant-prosecute-lawyers-for-it-patna-high-718322",
+      "title": "Legal opinion just advisory, not binding; can't prosecute lawyers for it: Patna high court",
+      "sha256": "54bf8b23297a4a6680c0a5969616a9833e8a2687e2bdcd4479a60788ab06daca"
+    }
+  ]
+}

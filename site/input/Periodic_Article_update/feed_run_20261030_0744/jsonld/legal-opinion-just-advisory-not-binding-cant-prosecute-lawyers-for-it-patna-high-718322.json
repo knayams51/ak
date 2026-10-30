@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Legal opinion just advisory, not binding; can't prosecute lawyers for it: Patna high court",
+  "description": "The court pointed out a safeguard embedded in the petitioner's original opinion: the lawyer had explicitly cautioned the bank for independently verification.",
+  "datePublished": "2026-10-29T08:06:25.000Z",
+  "dateModified": "2026-10-29T08:06:25.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/legal-opinion-just-advisory-not-binding-cant-prosecute-lawyers-for-it-patna-high-718322"
+  },
+  "articleSection": "Judiciary, Law & Patna High Court",
+  "keywords": [
+    "Patna High Court"
+  ],
+  "wordCount": 560
+}
