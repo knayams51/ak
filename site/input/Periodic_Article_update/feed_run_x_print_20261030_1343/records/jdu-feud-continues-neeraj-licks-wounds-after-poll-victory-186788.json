@@ -1,0 +1,60 @@
+{
+  "id": "x_2115987917223186788",
+  "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+  "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+  "summary": "JD-U defends action on Anant, to review loss on 3 seats; Neeraj licks wounds despite victory to retain seat",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-10-30T02:03:27.277Z",
+  "modified_at": "2026-10-30T02:03:27.277Z",
+  "word_count": 420,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2115987917223186788",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2115987917223186788",
+      "original_article_id": "x_2115987917223186788",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2115987917223186788",
+      "tweet_commentary": "JD-U defends action on Anant, to review loss on 3 seats; Neeraj licks wounds despite victory to retain seat",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788.jpg",
+      "clipping_asset_path": "documents/clippings/jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "8dc91c064abcf41032938c82494a38619301865060a67ac6d40f494cc07fd007",
+      "last_verified_at": "2026-10-30T08:13:55.142Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

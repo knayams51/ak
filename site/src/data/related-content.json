@@ -1,4 +1,50 @@
 {
+  "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788": [
+    {
+      "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
+      "title": "Legislative Council polls: NDA gains in high-stakes showdown",
+      "published_at": "2026-10-29T00:44:35.661Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
+      "slug": "jdv-is-finished-anant-slams-party-leadership-077041",
+      "title": "JD(V) is finished’: Anant Slams party leadership",
+      "published_at": "2026-10-26T01:23:09.763Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
+      "slug": "race-against-time-as-campaigning-peaks-073559",
+      "title": "Race against time as campaigning peaks",
+      "published_at": "2026-10-15T00:47:16.969Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
+      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
+      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
+      "published_at": "2026-10-13T12:52:40.000Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    }
+  ],
   "legal-opinion-just-advisory-not-binding-cant-prosecute-lawyers-for-it-patna-high-718322": [
     {
       "slug": "jehanabad-carnage-accused-acquitted-578260",
@@ -299,9 +345,9 @@
       "score": 13
     },
     {
-      "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
-      "title": "Legislative Council polls: NDA gains in high-stakes showdown",
-      "published_at": "2026-10-29T00:44:35.661Z",
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -310,9 +356,9 @@
       "score": 11
     },
     {
-      "slug": "ee-anant-singh-ta-devi-jdu-seeks-early-disqualification-of-m-823368-p1",
-      "title": "ee Anant Singh Ta Devi JD(U) SEEKS EARLY DISQUALIFICATION OF MOKAMA MLA, SACKS WIFE FROM KEY PARTY PANEL",
-      "published_at": "2026-10-27T01:55:36.244Z",
+      "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
+      "title": "Legislative Council polls: NDA gains in high-stakes showdown",
+      "published_at": "2026-10-29T00:44:35.661Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -691,6 +737,17 @@
   ],
   "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -716,17 +773,6 @@
       "slug": "race-against-time-as-campaigning-peaks-073559",
       "title": "Race against time as campaigning peaks",
       "published_at": "2026-10-15T00:47:16.969Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -851,9 +897,9 @@
       "score": 13
     },
     {
-      "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
-      "title": "Legislative Council polls: NDA gains in high-stakes showdown",
-      "published_at": "2026-10-29T00:44:35.661Z",
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -862,9 +908,9 @@
       "score": 11
     },
     {
-      "slug": "ee-anant-singh-ta-devi-jdu-seeks-early-disqualification-of-m-823368-p1",
-      "title": "ee Anant Singh Ta Devi JD(U) SEEKS EARLY DISQUALIFICATION OF MOKAMA MLA, SACKS WIFE FROM KEY PARTY PANEL",
-      "published_at": "2026-10-27T01:55:36.244Z",
+      "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
+      "title": "Legislative Council polls: NDA gains in high-stakes showdown",
+      "published_at": "2026-10-29T00:44:35.661Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -2209,6 +2255,17 @@
   ],
   "jdu-launches-nitish-samvad-on-water-treaty-256479": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -2234,17 +2291,6 @@
       "slug": "race-against-time-as-campaigning-peaks-073559",
       "title": "Race against time as campaigning peaks",
       "published_at": "2026-10-15T00:47:16.969Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4555,6 +4601,17 @@
   ],
   "encroachment-of-govt-land-wont-be-allowed-samrat-warns-from-tarapur-hindustan-ti-310978": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -4580,17 +4637,6 @@
       "slug": "race-against-time-as-campaigning-peaks-073559",
       "title": "Race against time as campaigning peaks",
       "published_at": "2026-10-15T00:47:16.969Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4693,6 +4739,17 @@
   ],
   "nitish-retains-sanjay-jha-as-working-chief-in-jdu-rejig-son-nishant-absent-hindu-721797": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -4718,17 +4775,6 @@
       "slug": "race-against-time-as-campaigning-peaks-073559",
       "title": "Race against time as campaigning peaks",
       "published_at": "2026-10-15T00:47:16.969Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4739,6 +4785,17 @@
   ],
   "nitish-picks-close-aide-shravan-kumar-as-jdu-lp-leader-hindustan-times-996756": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -4764,17 +4821,6 @@
       "slug": "race-against-time-as-campaigning-peaks-073559",
       "title": "Race against time as campaigning peaks",
       "published_at": "2026-10-15T00:47:16.969Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -4785,6 +4831,17 @@
   ],
   "nitish-to-pick-jdu-legislative-party-leader-hindustan-times-626882": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -4810,17 +4867,6 @@
       "slug": "race-against-time-as-campaigning-peaks-073559",
       "title": "Race against time as campaigning peaks",
       "published_at": "2026-10-15T00:47:16.969Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -6625,6 +6671,17 @@
   ],
   "nishant-joins-jdu-vows-to-carry-father-nitishs-legacy-forward-hindustan-times-521314": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -6650,17 +6707,6 @@
       "slug": "race-against-time-as-campaigning-peaks-073559",
       "title": "Race against time as campaigning peaks",
       "published_at": "2026-10-15T00:47:16.969Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -6671,6 +6717,17 @@
   ],
   "nishant-joins-jdu-vows-to-take-father-nitishs-work-forward-strengthen-party-hind-658090": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -6696,17 +6753,6 @@
       "slug": "race-against-time-as-campaigning-peaks-073559",
       "title": "Race against time as campaigning peaks",
       "published_at": "2026-10-15T00:47:16.969Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -9339,6 +9385,17 @@
   ],
   "kushwaha-says-nitish-kumar-gave-him-position-without-power-ignored-suggestions-h-561407": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -9364,17 +9421,6 @@
       "slug": "race-against-time-as-campaigning-peaks-073559",
       "title": "Race against time as campaigning peaks",
       "published_at": "2026-10-15T00:47:16.969Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -9523,6 +9569,17 @@
   ],
   "nitish-hails-kcr-role-in-telangana-creation-hindustan-times-128049": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -9548,17 +9605,6 @@
       "slug": "race-against-time-as-campaigning-peaks-073559",
       "title": "Race against time as campaigning peaks",
       "published_at": "2026-10-15T00:47:16.969Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -10121,6 +10167,17 @@
   ],
   "15-day-special-leave-for-bihar-govt-staff-for-vipassana-course-hindustan-times-294024": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -10152,20 +10209,20 @@
         "title": "Politics, Elections & Governance"
       },
       "score": 13
-    },
+    }
+  ],
+  "bihar-to-begin-appointment-of-assistant-professors-to-varsities-from-july-15-hin-585764": [
     {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
         "title": "Politics, Elections & Governance"
       },
-      "score": 13
-    }
-  ],
-  "bihar-to-begin-appointment-of-assistant-professors-to-varsities-from-july-15-hin-585764": [
+      "score": 8
+    },
     {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
@@ -10192,17 +10249,6 @@
       "slug": "jdv-is-finished-anant-slams-party-leadership-077041",
       "title": "JD(V) is finished’: Anant Slams party leadership",
       "published_at": "2026-10-26T01:23:09.763Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 8
-    },
-    {
-      "slug": "jdu-expels-mokama-mla-anant-singh-from-party-for-6-years-days-after-controversia-822306",
-      "title": "JDU expels Mokama MLA Anant Singh from party for 6 years, days after controversial remarks spark row",
-      "published_at": "2026-10-24T12:49:03.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -10397,6 +10443,17 @@
   ],
   "cm-nitish-kumar-bats-for-judiciarys-role-in-establishing-rule-of-law-in-bihar-hi-397720": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -10422,17 +10479,6 @@
       "slug": "race-against-time-as-campaigning-peaks-073559",
       "title": "Race against time as campaigning peaks",
       "published_at": "2026-10-15T00:47:16.969Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -12191,6 +12237,17 @@
   ],
   "bihar-cops-suddenly-went-cold-on-yasin-bhatkal-hindustan-times-7b7897": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -12216,17 +12273,6 @@
       "slug": "race-against-time-as-campaigning-peaks-073559",
       "title": "Race against time as campaigning peaks",
       "published_at": "2026-10-15T00:47:16.969Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -13525,6 +13571,17 @@
   ],
   "bihar-lands-on-cape-of-good-hope-india-news-afa906": [
     {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
       "title": "Legislative Council polls: NDA gains in high-stakes showdown",
       "published_at": "2026-10-29T00:44:35.661Z",
@@ -13550,17 +13607,6 @@
       "slug": "race-against-time-as-campaigning-peaks-073559",
       "title": "Race against time as campaigning peaks",
       "published_at": "2026-10-15T00:47:16.969Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "mlc-polls-rlm-suspends-rebel-candidate-for-6-years-hindustan-times-961199",
-      "title": "MLC polls: RLM suspends rebel candidate for 6 years",
-      "published_at": "2026-10-13T12:52:40.000Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
