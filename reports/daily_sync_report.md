@@ -1,9 +1,9 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-10-30  
-**Execution Timestamp**: 2026-10-30T07:44:44.147Z  
-**Duration**: 58 seconds  
-**Archive Total Articles**: **299 articles**
+**Execution Date**: 2026-10-31  
+**Execution Timestamp**: 2026-10-31T07:31:52.233Z  
+**Duration**: 62 seconds  
+**Archive Total Articles**: **300 articles**
 
 ---
 
@@ -11,19 +11,18 @@
 | Metric | Value |
 |---|---|
 | **Discovered New Candidate URLs** | 43 |
-| **Already Known / Indexed URLs** | 294 |
+| **Already Known / Indexed URLs** | 297 |
 | **Candidate URLs Crawled** | 25 |
-| **Accepted Arun Kumar Articles** | **1** |
+| **Accepted Arun Kumar Articles** | **0** |
 | **X Print Broadsheet Clippings Accepted** | **0** |
-| **Filtered Out (Namesakes / Non-Patna)** | 24 |
+| **Filtered Out (Namesakes / Non-Patna)** | 25 |
 | **Failed Requests** | 0 |
-| **New Package Created** | `feed_run_20261030_0744` |
+| **New Package Created** | `None (Up-to-date)` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-- **[ACCEPTED]** [Legal opinion just advisory, not binding;  can’t prosecute lawyers for it: Patna high court](https://www.hindustantimes.com/india-news/legal-opinion-just-advisory-not-binding-can-t-prosecute-lawyers-for-it-patna-high-court-101793259718322.html)  
-  *Dateline:  | Byline: Arun Kumar | SHA-256: `26dd1caf3a...`*
+_No new articles discovered in this run. Archive is fully synchronized with Hindustan Times._
 
 ---
 
