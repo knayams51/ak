@@ -1,0 +1,60 @@
+{
+  "id": "x_2116721581934494168",
+  "slug": "cong-is-conspiring-to-create-an-atmosphere-of-unrest-paswan-494168",
+  "title": "Cong is conspiring to create an atmosphere of unrest: Paswan",
+  "summary": "Cong conspiring to create an atmosphere of unrest: Chirag",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-11-01T02:38:46.575Z",
+  "modified_at": "2026-11-01T02:38:46.575Z",
+  "word_count": 453,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "political-leadership-profiles",
+    "slug": "political-leadership-profiles",
+    "title": "Leadership Profiles & Analysis"
+  },
+  "tags": [
+    "JD(U)",
+    "Congress"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2116721581934494168",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2116721581934494168",
+      "original_article_id": "x_2116721581934494168",
+      "published_at": "2026-11-01T02:38:46.575Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2116721581934494168",
+      "tweet_commentary": "Cong conspiring to create an atmosphere of unrest: Chirag",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/cong-is-conspiring-to-create-an-atmosphere-of-unrest-paswan-494168.jpg",
+      "clipping_asset_path": "documents/clippings/cong-is-conspiring-to-create-an-atmosphere-of-unrest-paswan-494168.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "b3e0f4237784fd5bd09aa4f65192ef0328ec2fd092a73832a77bd9da59aa0805",
+      "last_verified_at": "2026-11-01T04:20:19.589Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
