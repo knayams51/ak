@@ -1,0 +1,5 @@
+# NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the
+
+**Patna** — JEALUP CUTIE OLE £20 Of alo UU could not open its account, securing just 0.11% of the total vote share. In 2017, the party did not contest any seat in UP, while in 2012 it contested 219 seats but won none. The party won one seat in 2007 when it contested 16 seats and two seats in 2002 out of 16 seats.
+
+Sanjay Jha appreciated Nishant Kumar, saying he has given strength to the JD(U) and Bihar politics would revolve around the party the next 100 years. "Nishant will keep the party stronger for the next 50 years and rebuild on the huge legacy of Nitish Kumar. Nishant has joined politics on people's demand to give answer to Doubting Thomases who had started writing epitaph of JD(U). He is the face after Nitish Kumar that people trust," said Jha.

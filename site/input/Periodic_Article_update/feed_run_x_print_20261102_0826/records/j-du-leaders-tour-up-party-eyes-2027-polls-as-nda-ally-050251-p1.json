@@ -1,0 +1,61 @@
+{
+  "id": "x_2117061061019050251-p1",
+  "slug": "j-du-leaders-tour-up-party-eyes-2027-polls-as-nda-ally-050251-p1",
+  "title": "J D(U) leaders tour UP, party eyes 2027 polls as NDA ally",
+  "summary": "Nishant begins Mission UP for JD-U, says party to contest polls as NDA ally",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-11-02T01:07:44.696Z",
+  "modified_at": "2026-11-02T01:07:44.696Z",
+  "word_count": 323,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2117061061019050251",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2117061061019050251",
+      "original_article_id": "x_2117061061019050251-p1",
+      "published_at": "2026-11-02T01:07:44.696Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2117061061019050251",
+      "tweet_commentary": "Nishant begins Mission UP for JD-U, says party to contest polls as NDA ally",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/j-du-leaders-tour-up-party-eyes-2027-polls-as-nda-ally-050251-p1.jpg",
+      "clipping_asset_path": "documents/clippings/j-du-leaders-tour-up-party-eyes-2027-polls-as-nda-ally-050251-p1.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "a1d85eb774775e2e782b90a2d9b1dd178b0a67cc0a4379609e5eb8e95bb57ecf",
+      "last_verified_at": "2026-11-02T02:56:50.138Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
