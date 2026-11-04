@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20261104_0801",
+  "generated_at": "2026-11-04T08:01:34.010Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101793708441527",
+      "slug": "bihar-govt-signs-mou-with-morth-to-clean-rivers-of-silt-accumulated-due-to-flood-441527",
+      "title": "Bihar govt signs MoU with MoRTH to clean rivers of silt accumulated due to floods",
+      "sha256": "0f236b0e49a333cdb2d3f7ab9a434106e1c75e06d58ea87ae5903f53673da80e"
+    }
+  ]
+}

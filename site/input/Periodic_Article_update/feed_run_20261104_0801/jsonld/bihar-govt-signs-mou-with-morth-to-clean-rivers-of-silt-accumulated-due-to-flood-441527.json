@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar govt signs MoU with MoRTH to clean rivers of silt accumulated due to floods",
+  "description": "The main objective of the MoU is scientific desilting of water bodies in Bihar for flood management and conservation of water sources, and the use of suitable extracted silt, sand, mud, and fine sediments as construction material in the construction of National Highway projects",
+  "datePublished": "2026-11-03T12:20:41.000Z",
+  "dateModified": "2026-11-03T12:20:41.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-govt-signs-mou-with-morth-to-clean-rivers-of-silt-accumulated-due-to-flood-441527"
+  },
+  "articleSection": "Social Issues, Health & Heritage",
+  "keywords": [
+    "JD(U)"
+  ],
+  "wordCount": 682
+}
