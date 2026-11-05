@@ -1,29 +1,28 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-11-04  
-**Execution Timestamp**: 2026-11-04T08:01:50.297Z  
-**Duration**: 64 seconds  
-**Archive Total Articles**: **306 articles**
+**Execution Date**: 2026-11-05  
+**Execution Timestamp**: 2026-11-05T08:31:29.690Z  
+**Duration**: 56 seconds  
+**Archive Total Articles**: **307 articles**
 
 ---
 
 ## 📊 Summary Metrics
 | Metric | Value |
 |---|---|
-| **Discovered New Candidate URLs** | 44 |
-| **Already Known / Indexed URLs** | 291 |
+| **Discovered New Candidate URLs** | 46 |
+| **Already Known / Indexed URLs** | 280 |
 | **Candidate URLs Crawled** | 25 |
-| **Accepted Arun Kumar Articles** | **1** |
+| **Accepted Arun Kumar Articles** | **0** |
 | **X Print Broadsheet Clippings Accepted** | **0** |
-| **Filtered Out (Namesakes / Non-Patna)** | 24 |
+| **Filtered Out (Namesakes / Non-Patna)** | 25 |
 | **Failed Requests** | 0 |
-| **New Package Created** | `feed_run_20261104_0801` |
+| **New Package Created** | `None (Up-to-date)` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-- **[ACCEPTED]** [Bihar govt signs MoU with MoRTH to clean rivers of silt accumulated due to floods](https://www.hindustantimes.com/cities/patna-news/bihar-govt-signs-mou-with-morth-to-clean-rivers-of-silt-accumulated-due-to-floods-101793708441527.html)  
-  *Dateline:  | Byline: Arun Kumar | SHA-256: `61ab5f1e1b...`*
+_No new articles discovered in this run. Archive is fully synchronized with Hindustan Times._
 
 ---
 
