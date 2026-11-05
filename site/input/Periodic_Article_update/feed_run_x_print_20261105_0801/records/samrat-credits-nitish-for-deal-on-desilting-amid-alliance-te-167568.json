@@ -1,0 +1,61 @@
+{
+  "id": "x_2118161599987167568",
+  "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
+  "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
+  "summary": "Samrat credits Nitish for river desilting deal amid ‘alliance tension’",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-11-05T02:00:53.633Z",
+  "modified_at": "2026-11-05T02:00:53.633Z",
+  "word_count": 430,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2118161599987167568",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2118161599987167568",
+      "original_article_id": "x_2118161599987167568",
+      "published_at": "2026-11-05T02:00:53.633Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2118161599987167568",
+      "tweet_commentary": "Samrat credits Nitish for river desilting deal amid ‘alliance tension’",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568.jpg",
+      "clipping_asset_path": "documents/clippings/samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "685a45ed6a55b8c57475ba9b12ba9b1848932b0e886730f9bd3f1ff39fbdc5e8",
+      "last_verified_at": "2026-11-05T02:31:14.210Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
