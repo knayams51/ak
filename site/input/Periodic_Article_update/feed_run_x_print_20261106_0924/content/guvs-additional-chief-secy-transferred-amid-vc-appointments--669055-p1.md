@@ -1,0 +1,13 @@
+# Guv’s additional chief secy transferred amid VC appointments in universities
+
+**Patna** — In a sudden change, the Bihar government transferred Dipak Kumar Singh. additional chief secretary to the Governor, while he was on leave and the tong delayed and vexed process for the appointment of vicechancellors had just commenced.
+
+A 1992 batch IAS officer, Singh has been shifted to the Bihar State Planning Board as chief consultant. He will continue to hold the additional charge of Director General-cumChief Inquiry Commissioner, General Administration Department. The notification of shifting was issued soon after chief minister Samrat Choudhary called on Governor Lt Gen (Retd) Syed Ata Hasnain at the Raj Bhawan on Wednesday evening. AccordDipak
+
+Kumar Singh ing to Lok Bhawan sources, Singh is on leave and is likely to be back on Saturday.
+
+Singh's successor has not been named yet, though his shifting in the midst of the appointment process of vicechancellors in the state universities has sparked speculations that the two may be linked.
+
+The interaction for appointment
+
+ol VCs in two universities: The last date tor submission was completed on November of online application in the pre3-4, which led toa lotofbacklash — scribed format was June 30. in the social media over omisAfter the appointment of VCs, sion of certain names in the _ the process for the appointment screening despite the fact that of Pro-VCs in all the I4 state unithey were found eligible on pre_ versities is also scheduled to vious occasions. commence. The appointment of The interaction for the — Pro-VCs has been stalled for appointment of VCs in eight years. The posts were advertised more universities isin the pipein June itself. line. Bihar Lok Bhawan had conSocial analyst Prof NK Choudstituted search committees for _ hary said that the positions of VC the appointment of VCs in Sepand P-VC hold the key to the tember, Out of 600-700 appligrowth of state's beleaguered cants for each university, only universities and it would also be around 20-30 were shortlisted. _ the first test for the Chancellor to Many universities in Bihar appoint persons with integrity have been working under ad hoc — and unblemished track record. It arrangementas the term ofthe — willalso bea big test of the SamVCs expired months 30. rat government, as the bulk The Chancellor's office had appointments would be the first issued notifications for the — since he took overas CM and the appointment of six VCson May consultation between the CM 20 and another four VCsonJune and the Governor isa mandatory 3 this year. requirement.

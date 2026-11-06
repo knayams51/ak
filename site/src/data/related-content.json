@@ -1,4 +1,96 @@
 {
+  "jdu-reviews-poll-losses-backs-nda-unity-614354-p1": [
+    {
+      "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
+      "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
+      "published_at": "2026-11-05T02:00:53.633Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
+      "slug": "j-du-leaders-tour-up-party-eyes-2027-polls-as-nda-ally-050251-p1",
+      "title": "J D(U) leaders tour UP, party eyes 2027 polls as NDA ally",
+      "published_at": "2026-11-02T01:07:44.696Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
+      "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
+      "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
+      "published_at": "2026-11-02T01:07:44.696Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
+      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
+      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
+      "published_at": "2026-10-30T02:03:27.277Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    }
+  ],
+  "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1": [
+    {
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
+      "title": "“Teacher-student relationship integral to Indian tradition’",
+      "published_at": "2026-10-13T00:43:48.312Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
+      "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
+      "published_at": "2026-09-15T14:00:18.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
+      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
+      "title": "Guv summons AKU VCas probe panel ‘prevented’",
+      "published_at": "2026-09-15T00:58:37.200Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    }
+  ],
   "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568": [
     {
       "slug": "j-du-leaders-tour-up-party-eyes-2027-polls-as-nda-ally-050251-p1",
@@ -172,13 +264,13 @@
       "score": 14
     },
     {
-      "slug": "centre-gives-nod-to-keep-hq-of-ganga-flood-control-panel-in--057985",
-      "title": "Centre gives nod to keep HQ of Ganga flood control panel in Patna",
-      "published_at": "2026-10-28T00:22:20.197Z",
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
       "topic": {
-        "id": "social-issues-health-culture",
-        "slug": "social-issues-health-culture",
-        "title": "Social Issues, Health & Heritage"
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
       },
       "score": 9
     }
@@ -231,6 +323,17 @@
   ],
   "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -256,17 +359,6 @@
       "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
       "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
       "published_at": "2026-10-30T02:03:27.277Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
-      "title": "Legislative Council polls: NDA gains in high-stakes showdown",
-      "published_at": "2026-10-29T00:44:35.661Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -323,6 +415,17 @@
   ],
   "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -348,17 +451,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "legislative-council-polls-nda-gains-in-high-stakes-showdown-671269",
-      "title": "Legislative Council polls: NDA gains in high-stakes showdown",
-      "published_at": "2026-10-29T00:44:35.661Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -667,9 +759,9 @@
       "score": 13
     },
     {
-      "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
-      "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
-      "published_at": "2026-11-05T02:00:53.633Z",
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -678,9 +770,9 @@
       "score": 11
     },
     {
-      "slug": "j-du-leaders-tour-up-party-eyes-2027-polls-as-nda-ally-050251-p1",
-      "title": "J D(U) leaders tour UP, party eyes 2027 polls as NDA ally",
-      "published_at": "2026-11-02T01:07:44.696Z",
+      "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
+      "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
+      "published_at": "2026-11-05T02:00:53.633Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -759,9 +851,9 @@
       "score": 19
     },
     {
-      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
-      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
-      "published_at": "2026-10-15T00:45:17.793Z",
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -770,9 +862,9 @@
       "score": 14
     },
     {
-      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
-      "title": "“Teacher-student relationship integral to Indian tradition’",
-      "published_at": "2026-10-13T00:43:48.312Z",
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -829,6 +921,17 @@
   ],
   "aku-v-c-gets-guvs-show-cause-for-absence-663214": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
@@ -854,17 +957,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -967,6 +1059,17 @@
   ],
   "teacher-student-relationship-integral-to-indian-tradition-926159": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -992,17 +1095,6 @@
       "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
       "title": "Guv summons AKU VCas probe panel ‘prevented’",
       "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -1059,6 +1151,17 @@
   ],
   "rlm-mlas-dare-kushwaha-not-to-ignore-party-sentiments-jd-u-crisis-far-from-over--483532": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -1084,17 +1187,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -1219,9 +1311,9 @@
       "score": 13
     },
     {
-      "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
-      "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
-      "published_at": "2026-11-05T02:00:53.633Z",
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -1230,9 +1322,9 @@
       "score": 11
     },
     {
-      "slug": "j-du-leaders-tour-up-party-eyes-2027-polls-as-nda-ally-050251-p1",
-      "title": "J D(U) leaders tour UP, party eyes 2027 polls as NDA ally",
-      "published_at": "2026-11-02T01:07:44.696Z",
+      "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
+      "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
+      "published_at": "2026-11-05T02:00:53.633Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -2025,6 +2117,17 @@
   ],
   "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -2056,20 +2159,20 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 19
-    },
+    }
+  ],
+  "guv-summons-aku-vcas-probe-panel-prevented-583120": [
     {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
         "title": "Higher Education & Academic Reforms"
       },
       "score": 19
-    }
-  ],
-  "guv-summons-aku-vcas-probe-panel-prevented-583120": [
+    },
     {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
@@ -2096,17 +2199,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762",
-      "title": "Lok Bhavan forms panel to rectify asst prof hiring",
-      "published_at": "2026-09-13T00:40:51.000Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2163,6 +2255,17 @@
   ],
   "lok-bhavan-forms-panel-to-rectify-asst-prof-hiring-731762": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -2188,17 +2291,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2255,6 +2347,17 @@
   ],
   "iit-bhu-director-amit-patra-gets-additional-charge-of-iit-pa-864682": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -2280,17 +2383,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2577,6 +2669,17 @@
   ],
   "jdu-launches-nitish-samvad-on-water-treaty-256479": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -2602,17 +2705,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -2669,6 +2761,17 @@
   ],
   "guvs-office-to-amend-appointment-statute-for-varsity-registr-699209": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -2700,17 +2803,6 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
     }
   ],
   "ex-envoy-to-pak-dwells-on-mecca-accord-indo-pak-ties-in-vola-756667": [
@@ -2724,6 +2816,17 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 13
+    },
+    {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
     },
     {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
@@ -2740,17 +2843,6 @@
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
-      "title": "Patna HC reprimands MGCU for expelling whistleblower student",
-      "published_at": "2026-09-25T00:11:20.803Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -2899,6 +2991,17 @@
   ],
   "chancellors-secretariat-asks-varsities-to-clear-salarypension-backlogs-by-july-2-616987": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -2924,17 +3027,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3037,6 +3129,17 @@
   ],
   "bihar-lok-bhawan-extends-application-deadline-for-vcs-p-vcs-for-larger-pool-hind-768269": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -3062,17 +3165,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3129,6 +3221,17 @@
   ],
   "bihar-misses-july-1-deadline-for-211-new-colleges-hindustan-times-532126": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -3154,17 +3257,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3267,6 +3359,17 @@
   ],
   "pm-lauds-nalanda-universitys-initiative-to-protect-ancient-tradition-in-line-wit-547429": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -3292,17 +3395,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3313,6 +3405,17 @@
   ],
   "bihar-to-have-new-act-to-govern-state-varsities-hindustan-times-948097": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -3338,17 +3441,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3405,6 +3497,17 @@
   ],
   "teachers-shortage-prompts-bihar-govt-to-widen-hiring-ambit-for-degree-colleges-h-499301": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -3430,17 +3533,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3865,6 +3957,17 @@
   ],
   "niti-aayog-meet-bihar-cm-seeks-funds-string-of-institutes-from-centre-hindustan--844215": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -3890,17 +3993,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -3957,6 +4049,17 @@
   ],
   "bihar-governor-calls-for-strict-compliance-with-fire-safety-norms-urges-greater--093456": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -3982,17 +4085,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -4301,9 +4393,9 @@
       "score": 13
     },
     {
-      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
-      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
-      "published_at": "2026-10-15T00:45:17.793Z",
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -4312,9 +4404,9 @@
       "score": 10
     },
     {
-      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
-      "title": "“Teacher-student relationship integral to Indian tradition’",
-      "published_at": "2026-10-13T00:43:48.312Z",
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -4417,6 +4509,17 @@
   ],
   "ad-hocism-at-the-top-plagues-bihars-higher-edu-institutions-hindustan-times-951667": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -4442,17 +4545,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -4923,6 +5015,17 @@
   ],
   "encroachment-of-govt-land-wont-be-allowed-samrat-warns-from-tarapur-hindustan-ti-310978": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -4948,17 +5051,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -5061,6 +5153,17 @@
   ],
   "nitish-retains-sanjay-jha-as-working-chief-in-jdu-rejig-son-nishant-absent-hindu-721797": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -5086,17 +5189,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -5107,6 +5199,17 @@
   ],
   "nitish-picks-close-aide-shravan-kumar-as-jdu-lp-leader-hindustan-times-996756": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -5132,17 +5235,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -5153,6 +5245,17 @@
   ],
   "nitish-to-pick-jdu-legislative-party-leader-hindustan-times-626882": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -5178,17 +5281,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -5935,6 +6027,17 @@
   ],
   "nalanda-spirit-of-linking-knowledge-to-well-being-more-relevant-today-president--393335": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -5960,17 +6063,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -5981,6 +6073,17 @@
   ],
   "bihar-show-competence-confident-leadership-guv-to-vcs-hindustan-times-427506": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -6006,17 +6109,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -6901,6 +6993,17 @@
   ],
   "holi-over-eid-nears-but-pension-blues-for-bihar-varsity-staff-continue-hindustan-614295": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -6926,17 +7029,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -6993,6 +7085,17 @@
   ],
   "nishant-joins-jdu-vows-to-carry-father-nitishs-legacy-forward-hindustan-times-521314": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -7018,17 +7121,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -7039,6 +7131,17 @@
   ],
   "nishant-joins-jdu-vows-to-take-father-nitishs-work-forward-strengthen-party-hind-658090": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -7064,17 +7167,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -8879,6 +8971,17 @@
   ],
   "12-lakh-jobs-34-lakh-employment-opportunities-in-bihar-by-poll-date-governor-hin-332971": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -8904,17 +9007,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -9074,6 +9166,17 @@
       "score": 13
     },
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -9088,17 +9191,6 @@
       "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
       "title": "“Teacher-student relationship integral to Indian tradition’",
       "published_at": "2026-10-13T00:43:48.312Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "patna-hc-reprimands-mgcu-for-expelling-whistleblower-student-406959",
-      "title": "Patna HC reprimands MGCU for expelling whistleblower student",
-      "published_at": "2026-09-25T00:11:20.803Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -9385,6 +9477,17 @@
   ],
   "noted-economist-appointed-as-nalanda-univ-chancellor-hindustan-times-277291": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -9410,17 +9513,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -9707,6 +9799,17 @@
   ],
   "kushwaha-says-nitish-kumar-gave-him-position-without-power-ignored-suggestions-h-561407": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 16
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -9732,17 +9835,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 16
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -9891,6 +9983,17 @@
   ],
   "nitish-hails-kcr-role-in-telangana-creation-hindustan-times-128049": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -9916,17 +10019,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -10419,9 +10511,9 @@
       "score": 19
     },
     {
-      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
-      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
-      "published_at": "2026-10-15T00:45:17.793Z",
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -10430,9 +10522,9 @@
       "score": 14
     },
     {
-      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
-      "title": "“Teacher-student relationship integral to Indian tradition’",
-      "published_at": "2026-10-13T00:43:48.312Z",
+      "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
+      "title": "AKU V-C gets guv’s show-cause for ‘absence’",
+      "published_at": "2026-10-15T00:45:17.793Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -10489,6 +10581,17 @@
   ],
   "15-day-special-leave-for-bihar-govt-staff-for-vipassana-course-hindustan-times-294024": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -10514,17 +10617,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -10546,6 +10638,17 @@
       "score": 10
     },
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 8
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -10559,17 +10662,6 @@
     {
       "slug": "j-du-leaders-tour-up-party-eyes-2027-polls-as-nda-ally-050251-p1",
       "title": "J D(U) leaders tour UP, party eyes 2027 polls as NDA ally",
-      "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 8
-    },
-    {
-      "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
-      "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
       "topic": {
         "id": "politics-elections-governance",
@@ -10765,6 +10857,17 @@
   ],
   "cm-nitish-kumar-bats-for-judiciarys-role-in-establishing-rule-of-law-in-bihar-hi-397720": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -10790,17 +10893,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -11317,6 +11409,17 @@
   ],
   "back-dated-retirement-of-principals-chancellor-seeks-report-from-bihar-vcs-hindu-5a8af7": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -11342,17 +11445,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -11731,6 +11823,17 @@
   ],
   "accused-of-sexual-harassment-nalanda-university-student-suspended-india-news-40c9aa": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -11756,17 +11859,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12191,6 +12283,17 @@
   ],
   "tomar-taint-may-cost-munger-law-college-its-affiliation-hindustan-times-1b0b86": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -12216,17 +12319,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12237,6 +12329,17 @@
   ],
   "george-yeo-to-take-over-as-nalanda-chancellor-india-news-100425": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -12262,17 +12365,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12559,6 +12651,17 @@
   ],
   "bihar-cops-suddenly-went-cold-on-yasin-bhatkal-hindustan-times-7b7897": [
     {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
+    {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
       "published_at": "2026-11-05T02:00:53.633Z",
@@ -12584,17 +12687,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -12697,6 +12789,17 @@
   ],
   "state-council-to-streamline-higher-education-soon-hindustan-times-e12495": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -12722,17 +12825,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12743,6 +12835,17 @@
   ],
   "rationalisation-chancellor-asks-vcs-to-submit-report-hindustan-times-10d54a": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -12768,17 +12871,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12789,6 +12881,17 @@
   ],
   "bihar-moots-proposal-for-womens-university-hindustan-times-176759": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -12814,17 +12917,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12835,6 +12927,17 @@
   ],
   "dad-denies-phd-scholars-abduction-hindustan-times-be234a": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -12860,17 +12963,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -12973,6 +13065,17 @@
   ],
   "hrd-goes-to-raj-bhawan-for-jurisdiction-over-academic-matters-hindustan-times-423389": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -12998,17 +13101,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -13019,6 +13111,17 @@
   ],
   "fir-against-magadh-university-vice-chancellor-for-corruption-hindustan-times-0dd3ef": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -13044,17 +13147,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -13157,6 +13249,17 @@
   ],
   "indian-artists-featured-at-yale-universitys-new-art-gallery-hindustan-times-307cbf": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -13182,17 +13285,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -13869,6 +13961,17 @@
       "score": 19
     },
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 14
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -13878,20 +13981,20 @@
         "title": "Higher Education & Academic Reforms"
       },
       "score": 14
-    },
-    {
-      "slug": "teacher-student-relationship-integral-to-indian-tradition-926159",
-      "title": "“Teacher-student relationship integral to Indian tradition’",
-      "published_at": "2026-10-13T00:43:48.312Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 14
     }
   ],
   "bihar-lands-on-cape-of-good-hope-india-news-afa906": [
+    {
+      "slug": "jdu-reviews-poll-losses-backs-nda-unity-614354-p1",
+      "title": "JD(U) reviews poll losses, backs NDA unity",
+      "published_at": "2026-11-06T02:46:35.794Z",
+      "topic": {
+        "id": "politics-elections-governance",
+        "slug": "politics-elections-governance",
+        "title": "Politics, Elections & Governance"
+      },
+      "score": 13
+    },
     {
       "slug": "samrat-credits-nitish-for-deal-on-desilting-amid-alliance-te-167568",
       "title": "Samrat credits Nitish for deal on desilting amid ‘alliance tension’",
@@ -13918,17 +14021,6 @@
       "slug": "nishant-nishant-could-get-a-hang-of-the-organisation-in-up-t-050251-p2",
       "title": "NISHANT Nishant could get a hang of the organisation in UP to strengthen it ahead of elections. The party wants to focus on Poorvanchal areas. In the 2022 Assembly elec- tions in Uttar Pradesh, the",
       "published_at": "2026-11-02T01:07:44.696Z",
-      "topic": {
-        "id": "politics-elections-governance",
-        "slug": "politics-elections-governance",
-        "title": "Politics, Elections & Governance"
-      },
-      "score": 13
-    },
-    {
-      "slug": "jdu-feud-continues-neeraj-licks-wounds-after-poll-victory-186788",
-      "title": "JD(U) ‘feud’ continues: Neeraj licks wounds after poll victory",
-      "published_at": "2026-10-30T02:03:27.277Z",
       "topic": {
         "id": "politics-elections-governance",
         "slug": "politics-elections-governance",
@@ -14031,6 +14123,17 @@
   ],
   "gavai-happy-with-higher-education-in-bihar-india-news-1768fe": [
     {
+      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
+      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
+      "published_at": "2026-11-06T01:39:05.358Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 19
+    },
+    {
       "slug": "aku-v-c-gets-guvs-show-cause-for-absence-663214",
       "title": "AKU V-C gets guv’s show-cause for ‘absence’",
       "published_at": "2026-10-15T00:45:17.793Z",
@@ -14056,17 +14159,6 @@
       "slug": "chancellor-curbs-aku-vcs-powers-asked-not-to-leave-hqrs-sans-prior-nod-hindustan-819060",
       "title": "Chancellor curbs AKU VC's powers, asked not to leave hqrs sans prior nod",
       "published_at": "2026-09-15T14:00:18.000Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 19
-    },
-    {
-      "slug": "guv-summons-aku-vcas-probe-panel-prevented-583120",
-      "title": "Guv summons AKU VCas probe panel ‘prevented’",
-      "published_at": "2026-09-15T00:58:37.200Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
