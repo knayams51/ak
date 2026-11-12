@@ -1,0 +1,61 @@
+{
+  "id": "x_2120319015168221348",
+  "slug": "nda-pledges-to-show-unity-at-modis-nov-21-bihar-event-221348",
+  "title": "NDA pledges to show unity at Modi’s Nov 21 Bihar event",
+  "summary": "NDA prepares for unity show at the cradle of democracy during PM visit",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-11-11T00:53:41.000Z",
+  "modified_at": "2026-11-11T00:53:41.000Z",
+  "word_count": 384,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "BJP"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2120319015168221348",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2120319015168221348",
+      "original_article_id": "x_2120319015168221348",
+      "published_at": "2026-11-11T00:53:41.000Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2120319015168221348",
+      "tweet_commentary": "NDA prepares for unity show at the cradle of democracy during PM visit",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/nda-pledges-to-show-unity-at-modis-nov-21-bihar-event-221348.jpg",
+      "clipping_asset_path": "documents/clippings/nda-pledges-to-show-unity-at-modis-nov-21-bihar-event-221348.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "680a0b31be13281e0de57ba072c8a8da25b16111daebf8e7718594dc4d2cce69",
+      "last_verified_at": "2026-11-12T08:52:23.183Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

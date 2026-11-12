@@ -1,0 +1,61 @@
+{
+  "id": "x_2120703213280309383-p1",
+  "slug": "kumar-rma-ow-hits-out-at-sonia-for-nitish-remarks-in-book-309383-p1",
+  "title": "Kumar, rma ow) HITS OUT AT SONIA FOR NITISH REMARKS IN BOOK",
+  "summary": "JD-U hits back at Sonia for Nitish remark in book, Cong terms the reference apt",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-11-12T02:20:21.000Z",
+  "modified_at": "2026-11-12T02:20:21.000Z",
+  "word_count": 188,
+  "reading_time_minutes": 1,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "BJP",
+    "Congress"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2120703213280309383",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2120703213280309383",
+      "original_article_id": "x_2120703213280309383-p1",
+      "published_at": "2026-11-12T02:20:21.000Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2120703213280309383",
+      "tweet_commentary": "JD-U hits back at Sonia for Nitish remark in book, Cong terms the reference apt",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/kumar-rma-ow-hits-out-at-sonia-for-nitish-remarks-in-book-309383-p1.jpg",
+      "clipping_asset_path": "documents/clippings/kumar-rma-ow-hits-out-at-sonia-for-nitish-remarks-in-book-309383-p1.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "996f883f6308dd2abfc28291d6c7510fcea4fa119c6e9b9ed4584f1c0bd3bba9",
+      "last_verified_at": "2026-11-12T08:52:23.182Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
