@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20261114_0802",
+  "generated_at": "2026-11-14T08:02:09.744Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101794618745464",
+      "slug": "bihar-minister-ashok-choudhary-under-scanner-after-taking-assistant-professor-jo-745464",
+      "title": "Bihar minister Ashok Choudhary under scanner after taking assistant professor job",
+      "sha256": "16ba3d172da2998cf5c05f3e57472b8784531aca530580d785cc0c41b1316fb7"
+    }
+  ]
+}

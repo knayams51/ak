@@ -1,0 +1,59 @@
+{
+  "id": "x_2121410768696705172",
+  "slug": "office-of-profit-ministers-asst-professor-role-under-scanner-705172",
+  "title": "Office of profit: Minister’s asst professor role under scanner",
+  "summary": "Bihar minister’s joining as Asst Prof under ‘office of profit’ scanner, AG to take view as Lok Bhawan refers matter",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-11-14T01:11:55.000Z",
+  "modified_at": "2026-11-14T01:11:55.000Z",
+  "word_count": 834,
+  "reading_time_minutes": 5,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "faculty-recruitment-controversies",
+    "slug": "faculty-recruitment-controversies",
+    "title": "Faculty Recruitment & BPSC Exams"
+  },
+  "tags": [
+    "BSUSC"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2121410768696705172",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2121410768696705172",
+      "original_article_id": "x_2121410768696705172",
+      "published_at": "2026-11-14T01:11:55.000Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2121410768696705172",
+      "tweet_commentary": "Bihar minister’s joining as Asst Prof under ‘office of profit’ scanner, AG to take view as Lok Bhawan refers matter",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/office-of-profit-ministers-asst-professor-role-under-scanner-705172.jpg",
+      "clipping_asset_path": "documents/clippings/office-of-profit-ministers-asst-professor-role-under-scanner-705172.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "7b71695b5df31684dc2eb4a345986feb02de9d0d54a86f7fb95ad1201f35acbc",
+      "last_verified_at": "2026-11-14T08:03:03.624Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

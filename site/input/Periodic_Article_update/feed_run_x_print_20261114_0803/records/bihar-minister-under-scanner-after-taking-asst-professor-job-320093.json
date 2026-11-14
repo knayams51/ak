@@ -1,0 +1,61 @@
+{
+  "id": "x_2121422895352320093",
+  "slug": "bihar-minister-under-scanner-after-taking-asst-professor-job-320093",
+  "title": "Bihar minister under scanner after taking asst professor job",
+  "summary": "Bihar minister under scanner again six months after joining as Asst Prof",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-11-14T02:00:07.000Z",
+  "modified_at": "2026-11-14T02:00:07.000Z",
+  "word_count": 291,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "faculty-recruitment-controversies",
+    "slug": "faculty-recruitment-controversies",
+    "title": "Faculty Recruitment & BPSC Exams"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2121422895352320093",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2121422895352320093",
+      "original_article_id": "x_2121422895352320093",
+      "published_at": "2026-11-14T02:00:07.000Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2121422895352320093",
+      "tweet_commentary": "Bihar minister under scanner again six months after joining as Asst Prof",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/bihar-minister-under-scanner-after-taking-asst-professor-job-320093.jpg",
+      "clipping_asset_path": "documents/clippings/bihar-minister-under-scanner-after-taking-asst-professor-job-320093.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "b6029f1d74be87dcfcb98a20f1ff9c35ce9682a2663f96b1a208eb7578ca1c9e",
+      "last_verified_at": "2026-11-14T08:03:03.624Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

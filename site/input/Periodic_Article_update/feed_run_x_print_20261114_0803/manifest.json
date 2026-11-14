@@ -1,0 +1,26 @@
+{
+  "package_name": "feed_run_x_print_20261114_0803",
+  "generated_at": "2026-11-14T08:03:03.624Z",
+  "article_count": 3,
+  "source_type": "x_print_clippings",
+  "articles": [
+    {
+      "id": "x_2121410768696705172",
+      "slug": "office-of-profit-ministers-asst-professor-role-under-scanner-705172",
+      "title": "Office of profit: Minister’s asst professor role under scanner",
+      "sha256": "7b71695b5df31684dc2eb4a345986feb02de9d0d54a86f7fb95ad1201f35acbc"
+    },
+    {
+      "id": "x_2121422895352320093",
+      "slug": "bihar-minister-under-scanner-after-taking-asst-professor-job-320093",
+      "title": "Bihar minister under scanner after taking asst professor job",
+      "sha256": "b6029f1d74be87dcfcb98a20f1ff9c35ce9682a2663f96b1a208eb7578ca1c9e"
+    },
+    {
+      "id": "x_2121058235109310901",
+      "slug": "23m-new-beneficiaries-get-ration-card-in-bihar-samrat-says-p-310901",
+      "title": "2.3m new beneficiaries get ration card in Bihar; Samrat says poor main govt focus",
+      "sha256": "4b8f2cd249e3d908258052aaa33a047188ba61724cb9b4a2cd2062f3ee524aff"
+    }
+  ]
+}

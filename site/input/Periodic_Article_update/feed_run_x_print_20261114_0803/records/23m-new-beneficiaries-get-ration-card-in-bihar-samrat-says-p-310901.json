@@ -1,0 +1,59 @@
+{
+  "id": "x_2121058235109310901",
+  "slug": "23m-new-beneficiaries-get-ration-card-in-bihar-samrat-says-p-310901",
+  "title": "2.3m new beneficiaries get ration card in Bihar; Samrat says poor main govt focus",
+  "summary": "Ration card beneficiaries cross 20-million mark, Samrat says poor main focus of Govt",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-11-13T01:51:05.000Z",
+  "modified_at": "2026-11-13T01:51:05.000Z",
+  "word_count": 587,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "state-administration-vigilance",
+    "slug": "state-administration-vigilance",
+    "title": "State Administration & Vigilance"
+  },
+  "subtopic": {
+    "id": "welfare-schemes-monitoring",
+    "slug": "welfare-schemes-monitoring",
+    "title": "Welfare Schemes & School Monitoring"
+  },
+  "tags": [
+    "Nitish Kumar"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2121058235109310901",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2121058235109310901",
+      "original_article_id": "x_2121058235109310901",
+      "published_at": "2026-11-13T01:51:05.000Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2121058235109310901",
+      "tweet_commentary": "Ration card beneficiaries cross 20-million mark, Samrat says poor main focus of Govt",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/23m-new-beneficiaries-get-ration-card-in-bihar-samrat-says-p-310901.jpg",
+      "clipping_asset_path": "documents/clippings/23m-new-beneficiaries-get-ration-card-in-bihar-samrat-says-p-310901.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "4b8f2cd249e3d908258052aaa33a047188ba61724cb9b4a2cd2062f3ee524aff",
+      "last_verified_at": "2026-11-14T08:03:03.624Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

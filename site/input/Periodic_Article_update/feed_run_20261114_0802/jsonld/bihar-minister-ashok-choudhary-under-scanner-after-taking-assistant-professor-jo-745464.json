@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar minister Ashok Choudhary under scanner after taking assistant professor job",
+  "description": "The university syndicate rejected his request for leave without pay, citing provisions of the Bihar State Universities Act, 1976.",
+  "datePublished": "2026-11-14T01:21:09.000Z",
+  "dateModified": "2026-11-14T01:21:09.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-minister-ashok-choudhary-under-scanner-after-taking-assistant-professor-jo-745464"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 311
+}
