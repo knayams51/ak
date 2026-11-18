@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20261118_0909",
+  "generated_at": "2026-11-18T09:09:38.520Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101794988805064",
+      "slug": "jdu-announces-organisational-changes-appoints-shrawan-kumar-as-up-in-charge-ahea-805064",
+      "title": "JD(U) announces organisational changes; appoints Shrawan Kumar as UP in-charge ahead of polls",
+      "sha256": "e1a4b2c9886ad94803c9d068fb2f14c35446db8b9f729bc9da1ad0beee5ad2ca"
+    }
+  ]
+}

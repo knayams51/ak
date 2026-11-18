@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "JD(U) announces organisational changes; appoints Shrawan Kumar as UP in-charge ahead of polls",
+  "description": "The JD(U) appointed Bihar minister Shrawan Kumar as its in-charge for poll-bound UP, while former MLA Ramesh Singh Kushwaha was appointed co-in-charge",
+  "datePublished": "2026-11-18T08:00:04.000Z",
+  "dateModified": "2026-11-18T08:00:04.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/jdu-announces-organisational-changes-appoints-shrawan-kumar-as-up-in-charge-ahea-805064"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)"
+  ],
+  "wordCount": 395
+}

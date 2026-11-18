@@ -1,28 +1,29 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-11-17  
-**Execution Timestamp**: 2026-11-17T09:45:37.358Z  
-**Duration**: 60 seconds  
-**Archive Total Articles**: **317 articles**
+**Execution Date**: 2026-11-18  
+**Execution Timestamp**: 2026-11-18T09:09:44.009Z  
+**Duration**: 55 seconds  
+**Archive Total Articles**: **318 articles**
 
 ---
 
 ## 📊 Summary Metrics
 | Metric | Value |
 |---|---|
-| **Discovered New Candidate URLs** | 48 |
-| **Already Known / Indexed URLs** | 284 |
+| **Discovered New Candidate URLs** | 45 |
+| **Already Known / Indexed URLs** | 289 |
 | **Candidate URLs Crawled** | 25 |
-| **Accepted Arun Kumar Articles** | **0** |
+| **Accepted Arun Kumar Articles** | **1** |
 | **X Print Broadsheet Clippings Accepted** | **0** |
-| **Filtered Out (Namesakes / Non-Patna)** | 25 |
+| **Filtered Out (Namesakes / Non-Patna)** | 24 |
 | **Failed Requests** | 0 |
-| **New Package Created** | `None (Up-to-date)` |
+| **New Package Created** | `feed_run_20261118_0909` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-_No new articles discovered in this run. Archive is fully synchronized with Hindustan Times._
+- **[ACCEPTED]** [JD(U) announces organisational changes; appoints Shrawan Kumar as UP in-charge ahead of polls](https://www.hindustantimes.com/india-news/jdu-announces-organisational-changes-appoints-shrawan-kumar-as-up-in-charge-ahead-of-polls-101794988805064.html)  
+  *Dateline:  | Byline: Arun Kumar | SHA-256: `971d7129d8...`*
 
 ---
 
