@@ -1,0 +1,59 @@
+{
+  "id": "x_2122866519067722040",
+  "slug": "appointment-of-vcs-set-to-restart-after-transfer-of-chancell-722040",
+  "title": "Appointment of VCs set to restart after transfer of Chancellor’s secy",
+  "summary": "Arun Kumar",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-11-18T01:36:33.755Z",
+  "modified_at": "2026-11-18T01:36:33.755Z",
+  "word_count": 893,
+  "reading_time_minutes": 5,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Patna University"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2122866519067722040",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2122866519067722040",
+      "original_article_id": "x_2122866519067722040",
+      "published_at": "2026-11-18T01:36:33.755Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2122866519067722040",
+      "tweet_commentary": "Arun Kumar",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/appointment-of-vcs-set-to-restart-after-transfer-of-chancell-722040.jpg",
+      "clipping_asset_path": "documents/clippings/appointment-of-vcs-set-to-restart-after-transfer-of-chancell-722040.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "150200af869998219850fabb711b4e04729523656c1d6f75dd9551aa17d357e6",
+      "last_verified_at": "2026-11-18T09:24:39.075Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}

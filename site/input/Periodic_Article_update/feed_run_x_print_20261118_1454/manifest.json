@@ -1,0 +1,20 @@
+{
+  "package_name": "feed_run_x_print_20261118_1454",
+  "generated_at": "2026-11-18T09:24:39.078Z",
+  "article_count": 2,
+  "source_type": "x_print_clippings",
+  "articles": [
+    {
+      "id": "x_2122867458054984133",
+      "slug": "jdu-appoints-office-bearers-in-charges-for-up-other-states-984133",
+      "title": "JD(U) appoints office-bearers, in-charges for UP, other states",
+      "sha256": "83fb69a005444dd64a1697680b041f46745decc9a77dcc3287ac1de8dd55b51a"
+    },
+    {
+      "id": "x_2122866519067722040",
+      "slug": "appointment-of-vcs-set-to-restart-after-transfer-of-chancell-722040",
+      "title": "Appointment of VCs set to restart after transfer of Chancellor’s secy",
+      "sha256": "150200af869998219850fabb711b4e04729523656c1d6f75dd9551aa17d357e6"
+    }
+  ]
+}

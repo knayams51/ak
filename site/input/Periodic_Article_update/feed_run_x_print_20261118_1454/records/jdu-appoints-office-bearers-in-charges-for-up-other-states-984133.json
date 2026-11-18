@@ -1,0 +1,59 @@
+{
+  "id": "x_2122867458054984133",
+  "slug": "jdu-appoints-office-bearers-in-charges-for-up-other-states-984133",
+  "title": "JD(U) appoints office-bearers, in-charges for UP, other states",
+  "summary": "Arun Kumar",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-11-18T01:40:17.627Z",
+  "modified_at": "2026-11-18T01:40:17.627Z",
+  "word_count": 446,
+  "reading_time_minutes": 3,
+  "topic": {
+    "id": "state-administration-vigilance",
+    "slug": "state-administration-vigilance",
+    "title": "State Administration & Vigilance"
+  },
+  "subtopic": {
+    "id": "public-works-infrastructure",
+    "slug": "public-works-infrastructure",
+    "title": "Public Works & Infrastructure"
+  },
+  "tags": [
+    "JD(U)"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2122867458054984133",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2122867458054984133",
+      "original_article_id": "x_2122867458054984133",
+      "published_at": "2026-11-18T01:40:17.627Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2122867458054984133",
+      "tweet_commentary": "Arun Kumar",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/jdu-appoints-office-bearers-in-charges-for-up-other-states-984133.jpg",
+      "clipping_asset_path": "documents/clippings/jdu-appoints-office-bearers-in-charges-for-up-other-states-984133.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "83fb69a005444dd64a1697680b041f46745decc9a77dcc3287ac1de8dd55b51a",
+      "last_verified_at": "2026-11-18T09:24:39.067Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
