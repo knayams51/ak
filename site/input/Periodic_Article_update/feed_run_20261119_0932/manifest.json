@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20261119_0932",
+  "generated_at": "2026-11-19T09:32:52.291Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101795006309533",
+      "slug": "rjd-seeks-bihar-mins-house-disqualification-over-office-of-profit-309533",
+      "title": "RJD seeks Bihar min's House disqualification over 'office of profit'",
+      "sha256": "9f1af02dce99db63aa1d7d4b1fd36f22134af1449f732bbf765f1ef1fb552446"
+    }
+  ]
+}

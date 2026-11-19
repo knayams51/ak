@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "RJD seeks Bihar min's House disqualification over 'office of profit'",
+  "description": "Choudhary, being a minister in state cabinet and an MLC, is also holding Assistant Professor's post in a degree college in Patna under Patliputra University",
+  "datePublished": "2026-11-18T12:51:48.000Z",
+  "dateModified": "2026-11-18T12:51:49.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/rjd-seeks-bihar-mins-house-disqualification-over-office-of-profit-309533"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "BSUSC",
+    "RJD"
+  ],
+  "wordCount": 896
+}

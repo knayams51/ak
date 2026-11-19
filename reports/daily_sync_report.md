@@ -1,29 +1,29 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-11-18  
-**Execution Timestamp**: 2026-11-18T09:09:44.009Z  
-**Duration**: 55 seconds  
-**Archive Total Articles**: **318 articles**
+**Execution Date**: 2026-11-19  
+**Execution Timestamp**: 2026-11-19T09:33:00.579Z  
+**Duration**: 53 seconds  
+**Archive Total Articles**: **321 articles**
 
 ---
 
 ## 📊 Summary Metrics
 | Metric | Value |
 |---|---|
-| **Discovered New Candidate URLs** | 45 |
-| **Already Known / Indexed URLs** | 289 |
+| **Discovered New Candidate URLs** | 51 |
+| **Already Known / Indexed URLs** | 278 |
 | **Candidate URLs Crawled** | 25 |
 | **Accepted Arun Kumar Articles** | **1** |
 | **X Print Broadsheet Clippings Accepted** | **0** |
 | **Filtered Out (Namesakes / Non-Patna)** | 24 |
 | **Failed Requests** | 0 |
-| **New Package Created** | `feed_run_20261118_0909` |
+| **New Package Created** | `feed_run_20261119_0932` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-- **[ACCEPTED]** [JD(U) announces organisational changes; appoints Shrawan Kumar as UP in-charge ahead of polls](https://www.hindustantimes.com/india-news/jdu-announces-organisational-changes-appoints-shrawan-kumar-as-up-in-charge-ahead-of-polls-101794988805064.html)  
-  *Dateline:  | Byline: Arun Kumar | SHA-256: `971d7129d8...`*
+- **[ACCEPTED]** [RJD seeks Bihar min’s House disqualification over ‘office of profit’](https://www.hindustantimes.com/cities/patna-news/rjd-seeks-bihar-min-s-house-disqualification-over-office-of-profit-101795006309533.html)  
+  *Dateline:  | Byline: Arun Kumar | SHA-256: `04879dc39e...`*
 
 ---
 
