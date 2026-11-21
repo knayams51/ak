@@ -1,0 +1,61 @@
+{
+  "id": "x_2123939570278613413",
+  "slug": "nitish-to-welcome-modi-at-patna-airport-ahead-of-setu-inaugu-613413",
+  "title": "Nitish to welcome Modi at Patna airport ahead of Setu inauguration",
+  "summary": "Arun Kumar",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-11-21T00:40:29.100Z",
+  "modified_at": "2026-11-21T00:40:29.100Z",
+  "word_count": 395,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "politics-elections-governance",
+    "slug": "politics-elections-governance",
+    "title": "Politics, Elections & Governance"
+  },
+  "subtopic": {
+    "id": "coalition-dynamics",
+    "slug": "coalition-dynamics",
+    "title": "Coalition Politics & Party Dynamics"
+  },
+  "tags": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD"
+  ],
+  "source_url": "https://x.com/ArunkrHt/status/2123939570278613413",
+  "is_print_edition": true,
+  "is_print_exclusive": true,
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna Print Broadsheet",
+      "canonical_url": "https://x.com/ArunkrHt/status/2123939570278613413",
+      "original_article_id": "x_2123939570278613413",
+      "published_at": "2026-11-21T00:40:29.100Z",
+      "dateline": "Patna",
+      "is_print_exclusive": true
+    },
+    "archival_source": {
+      "platform": "X / Twitter",
+      "x_status_url": "https://x.com/ArunkrHt/status/2123939570278613413",
+      "tweet_commentary": "Arun Kumar",
+      "archive_status": "verified_clipping"
+    },
+    "document_provenance": {
+      "has_clipping_image": true,
+      "clipping_public_url": "/documents/clippings/nitish-to-welcome-modi-at-patna-airport-ahead-of-setu-inaugu-613413.jpg",
+      "clipping_asset_path": "documents/clippings/nitish-to-welcome-modi-at-patna-airport-ahead-of-setu-inaugu-613413.jpg",
+      "has_pdf_scan": false,
+      "pdf_public_url": null,
+      "pdf_asset_path": null
+    },
+    "verification": {
+      "content_sha256": "7ded1a8d14608aa95096f254e3d46b7eeca8c5cd9920a7ce823888ab0a25865e",
+      "last_verified_at": "2026-11-21T05:21:53.587Z",
+      "integrity_status": "tamper_proof",
+      "transcription_method": "Tesseract OCR (Non-Negotiable Body Rule Verified)"
+    }
+  }
+}
