@@ -1,28 +1,29 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-11-21  
-**Execution Timestamp**: 2026-11-21T08:47:40.176Z  
-**Duration**: 81 seconds  
-**Archive Total Articles**: **324 articles**
+**Execution Date**: 2026-11-22  
+**Execution Timestamp**: 2026-11-22T08:51:44.869Z  
+**Duration**: 75 seconds  
+**Archive Total Articles**: **328 articles**
 
 ---
 
 ## 📊 Summary Metrics
 | Metric | Value |
 |---|---|
-| **Discovered New Candidate URLs** | 35 |
-| **Already Known / Indexed URLs** | 322 |
+| **Discovered New Candidate URLs** | 33 |
+| **Already Known / Indexed URLs** | 339 |
 | **Candidate URLs Crawled** | 25 |
-| **Accepted Arun Kumar Articles** | **0** |
+| **Accepted Arun Kumar Articles** | **1** |
 | **X Print Broadsheet Clippings Accepted** | **0** |
-| **Filtered Out (Namesakes / Non-Patna)** | 25 |
+| **Filtered Out (Namesakes / Non-Patna)** | 24 |
 | **Failed Requests** | 0 |
-| **New Package Created** | `None (Up-to-date)` |
+| **New Package Created** | `feed_run_20261122_0851` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-_No new articles discovered in this run. Archive is fully synchronized with Hindustan Times._
+- **[ACCEPTED]** [JD-U to celebrate Good Governance Day on November 24, honour Nitish Kumar’s work](https://www.hindustantimes.com/india-news/jdu-to-celebrate-good-governance-day-on-november-24-honour-nitish-kumar-s-work-101795333861282.html)  
+  *Dateline:  | Byline: Arun Kumar | SHA-256: `f510e24ab6...`*
 
 ---
 

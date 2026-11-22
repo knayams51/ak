@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20261122_0851",
+  "generated_at": "2026-11-22T08:51:25.859Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101795333861282",
+      "slug": "jd-u-to-celebrate-good-governance-day-on-november-24-honour-nitish-kumars-work-861282",
+      "title": "JD-U to celebrate Good Governance Day on November 24, honour Nitish Kumar's work",
+      "sha256": "c2f5cd3635478ddee84a4dfea0f82d93bfe22737d2f61e3f80402badfbb12e9e"
+    }
+  ]
+}

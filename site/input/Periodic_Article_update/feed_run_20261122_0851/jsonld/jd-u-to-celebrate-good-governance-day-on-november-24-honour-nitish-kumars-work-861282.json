@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "JD-U to celebrate Good Governance Day on November 24, honour Nitish Kumar's work",
+  "description": "To mark Nitish Kumar's role as chief minister and honour his contributions to Bihar, the JD-U plans to celebrate Good Governance Day across the state on November 24",
+  "datePublished": "2026-11-22T07:51:00.000Z",
+  "dateModified": "2026-11-22T07:51:00.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/jd-u-to-celebrate-good-governance-day-on-november-24-honour-nitish-kumars-work-861282"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "RJD"
+  ],
+  "wordCount": 454
+}
