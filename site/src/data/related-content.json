@@ -1,4 +1,50 @@
 {
+  "jdu-mlc-seeks-review-of-divisional-commissioners-role-in-var-942481-p1": [
+    {
+      "slug": "bihar-governor-initiates-process-to-appoint-vcs-of-six-universities-hindustan-ti-167908",
+      "title": "Bihar governor initiates process to appoint VCs of six universities",
+      "published_at": "2026-05-20T17:29:27.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "new-bihar-guv-to-review-higher-education-with-vcs-edu-deptt-on-march-30-hindusta-580566",
+      "title": "New Bihar Guv to review higher education with VCs, edu deptt on March 30",
+      "published_at": "2026-03-22T23:08:00.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "asst-profs-recruitment-jdu-mlc-writes-to-guv-seeking-new-draft-statute-hindustan-730018",
+      "title": "Asst Profs' recruitment: JD()U MLC writes to guv seeking new draft statute",
+      "published_at": "2026-03-20T12:28:49.000Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 13
+    },
+    {
+      "slug": "weatra-sent-convernors-cecretariat-795831",
+      "title": "weatra sent CONVERNOR’S CECRETARIAT",
+      "published_at": "2026-11-22T05:09:53.603Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    }
+  ],
   "jd-u-to-celebrate-good-governance-day-on-november-24-honour-nitish-kumars-work-861282": [
     {
       "slug": "nitish-to-welcome-modi-at-patna-airport-ahead-of-setu-inaugu-613413",
@@ -3692,6 +3738,17 @@
       "score": 13
     },
     {
+      "slug": "jdu-mlc-seeks-review-of-divisional-commissioners-role-in-var-942481-p1",
+      "title": "JD(U) MLC seeks review of divisional commissioners’ role in varsity FDPs",
+      "published_at": "2026-11-23T01:15:36.499Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
       "slug": "weatra-sent-convernors-cecretariat-795831",
       "title": "weatra sent CONVERNOR’S CECRETARIAT",
       "published_at": "2026-11-22T05:09:53.603Z",
@@ -3706,17 +3763,6 @@
       "slug": "appointment-of-vcs-set-to-restart-after-transfer-of-chancell-722040",
       "title": "Appointment of VCs set to restart after transfer of Chancellor’s secy",
       "published_at": "2026-11-18T01:36:33.755Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
-      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
-      "published_at": "2026-11-06T01:39:05.358Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -5267,9 +5313,9 @@
       "score": 13
     },
     {
-      "slug": "weatra-sent-convernors-cecretariat-795831",
-      "title": "weatra sent CONVERNOR’S CECRETARIAT",
-      "published_at": "2026-11-22T05:09:53.603Z",
+      "slug": "jdu-mlc-seeks-review-of-divisional-commissioners-role-in-var-942481-p1",
+      "title": "JD(U) MLC seeks review of divisional commissioners’ role in varsity FDPs",
+      "published_at": "2026-11-23T01:15:36.499Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -5278,9 +5324,9 @@
       "score": 10
     },
     {
-      "slug": "appointment-of-vcs-set-to-restart-after-transfer-of-chancell-722040",
-      "title": "Appointment of VCs set to restart after transfer of Chancellor’s secy",
-      "published_at": "2026-11-18T01:36:33.755Z",
+      "slug": "weatra-sent-convernors-cecretariat-795831",
+      "title": "weatra sent CONVERNOR’S CECRETARIAT",
+      "published_at": "2026-11-22T05:09:53.603Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
@@ -10040,6 +10086,17 @@
       "score": 13
     },
     {
+      "slug": "jdu-mlc-seeks-review-of-divisional-commissioners-role-in-var-942481-p1",
+      "title": "JD(U) MLC seeks review of divisional commissioners’ role in varsity FDPs",
+      "published_at": "2026-11-23T01:15:36.499Z",
+      "topic": {
+        "id": "higher-education-reforms",
+        "slug": "higher-education-reforms",
+        "title": "Higher Education & Academic Reforms"
+      },
+      "score": 10
+    },
+    {
       "slug": "weatra-sent-convernors-cecretariat-795831",
       "title": "weatra sent CONVERNOR’S CECRETARIAT",
       "published_at": "2026-11-22T05:09:53.603Z",
@@ -10054,17 +10111,6 @@
       "slug": "appointment-of-vcs-set-to-restart-after-transfer-of-chancell-722040",
       "title": "Appointment of VCs set to restart after transfer of Chancellor’s secy",
       "published_at": "2026-11-18T01:36:33.755Z",
-      "topic": {
-        "id": "higher-education-reforms",
-        "slug": "higher-education-reforms",
-        "title": "Higher Education & Academic Reforms"
-      },
-      "score": 10
-    },
-    {
-      "slug": "guvs-additional-chief-secy-transferred-amid-vc-appointments--669055-p1",
-      "title": "Guv’s additional chief secy transferred amid VC appointments in universities",
-      "published_at": "2026-11-06T01:39:05.358Z",
       "topic": {
         "id": "higher-education-reforms",
         "slug": "higher-education-reforms",
