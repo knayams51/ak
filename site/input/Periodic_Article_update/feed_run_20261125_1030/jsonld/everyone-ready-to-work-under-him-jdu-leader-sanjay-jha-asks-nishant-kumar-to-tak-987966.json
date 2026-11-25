@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "'Everyone ready to work under him': JD(U) leader Sanjay Jha asks Nishant Kumar to take charge",
+  "description": "Bihar minister Nishant Kumar said he would follow in the footsteps of his father, former chief minister Nitish Kumar",
+  "datePublished": "2026-11-25T04:29:47.000Z",
+  "dateModified": "2026-11-25T04:29:47.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/everyone-ready-to-work-under-him-jdu-leader-sanjay-jha-asks-nishant-kumar-to-tak-987966"
+  },
+  "articleSection": "Politics, Elections & Governance",
+  "keywords": [
+    "Nitish Kumar",
+    "JD(U)",
+    "RJD",
+    "BJP"
+  ],
+  "wordCount": 493
+}

@@ -1,0 +1,15 @@
+{
+  "package_name": "feed_run_20261125_1030",
+  "generated_at": "2026-11-25T10:30:34.484Z",
+  "article_count": 1,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101795580987966",
+      "slug": "everyone-ready-to-work-under-him-jdu-leader-sanjay-jha-asks-nishant-kumar-to-tak-987966",
+      "title": "'Everyone ready to work under him': JD(U) leader Sanjay Jha asks Nishant Kumar to take charge",
+      "sha256": "b171a07f41dfff7a42ead6a5a84df82bf8fc94d93fbc821a1e2aa2ac918226b7"
+    }
+  ]
+}
