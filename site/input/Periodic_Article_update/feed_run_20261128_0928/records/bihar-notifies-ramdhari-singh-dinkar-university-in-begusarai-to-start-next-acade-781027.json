@@ -1,0 +1,53 @@
+{
+  "id": "101795833781027",
+  "slug": "bihar-notifies-ramdhari-singh-dinkar-university-in-begusarai-to-start-next-acade-781027",
+  "title": "Bihar notifies Ramdhari Singh Dinkar University in Begusarai, to start next academic session",
+  "summary": "The Bihar government has notified Ramdhari Singh Dinkar University in Begusarai, which will oversee higher education institutions in Begusarai and Khagaria.",
+  "byline": "Arun Kumar",
+  "dateline": "Patna",
+  "published_at": "2026-11-28T02:44:00.000Z",
+  "modified_at": "2026-11-28T02:44:00.000Z",
+  "word_count": 301,
+  "reading_time_minutes": 2,
+  "topic": {
+    "id": "higher-education-reforms",
+    "slug": "higher-education-reforms",
+    "title": "Higher Education & Academic Reforms"
+  },
+  "subtopic": {
+    "id": "university-reforms-acts",
+    "slug": "university-reforms-acts",
+    "title": "University Reforms & Governance"
+  },
+  "tags": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "source_url": "https://www.hindustantimes.com/cities/patna-news/bihar-notifies-ramdhari-singh-dinkar-university-in-begusarai-to-start-next-academic-session-101795833781027.html",
+  "provenance": {
+    "primary_source": {
+      "publication": "Hindustan Times",
+      "edition": "Patna / National",
+      "canonical_url": "https://www.hindustantimes.com/cities/patna-news/bihar-notifies-ramdhari-singh-dinkar-university-in-begusarai-to-start-next-academic-session-101795833781027.html",
+      "original_article_id": "101795833781027",
+      "published_at": "2026-11-28T02:44:00.000Z",
+      "dateline": "Patna"
+    },
+    "archival_source": {
+      "wayback_url": "https://web.archive.org/web/https://www.hindustantimes.com/cities/patna-news/bihar-notifies-ramdhari-singh-dinkar-university-in-begusarai-to-start-next-academic-session-101795833781027.html",
+      "wayback_timestamp": null,
+      "archive_status": "pending_snapshot"
+    },
+    "document_provenance": {
+      "has_pdf_scan": false,
+      "pdf_asset_path": null,
+      "pdf_public_url": null
+    },
+    "verification": {
+      "content_sha256": "144838c1092c9ef9fa0ff4e495efb18a6e4c25155ad712bb00fd05b20fe8edb0",
+      "last_verified_at": "2026-11-28T09:28:57.253Z",
+      "integrity_status": "tamper_proof"
+    }
+  }
+}

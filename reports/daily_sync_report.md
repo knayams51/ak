@@ -1,28 +1,31 @@
 # Daily Sync & Living Archive QA Report
 
-**Execution Date**: 2026-11-27  
-**Execution Timestamp**: 2026-11-27T10:09:24.845Z  
-**Duration**: 64 seconds  
-**Archive Total Articles**: **333 articles**
+**Execution Date**: 2026-11-28  
+**Execution Timestamp**: 2026-11-28T09:29:16.838Z  
+**Duration**: 66 seconds  
+**Archive Total Articles**: **339 articles**
 
 ---
 
 ## 📊 Summary Metrics
 | Metric | Value |
 |---|---|
-| **Discovered New Candidate URLs** | 36 |
-| **Already Known / Indexed URLs** | 331 |
+| **Discovered New Candidate URLs** | 32 |
+| **Already Known / Indexed URLs** | 335 |
 | **Candidate URLs Crawled** | 25 |
-| **Accepted Arun Kumar Articles** | **0** |
+| **Accepted Arun Kumar Articles** | **2** |
 | **X Print Broadsheet Clippings Accepted** | **0** |
-| **Filtered Out (Namesakes / Non-Patna)** | 25 |
+| **Filtered Out (Namesakes / Non-Patna)** | 23 |
 | **Failed Requests** | 0 |
-| **New Package Created** | `None (Up-to-date)` |
+| **New Package Created** | `feed_run_20261128_0928` |
 
 ---
 
 ## 📰 Ingested Articles in this Run
-_No new articles discovered in this run. Archive is fully synchronized with Hindustan Times._
+- **[ACCEPTED]** [Bihar minister Ashok Choudhary resigns as assistant professor after ‘office of profit’ charge](https://www.hindustantimes.com/india-news/bihar-minister-ashok-choudhary-resigns-as-assistant-professor-after-office-of-profit-row-101795832922688.html)  
+  *Dateline:  | Byline: Arun Kumar | SHA-256: `e33059ac8e...`*
+- **[ACCEPTED]** [Bihar notifies Ramdhari Singh Dinkar University in Begusarai, to start next academic session](https://www.hindustantimes.com/cities/patna-news/bihar-notifies-ramdhari-singh-dinkar-university-in-begusarai-to-start-next-academic-session-101795833781027.html)  
+  *Dateline:  | Byline: Arun Kumar | SHA-256: `936fdc0a20...`*
 
 ---
 

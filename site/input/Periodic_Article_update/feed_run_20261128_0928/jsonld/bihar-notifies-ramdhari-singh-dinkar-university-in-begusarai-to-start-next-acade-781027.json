@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Bihar notifies Ramdhari Singh Dinkar University in Begusarai, to start next academic session",
+  "description": "The Bihar government has notified Ramdhari Singh Dinkar University in Begusarai, which will oversee higher education institutions in Begusarai and Khagaria.",
+  "datePublished": "2026-11-28T02:44:00.000Z",
+  "dateModified": "2026-11-28T02:44:00.000Z",
+  "author": {
+    "@type": "Person",
+    "name": "Arun Kumar",
+    "jobTitle": "Senior Assistant Editor",
+    "sameAs": [
+      "https://x.com/ArunkrHt",
+      "https://muckrack.com/arun-kumar-1",
+      "https://www.hindustantimes.com/authors/arun-kumar"
+    ]
+  },
+  "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://arunkumar-journalism.org/articles/bihar-notifies-ramdhari-singh-dinkar-university-in-begusarai-to-start-next-acade-781027"
+  },
+  "articleSection": "Higher Education & Academic Reforms",
+  "keywords": [
+    "Bihar",
+    "Patna News",
+    "Hindustan Times"
+  ],
+  "wordCount": 301
+}

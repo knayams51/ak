@@ -1,0 +1,21 @@
+{
+  "package_name": "feed_run_20261128_0928",
+  "generated_at": "2026-11-28T09:28:57.254Z",
+  "article_count": 2,
+  "status": "ready_for_ingestion",
+  "checksum_algorithm": "SHA-256",
+  "articles": [
+    {
+      "id": "101795832922688",
+      "slug": "bihar-minister-ashok-choudhary-resigns-as-assistant-professor-after-office-of-pr-922688",
+      "title": "Bihar minister Ashok Choudhary resigns as assistant professor after 'office of profit' charge",
+      "sha256": "b3f85bcd23eb084c40f17c24649010a91468ab7f48419905e75fcec985a5c3f4"
+    },
+    {
+      "id": "101795833781027",
+      "slug": "bihar-notifies-ramdhari-singh-dinkar-university-in-begusarai-to-start-next-acade-781027",
+      "title": "Bihar notifies Ramdhari Singh Dinkar University in Begusarai, to start next academic session",
+      "sha256": "144838c1092c9ef9fa0ff4e495efb18a6e4c25155ad712bb00fd05b20fe8edb0"
+    }
+  ]
+}
